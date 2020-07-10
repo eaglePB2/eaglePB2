@@ -12,4 +12,36 @@ You may come back later, as you wish if this readme.md is updated.
 
 ⚡ **The lightning strikes all the way to the horizon, as the method of saying exist, we exist.** ⚡
 
+.　　　　　 　　
+　　　.　　　　　　　　　　　　　 　           　　　　　　　　　　　　　　　　　　　˚　　　
+　   　　　　,　　　　　　　　　　　       　    　　　　　　　　　　　　 　　　　.　　　
+ 　　    　　　　　 　　　　　.　　　　　　　　　　　　　.　　　　　　　　　　　　　　　*
+　　   　　　　　 ✦ 　　　　　　　         　        　　　　
+　　 　　　　　　　 　　　　　.　　　　　　　　　　　　　　　　　　.　　　　　    　　.
+　 　　　　　.　　　　
+　　　　　   　　　　　.　　　　　　　　　　　.　　　　　　　　　　   　
 
+　˚　　　　　　　　　　　　　　　　　　　　　ﾟ　　　　　.　　　　　　　　　　　　　　　.
+　　 　 
+‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ,　 　　　　　　　　　　　　　　*
+.　　　　　 　　　　　　　　　　　　　　.　　　　　　　　　　 ✦ 　　　　   　
+　　　˚　　　　　　　　　　　　　　*　　　　　　 
+ 　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　.
+　　 　　　　　　　 ✦ 　　　　　　　　　　 　 ‍ ‍ ‍ ‍
+.　　　　　　　　　　 ✦ 　　　　   　
+　　　˚　　　　　　　　　　　　　　*　　　　　　 
+ 　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　.
+　　 　　　　　　　 ✦ 　　　　　　　　　　 　 ‍ ‍ ‍ ‍ 　　　　 　　　　　　　　　　　　,　　   　
+
+.　　　　　　　　　　　　　.　　　ﾟ　  　　　.　　　　　　　　　　　　　.
+ 
+　　　　　　,　　　　　　　.　　　　　　    　　　　
+　　　　　　　　　　　　　　　　　　  
+　　　　　　　　　　　　　　　　　　    　      　　　　　        　　　　*　　　　　　　　　.
+　　　　　　　　　　.　　　　　　　　　　　　　.
+　　　　　　　　　　　　　　　　       　   　　　　
+　　　　　　　　　　　　　　　　       　   　　　　　　　　　　　　　　　　       　    ✦
+　   　　　,　　　　　　　　　*　　   　　　　 　　,　　　 ‍ ‍ ‍ ‍ 　 　　　　　　　　　　　　.　　　　　 　　
+　　　.　　　　　　　　　　　　　 　           　　　　　　　　　　　　　　　　　　　˚　　　
+　   　　　　,　　　　　　　　　　　       　    　　　　　　　　　　　　　　　　.　　　
+ 　　    　　　　　 　　　　　.　　　　　　　　　　　　　.　　　　　　　　　　　　　　　*　　　　　　　　　. 　　　　　　　　　　.　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　　 　 　　　　 　　　　　　　　　　　　　　　　 　 　　　　　　　　　　　　　　　　 　 ✦
