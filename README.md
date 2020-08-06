@@ -4,9 +4,9 @@
 
 
 ### Hello people, I'm EaglePB2 - The one who building something for fun 👋
-Thank you for standby for this profile.
-The purpose of this profile is coming soon.
-You may come back later, as you wish if this readme.md is updated.
+Thank you for standby for this profile.   
+The purpose of this profile is coming soon.   
+You may come back later, as you wish if this readme.md is updated.   
 
 ## I'm a university student, interested on coding, fixing things, or even making games(?)
 - 🔭 I’m currently working on discord bot with node.js!
@@ -45,7 +45,7 @@ You may come back later, as you wish if this readme.md is updated.
 ---
 
 <img align="left" alt="eaglePB2's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eaglePB2&show_icons=true&hide_border=true&theme=merko" />
-<img align="left" alt="eaglePB2's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaglePB2&show_icons=true&hide_border=true&theme=merko" /> 
+<img align="left" alt="eaglePB2's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaglePB2&show_icons=true&hide_border=true&theme=merko" />    
 .　　　　　 　　
 　　　.　　　　　　　　　　　　　 　           　　　　　　　　　　　　　　　　　　　˚　　　
 　   　　　　,　　　　　　　　　　　       　    　　　　　　　　　　　　 　　　　.　　　
