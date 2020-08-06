@@ -45,9 +45,7 @@ You may come back later, as you wish if this readme.md is updated.
 ---
 
 <img align="left" alt="eaglePB2's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eaglePB2&show_icons=true&hide_border=true&theme=merko" />  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=eaglePB2&repo=PitchTest)](https://gitpitch.com/eaglepb2/pitchtest)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)(https://github.com/anuraghazra/github-readme-stats)]  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://gmc.challonge.com/zh_CN
 [twitter]: https://twitter.com/eaglePB2
