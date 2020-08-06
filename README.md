@@ -27,7 +27,7 @@ You may come back later, as you wish if this readme.md is updated.
 <br />
 
 ### Current used Languages and Tools:
-
+<img align="left" alt="eaglePB2's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaglePB2&show_icons=true&hide_border=true&theme=merko" /> 
 <br />
 
 ---
@@ -45,14 +45,6 @@ You may come back later, as you wish if this readme.md is updated.
 ---
 
 <img align="left" alt="eaglePB2's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eaglePB2&show_icons=true&hide_border=true&theme=merko" />
-<img align="left" alt="eaglePB2's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaglePB2&show_icons=true&hide_border=true&theme=merko" /> 
-
-[website]: https://gmc.challonge.com/zh_CN
-[twitter]: https://twitter.com/eaglePB2
-[youtube]: https://youtube.com/codeSTACKr
-[twitch]: https://www.twitch.tv/eaglepb2
-[facebook]: https://www.facebook.com/eaglePB2/
-[discord]:https://discord.gg/qKrub9b
 
 .　　　　　 　　
 　　　.　　　　　　　　　　　　　 　           　　　　　　　　　　　　　　　　　　　˚　　　
@@ -87,3 +79,9 @@ You may come back later, as you wish if this readme.md is updated.
 　　　.　　　　　　　　　　　　　 　           　　　　　　　　　　　　　　　　　　　˚　　　
 　   　　　　,　　　　　　　　　　　       　    　　　　　　　　　　　　　　　　.　　　
  　　    　　　　　 　　　　　.　　　　　　　　　　　　　.　　　　　　　　　　　　　　　*　　　　　　　　　. 　　　　　　　　　　.　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　　 　 　　　　 　　　　　　　　　　　　　　　　 　 　　　　　　　　　　　　　　　　 　 ✦
+[website]: https://gmc.challonge.com/zh_CN
+[twitter]: https://twitter.com/eaglePB2
+[youtube]: https://youtube.com/codeSTACKr
+[twitch]: https://www.twitch.tv/eaglepb2
+[facebook]: https://www.facebook.com/eaglePB2/
+[discord]:https://discord.gg/qKrub9b
