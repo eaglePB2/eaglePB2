@@ -26,10 +26,6 @@ You may come back later, as you wish if this readme.md is updated.
 
 <br />
 
-### Current used Languages and Tools:
-
-<br />
-
 ---
 
 ### 📺 Latest YouTube Videos
