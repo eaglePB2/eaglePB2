@@ -45,6 +45,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 📕 Latest Bilibili Videos
 <!-- BILIBILI:START -->
+- [【Minecraft CODE】代码玩起来（直播存档）](https://www.bilibili.com/video/av499075705)
+- [【Brave frontier】直播存档](https://www.bilibili.com/video/av796528614)
+- [（这是一款小孩子的幻想童年 记录档案）](https://www.bilibili.com/video/av968025052)
+- [【Team Racing League】就一个边缘人玩一款边缘的赛车游戏](https://www.bilibili.com/video/av498026945)
+- [【Plazma Burst 2】这是一个很正常的影片。](https://www.bilibili.com/video/av925394253)
 <!-- BILIBILI:END -->
 
 ---
