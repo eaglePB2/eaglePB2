@@ -43,9 +43,9 @@ You may come back later, as you wish if this readme.md is updated.
 
 ---
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 📕 Latest Bilibili Videos
+<!-- BILIBILI:START -->
+<!-- BILIBILI:END -->
 
 ---
 
