@@ -27,7 +27,11 @@ You may come back later, as you wish if this readme.md is updated.
 <br />
 
 ### Current used Languages and Tools:
+
+<a href="https://github.com/">
 <img align="left" alt="eaglePB2's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaglePB2&show_icons=true&hide_border=true&theme=merko" /> 
+</a>
+
 <br />
 
 ---
@@ -79,6 +83,8 @@ You may come back later, as you wish if this readme.md is updated.
 　　　.　　　　　　　　　　　　　 　           　　　　　　　　　　　　　　　　　　　˚　　　
 　   　　　　,　　　　　　　　　　　       　    　　　　　　　　　　　　　　　　.　　　
  　　    　　　　　 　　　　　.　　　　　　　　　　　　　.　　　　　　　　　　　　　　　*　　　　　　　　　. 　　　　　　　　　　.　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　　 　 　　　　 　　　　　　　　　　　　　　　　 　 　　　　　　　　　　　　　　　　 　 ✦
+
+
 [website]: https://gmc.challonge.com/zh_CN
 [twitter]: https://twitter.com/eaglePB2
 [youtube]: https://youtube.com/codeSTACKr
