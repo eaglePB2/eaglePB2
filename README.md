@@ -31,10 +31,10 @@ You may come back later, as you wish if this readme.md is updated.
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Plazma League Map Contest S4](https://www.youtube.com/watch?v=s77NBcd9kqI)
-- [恐怖之旅 Day 1 跟好友PK恐怖游戏 试胆大会](https://www.youtube.com/watch?v=cLjLrr7jSOw)
 - [Valkyrie | Plazma Burst 2 Montage | HD](https://www.youtube.com/watch?v=JWhGANnvbxQ)
 - [[Plazma Burst 2] This is another normal video.](https://www.youtube.com/watch?v=mVL7REY6EBo)
 - [【Streaming Archive】HitchHiker](https://www.youtube.com/watch?v=JFuDocox1ZQ)
+- [【Streaming Record: 2000:1 A space Felony】](https://www.youtube.com/watch?v=KftbA-7fd08)
 <!-- YOUTUBE:END -->
 
 ---
