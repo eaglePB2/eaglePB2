@@ -9,7 +9,7 @@ The purpose of this profile is coming soon.
 You may come back later, as you wish if this readme.md is updated.   
 
 ## I'm a university student, interested on coding, fixing things, or even making games(?)
-- 🔭 I’m currently working on discord bot with node.js!
+- 🔭 I’m currently developing coding challenges by using various of languages I know of!
 - 🌱 I’m currently learning everything 🤣
 - 💬 I’m looking to doing more minecraft projects!
 - 🥅 2020 Goals: Solve more my problem using various of languages
