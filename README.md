@@ -59,3 +59,6 @@ You may come back later, as you wish if this readme.md is updated.
 [twitch]: https://www.twitch.tv/eaglepb2
 [facebook]: https://www.facebook.com/eaglePB2/
 [discord]:https://discord.gg/qKrub9b
+
+<!-- RANDOMQUOTE:START -->
+<!-- RANDOMQUOTE:END -->
