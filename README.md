@@ -33,8 +33,8 @@ You may come back later, as you wish if this readme.md is updated.
 - [Plazma League Map Contest S4](https://www.youtube.com/watch?v=s77NBcd9kqI)
 - [Valkyrie | Plazma Burst 2 Montage | HD](https://www.youtube.com/watch?v=JWhGANnvbxQ)
 - [[Plazma Burst 2] This is another normal video.](https://www.youtube.com/watch?v=mVL7REY6EBo)
-- [【Streaming Archive】HitchHiker](https://www.youtube.com/watch?v=JFuDocox1ZQ)
-- [【Streaming Record: 2000:1 A space Felony】](https://www.youtube.com/watch?v=KftbA-7fd08)
+- [[Plazma Burst 2] This is a normal video.](https://www.youtube.com/watch?v=9QoGEoBgwvw)
+- [第26.5届 超极限生存竞赛 世界末日 Nerfed Version](https://www.youtube.com/watch?v=cTe_3mp0N2E)
 <!-- YOUTUBE:END -->
 
 ---
