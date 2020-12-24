@@ -30,11 +30,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【方块破坏日记】第二天](https://www.youtube.com/watch?v=AvCAuwGTEOE)
+- [IDK | Plazma Burst 2 Montage | HD](https://www.youtube.com/watch?v=7uS6rLORAec)
 - [【方块破坏日记】第一天](https://www.youtube.com/watch?v=TeMP_Yn5tf4)
 - [Plazma League Map Contest S4](https://www.youtube.com/watch?v=s77NBcd9kqI)
 - [Valkyrie | Plazma Burst 2 Montage | HD](https://www.youtube.com/watch?v=JWhGANnvbxQ)
-- [[Plazma Burst 2] This is another normal video.](https://www.youtube.com/watch?v=mVL7REY6EBo)
-- [[Plazma Burst 2] This is a normal video.](https://www.youtube.com/watch?v=9QoGEoBgwvw)
 <!-- YOUTUBE:END -->
 
 ---
