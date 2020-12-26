@@ -30,11 +30,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【直播精华】麦块红蓝生存 —— 安德惊吓事件](https://www.youtube.com/watch?v=_LJMaI9mInw)
 - [Welcome to PB2. (5th revised edition)](https://www.youtube.com/watch?v=GgFw1RDOUYY)
 - [【方块破坏日记】第三天](https://www.youtube.com/watch?v=PSyKDIZBdh4)
 - [【方块破坏日记】第二天](https://www.youtube.com/watch?v=AvCAuwGTEOE)
 - [IDK | Plazma Burst 2 Montage | HD](https://www.youtube.com/watch?v=7uS6rLORAec)
-- [【方块破坏日记】第一天](https://www.youtube.com/watch?v=TeMP_Yn5tf4)
 <!-- YOUTUBE:END -->
 
 ---
