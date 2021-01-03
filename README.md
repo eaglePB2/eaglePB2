@@ -30,11 +30,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Farewell, PB2](https://www.youtube.com/watch?v=3RZEIVX21eU)
 - [【老鹰】Deponia最后一章！ 直播双开开启！](https://www.youtube.com/watch?v=kGzBtNiNUx4)
 - [【老鹰】Deponia最后一章！ 直播双开开启！](https://www.youtube.com/watch?v=Rt7wLVgKKVI)
 - [【方块破坏日记】第四天](https://www.youtube.com/watch?v=e8F4UV4LMb0)
 - [【直播精华】麦块红蓝生存 —— 安德惊吓事件](https://www.youtube.com/watch?v=_LJMaI9mInw)
-- [Welcome to PB2. (5th revised edition)](https://www.youtube.com/watch?v=GgFw1RDOUYY)
 <!-- YOUTUBE:END -->
 
 ---
