@@ -2,7 +2,7 @@ name: TWITCH
 on:
   schedule:
     # Runs every Mon
-    - cron: '0 0 * * 1'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
