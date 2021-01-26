@@ -2,7 +2,7 @@ name: BILIBILI
 on:
   schedule:
     # Runs every hour
-    - cron: '0 1 1 * *'
+    - cron: '0 0 * * 1'
   workflow_dispatch:
 
 jobs:
@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BILIBILI" 
-          feed_list: "https://rsshub.app/bilibili/user/video/256722628"
+          feed_list: "http://139.196.136.182:1200/bilibili/user/video/256722628"
