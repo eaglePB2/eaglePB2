@@ -52,11 +52,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：【老鹰】桥的视错觉](https://www.twitch.tv/videos/888628755)
+- [【老鹰】桥的视错觉](https://www.twitch.tv/videos/888541689)
 - [精选内容：【老鹰】Brave Frontier 公会战](https://www.twitch.tv/videos/885930481)
 - [精选内容：【老鹰】PeeBeeTwo 交流赛](https://www.twitch.tv/videos/885925992)
 - [【老鹰】Brave Frontier 公会战](https://www.twitch.tv/videos/885617524)
-- [【老鹰】先PeeBeeTwo日常 之后再Brave Frontier，公会战延迟两个小时](https://www.twitch.tv/videos/885487661)
-- [精选内容：【老鹰】PeeBeeTwo 日常竞技赛](https://www.twitch.tv/videos/883517923)
 <!-- TWITCH:END -->
 
 ---
