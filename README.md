@@ -52,11 +52,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：【老鹰】飞](https://www.twitch.tv/videos/894053949)
+- [【老鹰】飞之重播版](https://www.twitch.tv/videos/893824109)
 - [精选内容：【老鹰】Brave Frontier日常 远古画质 ouob](https://www.twitch.tv/videos/892453502)
 - [【重播】Brave Frontier日常 远古画质 ouob](https://www.twitch.tv/videos/892400052)
 - [精选内容：【老鹰】Brave Frontier 日常抽奖台](https://www.twitch.tv/videos/891297326)
-- [【老鹰】今日代一下班 Brave Frontier 抽奖台](https://www.twitch.tv/videos/891208712)
-- [精选内容：【老鹰】内](https://www.twitch.tv/videos/891161912)
 <!-- TWITCH:END -->
 
 ---
