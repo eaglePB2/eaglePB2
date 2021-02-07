@@ -52,11 +52,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【重播】TWluZUNvbTogU3VwcmVtZSBDb21tYW5kZXIgaW4gTWluZWNyYWZ0 - LIVE](http://www.twitch.tv/eaglelivepb2)
+- [精选内容：【老鹰】【Day 7】是说很久没有回来解成就了](https://www.twitch.tv/videos/903148337)
+- [【老鹰】【Day 7】是说很久没有回来解成就了](https://www.twitch.tv/videos/902920788)
 - [【老鹰】今天不打遊戲 我們來寫aurora uhc](https://www.twitch.tv/videos/899039435)
 - [精选内容：【老鹰】一个短暂的爬山旅程](https://www.twitch.tv/videos/897898929)
-- [【老鹰】一个短暂的爬山旅程](https://www.twitch.tv/videos/897815559)
-- [精选内容：【老鹰】飞](https://www.twitch.tv/videos/894053949)
-- [【老鹰】飞之重播版](https://www.twitch.tv/videos/893824109)
 <!-- TWITCH:END -->
 
 ---
