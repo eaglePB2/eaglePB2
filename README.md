@@ -52,11 +52,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【老鹰】什么？已经农历新年了？](https://www.twitch.tv/videos/909695630)
+- [【老鹰】（除夕）我改了麥的設定求意見](https://www.twitch.tv/videos/909505788)
 - [精选内容：【老鹰】MineCom: Supreme Commander in Minecraft](https://www.twitch.tv/videos/904381681)
 - [【重播】TWluZUNvbTogU3VwcmVtZSBDb21tYW5kZXIgaW4gTWluZWNyYWZ0](https://www.twitch.tv/videos/904080700)
 - [精选内容：【老鹰】【Day 7】是说很久没有回来解成就了](https://www.twitch.tv/videos/903148337)
-- [【老鹰】【Day 7】是说很久没有回来解成就了](https://www.twitch.tv/videos/902920788)
-- [【老鹰】今天不打遊戲 我們來寫aurora uhc](https://www.twitch.tv/videos/899039435)
 <!-- TWITCH:END -->
 
 ---
