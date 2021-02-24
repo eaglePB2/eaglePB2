@@ -1,6 +1,3 @@
-⚡ **The lightning strikes all the way to the horizon, as the method of saying exist, we exist.** ⚡
-
-
 ### Hello people, I'm EaglePB2 - The one who building something for fun 👋
 Thank you for standby for this profile.   
 The purpose of this profile is coming soon.   
