@@ -1,5 +1,3 @@
-![How beautiful this starlight are. But sadly you can't see them.](https://i.imgur.com/7GamgTm.jpg)
-
 ⚡ **The lightning strikes all the way to the horizon, as the method of saying exist, we exist.** ⚡
 
 
