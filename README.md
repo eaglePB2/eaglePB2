@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：【老鹰】一年一度的肃清活动・ิཀ・ิ](https://www.twitch.tv/videos/926458600)
+- [🔴LIVE【老鹰】・ิཀ・ิ](https://www.twitch.tv/videos/926317851)
 - [精选内容：【老鹰】Teleglitch 死亡传送](https://www.twitch.tv/videos/925242341)
 - [【老鹰】統神端火鍋](https://www.twitch.tv/videos/925124081)
 - [精选内容：【老鹰】第二十二届 Brave Frontier 公会战](https://www.twitch.tv/videos/922640273)
-- [【老鹰】第22届的Guild War 开跑啦~](https://www.twitch.tv/videos/922297463)
-- [【老鹰】小开、谈一下Level Editor League S6，还有BF的Guild war](https://www.twitch.tv/videos/921345531)
 <!-- TWITCH:END -->
 
 ---
