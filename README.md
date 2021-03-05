@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：【老鹰】3月收获日 （Day 3）](https://www.twitch.tv/videos/936581681)
+- [🔴LIVE【老鹰】3月收获日 （Day 3）・ิཀ・ิ](https://www.twitch.tv/videos/936359752)
 - [精选内容：【老鹰】第二十届 Brave Frontier 公会战](https://www.twitch.tv/videos/935194583)
 - [【重播】第二十届 Brave Frontier 公会战](https://www.twitch.tv/videos/935178057)
 - [精选内容：【老鹰】抽！](https://www.twitch.tv/videos/935056755)
-- [🔵RECAP 扭蛋日](https://www.twitch.tv/videos/935016990)
-- [精选内容：【老鹰】3月收获日 （Day 2）](https://www.twitch.tv/videos/934009339)
 <!-- TWITCH:END -->
 
 ---
