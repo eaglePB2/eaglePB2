@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：【老鹰】3月收获日 （Day 8）](https://www.twitch.tv/videos/942735287)
+- [🔴LIVE【老鹰】3月收获日 （Day 8）好像刚刚过1/3而已诶…](https://www.twitch.tv/videos/942648083)
 - [精选内容：【老鹰】3月收获日 （Day 7）](https://www.twitch.tv/videos/941643221)
 - [🔴LIVE【老鹰】3月收获日 （Day 7）主线推推推](https://www.twitch.tv/videos/941481302)
 - [精选内容：【老鹰】3月收获日 （Day 6）](https://www.twitch.tv/videos/940428665)
-- [🔴LIVE【老鹰】3月收获日 （Day 6）新class新profile 主线潜行越来越难 (｡`･ω･)](https://www.twitch.tv/videos/940255389)
-- [精选内容：【老鹰】3月收获日 （Day 5）](https://www.twitch.tv/videos/939051856)
 <!-- TWITCH:END -->
 
 ---
