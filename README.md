@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [🔴LIVE【老鹰】考古聊天台 | 直播设定要怎么调r (｡•艸•｡)](https://www.twitch.tv/videos/963488658)
 - [🔴LIVE【老鹰】考古聊天台 | 我们来聊聊旧群](https://www.twitch.tv/videos/962277506)
 - [精选内容：【老鹰】现在不止分绵羊 连死神也要分一杯羹 OAO](https://www.twitch.tv/videos/959993952)
 - [🔴LIVE【老鹰】现在不止分绵羊 连死神也要分一杯羹 OAO](https://www.twitch.tv/videos/959843304)
 - [精选内容：【老鹰】分绵羊咯~](https://www.twitch.tv/videos/958798164)
-- [🔴LIVE【老鹰】分绵羊咯~](https://www.twitch.tv/videos/958682138)
 <!-- TWITCH:END -->
 
 ---
