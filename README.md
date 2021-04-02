@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：【老鹰】Plazma Burst 2 愚人节 战役模式 Speedrun](https://www.twitch.tv/videos/971035681)
+- [🔴LIVE【老鹰】Plazma Burst 2 愚人节campaign Speedrun](https://www.twitch.tv/videos/971012124)
 - [精选内容：【老鹰】Plazma Burst 2 10周年活动存档](https://www.twitch.tv/videos/969929574)
 - [🔴LIVE【老鹰】Plazma Burst 2 10周年活动存档](https://www.twitch.tv/videos/969794211)
 - [精选内容：【老鹰】4月看门狗（Day 1）](https://www.twitch.tv/videos/968661723)
-- [🔴LIVE【老鹰】4月看门狗（Day 1）](https://www.twitch.tv/videos/968569633)
-- [精选内容：【老鹰】3月收获日（Day 19）](https://www.twitch.tv/videos/966242090)
 <!-- TWITCH:END -->
 
 ---
