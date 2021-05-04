@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：【老鹰】第三届 超极限生存竞赛 记录档案](https://www.twitch.tv/videos/1009405655)
 - [精选内容：【老鹰】第一届 超极限生存竞赛 记录档案](https://www.twitch.tv/videos/1008269286)
 - [精选内容：【老鹰】3月收获日 （Day 25）](https://www.twitch.tv/videos/1000266284)
 - [🔴LIVE【老鹰】收获日日常（6）—— 坚守模式！全新难度展开！](https://www.twitch.tv/videos/1000163448)
 - [精选内容：【老鹰】3月收获日 （Day 24）](https://www.twitch.tv/videos/999064315)
-- [精选内容：【老鹰】3月收获日 （Day 23）](https://www.twitch.tv/videos/999063948)
 <!-- TWITCH:END -->
 
 ---
