@@ -51,7 +51,7 @@ You may come back later, as you wish if this readme.md is updated.
 - [🔵RECAST【重播】第二十三届 Brave Frontier 公会战](https://www.twitch.tv/videos/1011572318)
 - [精选内容：【老鹰】Brave Frontier 日常刷怪](https://www.twitch.tv/videos/1010619622)
 - [这是一个测试用（无用）短片](https://www.twitch.tv/videos/1010543263)
-- [精选内容：【老鹰】第六届 超极限生存竞赛 记录档案](https://www.twitch.tv/videos/1009427444)
+- [精选内容：【老鹰】第八届 超极限生存竞赛 记录档案](https://www.twitch.tv/videos/1009427615)
 <!-- TWITCH:END -->
 
 ---
