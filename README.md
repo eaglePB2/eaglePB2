@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [🔴 LIVE【老鹰】星圖剩下一些些了~ 是不是该…… 开放……世……](https://www.twitch.tv/videos/1067061654)
 - [🔴 LIVE【老鹰】4K、星图、热美亚，这就是中期打法了吗？](https://www.twitch.tv/videos/1066047455)
 - [🔴 LIVE【老鹰】新手解星图台 ヾ(･ω･`｡) 还有练武器（小声](https://www.twitch.tv/videos/1065017026)
 - [精选内容： 【老鹰】Warframe 日常（22）](https://www.twitch.tv/videos/1064868891)
 - [精选内容： 【老鹰】Warframe 日常（21）](https://www.twitch.tv/videos/1064867825)
-- [精选内容：【老鹰】3月收获日 （Day 42）](https://www.twitch.tv/videos/1064835485)
 <!-- TWITCH:END -->
 
 ---
