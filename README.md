@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [🔴 LIVE【老鹰】在某空的生日那天 我还是要开台打PD2 ヾ(･ω･`｡) | #PD2苦难成就 #PD2观众互动奖励清单](https://www.twitch.tv/videos/1069069244)
 - [🔴 LIVE【老鹰】PD2 奖励测试！ 我不知道能不能用所以谨慎使用 我也不知道到底有没有用](https://www.twitch.tv/videos/1068047302)
 - [🔴 LIVE【老鹰】推完星图 就舰船旅游去~](https://www.twitch.tv/videos/1067061654)
 - [🔴 LIVE【老鹰】4K、星图、热美亚，这就是中期打法了吗？](https://www.twitch.tv/videos/1066047455)
 - [🔴 LIVE【老鹰】新手解星图台 ヾ(･ω･`｡) 还有练武器（小声](https://www.twitch.tv/videos/1065017026)
-- [精选内容： 【老鹰】Warframe 日常（22）](https://www.twitch.tv/videos/1064868891)
 <!-- TWITCH:END -->
 
 ---
