@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [🔴 LIVE【老鹰】今天是6月32日啦 劫案呢？ 麦克风演算法再次更换 帮我看一下音质行不行](https://www.twitch.tv/videos/1074341419)
 - [🔴 LIVE【老鹰】新手打线上模式GTA ヾ(ﾟ∀ﾟゞ)](https://www.twitch.tv/videos/1073305560)
 - [精选内容：【老鹰】3月收获日 （Day 44）](https://www.twitch.tv/videos/1072428839)
 - [精选内容：【老鹰】3月收获日 （Day 43）](https://www.twitch.tv/videos/1072427913)
 - [精选内容： 【老鹰】Warframe 日常（28）](https://www.twitch.tv/videos/1072427322)
-- [精选内容： 【老鹰】Warframe 日常（27）](https://www.twitch.tv/videos/1072426569)
 <!-- TWITCH:END -->
 
 ---
