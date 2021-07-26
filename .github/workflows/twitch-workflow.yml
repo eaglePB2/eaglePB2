@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "TWITCH" 
-          feed_list: "https://twitchrss.appspot.com/vodonly/eaglelivepb2"
+          feed_list: "https://twitchrss.appspot.com/vodonly/eaglepb2"
