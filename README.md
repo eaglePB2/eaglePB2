@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [🔴 LIVE【老鹰】明天zephyr跟chroma入库，我还在做chroma机体 OAO](https://www.twitch.tv/videos/1112919844)
 - [精选内容：【老鹰】LEGO The Hobbit （1）](https://www.twitch.tv/videos/1112022247)
 - [精选内容： 【老鹰】Warframe 日常（42）](https://www.twitch.tv/videos/1112021791)
 - [精选内容：【老鹰】3月收获日 （Day 54）](https://www.twitch.tv/videos/1112021311)
 - [精选内容：【老鹰】3月收获日 （Day 53）](https://www.twitch.tv/videos/1112020987)
-- [🔴 LIVE【老鹰】今天只玩社区地图，尤其是愚人节的](https://www.twitch.tv/videos/1111833718)
 <!-- TWITCH:END -->
 
 ---
