@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [这次直播只是为了要测试SMP + 新SSD](https://www.twitch.tv/videos/1152353718)
+- [这次直播只是为了要测试SMP + 新SSD](https://www.twitch.tv/videos/1152206633)
 - [精选内容：【老鹰】Remnant 自虐日记（1）](https://www.twitch.tv/videos/1131772734)
 - [精选内容：【老鹰】3月收获日 （Day 57）](https://www.twitch.tv/videos/1131772128)
 - [精选内容：【老鹰】Control 路痴系列 （1）](https://www.twitch.tv/videos/1131771454)
-- [精选内容：【老鹰】LEGO The Lord of The Rings（2）](https://www.twitch.tv/videos/1122821357)
-- [精选内容： 【老鹰】Warframe 日常（45）](https://www.twitch.tv/videos/1122821022)
 <!-- TWITCH:END -->
 
 ---
