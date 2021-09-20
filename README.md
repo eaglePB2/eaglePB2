@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
-- [这次直播只是为了要测试SMP + 新SSD](https://www.twitch.tv/videos/1152353718)
-- [这次直播只是为了要测试SMP + 新SSD](https://www.twitch.tv/videos/1152206633)
+- [不稳定直播 —— 直播再断那就算了(´；ω；｀)](https://www.twitch.tv/videos/1153115075)
+- [中秋连假？ 我可以把Forma之星当成月球吗(X 不稳定直播 —— 我自己都不知道能不能正常游玩游戏](https://www.twitch.tv/videos/1153086877)
+- [精选内容：Minecraft SMP 第一章](https://www.twitch.tv/videos/1153060291)
 - [精选内容：【老鹰】Remnant 自虐日记（1）](https://www.twitch.tv/videos/1131772734)
 - [精选内容：【老鹰】3月收获日 （Day 57）](https://www.twitch.tv/videos/1131772128)
-- [精选内容：【老鹰】Control 路痴系列 （1）](https://www.twitch.tv/videos/1131771454)
 <!-- TWITCH:END -->
 
 ---
