@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【老鹰】林間傳統系列开跑啦～ （Day 1）](https://www.twitch.tv/videos/1165294531)
+- [精选内容：【老鹰】林間傳統 第一天：>observer_](https://www.twitch.tv/videos/1165285448)
 - [【老鹰】林間傳統系列开跑啦～ （Day 1）](https://www.twitch.tv/videos/1164292253)
 - [精选内容：【老鹰】林間傳統 第零天：抽遊戲](https://www.twitch.tv/videos/1163506157)
 - [【老鹰】林間傳統 第零天：抽遊戲咯#](https://www.twitch.tv/videos/1163405390)
-- [精选内容： 【老鹰】Warframe 日常（51）](https://www.twitch.tv/videos/1163384884)
-- [【老鹰】最后一班forma车 0w0 明天就是林间传统了 各位准备好了吗？](https://www.twitch.tv/videos/1163241393)
 <!-- TWITCH:END -->
 
 ---
