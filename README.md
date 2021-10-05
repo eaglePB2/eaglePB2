@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【老鹰】林間傳統系列开跑啦～ （Day 4）| 指令：!林间传统 !87](https://www.twitch.tv/videos/1167147073)
 - [精选内容：【老鹰】林間傳統 第三天：Alice | 愛莉澄](https://www.twitch.tv/videos/1166423191)
 - [精选内容：【老鹰】林間傳統 第三天：SOMA](https://www.twitch.tv/videos/1166423190)
 - [【老鹰】林間傳統系列开跑啦～ （Day 3）](https://www.twitch.tv/videos/1166271547)
 - [麦块 超极限生存大赛 1v1 竞技赛](https://www.twitch.tv/videos/1166114046)
-- [精选内容：【老鹰】林間傳統 第二天：>observer_](https://www.twitch.tv/videos/1166060278)
 <!-- TWITCH:END -->
 
 ---
