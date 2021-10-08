@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：【老鹰】林間傳統 第七天：Layers of Fear](https://www.twitch.tv/videos/1169983073)
+- [【老鹰】林間傳統系列开跑啦～ （Day 7）| 指令：!林间传统 !87](https://www.twitch.tv/videos/1169875448)
 - [精选内容：【老鹰】林間傳統 第六天：Conarium](https://www.twitch.tv/videos/1169093746)
 - [【老鹰】林間傳統系列开跑啦～ （Day 6）| 指令：!林间传统 !87](https://www.twitch.tv/videos/1168932390)
 - [精选内容：【老鹰】林間傳統 第五天：SOMA](https://www.twitch.tv/videos/1168107110)
-- [【老鹰】林間傳統系列开跑啦～ （Day 5）| 指令：!林间传统 !87](https://www.twitch.tv/videos/1168021748)
-- [精选内容：【老鹰】林間傳統 第四天：SOMA](https://www.twitch.tv/videos/1168016604)
 <!-- TWITCH:END -->
 
 ---
