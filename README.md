@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【林間傳統】 第十三天：Doki Doki Literature Club +](https://www.twitch.tv/videos/1176320317)
+- [【林間傳統】 第十二天：Shadow Corridor](https://www.twitch.tv/videos/1175486413)
 - [【林間傳統】 第十一天：Amnesia 猪猡的机器篇](https://www.twitch.tv/videos/1173817924)
 - [【老鹰】🎃林間傳統感谢祭🎃 （Day 11）| 指令：!林间传统 !87](https://www.twitch.tv/videos/1173672169)
 - [【林間傳統】 第十天：Amnesia 黑暗血统篇](https://www.twitch.tv/videos/1173663028)
-- [精选内容：【老鹰】Minecraft SMP 生存系列 EP:7](https://www.twitch.tv/videos/1173565216)
-- [【老鹰】小开，顺带早安各位 :3](https://www.twitch.tv/videos/1173439543)
 <!-- TWITCH:END -->
 
 ---
