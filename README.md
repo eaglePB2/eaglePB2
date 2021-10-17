@@ -29,7 +29,7 @@ You may come back later, as you wish if this readme.md is updated.
 - [【Minecraft】 Any % Speedrun: Jump and Ladders Challenge](https://www.youtube.com/watch?v=esSR32GrAhs)
 - [【Star Defender 2D】Wat](https://www.youtube.com/watch?v=Df0Cv3i8D4k)
 - [Farewell, PB2](https://www.youtube.com/watch?v=3RZEIVX21eU)
-- [【方块破坏日记】第四天](https://www.youtube.com/watch?v=e8F4UV4LMb0)
+- [【直播精华】麦块红蓝生存 —— 安德惊吓事件](https://www.youtube.com/watch?v=_LJMaI9mInw)
 <!-- YOUTUBE:END -->
 
 ---
