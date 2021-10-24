@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【老鹰】🎃林間傳統感谢祭🎃 （Day 23）| Alan Wake](https://www.twitch.tv/videos/1184668201)
+- [【林間傳統】 第二十二天：Alan Wake](https://www.twitch.tv/videos/1184577551)
 - [【老鹰】🎃林間傳統感谢祭🎃 （Day 22）| Alan Wake](https://www.twitch.tv/videos/1183685010)
+- [【林間傳統】 第二十一天：Call of Cthulhu](https://www.twitch.tv/videos/1183580831)
 - [【林間傳統】 第二十天：Call of Cthulhu](https://www.twitch.tv/videos/1182709729)
-- [【林間傳統】 第十九天：Dead Space](https://www.twitch.tv/videos/1181172486)
-- [【老鹰】🎃林間傳統感谢祭🎃 （Day 19）| 指令：!林间传统 !87](https://www.twitch.tv/videos/1181009446)
-- [【林間傳統】 第十八天：Shadow Corridor](https://www.twitch.tv/videos/1180190475)
 <!-- TWITCH:END -->
 
 ---
