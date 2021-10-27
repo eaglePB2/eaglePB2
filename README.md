@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【林間傳統】 第二十六天：Five Nights at Freddy's](https://www.twitch.tv/videos/1187545114)
+- [【林間傳統】 第二十六天：打鬼 PAGUI](https://www.twitch.tv/videos/1187545113)
+- [【老鹰】🎃林間傳統感谢祭🎃 （Day 26）| 弗莱迪的五夜后宫……](https://www.twitch.tv/videos/1187411577)
 - [【林間傳統】 第二十五天：Five Nights at Freddy's](https://www.twitch.tv/videos/1186558979)
 - [【林間傳統】 第二十五天：iREC](https://www.twitch.tv/videos/1186558978)
-- [【老鹰】🎃林間傳統感谢祭🎃 （Day 25）| iREC](https://www.twitch.tv/videos/1186510205)
-- [【林間傳統】 第二十四天：Alan Wake's American Nightmares](https://www.twitch.tv/videos/1185840044)
-- [【老鹰】Warframe小插曲：年年交易记录](https://www.twitch.tv/videos/1185840043)
 <!-- TWITCH:END -->
 
 ---
