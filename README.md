@@ -7,8 +7,8 @@ You may come back later, as you wish if this readme.md is updated.
 - 🔭 I’m currently developing coding challenges by using various of languages I know of!
 - 🌱 I’m currently learning everything 🤣
 - 💬 I’m looking to doing more minecraft projects!
-- 🥅 2020 Goals: Solve more my problem using various of languages
-- ⚡ Fun fact: I am not a guy who socializes everything. Beware when meeting me.
+- 🥅 2021 Goals: Starting Ruby,Rust,Go studies and make some interesting project...?
+- ⚡ Fun fact: Introvert, so prepare yourself if you want to talk to me.
 
 ### Connections:
 
@@ -59,12 +59,12 @@ You may come back later, as you wish if this readme.md is updated.
 <img align="left" alt="eaglePB2's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eaglePB2&show_icons=true&hide_border=true&theme=merko" />
 <img align="left" alt="eaglePB2's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaglePB2&show_icons=true&hide_border=true&theme=merko" />    
 
-[website]: https://gmc.challonge.com/zh_CN
-[twitter]: https://twitter.com/eaglePB2
-[youtube]: https://youtube.com/codeSTACKr
+[website]: https://forestwork.net/
+[twitter]: https://forestwork.net/Twitter
+[youtube]: https://forestwork.net/Youtube
 [twitch]: https://www.twitch.tv/eaglepb2
-[facebook]: https://www.facebook.com/eaglePB2/
-[discord]:https://discord.gg/qKrub9b
+[facebook]: https://forestwork.net/Facebook
+[discord]:https://forestwork.net/Discord
 
 <!-- RANDOMQUOTE:START -->
 <!-- RANDOMQUOTE:END -->
