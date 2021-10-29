@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【林間傳統】 第二十八天：Outlast 正片](https://www.twitch.tv/videos/1189371955)
+- [【老鹰】🎃林間傳統感谢祭🎃 （Day 28）| Outlast](https://www.twitch.tv/videos/1189231689)
 - [【林間傳統】 第二十七天：打鬼 PAGUI](https://www.twitch.tv/videos/1188395281)
 - [【老鹰】🎃林間傳統感谢祭🎃 （Day 27）| 打鬼 PAGUI](https://www.twitch.tv/videos/1188322471)
 - [【林間傳統】 第二十六天：Five Nights at Freddy's](https://www.twitch.tv/videos/1187545114)
-- [【林間傳統】 第二十六天：打鬼 PAGUI](https://www.twitch.tv/videos/1187545113)
-- [【老鹰】🎃林間傳統感谢祭🎃 （Day 26）| 弗莱迪的五夜后宫……](https://www.twitch.tv/videos/1187411577)
 <!-- TWITCH:END -->
 
 ---
