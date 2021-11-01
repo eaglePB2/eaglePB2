@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【林間傳統】 第三十一天：還願 Devotion](https://www.twitch.tv/videos/1192234047)
+- [【林間傳統】 第三十一天：闭幕仪式](https://www.twitch.tv/videos/1192234046)
+- [【老鹰】🎃林間傳統感谢祭🎃 （Day 31）| 还愿 Devotion](https://www.twitch.tv/videos/1192040018)
 - [【林間傳統】 第三十天：返校 Detention](https://www.twitch.tv/videos/1191257074)
 - [【老鹰】🎃林間傳統感谢祭🎃 （Day 30）| 返校 Detention](https://www.twitch.tv/videos/1191114776)
-- [【林間傳統】 第二十九天：Outlast DLC](https://www.twitch.tv/videos/1190200447)
-- [【老鹰】🎃林間傳統感谢祭🎃 （Day 29）| Outlast 告密者DLC](https://www.twitch.tv/videos/1190130543)
-- [【林間傳統】 第二十八天：Outlast 正片](https://www.twitch.tv/videos/1189371955)
 <!-- TWITCH:END -->
 
 ---
