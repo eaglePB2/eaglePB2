@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容： 【老鹰】Warframe 日常（52）](https://www.twitch.tv/videos/1193178836)
+- [今天解刚韧 晚点开ember+frost 遗物](https://www.twitch.tv/videos/1192943732)
 - [【林間傳統】 第三十一天：還願 Devotion](https://www.twitch.tv/videos/1192234047)
 - [【林間傳統】 第三十一天：闭幕仪式](https://www.twitch.tv/videos/1192234046)
 - [【老鹰】🎃林間傳統感谢祭🎃 （Day 31）| 还愿 Devotion](https://www.twitch.tv/videos/1192040018)
-- [【林間傳統】 第三十天：返校 Detention](https://www.twitch.tv/videos/1191257074)
-- [【老鹰】🎃林間傳統感谢祭🎃 （Day 30）| 返校 Detention](https://www.twitch.tv/videos/1191114776)
 <!-- TWITCH:END -->
 
 ---
