@@ -25,11 +25,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [2021 11月Q2星期 直播安排](https://www.youtube.com/watch?v=YVNUOOtuKks)
+- [林間傳統 | 2021 观众剪辑](https://www.youtube.com/watch?v=y80GJiujJ9E)
+- [林間傳統 | 2021 開幕儀式](https://www.youtube.com/watch?v=OW_b6bI1yoY)
 - [Coming Soon...](https://www.youtube.com/watch?v=bObCKWig3YE)
 - [【Minecraft】 Any % Speedrun: Jump and Ladders Challenge](https://www.youtube.com/watch?v=esSR32GrAhs)
-- [【Star Defender 2D】Wat](https://www.youtube.com/watch?v=Df0Cv3i8D4k)
-- [Farewell, PB2](https://www.youtube.com/watch?v=3RZEIVX21eU)
-- [【直播精华】麦块红蓝生存 —— 安德惊吓事件](https://www.youtube.com/watch?v=_LJMaI9mInw)
 <!-- YOUTUBE:END -->
 
 ---
