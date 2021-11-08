@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [先控控 然后L4D2](https://www.twitch.tv/videos/1198659090)
+- [精选内容：Heroes of Hammerwatch (1)](https://www.twitch.tv/videos/1198573543)
 - [头痛日第三天 · 我到底要干么？](https://www.twitch.tv/videos/1197805760)
 - [精选内容： 【老鹰】Warframe 日常（53）](https://www.twitch.tv/videos/1196771284)
 - [感冒发烧都过来 我们帮巫妖打疫苗 awa](https://www.twitch.tv/videos/1196616092)
-- [精选内容：【老鹰】Control 路痴系列 （2）](https://www.twitch.tv/videos/1194574315)
-- [控控，我想吃烤肉](https://www.twitch.tv/videos/1193828846)
 <!-- TWITCH:END -->
 
 ---
