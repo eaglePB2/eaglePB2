@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【老鹰】L4D2，传说中的yyds之作 &lpar;`・ω・´&rpar;？](https://www.twitch.tv/videos/1200457501)
 - [精选内容： 【老鹰】Warframe 日常（54）](https://www.twitch.tv/videos/1199719911)
 - [【老鹰】Paypal 设定只能030... | Warframe 刚刃日常](https://www.twitch.tv/videos/1199554170)
 - [精选内容：【老鹰】Control 路痴系列 （3）](https://www.twitch.tv/videos/1199506272)
 - [【老鹰】Warframe小插曲：仪式月球间谍教学](https://www.twitch.tv/videos/1199506271)
-- [先控控 然后L4D2](https://www.twitch.tv/videos/1198659090)
 <!-- TWITCH:END -->
 
 ---
