@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【老鹰】今天只開Hydroid 系統](https://www.twitch.tv/videos/1222752560)
+- [精选内容：泰拉瑞亚 Part 5](https://www.twitch.tv/videos/1222718893)
+- [精选内容：泰拉瑞亚 Part 4](https://www.twitch.tv/videos/1222718460)
 - [【老鹰】日蚀，刷🔑（X），是不是要来… 月球boss了？](https://www.twitch.tv/videos/1221814926)
 - [【老鹰】Hardmode 三兄弟的逆袭！ 装备起来了么……？](https://www.twitch.tv/videos/1220924033)
-- [【老鹰】Hardmode 三兄弟的逆袭！ 装备起来了么……？](https://www.twitch.tv/videos/1220920028)
-- [精选内容：泰拉瑞亚 Part 3](https://www.twitch.tv/videos/1220602997)
-- [【老鹰】挖！哪次不挖！Hardmode模式即将开始！](https://www.twitch.tv/videos/1220021742)
 <!-- TWITCH:END -->
 
 ---
