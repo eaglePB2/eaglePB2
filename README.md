@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【老鹰】临时开台 —— For The King 丢骰子游戏](https://www.twitch.tv/videos/1237705900)
+- [【老鹰】临时开台 —— For The King 丢骰子游戏](https://www.twitch.tv/videos/1237702999)
 - [【老鹰】地上城之摇杆挑战 —— 不能看上看下的摇杆到底是怎样 QWQ](https://www.twitch.tv/videos/1236612905)
 - [【老鹰】万恶的Vauban Prime开挖日记](https://www.twitch.tv/videos/1235831442)
 - [【老鹰】万恶的Vauban Prime开挖日记](https://www.twitch.tv/videos/1235829528)
-- [精选内容： 【老鹰】Warframe 日常（65）](https://www.twitch.tv/videos/1234497114)
-- [精选内容： 【老鹰】Warframe 日常（64）](https://www.twitch.tv/videos/1234496787)
 <!-- TWITCH:END -->
 
 ---
