@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：泰拉瑞亚 Part 8](https://www.twitch.tv/videos/1240534847)
+- [【老鹰】泰拉瑞亚 慢火炖汤日常 所以说什么时候要打精灵女王了？](https://www.twitch.tv/videos/1240395688)
 - [精选内容：漫漫长夜 （1）](https://www.twitch.tv/videos/1239670106)
 - [精选内容： 【老鹰】Warframe 日常（62）](https://www.twitch.tv/videos/1239669561)
 - [精选内容：For The King Part 1](https://www.twitch.tv/videos/1239668394)
-- [精选内容：Heroes of Hammerwatch &lpar;4&rpar;](https://www.twitch.tv/videos/1239667553)
-- [精选内容： 【老鹰】Warframe 日常（66）](https://www.twitch.tv/videos/1239665349)
 <!-- TWITCH:END -->
 
 ---
