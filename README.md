@@ -25,11 +25,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【直播鹰的精华】理想中的打猎游戏 vs 现实中的打猎游戏](https://www.youtube.com/watch?v=4Qc_ouIhzE8)
 - [2021 11月Q2星期 直播安排](https://www.youtube.com/watch?v=YVNUOOtuKks)
 - [林間傳統 | 2021 观众剪辑](https://www.youtube.com/watch?v=y80GJiujJ9E)
 - [林間傳統 | 2021 開幕儀式](https://www.youtube.com/watch?v=OW_b6bI1yoY)
 - [Coming Soon...](https://www.youtube.com/watch?v=bObCKWig3YE)
-- [【Minecraft】 Any % Speedrun: Jump and Ladders Challenge](https://www.youtube.com/watch?v=esSR32GrAhs)
 <!-- YOUTUBE:END -->
 
 ---
