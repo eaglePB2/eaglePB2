@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：林间盃日麻积分赛 —— 1月第二场](https://www.twitch.tv/videos/1261247352)
+- [【社畜鹰生 Day 7】林间盃日麻积分赛 —— 1月第二场](https://www.twitch.tv/videos/1261085008)
 - [精选内容：漫漫长夜 （4）](https://www.twitch.tv/videos/1260608053)
 - [精选内容：For The King 第一团 Part 2](https://www.twitch.tv/videos/1260607394)
 - [【社畜鹰生 Day 6】漫漫長夜之……回歸濱海公路……](https://www.twitch.tv/videos/1260132800)
-- [【社畜鹰生 Day 5】FTK 一團 Day 2](https://www.twitch.tv/videos/1257875515)
-- [精选内容：Heroes of Hammerwatch &lpar;5&rpar;](https://www.twitch.tv/videos/1256813829)
 <!-- TWITCH:END -->
 
 ---
