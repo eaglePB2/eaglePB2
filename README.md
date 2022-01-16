@@ -25,11 +25,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [【直播鹰的精华】理想中的打猎游戏 vs 现实中的打猎游戏](https://www.youtube.com/watch?v=4Qc_ouIhzE8)
-- [2021 11月Q2星期 直播安排](https://www.youtube.com/watch?v=YVNUOOtuKks)
-- [林間傳統 | 2021 观众剪辑](https://www.youtube.com/watch?v=y80GJiujJ9E)
-- [林間傳統 | 2021 開幕儀式](https://www.youtube.com/watch?v=OW_b6bI1yoY)
-- [Coming Soon...](https://www.youtube.com/watch?v=bObCKWig3YE)
+- [【直播鹰的精华】在漫漫长夜被熊暴打3次，从神装一路被打到死……](https://www.youtube.com/watch?v=dy46nrb4Qt4)
+- [[EU] PB2 PvP 2022 – Game 2 Highlights](https://www.youtube.com/watch?v=uNbqiIIOe4Y)
+- [[EU] PB2 PvP 2022 – Game 3 Highlights](https://www.youtube.com/watch?v=9MFQ47TiuFA)
+- [[EU] PB2 PvP 2022 – Game 1 Highlights](https://www.youtube.com/watch?v=b6Cb9j9Syik)
+- [【直播鹰的精华】图奇2021精华 （内涵失败剪辑）](https://www.youtube.com/watch?v=RPnDW4irLa4)
 <!-- YOUTUBE:END -->
 
 ---
