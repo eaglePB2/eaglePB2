@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：林间盃日麻积分赛 —— 1月第三场](https://www.twitch.tv/videos/1269435810)
 - [【社畜鹰生 Day 11】林间盃日麻积分赛 —— 1月第三场](https://www.twitch.tv/videos/1268728672)
 - [精选内容：Valheim &lpar;1&rpar;](https://www.twitch.tv/videos/1265568768)
 - [【社畜鹰生 Day 10】瓦尔海姆：英灵殿 —— 这是一款砍树都会死人的游戏](https://www.twitch.tv/videos/1265337061)
 - [精选内容：Stick Fight: The Game](https://www.twitch.tv/videos/1264228806)
-- [【社畜鹰生 Day 9】欢迎来到友情破坏游戏！不对，我们还有友情这种东西吗？](https://www.twitch.tv/videos/1264168990)
 <!-- TWITCH:END -->
 
 ---
