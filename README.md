@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【社畜鹰生 Day 26】冷死了 开台拉！](https://www.twitch.tv/videos/1291178081)
 - [精选内容：林间盃日麻特殊赛 · 修罗之战](https://www.twitch.tv/videos/1285377928)
 - [精选内容：Valheim &lpar;7&rpar;](https://www.twitch.tv/videos/1285376182)
 - [精选内容：林间盃日麻积分赛 —— 2月第一场](https://www.twitch.tv/videos/1285375637)
 - [【社畜鹰生 Day 24】林间盃 · 二月第一阶段积分赛](https://www.twitch.tv/videos/1284330771)
-- [【社畜鹰生 Day 23】初一日麻测试赛 · 明天正式开打积分赛！](https://www.twitch.tv/videos/1283267727)
 <!-- TWITCH:END -->
 
 ---
