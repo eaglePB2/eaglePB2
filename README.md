@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【社畜鹰生 Day 28】白金大短缺。･ﾟ･&lpar;つд`ﾟ&rpar;･ﾟ･](https://www.twitch.tv/videos/1294470352)
 - [【老鹰】Warframe小插曲：玛麻的奸商论讲座 及 要开工作室？](https://www.twitch.tv/videos/1292479285)
 - [精选内容：For The King 第二团 Part 2](https://www.twitch.tv/videos/1292479284)
 - [【社畜鹰生 Day 27】For The King 二团 听说今天是第二天](https://www.twitch.tv/videos/1292304184)
 - [精选内容：漫漫长夜 （6）](https://www.twitch.tv/videos/1292224939)
-- [【社畜鹰生 Day 26】冷死了 开台拉！](https://www.twitch.tv/videos/1291178081)
 <!-- TWITCH:END -->
 
 ---
