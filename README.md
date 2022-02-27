@@ -49,9 +49,9 @@ You may come back later, as you wish if this readme.md is updated.
 <!-- TWITCH:START -->
 - [精选内容：林间盃日麻积分赛 —— 2月第四场](https://www.twitch.tv/videos/1407663296)
 - [精选内容：漫漫长夜 （8）](https://www.twitch.tv/videos/1407661899)
-- [【社畜鹰生 Day 39】Warframe小鸭子差事我来了 QwQ](https://www.twitch.tv/videos/1407418436)
 - [【社畜鹰生 Day 38】林间盃 二月第四阶段日麻积分赛](https://www.twitch.tv/videos/1307444418)
 - [【社畜鹰生 Day 37】漫漫长夜 当个老人养老中](https://www.twitch.tv/videos/1306393508)
+- [精选内容：第三届 林间盃灵魂绘师决定战](https://www.twitch.tv/videos/1304367320)
 <!-- TWITCH:END -->
 
 ---
