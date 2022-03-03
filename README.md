@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【社畜鹰生 Day 42】林间盃 三月第一阶段日麻积分赛](https://www.twitch.tv/videos/1412947990)
 - [精选内容：漫漫长夜 （9）](https://www.twitch.tv/videos/1412053897)
 - [【社畜鹰生 Day 41】漫漫长夜之探索Anchor的信号台&lpar;?](https://www.twitch.tv/videos/1411955656)
 - [精选内容：【Warframe 日常】Day 75](https://www.twitch.tv/videos/1410548456)
 - [【重播片段】Warframe前天的备份片段，不会回聊天室 :3](https://www.twitch.tv/videos/1409662071)
-- [【社畜鹰生 Day 40】糟了，是瓦尔海姆！](https://www.twitch.tv/videos/1409538878)
 <!-- TWITCH:END -->
 
 ---
