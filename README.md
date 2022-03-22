@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：第四届 林间盃灵魂绘师决定战](https://www.twitch.tv/videos/1432145933)
 - [【社畜鹰生 Day 47】林间盃第四届灵魂绘师竞赛](https://www.twitch.tv/videos/1431325506)
 - [精选内容：林间盃日麻活动赛 —— 2v2 赤羽之战](https://www.twitch.tv/videos/1428095617)
 - [精选内容：林间盃日麻积分赛 —— 3月第二场](https://www.twitch.tv/videos/1428095355)
 - [精选内容：漫漫长夜 （10）](https://www.twitch.tv/videos/1428094479)
-- [【社畜鹰生 Day 46】林间盃日麻活动赛（顺带，3月只有这个和日麻会开，4月恢复正常）](https://www.twitch.tv/videos/1427304005)
 <!-- TWITCH:END -->
 
 ---
