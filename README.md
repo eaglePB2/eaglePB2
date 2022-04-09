@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
-- [【社畜鹰生 Day 53】双人成行 是一款摧毁友情的游戏 ft. 冥雪](https://www.twitch.tv/videos/1448851683)
-- [【社畜鹰生 Day 53】双人成行 是一款摧毁友情的游戏 ft. 冥雪](https://www.twitch.tv/videos/1448841662)
+- [【社畜鹰生 Day 54】warframe日常 奸商日常 农夫日常 MR日常！](https://www.twitch.tv/videos/1449798797)
 - [【社畜鹰生 Day 52】林间盃 4月份 第一阶段日麻积分赛](https://www.twitch.tv/videos/1447923439)
 - [【社畜鹰生 Day 51】漫漫长夜之 大熊岛最后一只兔子拯救大作战](https://www.twitch.tv/videos/1446984638)
 - [精选内容：Valheim &lpar;11&rpar;](https://www.twitch.tv/videos/1445228293)
+- [【社畜鹰生 Day 50】偶回来啦！四王五王 一次过解决！](https://www.twitch.tv/videos/1444968737)
 <!-- TWITCH:END -->
 
 ---
