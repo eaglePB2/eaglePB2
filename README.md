@@ -36,11 +36,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 📕 Latest Bilibili Videos
 <!-- BILIBILI:START -->
-- [种子码测试](https://www.bilibili.com/video/BV1aK4y1H7be)
-- [【Minecraft CODE】代码玩起来（直播存档）](https://www.bilibili.com/video/BV1KK411n7Wn)
 - [【Brave frontier】直播存档](https://www.bilibili.com/video/BV1XC4y1b7AA)
-- [（这是一款小孩子的幻想童年 记录档案）](https://www.bilibili.com/video/av968025052)
-- [【Team Racing League】就一个边缘人玩一款边缘的赛车游戏](https://www.bilibili.com/video/av498026945)
+- [【Minecraft X 逃走中】系列](https://www.bilibili.com/video/av90630942)
+- [【Plazma Burst 2】Montage —— Bugs &amp; Glitches](https://www.bilibili.com/video/av84704611)
+- [【麦块】预 计 播 出](https://www.bilibili.com/video/av81108733)
+- [[Plazma Burst 2] 逃脱者Speedrun系列](https://www.bilibili.com/video/av81036545)
 <!-- BILIBILI:END -->
 
 ---
