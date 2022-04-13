@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：双人成行 &lpar;2&rpar;](https://www.twitch.tv/videos/1453637212)
+- [【重播】双人成行 VOD 记录档](https://www.twitch.tv/videos/1453584416)
 - [精选内容：双人成行 &lpar;1&rpar;](https://www.twitch.tv/videos/1451704718)
 - [精选内容：【Warframe 日常】Day 77](https://www.twitch.tv/videos/1451703871)
 - [精选内容：林间盃日麻积分赛 —— 4月第一场](https://www.twitch.tv/videos/1451703503)
-- [精选内容：漫漫长夜 （11）](https://www.twitch.tv/videos/1451703064)
-- [【重播】双人成行 VOD 记录档](https://www.twitch.tv/videos/1450537632)
 <!-- TWITCH:END -->
 
 ---
