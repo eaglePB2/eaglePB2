@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【社畜鹰生 Day 58】画画！](https://www.twitch.tv/videos/1458622662)
 - [【社畜鹰生 Day 57】Minecraft SMP 系列 —— 附带国战模式？](https://www.twitch.tv/videos/1457754957)
 - [精选内容：【Warframe 日常】Day 78](https://www.twitch.tv/videos/1457229520)
 - [【社畜鹰生 Day 56】Warframe 日常之 赚遗物?](https://www.twitch.tv/videos/1456629491)
 - [精选内容：林间盃日麻积分赛 —— 4月第二场](https://www.twitch.tv/videos/1455679484)
-- [精选内容：【Minecraft SMP 第二季】 Day 1](https://www.twitch.tv/videos/1455679051)
 <!-- TWITCH:END -->
 
 ---
