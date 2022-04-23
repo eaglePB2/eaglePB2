@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【社畜鹰生 Day 61】教练，我想开废球 QAQ](https://www.twitch.tv/videos/1463561803)
 - [【社畜鹰生 Day 60】四月林间盃 第三阶段 日麻积分赛](https://www.twitch.tv/videos/1461682837)
 - [精选内容：【林间盃】灵魂绘师决定战 第五届](https://www.twitch.tv/videos/1461553012)
 - [精选内容：【Minecraft SMP 第二季】 Day 3](https://www.twitch.tv/videos/1461552850)
 - [精选内容：【Minecraft SMP 第二季】 Day 2](https://www.twitch.tv/videos/1461552724)
-- [【社畜鹰生 Day 59】林间SMP之我需要大量火药粉……](https://www.twitch.tv/videos/1460760083)
 <!-- TWITCH:END -->
 
 ---
