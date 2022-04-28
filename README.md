@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【社畜鹰生 Day 62】林间SMP之最高阶突袭 + 地狱探险日记](https://www.twitch.tv/videos/1468293881)
 - [精选内容：【Minecraft SMP 第二季】 Day 4](https://www.twitch.tv/videos/1467279016)
 - [【社畜鹰生 Day 62】林间SMP之最高阶突袭 + 地狱探险日记](https://www.twitch.tv/videos/1467029417)
 - [精选内容：【Warframe 日常】Day 79](https://www.twitch.tv/videos/1464942681)
 - [精选内容：林间盃日麻积分赛 —— 4月第三场](https://www.twitch.tv/videos/1464942005)
-- [【社畜鹰生 Day 61】教练，我想开废球 QAQ](https://www.twitch.tv/videos/1463561803)
 <!-- TWITCH:END -->
 
 ---
