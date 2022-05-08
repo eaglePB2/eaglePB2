@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【社畜鹰生 Day 69】听说又有人的墓又要被盗了……？](https://www.twitch.tv/videos/1477308058)
 - [【社畜鹰生 Day 67】5月 第一阶段 日麻积分赛](https://www.twitch.tv/videos/1474750049)
 - [【社畜鹰生 Day 66】真 · 潜水](https://www.twitch.tv/videos/1472063086)
 - [精选内容：【Warframe 日常】Day 80](https://www.twitch.tv/videos/1470314440)
 - [精选内容：ICEY 试玩影片](https://www.twitch.tv/videos/1470314052)
-- [精选内容：林间盃日麻积分赛 —— 4月第四场](https://www.twitch.tv/videos/1470313399)
 <!-- TWITCH:END -->
 
 ---
