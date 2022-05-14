@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【社畜鹰生 Day 74】有一种故事 叫做刷zariman刷到虚脱](https://www.twitch.tv/videos/1482668549)
 - [【社畜鹰生 Day 71】挖！不是挖奋，是挖坟！](https://www.twitch.tv/videos/1480925364)
 - [精选内容：【Rise of the Tomb Raider】庄园篇](https://www.twitch.tv/videos/1480252458)
 - [精选内容：【Rise of the Tomb Raider】第二章](https://www.twitch.tv/videos/1480252457)
 - [【社畜鹰生 Day 71】挖！不是挖奋，是挖坟！](https://www.twitch.tv/videos/1479946126)
-- [精选内容：林间盃日麻积分赛 —— 5月第一场](https://www.twitch.tv/videos/1479928829)
 <!-- TWITCH:END -->
 
 ---
