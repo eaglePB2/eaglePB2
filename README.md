@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【社畜鹰生 Day 77】warframe日常 今天不打船 打隔离哭](https://www.twitch.tv/videos/1488923921)
 - [精选内容：【Warframe 日常】Day 81](https://www.twitch.tv/videos/1487273697)
 - [精选内容：【Barotrauma】第三章](https://www.twitch.tv/videos/1487273190)
 - [精选内容：林间盃日麻积分赛 —— 5月第三场](https://www.twitch.tv/videos/1487272757)
 - [精选内容：林间盃日麻积分赛 —— 5月第二场](https://www.twitch.tv/videos/1487272226)
-- [【社畜鹰生 Day 76】林间盃 5月第3阶段日麻积分赛](https://www.twitch.tv/videos/1487173868)
 <!-- TWITCH:END -->
 
 ---
