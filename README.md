@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【社畜鹰生 Day 80】一个人的孤独锐捷号之旅](https://www.twitch.tv/videos/1310365071)
 - [【社畜鹰生 Day 79】林间盃 5月份 第四阶段 日麻积分赛](https://www.twitch.tv/videos/1308566046)
 - [精选内容：【Minecraft SMP 第二季】 Day 5](https://www.twitch.tv/videos/1492626708)
 - [精选内容：【林间盃】灵魂绘师决定战 第六届](https://www.twitch.tv/videos/1492625701)
 - [精选内容：【Shadow of the Tomb Raider】第一章](https://www.twitch.tv/videos/1492625370)
-- [精选内容：【Warframe 日常】Day 82](https://www.twitch.tv/videos/1492624851)
 <!-- TWITCH:END -->
 
 ---
