@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【社畜鹰生 Day 81】林间盃 6月 第一阶段 四川美国麻将积分赛](https://www.twitch.tv/videos/1495116771)
 - [【社畜鹰生 Day 81】林间盃 6月 第一阶段 四川美国麻将积分赛](https://www.twitch.tv/videos/1314802852)
 - [【老鹰】Warframe小插曲：你TMD 锐捷BUG 心态炸裂](https://www.twitch.tv/videos/1313217011)
 - [精选内容：林间盃日麻积分赛 —— 5月第四场](https://www.twitch.tv/videos/1313215919)
 - [【社畜鹰生 Day 80】一个人的孤独锐捷号之旅](https://www.twitch.tv/videos/1310365071)
-- [【社畜鹰生 Day 79】林间盃 5月份 第四阶段 日麻积分赛](https://www.twitch.tv/videos/1308566046)
 <!-- TWITCH:END -->
 
 ---
