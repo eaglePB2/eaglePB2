@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [Unheard 疑案追声 —— 主线篇](https://www.twitch.tv/videos/1519039488)
 - [精选内容：桌游模拟器 之 残酷列车二选一](https://www.twitch.tv/videos/1517166964)
 - [精选内容：【林间盃】灵魂绘师决定战 第七届](https://www.twitch.tv/videos/1517166189)
 - [【宿舍鹰生 Day 6】地狱列车开起来！](https://www.twitch.tv/videos/1516516651)
 - [【宿舍鹰生 Day 5?】画画！](https://www.twitch.tv/videos/1514608364)
-- [精选内容：林间盃日麻积分赛 —— 6月第三场 ayame视角](https://www.twitch.tv/videos/1511537864)
 <!-- TWITCH:END -->
 
 ---
