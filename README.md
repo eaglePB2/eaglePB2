@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【宿舍鹰生 Day 10】林间盃 7月份 第二阶段 日麻积分赛](https://www.twitch.tv/videos/1530541550)
 - [精选内容：【Conan Exiles】Day 1 #0521](https://www.twitch.tv/videos/1529728660)
 - [【宿舍鹰生 Day 9】流亡！柯南的流亡之旅 （单荧幕 | 我觉得可能会卡）](https://www.twitch.tv/videos/1529598405)
 - [【Unheard 疑案追声】 —— 黑面观音DLC #0520](https://www.twitch.tv/videos/1528376700)
 - [【Unheard 疑案追声】 —— 致命剧本DLC #0520](https://www.twitch.tv/videos/1520073345)
-- [【Unheard 疑案追声】 —— 元宵节DLC #0520](https://www.twitch.tv/videos/1520032178)
 <!-- TWITCH:END -->
 
 ---
