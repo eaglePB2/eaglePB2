@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
-- [【宿舍鹰生 Day 14】在坠机地点盖林间的我们错过了什么？](https://www.twitch.tv/videos/1539297636)
-- [【宿舍鹰生 Day 13】流亡之日 第二天](https://www.twitch.tv/videos/1536311020)
-- [【宿舍鹰生 Day 11】从前从前…… 有一群人在玩桌游，以下省略500字。](https://www.twitch.tv/videos/1535331342)
-- [【宿舍鹰生 Day 11】从前从前…… 有一群人在玩桌游，以下省略500字。](https://www.twitch.tv/videos/1533435107)
-- [精选内容：林间盃日麻积分赛 —— 7月第二场](https://www.twitch.tv/videos/1533185885)
+- [精选内容：【林间盃】灵魂绘师决定战 第八届](https://www.twitch.tv/videos/1541425631)
+- [精选内容：【The Forest】Day 1](https://www.twitch.tv/videos/1541425189)
+- [精选内容：【Conan Exiles】Day 2](https://www.twitch.tv/videos/1541424722)
+- [精选内容：【Warframe】Day 84](https://www.twitch.tv/videos/1541424200)
+- [精选内容：桌游模拟器 之 UNO](https://www.twitch.tv/videos/1541423540)
 <!-- TWITCH:END -->
 
 ---
