@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【宿舍鹰生 Day 20】这是？流亡日！（单荧幕直播没办法24/7看聊天室）](https://www.twitch.tv/videos/1550063481)
+- [【宿舍鹰生 Day 20】古 墓 挑 战 大 合 拍（单荧幕直播没办法24/7看聊天室）](https://www.twitch.tv/videos/1549898811)
 - [【宿舍鹰生 Day 19】所以说 这盗墓我到底要什么时候才打完 awa （单荧幕直播没办法24/7看聊天室）](https://www.twitch.tv/videos/1547991446)
 - [精选内容：【The Forest】Day 2](https://www.twitch.tv/videos/1547950825)
 - [精选内容：林间盃日麻积分赛 —— 7月第四场](https://www.twitch.tv/videos/1547950418)
-- [精选内容：【Conan Exiles】Day 3](https://www.twitch.tv/videos/1547949421)
-- [【宿舍鹰生 Day 18】深夜爆肝森林论 - 我没有在speedrun （单荧幕，没办法24/7看聊天室](https://www.twitch.tv/videos/1546229881)
 <!-- TWITCH:END -->
 
 ---
