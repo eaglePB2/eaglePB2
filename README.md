@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
-- [【宿舍鹰生 Day 21】林间盃 8月份 第一阶段日麻积分赛（单荧幕直播没办法24/7看聊天室）](https://www.twitch.tv/videos/1551024753)
-- [【宿舍鹰生 Day 20】这是？流亡日！（单荧幕直播没办法24/7看聊天室）](https://www.twitch.tv/videos/1550063481)
-- [【宿舍鹰生 Day 20】古 墓 挑 战 大 合 拍（单荧幕直播没办法24/7看聊天室）](https://www.twitch.tv/videos/1549898811)
-- [【宿舍鹰生 Day 19】所以说 这盗墓我到底要什么时候才打完 awa （单荧幕直播没办法24/7看聊天室）](https://www.twitch.tv/videos/1547991446)
-- [精选内容：【The Forest】Day 2](https://www.twitch.tv/videos/1547950825)
+- [【宿舍鹰生 Day 22】今夕七夕 爱有引力❤️ （单荧幕直播 所以没办法随时看到聊天室）](https://www.twitch.tv/videos/1551987095)
+- [精选内容：【Conan Exiles】Day 4](https://www.twitch.tv/videos/1551887487)
+- [精选内容：林间盃日麻积分赛 —— 8月第一场](https://www.twitch.tv/videos/1551724539)
+- [精选内容：【Shadow of the Tomb Raider】Day 5 补漏篇章](https://www.twitch.tv/videos/1551721565)
+- [精选内容：【Shadow of the Tomb Raider】Day 5](https://www.twitch.tv/videos/1551720929)
 <!-- TWITCH:END -->
 
 ---
