@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【宿舍鹰生 Day 24】林间第一家线上赌场 上线啦！](https://www.twitch.tv/videos/1553803774)
 - [【宿舍鹰生 Day 23】阴森之路 owo](https://www.twitch.tv/videos/1552970781)
 - [【宿舍鹰生 Day 22】今夕七夕 爱有引力❤️ （单荧幕直播 所以没办法随时看到聊天室）](https://www.twitch.tv/videos/1551987095)
 - [精选内容：【Conan Exiles】Day 4](https://www.twitch.tv/videos/1551887487)
 - [精选内容：林间盃日麻积分赛 —— 8月第一场](https://www.twitch.tv/videos/1551724539)
-- [精选内容：【Shadow of the Tomb Raider】Day 5 补漏篇章](https://www.twitch.tv/videos/1551721565)
 <!-- TWITCH:END -->
 
 ---
