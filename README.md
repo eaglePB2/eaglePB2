@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【宿舍鹰生 Day 26】8月份 第二阶段 日麻积分赛](https://www.twitch.tv/videos/1557784836)
 - [【宿舍鹰生 Day 25】流放！](https://www.twitch.tv/videos/1556810765)
 - [精选内容：桌游模拟器 之 扑克比赛](https://www.twitch.tv/videos/1555131968)
 - [精选内容：【The Forest】Day 3](https://www.twitch.tv/videos/1555131202)
 - [精选内容：【Haven】 Day 1](https://www.twitch.tv/videos/1555129935)
-- [【宿舍鹰生 Day 24】林间第一家线上赌场 上线啦！](https://www.twitch.tv/videos/1553803774)
 <!-- TWITCH:END -->
 
 ---
