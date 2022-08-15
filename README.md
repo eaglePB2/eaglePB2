@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【宿舍鹰生 Day 29】灵魂绘师之画画ing](https://www.twitch.tv/videos/1561647353)
 - [精选内容：【Touhou Luna Nights】博丽灵梦 · 探索篇](https://www.twitch.tv/videos/1561215894)
 - [精选内容：【Touhou Luna Nights】正篇](https://www.twitch.tv/videos/1561215893)
 - [【宿舍鹰生 Day 29】迷糊深夜台 · 十六夜咲夜系列走起！](https://www.twitch.tv/videos/1560884800)
 - [精选内容：林间盃日麻积分赛 —— 8月第二场](https://www.twitch.tv/videos/1559967295)
-- [精选内容：【The Forest】Day 4](https://www.twitch.tv/videos/1559966908)
 <!-- TWITCH:END -->
 
 ---
