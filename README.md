@@ -23,28 +23,6 @@ You may come back later, as you wish if this readme.md is updated.
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [【直播鹰的精华】在漫漫长夜被熊暴打3次，从神装一路被打到死……](https://www.youtube.com/watch?v=dy46nrb4Qt4)
-- [[EU] PB2 PvP 2022 – Game 2 Highlights](https://www.youtube.com/watch?v=uNbqiIIOe4Y)
-- [[EU] PB2 PvP 2022 – Game 3 Highlights](https://www.youtube.com/watch?v=9MFQ47TiuFA)
-- [[EU] PB2 PvP 2022 – Game 1 Highlights](https://www.youtube.com/watch?v=b6Cb9j9Syik)
-- [【直播鹰的精华】理想中的打猎游戏 vs 现实中的打猎游戏](https://www.youtube.com/watch?v=4Qc_ouIhzE8)
-<!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Bilibili Videos
-<!-- BILIBILI:START -->
-- [【Brave frontier】直播存档](https://www.bilibili.com/video/BV1XC4y1b7AA)
-- [【Minecraft X 逃走中】系列](https://www.bilibili.com/video/av90630942)
-- [【Plazma Burst 2】Montage —— Bugs &amp; Glitches](https://www.bilibili.com/video/av84704611)
-- [【麦块】预 计 播 出](https://www.bilibili.com/video/av81108733)
-- [[Plazma Burst 2] 逃脱者Speedrun系列](https://www.bilibili.com/video/av81036545)
-<!-- BILIBILI:END -->
-
----
-
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
 - [慢节奏的谈情说爱，怎不让人喜欢呢 :3](https://www.twitch.tv/videos/1604412389)
@@ -56,15 +34,25 @@ You may come back later, as you wish if this readme.md is updated.
 
 ---
 
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+- [【直播鹰的精华】在漫漫长夜被熊暴打3次，从神装一路被打到死……](https://www.youtube.com/watch?v=dy46nrb4Qt4)
+- [[EU] PB2 PvP 2022 – Game 2 Highlights](https://www.youtube.com/watch?v=uNbqiIIOe4Y)
+- [[EU] PB2 PvP 2022 – Game 3 Highlights](https://www.youtube.com/watch?v=9MFQ47TiuFA)
+- [[EU] PB2 PvP 2022 – Game 1 Highlights](https://www.youtube.com/watch?v=b6Cb9j9Syik)
+- [【直播鹰的精华】理想中的打猎游戏 vs 现实中的打猎游戏](https://www.youtube.com/watch?v=4Qc_ouIhzE8)
+<!-- YOUTUBE:END -->
+
+---
+
 <img align="left" alt="eaglePB2's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eaglePB2&show_icons=true&hide_border=true&theme=merko" />
 <img align="left" alt="eaglePB2's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaglePB2&show_icons=true&hide_border=true&theme=merko" />    
 
-[website]: https://forestwork.net/
-[twitter]: https://forestwork.net/Twitter
-[youtube]: https://forestwork.net/Youtube
+[website]: https://teamforestwork.nde.tw/
+[twitter]: https://teamforestwork.nde.tw/Twitter
+[youtube]: https://teamforestwork.nde.tw/Youtube
 [twitch]: https://www.twitch.tv/eaglepb2
-[facebook]: https://forestwork.net/Facebook
-[discord]:https://forestwork.net/Discord
+[discord]: https://teamforestwork.nde.tw/discord
 
 <!-- RANDOMQUOTE:START -->
 <!-- RANDOMQUOTE:END -->
