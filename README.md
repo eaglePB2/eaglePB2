@@ -47,11 +47,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [慢节奏的谈情说爱，怎不让人喜欢呢 :3](https://www.twitch.tv/videos/1604412389)
 - [精选内容：【Warframe】Day 87](https://www.twitch.tv/videos/1603702474)
 - [遗物公司回来啦！ 这次刷khora prime！](https://www.twitch.tv/videos/1603572587)
 - [精选内容：【Warframe】Day 86](https://www.twitch.tv/videos/1602776745)
 - [精选内容：【Warframe】Day 85](https://www.twitch.tv/videos/1602775616)
-- [用5塊錢買20多塊的kfc套餐 :3](https://www.twitch.tv/videos/1602673657)
 <!-- TWITCH:END -->
 
 ---
