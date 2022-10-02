@@ -24,11 +24,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [2022 林间传统 Day 1 -&gt; Alien: Isolation](https://www.twitch.tv/videos/1606264536)
 - [2022 林间传统 Day 0：抽游戏！死亡时间到咯 :D](https://www.twitch.tv/videos/1605291101)
 - [慢节奏的谈情说爱，怎不让人喜欢呢 :3](https://www.twitch.tv/videos/1604412389)
 - [精选内容：【Warframe】Day 87](https://www.twitch.tv/videos/1603702474)
 - [遗物公司回来啦！ 这次刷khora prime！](https://www.twitch.tv/videos/1603572587)
-- [精选内容：【Warframe】Day 86](https://www.twitch.tv/videos/1602776745)
 <!-- TWITCH:END -->
 
 ---
