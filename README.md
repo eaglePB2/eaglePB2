@@ -24,11 +24,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [2022 林间传统 Day 4 -&gt; Alien: Isolation](https://www.twitch.tv/videos/1608991782)
 - [2022 林间传统 Day 3 -&gt; Alien: Isolation](https://www.twitch.tv/videos/1608138444)
 - [2022 林间传统 Day 1 -&gt; Alien: Isolation](https://www.twitch.tv/videos/1607247102)
 - [2022 林间传统 Day 1 -&gt; Alien: Isolation](https://www.twitch.tv/videos/1607041999)
 - [2022 林间传统 Day 0 -&gt; Nobody House 无人之居](https://www.twitch.tv/videos/1607040282)
-- [2022 林间传统 Day 0：抽游戏仪式](https://www.twitch.tv/videos/1607040281)
 <!-- TWITCH:END -->
 
 ---
