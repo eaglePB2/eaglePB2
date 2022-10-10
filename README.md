@@ -24,11 +24,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [2022 林间传统 Day 9 -&gt; 零 ～濡鸦之巫女～](https://www.twitch.tv/videos/1619615138)
+- [2022 林间传统 Day 8 -&gt; 零 ～濡鸦之巫女～](https://www.twitch.tv/videos/1619614438)
+- [2022 林间传统 Day 7 -&gt; 零 ～濡鸦之巫女～](https://www.twitch.tv/videos/1619613785)
+- [2022 林间传统 Day 9 -&gt; 零 ～濡鸦之巫女～](https://www.twitch.tv/videos/1619465831)
 - [2022 林间传统 Day 8 -&gt; 零 ～濡鸦之巫女～](https://www.twitch.tv/videos/1618506156)
-- [2022 林间传统 Day 7 -&gt; 零 ～濡鸦之巫女～](https://www.twitch.tv/videos/1618353078)
-- [2022 林间传统 Day 7 -&gt; 零 ～濡鸦之巫女～](https://www.twitch.tv/videos/1618351299)
-- [2022 林间传统 Day 6 -&gt; Alien: Isolation](https://www.twitch.tv/videos/1610922131)
-- [2022 林间传统 Day 5 -&gt; Alien: Isolation](https://www.twitch.tv/videos/1610921426)
 <!-- TWITCH:END -->
 
 ---
