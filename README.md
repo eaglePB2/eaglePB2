@@ -51,7 +51,7 @@ You may come back later, as you wish if this readme.md is updated.
 [twitter]: https://teamforestwork.nde.tw/Twitter
 [youtube]: https://teamforestwork.nde.tw/Youtube
 [twitch]: https://www.twitch.tv/eaglepb2
-[discord]: https://teamforestwork.nde.tw/discord
+[discord]: https://discord.gg/qKrub9b
 
 <!-- RANDOMQUOTE:START -->
 <!-- RANDOMQUOTE:END -->
