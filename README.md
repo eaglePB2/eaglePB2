@@ -24,11 +24,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [2022 林间传统 Day 13 -&gt; 纸嫁衣 2](https://www.twitch.tv/videos/1624630940)
 - [2022 林间传统 Day 12 -&gt; 纸嫁衣](https://www.twitch.tv/videos/1623862382)
 - [2022 林间传统 Day 11 -&gt; 零 ～濡鸦之巫女～](https://www.twitch.tv/videos/1621743992)
 - [2022 林间传统 Day 10 -&gt; 零 ～濡鸦之巫女～](https://www.twitch.tv/videos/1621743371)
 - [2022 林间传统 Day 11 -&gt; 零 ～濡鸦之巫女～](https://www.twitch.tv/videos/1621230523)
-- [2022 林间传统 Day 10 -&gt; 零 ～濡鸦之巫女～](https://www.twitch.tv/videos/1620361900)
 <!-- TWITCH:END -->
 
 ---
