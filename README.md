@@ -24,11 +24,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
-- [2022 林间传统 Day 16 -&gt; ib](https://www.twitch.tv/videos/1632174322)
-- [2022 林间传统 Day 14 -&gt; 纸嫁衣 2](https://www.twitch.tv/videos/1631382197)
-- [2022 林间传统 Day 13 -&gt; 纸嫁衣 2](https://www.twitch.tv/videos/1624630940)
-- [2022 林间传统 Day 12 -&gt; 纸嫁衣](https://www.twitch.tv/videos/1623862382)
-- [2022 林间传统 Day 11 -&gt; 零 ～濡鸦之巫女～](https://www.twitch.tv/videos/1621743992)
+- [2022 林间传统 Day 18 -&gt; 黑相集：棉兰号](https://www.twitch.tv/videos/1633569599)
+- [2022 林间传统 Day 18 -&gt; 黑相集：棉兰号](https://www.twitch.tv/videos/1633082310)
+- [2022 林间传统 Day 17 -&gt; 夜勤事件 The Convenience Store](https://www.twitch.tv/videos/1633063724)
+- [2022 林间传统 Day 17 -&gt; Poppy Playtime](https://www.twitch.tv/videos/1633063725)
+- [2022 林间传统 Day 16 -&gt; Poppy Playtime SpeedRun](https://www.twitch.tv/videos/1632943096)
 <!-- TWITCH:END -->
 
 ---
