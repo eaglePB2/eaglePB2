@@ -24,11 +24,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ### 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [2022 林间传统 Day 21 -&gt; Outlast 2](https://www.twitch.tv/videos/1635808336)
+- [2022 林间传统 Day 21 -&gt; Outlast 2](https://www.twitch.tv/videos/1635753354)
+- [2022 林间传统 Day 20 -&gt; 黑相集：棉兰号](https://www.twitch.tv/videos/1635592028)
+- [2022 林间传统 Day 20 -&gt; 黑相集：棉兰号](https://www.twitch.tv/videos/1635566577)
 - [2022 林间传统 Day 19 -&gt; 黑相集：棉兰号](https://www.twitch.tv/videos/1634037235)
-- [2022 林间传统 Day 19 -&gt; 黑相集：棉兰号](https://www.twitch.tv/videos/1633965420)
-- [2022 林间传统 Day 18 -&gt; 黑相集：棉兰号](https://www.twitch.tv/videos/1633569599)
-- [2022 林间传统 Day 18 -&gt; 黑相集：棉兰号](https://www.twitch.tv/videos/1633082310)
-- [2022 林间传统 Day 17 -&gt; 夜勤事件 The Convenience Store](https://www.twitch.tv/videos/1633063724)
 <!-- TWITCH:END -->
 
 ---
