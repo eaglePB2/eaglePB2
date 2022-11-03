@@ -24,11 +24,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
-- [宿舍直播稳定度测试](https://www.twitch.tv/videos/1639424281)
 - [2022 林间传统 Day 21 -&gt; Outlast 2](https://www.twitch.tv/videos/1635808336)
 - [2022 林间传统 Day 21 -&gt; Outlast 2](https://www.twitch.tv/videos/1635753354)
 - [2022 林间传统 Day 20 -&gt; 黑相集：棉兰号](https://www.twitch.tv/videos/1635592028)
 - [2022 林间传统 Day 20 -&gt; 黑相集：棉兰号](https://www.twitch.tv/videos/1635566577)
+- [2022 林间传统 Day 19 -&gt; 黑相集：棉兰号](https://www.twitch.tv/videos/1634037235)
 <!-- TWITCH:END -->
 
 
