@@ -24,11 +24,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：【The Forest】Day 6 #0545](https://www.twitch.tv/videos/1663086674)
 - [【宿舍鹰生】Day 56 我想不到标题](https://www.twitch.tv/videos/1662255988)
 - [精选内容：林间盃日麻积分赛 —— 11月第三场](https://www.twitch.tv/videos/1661552845)
 - [【老鹰】Warframe小插曲：奥布山谷据点全占领任务](https://www.twitch.tv/videos/1661552208)
 - [【宿舍鹰生】Day 55 8点要参加丧礼，这里早点小开台](https://www.twitch.tv/videos/1661444218)
-- [【宿舍鹰生】Day 54 11月 第三阶段 林间日麻积分赛](https://www.twitch.tv/videos/1660625610)
 <!-- TWITCH:END -->
 
 
