@@ -24,11 +24,11 @@ You may come back later, as you wish if this readme.md is updated.
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【宿舍鹰生】Day 60 流亡 + 新直播测试](https://www.twitch.tv/videos/1671762610)
 - [精选内容：【Warframe】Day 90 #0548](https://www.twitch.tv/videos/1668280168)
 - [【宿舍鹰生】Day 59 warframe Vonura刷刷刷！](https://www.twitch.tv/videos/1668174759)
 - [精选内容：【The Forest】Day 7 #0547](https://www.twitch.tv/videos/1667439495)
 - [精选内容：【Warframe】Day 89 #0547](https://www.twitch.tv/videos/1667439496)
-- [【宿舍鹰生】Day 58 我是一个只会捡东西的野人](https://www.twitch.tv/videos/1667348628)
 <!-- TWITCH:END -->
 
 
