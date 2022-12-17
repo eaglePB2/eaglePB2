@@ -1,7 +1,10 @@
-### Hello people, I'm EaglePB2 - The one who building something for fun 👋
+<!--### Hello people, I'm EaglePB2 - The one who building something for fun 👋
 Thank you for standby for this profile.   
 The purpose of this profile is coming soon.   
-You may come back later, as you wish if this readme.md is updated.   
+You may come back later, as you wish if this readme.md is updated.   -->
+
+<a href="https://github.com/lightda104530"><img src="https://readme-typing-svg.herokuapp.com/?duration=7000&width=600&lines=Hello+people,+I%27m+EaglePB2.;The+one+who+builds+something+for+fun+%F0%9F%91%8B;Thank+you+for+standby+for+this+profile.;The+purpose+of+this+profile+is+coming+soon.;You+may+come+back+later.;As+you+wish+if+this+readme.md+is+updated.;"></a>
+
 
 ## I'm a university student, interested on coding, fixing things, or even making games(?)
 - 🔭 I’m currently developing coding challenges by using various of languages I know of!
