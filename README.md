@@ -68,3 +68,13 @@ You may come back later, as you wish if this readme.md is updated.   -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 <!-- RANDOMQUOTE:END -->
 
+
+<!--
+       _____   _   _   _____       _____   _   _   ____   
+      |_   _| | | | | |  ___|     |  ___| | \ | | |  _  \  
+        | |   | |_| | | |___      | |___  |  \| | | | | | 
+        | |   |  _  | |  ___|     |  ___| |     | | | | | 
+        | |   | | | | | |___      | |___  | |\  | | |_| | 
+        |_|   |_| |_| |_____|     |_____| |_| \_| |____ / 
+      
+-->
