@@ -10,7 +10,7 @@ You may come back later, as you wish if this readme.md is updated.   -->
 - 🔭 I’m currently developing coding challenges by using various of languages I know of!
 - 🌱 I’m currently learning everything 🤣
 - 💬 I’m looking to doing more minecraft projects!
-- 🥅 2021 Goals: Starting Ruby,Rust,Go studies and make some interesting project...?
+- 🥅 2023 Goals: Do More Project, Dynamic Website goes brrrrr
 - ⚡ Fun fact: Introvert, so prepare yourself if you want to talk to me.
 
 ### Connections:
