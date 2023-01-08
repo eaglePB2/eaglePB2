@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [【Warframe 紫卡奇观】双子寇恩散机枪 + -75.3%射速 = ？](https://www.youtube.com/watch?v=4ZK-y21YuLI)
-- [【直播鹰的精华】在漫漫长夜被熊暴打3次，从神装一路被打到死……](https://www.youtube.com/watch?v=dy46nrb4Qt4)
-- [[EU] PB2 PvP 2022 – Game 2 Highlights](https://www.youtube.com/watch?v=uNbqiIIOe4Y)
-- [[EU] PB2 PvP 2022 – Game 3 Highlights](https://www.youtube.com/watch?v=9MFQ47TiuFA)
-- [[EU] PB2 PvP 2022 – Game 1 Highlights](https://www.youtube.com/watch?v=b6Cb9j9Syik)
+- [【梦想启航系列】 Tomb Raider 我们继续盗墓!](https://www.youtube.com/watch?v=iuIxY0O5mh8)
+- [【梦想启航系列】 Tomb Raider 盗墓咯~](https://www.youtube.com/watch?v=-5_smtRmy84)
+- [【梦想启航系列】 Brave Frontier 第20届 公会战](https://www.youtube.com/watch?v=Apa585oOhZ8)
+- [【夢想啟航系列】 Minecraft 基岩版成就生存 Day 7](https://www.youtube.com/watch?v=n1-3CenXd5U)
+- [【夢想啟航系列】 Minecraft 基岩版成就生存 Day 6](https://www.youtube.com/watch?v=UKq2w_vzDdw)
 <!-- YOUTUBE:END -->
 
 ---
