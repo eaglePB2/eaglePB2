@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [【梦想启航系列】 Tomb Raider 我们继续盗墓!](https://www.youtube.com/watch?v=iuIxY0O5mh8)
-- [【梦想启航系列】 Tomb Raider 盗墓咯~](https://www.youtube.com/watch?v=-5_smtRmy84)
-- [【梦想启航系列】 Brave Frontier 第20届 公会战](https://www.youtube.com/watch?v=Apa585oOhZ8)
-- [【夢想啟航系列】 Minecraft 基岩版成就生存 Day 7](https://www.youtube.com/watch?v=n1-3CenXd5U)
-- [【夢想啟航系列】 Minecraft 基岩版成就生存 Day 6](https://www.youtube.com/watch?v=UKq2w_vzDdw)
+- [【梦想启航系列】 Minecraft CODE 初体验](https://www.youtube.com/watch?v=-XR2Z1TtMrM)
+- [【梦想启航系列】 妈妈说不要随便上陌生人……的车](https://www.youtube.com/watch?v=NS83KNulBbI)
+- [【梦想启航系列】 缺氧系列](https://www.youtube.com/watch?v=yHxkX2lP4Yg)
+- [【梦想启航系列】 LIMBO](https://www.youtube.com/watch?v=oTfA6698GTo)
+- [【梦想启航系列】 用机器人的角度去看人类的文明](https://www.youtube.com/watch?v=QEzzV2rYda4)
 <!-- YOUTUBE:END -->
 
 ---
