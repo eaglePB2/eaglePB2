@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [【梦想启航系列】 Minecraft CODE 初体验](https://www.youtube.com/watch?v=-XR2Z1TtMrM)
-- [【梦想启航系列】 妈妈说不要随便上陌生人……的车](https://www.youtube.com/watch?v=NS83KNulBbI)
-- [【梦想启航系列】 缺氧系列](https://www.youtube.com/watch?v=yHxkX2lP4Yg)
-- [【梦想启航系列】 LIMBO](https://www.youtube.com/watch?v=oTfA6698GTo)
-- [【梦想启航系列】 用机器人的角度去看人类的文明](https://www.youtube.com/watch?v=QEzzV2rYda4)
+- [【梦想启航系列】 Minecraft 红蓝生存 ft. @Whitefish614](https://www.youtube.com/watch?v=9-aAL7A-w7Q)
+- [【梦想启航系列】 Minecraft 红蓝生存 part 2 ft. @Whitefish614](https://www.youtube.com/watch?v=V-EWJwsotnU)
+- [“Vanessa 全程洗白？” |  Cytus 剧情线 Behind the Scenes？| Cytus 2 直播片段 | Vanessa是怎么一步步分裂成想要杀戮人类的无情机器？](https://www.youtube.com/watch?v=8hTcHZAb9QY)
+- [【梦想启航系列】 Brave Frontie 日常 古早100层地牢SpeedRun](https://www.youtube.com/watch?v=sKsxFHHQPp0)
+- [【梦想启航系列】 Death&#39;s Coming 我是一个称职的死神吗owo?](https://www.youtube.com/watch?v=VWBI6NHT0ic)
 <!-- YOUTUBE:END -->
 
 ---
