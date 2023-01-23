@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：主播女孩重度依賴 #0555](https://www.twitch.tv/videos/1715238540)
 - [【宿舍🦅生】直播戒断综合征](https://www.twitch.tv/videos/1713974315)
 - [精选内容：【林间盃】灵魂绘师决定战 第十三届](https://www.twitch.tv/videos/1712104743)
 - [精选内容：Portal #0554](https://www.twitch.tv/videos/1712103671)
 - [【宿舍🦅生】这游戏都不知道已经过几百年了你跟我说现在才玩这个？](https://www.twitch.tv/videos/1711908666)
-- [【宿舍🦅生】今日有没有空？日麻二缺一啦!](https://www.twitch.tv/videos/1710978639)
 <!-- TWITCH:END -->
 
 
