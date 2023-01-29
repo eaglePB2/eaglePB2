@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [【梦想启航系列】 Minecraft 红蓝生存 ft. @Whitefish614](https://www.youtube.com/watch?v=9-aAL7A-w7Q)
-- [【梦想启航系列】 Minecraft 红蓝生存 part 2 ft. @Whitefish614](https://www.youtube.com/watch?v=V-EWJwsotnU)
-- [“Vanessa 全程洗白？” |  Cytus 剧情线 Behind the Scenes？| Cytus 2 直播片段 | Vanessa是怎么一步步分裂成想要杀戮人类的无情机器？](https://www.youtube.com/watch?v=8hTcHZAb9QY)
-- [【梦想启航系列】 Brave Frontie 日常 古早100层地牢SpeedRun](https://www.youtube.com/watch?v=sKsxFHHQPp0)
-- [【梦想启航系列】 Death&#39;s Coming 我是一个称职的死神吗owo?](https://www.youtube.com/watch?v=VWBI6NHT0ic)
+- [【梦想启航系列】 Team Racing League](https://www.youtube.com/watch?v=IGp_MoLYsIk)
+- [【梦想启航系列】 Plazma Burst 2 PvP 日常](https://www.youtube.com/watch?v=dn9V2s23ZyE)
+- [【梦想启航系列】 刺客教条 · 奥德赛试玩](https://www.youtube.com/watch?v=KWNd1sM_p64)
+- [【梦想启航系列】 Plazma Burst 2 日常跟一群中国人打弹幕游戏ing](https://www.youtube.com/watch?v=69DCPCF0g3E)
+- [【梦想启航系列】 Between Two Castles 之 只能跟机器人玩拉 QAQ](https://www.youtube.com/watch?v=rYcMkNS82Jw)
 <!-- YOUTUBE:END -->
 
 ---
