@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [【梦想启航系列】 Team Racing League](https://www.youtube.com/watch?v=IGp_MoLYsIk)
-- [【梦想启航系列】 Plazma Burst 2 PvP 日常](https://www.youtube.com/watch?v=dn9V2s23ZyE)
-- [【梦想启航系列】 刺客教条 · 奥德赛试玩](https://www.youtube.com/watch?v=KWNd1sM_p64)
-- [【梦想启航系列】 Plazma Burst 2 日常跟一群中国人打弹幕游戏ing](https://www.youtube.com/watch?v=69DCPCF0g3E)
-- [【梦想启航系列】 Between Two Castles 之 只能跟机器人玩拉 QAQ](https://www.youtube.com/watch?v=rYcMkNS82Jw)
+- [【梦想启航系列】  内](https://www.youtube.com/watch?v=1B-KQ7XLdis)
+- [【梦想启航系列】  Brave Frontier 第21届 公会战](https://www.youtube.com/watch?v=WHx6kYAconM)
+- [【梦想启航系列】 Star Defender 2D 初体验](https://www.youtube.com/watch?v=8eu1tYtJAyc)
+- [【梦想启航系列】 3/10](https://www.youtube.com/watch?v=LPffzSSyXHQ)
+- [【梦想启航系列】 Minecraft 地狱逃脱日记](https://www.youtube.com/watch?v=9g6rGsKQl70)
 <!-- YOUTUBE:END -->
 
 ---
