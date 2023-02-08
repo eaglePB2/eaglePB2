@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【宿舍🦅生】晚餐吃完没有哈利的珀特2](https://www.twitch.tv/videos/1730844575)
+- [【宿舍🦅生】没有哈利的珀特2](https://www.twitch.tv/videos/1730762805)
 - [精选内容：Epistory: Typing Chronicles #0561](https://www.twitch.tv/videos/1727022608)
 - [精选内容：【The Forest】Day 9 #0560](https://www.twitch.tv/videos/1727021880)
 - [精选内容：Reventure 101 #0559](https://www.twitch.tv/videos/1727021513)
-- [【宿舍🦅生】程序員牌打字機 上綫啦！](https://www.twitch.tv/videos/1726832579)
-- [【宿舍🦅生】森林日常 随便啦 我不知道玩到什么了](https://www.twitch.tv/videos/1725888237)
 <!-- TWITCH:END -->
 
 
