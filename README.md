@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [【梦想启航系列】  内](https://www.youtube.com/watch?v=1B-KQ7XLdis)
-- [【梦想启航系列】  Brave Frontier 第21届 公会战](https://www.youtube.com/watch?v=WHx6kYAconM)
-- [【梦想启航系列】 Star Defender 2D 初体验](https://www.youtube.com/watch?v=8eu1tYtJAyc)
-- [【梦想启航系列】 3/10](https://www.youtube.com/watch?v=LPffzSSyXHQ)
-- [【梦想启航系列】 Minecraft 地狱逃脱日记](https://www.youtube.com/watch?v=9g6rGsKQl70)
+- [【夢想啟航系列】 GTA 剧情模式 —— 看来是不是要被吃一大堆的音乐版权啦QAQ](https://www.youtube.com/watch?v=87fROQ08FaE)
+- [【夢想啟航系列】 GTA 剧情模式 —— 看来是不是要被吃一大堆的音乐版权啦QAQ](https://www.youtube.com/watch?v=bMXJg_eYS04)
+- [【夢想啟航系列】 Minecraft 基岩版成就生存 Day 8](https://www.youtube.com/watch?v=zyrhvCMmQIM)
+- [【梦想启航系列】 A Short Hike 一只鸟的短途（？）旅行](https://www.youtube.com/watch?v=2EpRjGRPENw)
+- [【梦想启航系列】  Plazma Burst 2 戰役模式 —— Slot 4 + 9 Only](https://www.youtube.com/watch?v=H7eFu8YnOgQ)
 <!-- YOUTUBE:END -->
 
 ---
