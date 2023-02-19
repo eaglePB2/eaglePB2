@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [【夢想啟航系列】 GTA 剧情模式 —— 看来是不是要被吃一大堆的音乐版权啦QAQ](https://www.youtube.com/watch?v=87fROQ08FaE)
-- [【夢想啟航系列】 GTA 剧情模式 —— 看来是不是要被吃一大堆的音乐版权啦QAQ](https://www.youtube.com/watch?v=bMXJg_eYS04)
-- [【夢想啟航系列】 Minecraft 基岩版成就生存 Day 8](https://www.youtube.com/watch?v=zyrhvCMmQIM)
-- [【梦想启航系列】 A Short Hike 一只鸟的短途（？）旅行](https://www.youtube.com/watch?v=2EpRjGRPENw)
-- [【梦想启航系列】  Plazma Burst 2 戰役模式 —— Slot 4 + 9 Only](https://www.youtube.com/watch?v=H7eFu8YnOgQ)
+- [【梦想启航系列】 Teleglitch](https://www.youtube.com/watch?v=BJP0FBZRNCM)
+- [【梦想启航系列】 Brave Frontier 第22届 公会战](https://www.youtube.com/watch?v=eBkXe70flEA)
+- [【夢想啟航系列】 GTA 剧情模式 —— 看来是不是要被吃一大堆的音乐版权啦QAQ](https://www.youtube.com/watch?v=7O7qMzREws0)
+- [【夢想啟航系列】 GTA 剧情模式 —— 看来是不是要被吃一大堆的音乐版权啦QAQ](https://www.youtube.com/watch?v=jFWeM0kuhUY)
+- [【夢想啟航系列】 World of Goo —— 黑黑黏黏的游戲](https://www.youtube.com/watch?v=aOXO3ztPC58)
 <!-- YOUTUBE:END -->
 
 ---
