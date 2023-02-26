@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [【梦想启航系列】 Teleglitch](https://www.youtube.com/watch?v=BJP0FBZRNCM)
-- [【梦想启航系列】 Brave Frontier 第22届 公会战](https://www.youtube.com/watch?v=eBkXe70flEA)
-- [【夢想啟航系列】 GTA 剧情模式 —— 看来是不是要被吃一大堆的音乐版权啦QAQ](https://www.youtube.com/watch?v=7O7qMzREws0)
-- [【夢想啟航系列】 GTA 剧情模式 —— 看来是不是要被吃一大堆的音乐版权啦QAQ](https://www.youtube.com/watch?v=jFWeM0kuhUY)
-- [【夢想啟航系列】 World of Goo —— 黑黑黏黏的游戲](https://www.youtube.com/watch?v=aOXO3ztPC58)
+- [【梦想启航系列】  PayDay 2 收穫日 Part 4](https://www.youtube.com/watch?v=vao36OJWJjI)
+- [【梦想启航系列】  PayDay 2 收穫日 Part 3](https://www.youtube.com/watch?v=Nz-gyLUjYS4)
+- [【觀衆剪輯】我打賭你看完這個影片就會去看咽喉科](https://www.youtube.com/watch?v=swFzv4OAQ_8)
+- [【梦想启航系列】  PayDay 2 收穫日 Part 2](https://www.youtube.com/watch?v=MrC8XkIUOhc)
+- [【梦想启航系列】  PayDay 2 收穫日 Part 1](https://www.youtube.com/watch?v=M7h1SsjqaW4)
 <!-- YOUTUBE:END -->
 
 ---
