@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [【梦想启航系列】  PayDay 2 收穫日 Part 4](https://www.youtube.com/watch?v=vao36OJWJjI)
-- [【梦想启航系列】  PayDay 2 收穫日 Part 3](https://www.youtube.com/watch?v=Nz-gyLUjYS4)
-- [【觀衆剪輯】我打賭你看完這個影片就會去看咽喉科](https://www.youtube.com/watch?v=swFzv4OAQ_8)
-- [【梦想启航系列】  PayDay 2 收穫日 Part 2](https://www.youtube.com/watch?v=MrC8XkIUOhc)
-- [【梦想启航系列】  PayDay 2 收穫日 Part 1](https://www.youtube.com/watch?v=M7h1SsjqaW4)
+- [【梦想启航系列】  PayDay 2 收穫日 Part 11](https://www.youtube.com/watch?v=3HGf9PP0wrY)
+- [【梦想启航系列】  PayDay 2 收穫日 Part 10](https://www.youtube.com/watch?v=Z_escExMHb0)
+- [【梦想启航系列】  PayDay 2 收穫日 Part 9](https://www.youtube.com/watch?v=Lhu5F63QsIw)
+- [【梦想启航系列】  PayDay 2 收穫日 Part 8](https://www.youtube.com/watch?v=kgMuFvgD0cQ)
+- [【梦想启航系列】  PayDay 2 收穫日 Part 7](https://www.youtube.com/watch?v=L55lIfZ80AM)
 <!-- YOUTUBE:END -->
 
 ---
