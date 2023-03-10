@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【梦想启航系列】  PayDay 2 收穫日 Part 17](https://www.youtube.com/watch?v=cP0oQAfpL8U)
 - [【梦想启航系列】  PayDay 2 收穫日 Part 16](https://www.youtube.com/watch?v=nNhrNq7xlm8)
 - [【梦想启航系列】  PayDay 2 收穫日 Part 15](https://www.youtube.com/watch?v=xv1xKYFUeuk)
 - [【觀衆剪輯】自起4次的男人](https://www.youtube.com/watch?v=x-D_qh6Q1wQ)
 - [【梦想启航系列】  PayDay 2 收穫日 Part 14](https://www.youtube.com/watch?v=HnAWc62gVZM)
-- [【觀衆剪輯】打日麻打到被兩個女生說噁心,你的心臟還好嗎?](https://www.youtube.com/watch?v=3Gw4n8c3640)
 <!-- YOUTUBE:END -->
 
 ---
