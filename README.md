@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【梦想启航系列】 Plazma Burst 2 Campaign Mode —— April Fools Speedrun](https://www.youtube.com/watch?v=mDX4HKPliTg)
+- [【梦想启航系列】 Plazma Burst 2 10 years anniversary Event](https://www.youtube.com/watch?v=DqBbggP1CIA)
 - [【梦想启航系列】 PayDay 2 收穫日 Part 19](https://www.youtube.com/watch?v=jg_Rlc7bVo8)
 - [【梦想启航系列】 PayDay 2 收穫日 Part 18](https://www.youtube.com/watch?v=glwUzoKQip4)
 - [【梦想启航系列】 DIvide By Sheep —— 羊羊迫害解谜游戏](https://www.youtube.com/watch?v=qGKlSczbX_Q)
-- [【觀衆剪輯】森林之子官方：我们修复了用木棒就能穿墙的bug，新增了不用木棒也能穿墙的特性（比赞](https://www.youtube.com/watch?v=Lee_NJ56o0w)
-- [【梦想启航系列】 DIvide By Sheep —— 這麽可愛的分🐏游戲應該沒什麽問題吧？](https://www.youtube.com/watch?v=oqoqi_-enpg)
 <!-- YOUTUBE:END -->
 
 ---
