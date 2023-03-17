@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：【宿舍🦅生】林間雀魂活動周 · 合作役滿大戰！](https://www.twitch.tv/videos/1766768186)
+- [精选内容：【Rhythm Doctor】Day 1 #0574](https://www.twitch.tv/videos/1766767849)
+- [精选内容：【災難公關】Day 2 #0573](https://www.twitch.tv/videos/1766767494)
 - [【宿舍🦅生】林間雀魂活動周 · 合作役滿大戰！](https://www.twitch.tv/videos/1765776862)
 - [【宿舍🦅生】7秒醫生](https://www.twitch.tv/videos/1764852959)
-- [【宿舍🦅生】灾难公关是一款随时随地可能会被图奇ban台的游戏](https://www.twitch.tv/videos/1761975241)
-- [精选内容：【Sons of the Forest】Day 2 #0572](https://www.twitch.tv/videos/1761940323)
-- [【宿舍🦅生】Discord最近的锅，我们一把一把算。 森林之子杂谈ON](https://www.twitch.tv/videos/1760912184)
 <!-- TWITCH:END -->
 
 
