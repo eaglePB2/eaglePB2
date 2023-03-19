@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 PayDay 2 收穫日 Part 22](https://www.youtube.com/watch?v=KMDOagPGuv0)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 21](https://www.youtube.com/watch?v=9KWFEn-XoGw)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 20](https://www.youtube.com/watch?v=jCGwVQ8hXts)
 - [【梦想启航系列】 Plazma Burst 2 Campaign Mode —— April Fools Speedrun](https://www.youtube.com/watch?v=mDX4HKPliTg)
 - [【梦想启航系列】 Plazma Burst 2 10 years anniversary Event](https://www.youtube.com/watch?v=DqBbggP1CIA)
-- [【梦想启航系列】 PayDay 2 收穫日 Part 19](https://www.youtube.com/watch?v=jg_Rlc7bVo8)
 <!-- YOUTUBE:END -->
 
 ---
