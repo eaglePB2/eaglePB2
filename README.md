@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [森林之子最感（卡）人的故事，他的家是如何在艱苦中綻放出“溫暖”的光芒！](https://www.youtube.com/watch?v=ek7IuncQajU)
+- [【夢想啓航系列】 PayDay 2 收穫日 Part 23](https://www.youtube.com/watch?v=4AgeiW7vkjA)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 22](https://www.youtube.com/watch?v=KMDOagPGuv0)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 21](https://www.youtube.com/watch?v=9KWFEn-XoGw)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 20](https://www.youtube.com/watch?v=jCGwVQ8hXts)
-- [【梦想启航系列】 Plazma Burst 2 Campaign Mode —— April Fools Speedrun](https://www.youtube.com/watch?v=mDX4HKPliTg)
-- [【梦想启航系列】 Plazma Burst 2 10 years anniversary Event](https://www.youtube.com/watch?v=DqBbggP1CIA)
 <!-- YOUTUBE:END -->
 
 ---
