@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：【Sons of the Forest】Day 3 #0573](https://www.twitch.tv/videos/1769713351)
 - [【宿舍🦅生】森林之子開荒Part 3](https://www.twitch.tv/videos/1767613169)
 - [精选内容：【宿舍🦅生】林間雀魂活動周 · 合作役滿大戰！](https://www.twitch.tv/videos/1766768186)
 - [精选内容：【Rhythm Doctor】Day 1 #0574](https://www.twitch.tv/videos/1766767849)
 - [精选内容：【災難公關】Day 2 #0573](https://www.twitch.tv/videos/1766767494)
-- [【宿舍🦅生】林間雀魂活動周 · 合作役滿大戰！](https://www.twitch.tv/videos/1765776862)
 <!-- TWITCH:END -->
 
 
