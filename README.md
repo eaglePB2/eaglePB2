@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 PayDay 2 收穫日 Part 26](https://www.youtube.com/watch?v=vlXj2z765QY)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 25](https://www.youtube.com/watch?v=OOki4i1Updc)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 24](https://www.youtube.com/watch?v=6MIhtcRDgb8)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 24](https://www.youtube.com/watch?v=rmlr7UEaoII)
 - [森林之子最感（卡）人的故事，他的家是如何在艱苦中綻放出“溫暖”的光芒！](https://www.youtube.com/watch?v=ek7IuncQajU)
-- [【夢想啓航系列】 PayDay 2 收穫日 Part 23](https://www.youtube.com/watch?v=4AgeiW7vkjA)
 <!-- YOUTUBE:END -->
 
 ---
