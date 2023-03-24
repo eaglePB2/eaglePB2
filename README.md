@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：Detroit: Become Human 直播記錄 #0574](https://www.twitch.tv/videos/1773198394)
 - [【宿舍🦅生】我免費啦！ 底特律 vs 宿舍網絡，誰會勝出？](https://www.twitch.tv/videos/1772854560)
 - [精选内容：林间盃日麻积分赛 —— 3月第三场](https://www.twitch.tv/videos/1772425440)
 - [【老鹰】Warframe小插曲：带 @v_hanasakiayame 收集Mirage Prime的部件 awa](https://www.twitch.tv/videos/1772424609)
 - [【宿舍🦅生】今天很刚好就是三三三欸？ 能不能碰？](https://www.twitch.tv/videos/1772320875)
-- [【宿舍🦅生】浅开工作台 顺便测试网络](https://www.twitch.tv/videos/1771317298)
 <!-- TWITCH:END -->
 
 
