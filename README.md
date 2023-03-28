@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 PayDay 2 收穫日 Part 29](https://www.youtube.com/watch?v=quN8n2kLT6E)
+- [【夢想啓航系列】 PayDay 2 收穫日 Part 29](https://www.youtube.com/watch?v=BfsaD6wrm5c)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 28](https://www.youtube.com/watch?v=HVww4-4OBjs)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 27](https://www.youtube.com/watch?v=kfqYqekcqO8)
 - [【梦想启航系列】 Brave Frontier 第24届 公会战](https://www.youtube.com/watch?v=eghXOgX5hBo)
-- [【夢想啓航系列】 PayDay 2 收穫日 Part 26](https://www.youtube.com/watch?v=vlXj2z765QY)
-- [【夢想啓航系列】 PayDay 2 收穫日 Part 25](https://www.youtube.com/watch?v=OOki4i1Updc)
 <!-- YOUTUBE:END -->
 
 ---
