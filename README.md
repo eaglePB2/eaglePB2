@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 泡茶聊天做地圖 農曆新年大亂鬥 （Minecraft）](https://www.youtube.com/watch?v=d3Ae9SW4pNo)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 32](https://www.youtube.com/watch?v=rNfH_0hZNhc)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 31](https://www.youtube.com/watch?v=UbB66Ze8tVU)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 30](https://www.youtube.com/watch?v=HrW4z0p_y9w)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 29](https://www.youtube.com/watch?v=BfsaD6wrm5c)
-- [【夢想啓航系列】 PayDay 2 收穫日 Part 28](https://www.youtube.com/watch?v=HVww4-4OBjs)
 <!-- YOUTUBE:END -->
 
 ---
