@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【宿舍🦅生】L4D2 第二团 feat. @v_hanasakiayame @yt_tianxuan @ruby6231](https://www.twitch.tv/videos/1790012342)
 - [精选内容：林间盃日麻积分赛 —— 4月第一场](https://www.twitch.tv/videos/1787749069)
 - [精选内容：Operation: Tango #0579 Feat. @v_hanasakiayame](https://www.twitch.tv/videos/1787747797)
 - [【宿舍🦅生】打麻将](https://www.twitch.tv/videos/1787520786)
 - [【宿舍🦅生】我是窜网使，请多指教。 Feat. @v_hanasakiayame](https://www.twitch.tv/videos/1787284760)
-- [精选内容：林间盃日麻积分赛 —— 1月第一场](https://www.twitch.tv/videos/1783054838)
 <!-- TWITCH:END -->
 
 
