@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 PayDay 2 收穫日 Part 46](https://www.youtube.com/watch?v=FT66LezoOCo)
+- [赤銀的麻將術：從夾縫中求生到成為一名頂尖的點炮高手](https://www.youtube.com/watch?v=fr0PSwNelAE)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 45](https://www.youtube.com/watch?v=h54LGTTdTuk)
 - [太酷了吧!~這時機!&lpar;少1次倒地&rpar;](https://www.youtube.com/watch?v=gE8KHFNFcno)
 - [我敢打賭你會在看完我的視頻后去耳鼻喉科](https://www.youtube.com/watch?v=F60sOsg8BhU)
-- [【夢想啓航系列】 PayDay 2 收穫日 Part 44](https://www.youtube.com/watch?v=f7Urf3f2bWU)
-- [【夢想啓航系列】 PayDay 2 收穫日 Part 43](https://www.youtube.com/watch?v=SUXICdnjNUQ)
 <!-- YOUTUBE:END -->
 
 ---
