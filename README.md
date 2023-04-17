@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [最強男人的不屈精神，四次倒下五次站起](https://www.youtube.com/watch?v=0f0lJ2Edd_A)
+- [【夢想啓航系列】 无声下班 BREAK （Minecraft）](https://www.youtube.com/watch?v=TnME7Do1Egc)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 47](https://www.youtube.com/watch?v=RwIpFsBL99k)
 - [打日麻打到被兩個女生說噁心,你的心臟還好嗎?](https://www.youtube.com/watch?v=4O8sv7U9l9U)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 46](https://www.youtube.com/watch?v=FT66LezoOCo)
-- [赤銀的麻將術：從夾縫中求生到成為一名頂尖的點炮高手](https://www.youtube.com/watch?v=fr0PSwNelAE)
-- [【夢想啓航系列】 PayDay 2 收穫日 Part 45](https://www.youtube.com/watch?v=h54LGTTdTuk)
 <!-- YOUTUBE:END -->
 
 ---
