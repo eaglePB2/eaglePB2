@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【宿舍🦅生】L4D2 第二團 feat. @v_hanasakiayame @yt_tianxuan @ruby6231](https://www.twitch.tv/videos/1796878994)
 - [【老鹰】Warframe小插曲：繼續带 @v_hanasakiayame 刷材料 + 遺物公司隨緣開](https://www.twitch.tv/videos/1796205065)
 - [精选内容：【Sons of the Forest】Day 5 #0582](https://www.twitch.tv/videos/1796204540)
 - [【宿舍🦅生】小丑竟然是我们自己 QAQ](https://www.twitch.tv/videos/1796069651)
 - [【宿舍🦅生】warframe小玩 · 帶人打warframe一下](https://www.twitch.tv/videos/1795227461)
-- [精选内容：桌游模拟器 之 心灵同步 #0581](https://www.twitch.tv/videos/1794464286)
 <!-- TWITCH:END -->
 
 
