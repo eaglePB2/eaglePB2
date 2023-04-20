@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【UHC先鋒測試隊系列】 UHCrafted 最新版本测试](https://www.youtube.com/watch?v=l2vOuMfdO0Y)
 - [【UHC先鋒測試隊系列】 MK 5v2](https://www.youtube.com/watch?v=DsiKxRN1JZI)
+- [偷襲！ 不講wood！ blue了！](https://www.youtube.com/watch?v=Wo4rFstZg-g)
+- [【UHC先鋒測試隊系列】 方块宿舍UHC测试服](https://www.youtube.com/watch?v=zZ4R_uw8O1c)
 - [【UHC先鋒測試隊系列】 亂入UHC Blox 1.12.2測試賽 feat. 原作者](https://www.youtube.com/watch?v=ostsQaCTJek)
-- [【UHC先鋒測試隊系列】 UHCEvolved](https://www.youtube.com/watch?v=0Wz5HoJtlQE)
-- [理想中的打猎游戏 vs 现实中的打猎游戏](https://www.youtube.com/watch?v=M1KR0gEKIno)
-- [手銬你太OP了吧](https://www.youtube.com/watch?v=Sj-D4I8Z2f4)
 <!-- YOUTUBE:END -->
 
 ---
