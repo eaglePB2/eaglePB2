@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：A Little to the Left #0586](https://www.twitch.tv/videos/1802061114)
 - [【宿舍🦅生】整理物品的鹰 with 一只爱捣乱的猫](https://www.twitch.tv/videos/1800489294)
 - [精选内容：【Sons of the Forest】Day 6 #0585](https://www.twitch.tv/videos/1799830061)
 - [精选内容：We Were Here #0584](https://www.twitch.tv/videos/1799829544)
 - [精选内容：林间盃日麻积分赛 —— 4月第三场](https://www.twitch.tv/videos/1799828946)
-- [【宿舍🦅生】森林之子 聽説有人很7](https://www.twitch.tv/videos/1799578127)
 <!-- TWITCH:END -->
 
 
