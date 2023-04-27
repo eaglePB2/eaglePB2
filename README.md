@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [“你要死了，要不要考慮一下”](https://www.youtube.com/watch?v=wheHi3IEet0)
+- [【夢想啓航系列】 PayDay 2 收穫日 Part 52](https://www.youtube.com/watch?v=nH58ZssoNu0)
 - [某兔子惨遭开过光的嘴巴迫害，并且果断被放生 QwQ](https://www.youtube.com/watch?v=9NYk0UmKevM)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 51](https://www.youtube.com/watch?v=fUOxn2e6LW0)
 - [­](https://www.youtube.com/watch?v=IEC9ByJkelM)
-- [【夢想啓航系列】 PayDay 2 收穫日 Part 50](https://www.youtube.com/watch?v=t6_07-siD4M)
-- [【夢想啓航系列】 PayDay 2 收穫日 Part 49](https://www.youtube.com/watch?v=ZTBhZhIMcuo)
 <!-- YOUTUBE:END -->
 
 ---
