@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 PayDay 2 收穫日 Part 55](https://www.youtube.com/watch?v=Hcr-D23XMTA)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 54](https://www.youtube.com/watch?v=Ez40G-8ToYg)
 - [這游戲不歡迎嘴巴開過光的人，特別是還會立flag的](https://www.youtube.com/watch?v=zqEOzH1NuOA)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 53](https://www.youtube.com/watch?v=kxix8s5XH88)
 - [“你要死了，要不要考慮一下”](https://www.youtube.com/watch?v=wheHi3IEet0)
-- [【夢想啓航系列】 PayDay 2 收穫日 Part 52](https://www.youtube.com/watch?v=nH58ZssoNu0)
 <!-- YOUTUBE:END -->
 
 ---
