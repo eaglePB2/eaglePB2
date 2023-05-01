@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：【林间狼人系列】Goose Goose Duck](https://www.twitch.tv/videos/1807447189)
 - [【宿舍🦅生】人不够 还是打unpacking好了 PartyHat](https://www.twitch.tv/videos/1806684255)
 - [【老鹰】Warframe小插曲：你知道刚刃版的Duviri有多难打吗？](https://www.twitch.tv/videos/1804816356)
 - [【宿舍🦅生】Duviri Paradox 开农（ feat. @v_hanasakiayame @ruby](https://www.twitch.tv/videos/1804697303)
 - [精选内容：【Warframe】Day 96 #0581](https://www.twitch.tv/videos/1804506325)
-- [精选内容：林间盃日麻积分赛 —— 4月第四场](https://www.twitch.tv/videos/1804505231)
 <!-- TWITCH:END -->
 
 
