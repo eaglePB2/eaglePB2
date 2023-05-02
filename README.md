@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【UHC孤獨紀事】 舊群の第一届超極限生存競賽](https://www.youtube.com/watch?v=TWl6K4HY79o)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 56](https://www.youtube.com/watch?v=5Q0V6Mat_lE)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 55](https://www.youtube.com/watch?v=Hcr-D23XMTA)
 - [【夢想啓航系列】 PayDay 2 收穫日 Part 54](https://www.youtube.com/watch?v=Ez40G-8ToYg)
 - [這游戲不歡迎嘴巴開過光的人，特別是還會立flag的](https://www.youtube.com/watch?v=zqEOzH1NuOA)
-- [【夢想啓航系列】 PayDay 2 收穫日 Part 53](https://www.youtube.com/watch?v=kxix8s5XH88)
 <!-- YOUTUBE:END -->
 
 ---
