@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【UHC孤獨紀事】 舊群の第九届超極限生存競賽](https://www.youtube.com/watch?v=xB4fX1zsy0w)
 - [【UHC孤獨紀事】 舊群の第八届超極限生存競賽](https://www.youtube.com/watch?v=ASA77Yjk17M)
 - [【UHC孤獨紀事】 舊群の第六届超極限生存競賽](https://www.youtube.com/watch?v=-s9vnluJq0Q)
 - [【UHC孤獨紀事】 舊群の第五届超極限生存競賽](https://www.youtube.com/watch?v=-R9M_LWaaRA)
 - [【UHC孤獨紀事】 舊群の第四届超極限生存競賽](https://www.youtube.com/watch?v=XB9JtNsmmSM)
-- [【UHC孤獨紀事】 舊群の第三届超極限生存競賽](https://www.youtube.com/watch?v=vN_D8W1CvM0)
 <!-- YOUTUBE:END -->
 
 ---
