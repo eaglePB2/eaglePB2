@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [思考中的老鷹，默默地拿出了肌肉反應。](https://www.youtube.com/watch?v=MiCuscBARbM)
+- [【UHC孤獨紀事】 舊群の第十四届超極限生存競賽](https://www.youtube.com/watch?v=XGrPM1D7pMY)
 - [【UHC孤獨紀事】 舊群の第十三届超極限生存競賽](https://www.youtube.com/watch?v=nhPf06dT7pw)
 - [【UHC孤獨紀事】 舊群の第十二届超極限生存競賽](https://www.youtube.com/watch?v=gI41rw1H1TI)
 - [【UHC孤獨紀事】 舊群の第十一届超極限生存競賽](https://www.youtube.com/watch?v=hAMeUmO3ReI)
-- [【UHC孤獨紀事】 舊群の第十届超極限生存競賽](https://www.youtube.com/watch?v=vMPU6piwRR4)
-- [【UHC孤獨紀事】 舊群の第九届超極限生存競賽](https://www.youtube.com/watch?v=xB4fX1zsy0w)
 <!-- YOUTUBE:END -->
 
 ---
