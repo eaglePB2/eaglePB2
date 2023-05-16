@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
-- [精选内容：【林间狼人系列】Goose Goose Duck](https://www.twitch.tv/videos/1807447189)
+- [精选内容：【For The King 2】第零团 测试游玩 #0583](https://www.twitch.tv/videos/1820341564)
+- [【宿舍🦅生】For The King 2 第一团测试场 ft. @v_hanasakiayame 视角](https://www.twitch.tv/videos/1820180521)
+- [精选内容：【林间狼人系列】Goose Goose Duck #0582](https://www.twitch.tv/videos/1807447189)
 - [【老鹰】Warframe小插曲：你知道刚刃版的Duviri有多难打吗？](https://www.twitch.tv/videos/1804816356)
 - [精选内容：【Warframe】Day 96 #0581](https://www.twitch.tv/videos/1804506325)
-- [精选内容：林间盃日麻积分赛 —— 4月第四场](https://www.twitch.tv/videos/1804505231)
-- [精选内容：A Little to the Left #0586](https://www.twitch.tv/videos/1802061114)
 <!-- TWITCH:END -->
 
 
