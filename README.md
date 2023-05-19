@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【UHC孤獨紀事】 舊群の第二十一届超極限生存競賽](https://www.youtube.com/watch?v=wy-RxnxcV4E)
 - [【UHC孤獨紀事】 舊群の第二十届超極限生存競賽](https://www.youtube.com/watch?v=MOiHpfdMobQ)
 - [双子寇恩散机枪 + -75.3%射速 = ？](https://www.youtube.com/watch?v=tMRzMUqGapE)
 - [【UHC孤獨紀事】 舊群の第十八届超極限生存競賽](https://www.youtube.com/watch?v=gmw3YkA6-9Q)
 - [【UHC孤獨紀事】 舊群の第十七届超極限生存競賽](https://www.youtube.com/watch?v=K4CZY84DpaY)
-- [【UHC孤獨紀事】 舊群の第十六届超極限生存競賽](https://www.youtube.com/watch?v=vND4bAm9JEI)
 <!-- YOUTUBE:END -->
 
 ---
