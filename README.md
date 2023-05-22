@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [【UHC孤獨紀事】 舊群の第二十三届超極限生存競賽](https://www.youtube.com/watch?v=iawjWqkFlD0)
-- [【UHC孤獨紀事】 舊群の第二十二届超極限生存競賽](https://www.youtube.com/watch?v=GlqT2CTlEeE)
-- [【UHC孤獨紀事】 舊群の第二十一届超極限生存競賽](https://www.youtube.com/watch?v=wy-RxnxcV4E)
-- [【UHC孤獨紀事】 舊群の第二十届超極限生存競賽](https://www.youtube.com/watch?v=MOiHpfdMobQ)
-- [双子寇恩散机枪 + -75.3%射速 = ？](https://www.youtube.com/watch?v=tMRzMUqGapE)
+- [🍏MUHC🏆 Minecraft超極限生存竞赛 ⚔️第二十四屆賽季](https://www.youtube.com/watch?v=sWWajR8s82A)
+- [🍏MUHC🏆 Minecraft超極限生存竞赛 ⚔️第二十三屆賽季](https://www.youtube.com/watch?v=iawjWqkFlD0)
+- [🍏MUHC🏆 Minecraft超極限生存竞赛 ⚔️第二十二屆賽季](https://www.youtube.com/watch?v=GlqT2CTlEeE)
+- [🍏MUHC🏆 Minecraft超極限生存竞赛 ⚔️第二十一屆賽季](https://www.youtube.com/watch?v=wy-RxnxcV4E)
+- [🍏MUHC🏆 Minecraft超極限生存竞赛 ⚔️第二十屆賽季](https://www.youtube.com/watch?v=MOiHpfdMobQ)
 <!-- YOUTUBE:END -->
 
 ---
