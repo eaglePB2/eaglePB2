@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 PayDay 2 收穫日 Part 57](https://www.youtube.com/watch?v=-jXtT_4dnTs)
 - [【夢想啓航系列】 Warframe Part 6](https://www.youtube.com/watch?v=XTVPl64Nedk)
 - [【夢想啓航系列】 Warframe Part 5](https://www.youtube.com/watch?v=TIYds6pKyPE)
 - [【夢想啓航系列】 Warframe Part 4](https://www.youtube.com/watch?v=YnkbTL5esIg)
 - [【夢想啓航系列】 Warframe Part 3](https://www.youtube.com/watch?v=FdNhJvOBqcs)
-- [【夢想啓航系列】 Warframe Part 2](https://www.youtube.com/watch?v=meQMmP39mKg)
 <!-- YOUTUBE:END -->
 
 ---
