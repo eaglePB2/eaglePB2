@@ -30,8 +30,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 - [精选内容：林间盃日麻积分赛 —— 5月第三场](https://www.twitch.tv/videos/1829585873)
 - [【宿舍🦅生】这个月 可能只有日麻台了](https://www.twitch.tv/videos/1828041386)
 - [精选内容：林间盃日麻积分赛 —— 5月第二场](https://www.twitch.tv/videos/1823153147)
-- [【宿舍🦅生】佛系日麻，最近看神仙打役满我佛了](https://www.twitch.tv/videos/1822133857)
 - [精选内容：【For The King 2】第零团 测试游玩 #0583](https://www.twitch.tv/videos/1820341564)
+- [精选内容：【林间狼人系列】Goose Goose Duck #0582](https://www.twitch.tv/videos/1807447189)
 <!-- TWITCH:END -->
 
 
