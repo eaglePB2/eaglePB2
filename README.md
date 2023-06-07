@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：【Sons of the Forest】Day 7 #0584](https://www.twitch.tv/videos/1839054780)
 - [【宿舍🦅生】圖奇說我再不開臺就要把我的盟友拔掉了](https://www.twitch.tv/videos/1836635031)
 - [精选内容：林间盃日麻积分赛 —— 5月第三场](https://www.twitch.tv/videos/1829585873)
 - [【宿舍🦅生】这个月 可能只有日麻台了](https://www.twitch.tv/videos/1828041386)
 - [精选内容：林间盃日麻积分赛 —— 5月第二场](https://www.twitch.tv/videos/1823153147)
-- [精选内容：【For The King 2】第零团 测试游玩 #0583](https://www.twitch.tv/videos/1820341564)
 <!-- TWITCH:END -->
 
 
