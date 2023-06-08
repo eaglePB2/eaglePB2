@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 Warframe Part 13](https://www.youtube.com/watch?v=Ju6eviSZLp8)
 - [【夢想啓航系列】 Warframe Part 12](https://www.youtube.com/watch?v=Dr3gao-VFCM)
 - [【夢想啓航系列】 Warframe Part 10](https://www.youtube.com/watch?v=MJ4yhyxpOz8)
 - [【夢想啓航系列】 Warframe Part 11](https://www.youtube.com/watch?v=2ZCGlAgj2CE)
 - [【夢想啓航系列】 Warframe Part 8](https://www.youtube.com/watch?v=7GzS_z4nt4E)
-- [【夢想啓航系列】 Warframe Part 9](https://www.youtube.com/watch?v=BpCR1KATKXA)
 <!-- YOUTUBE:END -->
 
 ---
