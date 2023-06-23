@@ -30,8 +30,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 - [精选内容：林间盃日麻积分赛 —— 6月第二场](https://www.twitch.tv/videos/1848655085)
 - [【宿舍🦅生】正式赛报名程序将会在这个星期日截止哦！](https://www.twitch.tv/videos/1846003558)
 - [精选内容：林间盃日麻积分赛 —— 6月第一场](https://www.twitch.tv/videos/1840763903)
-- [【宿舍🦅生】圖奇新政策 叫我快點開日麻台](https://www.twitch.tv/videos/1840024843)
 - [精选内容：【Sons of the Forest】Day 7 #0584](https://www.twitch.tv/videos/1839054780)
+- [精选内容：林间盃日麻积分赛 —— 5月第三场](https://www.twitch.tv/videos/1829585873)
 <!-- TWITCH:END -->
 
 
