@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Kullervo 居然有隐藏死法？ 这是bug还是彩蛋？](https://www.youtube.com/watch?v=dzdC_NOc2jc)
+- [【夢想啓航系列】 Warframe Part 31](https://www.youtube.com/watch?v=KEAg87g0NgY)
 - [【夢想啓航系列】 Warframe Part 30](https://www.youtube.com/watch?v=j_3i3n-vo1U)
 - [【夢想啓航系列】 Grand Theft Auto 线上模式 &lpar;1&rpar;](https://www.youtube.com/watch?v=gekOXloImVg)
 - [【夢想啓航系列】 Warframe Part 29](https://www.youtube.com/watch?v=vkU4C-daIYU)
-- [【夢想啓航系列】 Warframe Part 28](https://www.youtube.com/watch?v=b9FwGepstGk)
-- [【夢想啓航系列】 Warframe Part 27](https://www.youtube.com/watch?v=_0l8Mm4NL1I)
 <!-- YOUTUBE:END -->
 
 ---
