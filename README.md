@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 Grand Theft Auto 线上模式 &lpar;4&rpar;](https://www.youtube.com/watch?v=XbLJ2lc_UYg)
 - [【夢想啓航系列】 Grand Theft Auto 线上模式 &lpar;3&rpar;](https://www.youtube.com/watch?v=JU8WA40R7no)
 - [【夢想啓航系列】 Grand Theft Auto 线上模式 &lpar;2&rpar;](https://www.youtube.com/watch?v=ptFy9OGyKNE)
 - [Kullervo 居然有隐藏死法？ 这是bug还是彩蛋？](https://www.youtube.com/watch?v=dzdC_NOc2jc)
 - [【夢想啓航系列】 Warframe Part 31](https://www.youtube.com/watch?v=KEAg87g0NgY)
-- [【夢想啓航系列】 Warframe Part 30](https://www.youtube.com/watch?v=j_3i3n-vo1U)
 <!-- YOUTUBE:END -->
 
 ---
