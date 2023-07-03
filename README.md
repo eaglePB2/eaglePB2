@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [亞洲防盜DVD手冊](https://www.youtube.com/watch?v=ged34U0VW2k)
+- [【夢想啓航系列】 Grand Theft Auto 线上模式 &lpar;7&rpar;](https://www.youtube.com/watch?v=T5rRXuxaRBo)
 - [【夢想啓航系列】 Grand Theft Auto 线上模式 &lpar;6&rpar;](https://www.youtube.com/watch?v=kozrcozkEcc)
 - [【夢想啓航系列】 Grand Theft Auto 线上模式 &lpar;5&rpar;](https://www.youtube.com/watch?v=KxtE-sKjmbk)
 - [【夢想啓航系列】 Grand Theft Auto 线上模式 &lpar;4&rpar;](https://www.youtube.com/watch?v=XbLJ2lc_UYg)
-- [【夢想啓航系列】 Grand Theft Auto 线上模式 &lpar;3&rpar;](https://www.youtube.com/watch?v=JU8WA40R7no)
-- [【夢想啓航系列】 Grand Theft Auto 线上模式 &lpar;2&rpar;](https://www.youtube.com/watch?v=ptFy9OGyKNE)
 <!-- YOUTUBE:END -->
 
 ---
