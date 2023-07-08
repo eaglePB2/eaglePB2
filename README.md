@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 Warframe Part 35](https://www.youtube.com/watch?v=C_tAZ2PfYOE)
 - [【夢想啓航系列】 Warframe Part 34](https://www.youtube.com/watch?v=809p_PXkuSU)
 - [\ 化学不及格 /](https://www.youtube.com/watch?v=6O3EyxxNdHw)
 - [【夢想啓航系列】 Warframe Part 33](https://www.youtube.com/watch?v=Ex0_XB0jod4)
 - [【夢想啓航系列】 Warframe Part 32](https://www.youtube.com/watch?v=2ZKhPt8Lp7c)
-- [【夢想啓航系列】 Grand Theft Auto 线上模式 &lpar;8&rpar;](https://www.youtube.com/watch?v=_Xa8Iqbaaik)
 <!-- YOUTUBE:END -->
 
 ---
