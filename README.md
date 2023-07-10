@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 Orwell &lpar;2&rpar;](https://www.youtube.com/watch?v=kjQmlX5p_M0)
 - [【夢想啓航系列】 Orwell &lpar;1&rpar;](https://www.youtube.com/watch?v=b8RNKqkKzrg)
 - [【夢想啓航系列】 Warframe Part 35](https://www.youtube.com/watch?v=C_tAZ2PfYOE)
 - [【夢想啓航系列】 Warframe Part 34](https://www.youtube.com/watch?v=809p_PXkuSU)
 - [\ 化学不及格 /](https://www.youtube.com/watch?v=6O3EyxxNdHw)
-- [【夢想啓航系列】 Warframe Part 33](https://www.youtube.com/watch?v=Ex0_XB0jod4)
 <!-- YOUTUBE:END -->
 
 ---
