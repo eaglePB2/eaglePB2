@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：Moving Out 試玩 &lpar;nintendo switch&rpar;](https://www.twitch.tv/videos/1868203097)
 - [【宿舍🦅生】7月最大聯動計劃！ 第一款游戲：Moving Out](https://www.twitch.tv/videos/1866496542)
 - [精选内容：林间盃日麻积分赛 —— 6月第四场](https://www.twitch.tv/videos/1859494475)
 - [【宿舍🦅生】既然回來了，那我要報復性開臺咯！](https://www.twitch.tv/videos/1857922219)
 - [精选内容：【Warframe】Day 97 #0585](https://www.twitch.tv/videos/1855942990)
-- [精选内容：林间盃日麻积分赛 —— 6月第二场](https://www.twitch.tv/videos/1848655085)
 <!-- TWITCH:END -->
 
 
