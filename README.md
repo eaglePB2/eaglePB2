@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【宿舍🦅生】打日麻](https://www.twitch.tv/videos/1869900787)
 - [精选内容：Minecraft Dungeons 試玩 &lpar;nintendo switch&rpar;](https://www.twitch.tv/videos/1869156302)
 - [【宿舍🦅生】7月最大聯動計劃！ 第二款游戲：Minecraft Dungeons ft. @v_hanasakiayame](https://www.twitch.tv/videos/1869062875)
 - [精选内容：Moving Out 試玩 &lpar;nintendo switch&rpar;](https://www.twitch.tv/videos/1868203097)
 - [【宿舍🦅生】7月最大聯動計劃！ 第一款游戲：Moving Out ft. @v_hanasakiayame](https://www.twitch.tv/videos/1866496542)
-- [精选内容：林间盃日麻积分赛 —— 6月第四场](https://www.twitch.tv/videos/1859494475)
 <!-- TWITCH:END -->
 
 
