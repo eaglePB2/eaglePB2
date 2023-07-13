@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 WARFRAME/星际战甲 | 第三十八期](https://www.youtube.com/watch?v=clfv31M4xB8)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第三十七期](https://www.youtube.com/watch?v=rpN2YtZRW5A)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第三十六期](https://www.youtube.com/watch?v=6sKXkbp9ouA)
 - [【夢想啓航系列】 Orwell &lpar;2&rpar;](https://www.youtube.com/watch?v=kjQmlX5p_M0)
 - [【夢想啓航系列】 Orwell &lpar;1&rpar;](https://www.youtube.com/watch?v=b8RNKqkKzrg)
-- [【夢想啓航系列】 WARFRAME/星际战甲 | 第三十五期](https://www.youtube.com/watch?v=C_tAZ2PfYOE)
 <!-- YOUTUBE:END -->
 
 ---
