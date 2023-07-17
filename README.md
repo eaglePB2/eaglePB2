@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：7 Days to Die Part 1 #0588](https://www.twitch.tv/videos/1873518342)
+- [【宿舍🦅生】林間七日殺來了！ 對！ 你們等很久的七日殺出來咯！](https://www.twitch.tv/videos/1873360808)
 - [精选内容：精选内容：林间盃日麻积分赛 —— 7月第二场](https://www.twitch.tv/videos/1871752286)
 - [【宿舍🦅生】打日麻](https://www.twitch.tv/videos/1869900787)
-- [精选内容：Minecraft Dungeons 試玩 &lpar;nintendo switch&rpar;](https://www.twitch.tv/videos/1869156302)
-- [【宿舍🦅生】7月最大聯動計劃！ 第二款游戲：Minecraft Dungeons ft. @v_hanasakiayame](https://www.twitch.tv/videos/1869062875)
-- [精选内容：Moving Out 試玩 &lpar;nintendo switch&rpar;](https://www.twitch.tv/videos/1868203097)
+- [精选内容：Minecraft Dungeons 試玩 &lpar;nintendo switch&rpar; #0587](https://www.twitch.tv/videos/1869156302)
 <!-- TWITCH:END -->
 
 
