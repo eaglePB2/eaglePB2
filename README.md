@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 Shadow Warrior | Day 2](https://www.youtube.com/watch?v=cz8eBKveuq8)
 - [【夢想啓航系列】 Shadow Warrior | Day 1](https://www.youtube.com/watch?v=e3Sv6FQfWKs)
 - [【夢想啓航系列】 Doodle Champion Island Games](https://www.youtube.com/watch?v=tVv0lJEqWLU)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第四十期](https://www.youtube.com/watch?v=fn1-3F5a3dg)
 - [【夢想啓航系列】 Emily Was Away](https://www.youtube.com/watch?v=n_IfxCQD1rs)
-- [【夢想啓航系列】 WARFRAME/星际战甲 | 第三十九期](https://www.youtube.com/watch?v=OjlsuVQOTOk)
 <!-- YOUTUBE:END -->
 
 ---
