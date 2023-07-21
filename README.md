@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 A Way Out Ft. Danta Part 2](https://www.youtube.com/watch?v=DXKBCKOILHs)
 - [【夢想啓航系列】 A Way Out Ft. Danta Part 1](https://www.youtube.com/watch?v=qv83MwNXRVA)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第四十一期](https://www.youtube.com/watch?v=H2aynFVmAWE)
 - [【夢想啓航系列】 Shadow Warrior | Day 2](https://www.youtube.com/watch?v=cz8eBKveuq8)
 - [【夢想啓航系列】 Shadow Warrior | Day 1](https://www.youtube.com/watch?v=e3Sv6FQfWKs)
-- [【夢想啓航系列】 Doodle Champion Island Games](https://www.youtube.com/watch?v=tVv0lJEqWLU)
 <!-- YOUTUBE:END -->
 
 ---
