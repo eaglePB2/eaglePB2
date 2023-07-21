@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【早班晚播】96號公路](https://www.twitch.tv/videos/1876850094)
 - [【早班晚播】我忘記今天有日麻了RRRRrrrrrrrr](https://www.twitch.tv/videos/1875968805)
 - [精选内容：96號公路 Part 1 #0589](https://www.twitch.tv/videos/1875187076)
 - [【早班晚播】96號公路 奔向自由的民族](https://www.twitch.tv/videos/1875080254)
 - [精选内容：7 Days to Die Part 1 #0588](https://www.twitch.tv/videos/1873518342)
-- [【宿舍🦅生】林間七日殺來了！ 對！ 你們等很久的七日殺出來咯！](https://www.twitch.tv/videos/1873360808)
 <!-- TWITCH:END -->
 
 
