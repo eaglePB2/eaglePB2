@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
-- [【早班晚播】FTK 第三團 海洋冒險](https://www.twitch.tv/videos/1877736718)
-- [【早班晚播】96號公路](https://www.twitch.tv/videos/1876850094)
-- [【早班晚播】我忘記今天有日麻了RRRRrrrrrrrr](https://www.twitch.tv/videos/1875968805)
-- [精选内容：96號公路 Part 1 #0589](https://www.twitch.tv/videos/1875187076)
-- [【早班晚播】96號公路 奔向自由的民族](https://www.twitch.tv/videos/1875080254)
+- [精选内容：7 Days to Die Part 2 #0589](https://www.twitch.tv/videos/1878809754)
+- [【早班晚播】血月要來了 我該怎麽辦rrrrrrrrr](https://www.twitch.tv/videos/1878657733)
+- [精选内容：【For The King】第三团 #0591](https://www.twitch.tv/videos/1878459170)
+- [精选内容：林间盃日麻积分赛 —— 7月第三场](https://www.twitch.tv/videos/1878458649)
+- [精选内容：96號公路 Part 2 #0590](https://www.twitch.tv/videos/1878457604)
 <!-- TWITCH:END -->
 
 
