@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：7 Days to Die Part 3 #0590](https://www.twitch.tv/videos/1880012017)
+- [【早班晚播】A21 的载具莫名超弱 0w0](https://www.twitch.tv/videos/1879513680)
 - [精选内容：7 Days to Die Part 2 #0589](https://www.twitch.tv/videos/1878809754)
 - [【早班晚播】血月要來了 我該怎麽辦rrrrrrrrr](https://www.twitch.tv/videos/1878657733)
 - [精选内容：【For The King】第三团 #0591](https://www.twitch.tv/videos/1878459170)
-- [精选内容：林间盃日麻积分赛 —— 7月第三场](https://www.twitch.tv/videos/1878458649)
-- [精选内容：96號公路 Part 2 #0590](https://www.twitch.tv/videos/1878457604)
 <!-- TWITCH:END -->
 
 
