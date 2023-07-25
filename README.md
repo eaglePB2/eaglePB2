@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
-- [精选内容：7 Days to Die Part 3 #0590](https://www.twitch.tv/videos/1880012017)
+- [精选内容：HUE Part 1 #0594](https://www.twitch.tv/videos/1880839784)
+- [【早班晚播】颜色解谜 HUE](https://www.twitch.tv/videos/1880351237)
+- [精选内容：7 Days to Die Part 3 #0593](https://www.twitch.tv/videos/1880012017)
 - [【早班晚播】A21 的载具莫名超弱 0w0](https://www.twitch.tv/videos/1879513680)
-- [精选内容：7 Days to Die Part 2 #0589](https://www.twitch.tv/videos/1878809754)
-- [【早班晚播】血月要來了 我該怎麽辦rrrrrrrrr](https://www.twitch.tv/videos/1878657733)
-- [精选内容：【For The King】第三团 #0591](https://www.twitch.tv/videos/1878459170)
+- [精选内容：7 Days to Die Part 2 #0592](https://www.twitch.tv/videos/1878809754)
 <!-- TWITCH:END -->
 
 
