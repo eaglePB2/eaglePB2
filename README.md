@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 Lego 三部曲 Part 1](https://www.youtube.com/watch?v=OigMRYBwQjg)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第四十三期](https://www.youtube.com/watch?v=5OrFgQZWICI)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第四十二期](https://www.youtube.com/watch?v=lcDo-t99XJg)
 - [【夢想啓航系列】 Shadow Warrior | Day Ex](https://www.youtube.com/watch?v=2kiFia7WhGI)
 - [【夢想啓航系列】 Shadow Warrior | Day 3](https://www.youtube.com/watch?v=nWD8eTvvMwE)
-- [【夢想啓航系列】 A Way Out Ft. Danta Part 2](https://www.youtube.com/watch?v=DXKBCKOILHs)
 <!-- YOUTUBE:END -->
 
 ---
