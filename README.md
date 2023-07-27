@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【早班晚播】別人的日麻怎麽這麽刺激？](https://www.twitch.tv/videos/1882099552)
+- [精选内容：HUE Part 2 #0595](https://www.twitch.tv/videos/1882084535)
 - [【早班晚播】好像…… 就剩下这么一点点了欸……？](https://www.twitch.tv/videos/1881210890)
 - [精选内容：HUE Part 1 #0594](https://www.twitch.tv/videos/1880839784)
 - [【早班晚播】颜色解谜 HUE](https://www.twitch.tv/videos/1880351237)
-- [精选内容：7 Days to Die Part 3 #0593](https://www.twitch.tv/videos/1880012017)
-- [【早班晚播】A21 的载具莫名超弱 0w0](https://www.twitch.tv/videos/1879513680)
 <!-- TWITCH:END -->
 
 
