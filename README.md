@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：Minecraft: Story Mode Part 1 #0596](https://www.twitch.tv/videos/1883098598)
+- [精选内容：林间盃日麻积分赛 —— 7月第四场](https://www.twitch.tv/videos/1883098254)
+- [【早班晚播】想不到吧？ 我这里还有Minecraft Story Mode :D](https://www.twitch.tv/videos/1882975874)
 - [【早班晚播】別人的日麻怎麽這麽刺激？](https://www.twitch.tv/videos/1882099552)
 - [精选内容：HUE Part 2 #0595](https://www.twitch.tv/videos/1882084535)
-- [【早班晚播】好像…… 就剩下这么一点点了欸……？](https://www.twitch.tv/videos/1881210890)
-- [精选内容：HUE Part 1 #0594](https://www.twitch.tv/videos/1880839784)
-- [【早班晚播】颜色解谜 HUE](https://www.twitch.tv/videos/1880351237)
 <!-- TWITCH:END -->
 
 
