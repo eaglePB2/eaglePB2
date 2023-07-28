@@ -38,11 +38,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 Lego 三部曲 Part 4](https://www.youtube.com/watch?v=NM7QTEi_uks)
 - [【夢想啓航系列】 Lego 三部曲 Part 3](https://www.youtube.com/watch?v=eDFeFhGOnTo)
 - [@V_HanasakiAyame waffled](https://www.youtube.com/watch?v=8M5eW4h2jbg)
 - [【夢想啓航系列】 Lego 三部曲 Part 2](https://www.youtube.com/watch?v=qahCSmVurm8)
 - [But if you close your eyes.... &lpar;Twitter Version&rpar;](https://www.youtube.com/watch?v=UZuVSVlCYaA)
-- [【夢想啓航系列】 Lego 三部曲 Part 1](https://www.youtube.com/watch?v=OigMRYBwQjg)
 <!-- YOUTUBE:END -->
 
 ---
