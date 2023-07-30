@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：7 Days to Die Part 4 #0598](https://www.twitch.tv/videos/1884850242)
+- [【早班晚播】7日杀里，到底是解任务比较好玩，还是当后勤比较好玩？](https://www.twitch.tv/videos/1884703676)
 - [精选内容：Minecraft: Story Mode Part 2 #0597](https://www.twitch.tv/videos/1883938913)
 - [【早班晚播】別人是凋零病 我tm是累累病&lpar;???](https://www.twitch.tv/videos/1883834233)
 - [精选内容：Minecraft: Story Mode Part 1 #0596](https://www.twitch.tv/videos/1883098598)
-- [精选内容：林间盃日麻积分赛 —— 7月第四场](https://www.twitch.tv/videos/1883098254)
-- [【早班晚播】想不到吧？ 我这里还有Minecraft Story Mode :D](https://www.twitch.tv/videos/1882975874)
 <!-- TWITCH:END -->
 
 
