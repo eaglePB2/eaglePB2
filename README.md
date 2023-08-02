@@ -27,11 +27,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：Minecraft: Story Mode Part 4 #0601](https://www.twitch.tv/videos/1887360451)
+- [【早班晚播】凋零風暴打完了，那然後呢owo?](https://www.twitch.tv/videos/1887254092)
 - [精选内容：Minecraft: Story Mode Part 3 #0600](https://www.twitch.tv/videos/1886506667)
 - [【早班晚播】凋零風暴打完了，那然後呢owo?](https://www.twitch.tv/videos/1886401091)
 - [精选内容：7 Days to Die Part 5 #0599](https://www.twitch.tv/videos/1886052223)
-- [【早班晚播】基地重蓋。跳樓機重蓋。](https://www.twitch.tv/videos/1885558335)
-- [精选内容：7 Days to Die Part 4 #0598](https://www.twitch.tv/videos/1884850242)
 <!-- TWITCH:END -->
 
 
