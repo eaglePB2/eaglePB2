@@ -21,6 +21,10 @@ You may come back later, as you wish if this readme.md is updated.   -->
 [<img align="left" alt="eaglePB2 | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="eaglePB2 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
+<br>
+
+[![](https://invidget.switchblade.xyz/qKrub9b?theme=dark&language=ch)](https://discord.gg/qKrub9b)
+
 <br />
 
 ---
