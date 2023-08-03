@@ -15,17 +15,14 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ### Connections:
 
-[<img align="left" alt="ForestWork" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="eaglePB2 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="eaglePB2 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="eaglePB2 | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-[<img align="left" alt="eaglePB2 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/eaglepb2)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/eaglepb2)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/eaglepb2)
+[![ForestWork](https://img.shields.io/badge/Forestwork_Website-415549?style=flat-square&logo=homeadvisor&logoColor=white)](https://forestwork.team)
 
-<br>
+### Discord Server:
 
 [![](https://invidget.switchblade.xyz/qKrub9b?theme=dark&language=ch)](https://discord.gg/qKrub9b)
-
-<br />
 
 ---
 
@@ -57,16 +54,9 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <br>
 <img align="center" alt="eaglePB2's Language Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaglePB2&show_icons=true&hide_border=true&theme=merko&layout=compact&langs_count=8" />
 <br>
-<img align="left" alt="eaglePB2's Viewer Count" src="https://visitcount.itsvg.in/api?id=eaglepb2&label=Profile%20Views&color=3&icon=5&pretty=true" />
-<br>
+<img align="center" alt="eaglePB2's Viewer Count" src="https://visitcount.itsvg.in/api?id=eaglepb2&label=Profile%20Views&color=3&icon=5&pretty=true" />
 
-[website]: https://forestwork.team
-[twitter]: https://twitter.com/eaglepb2
-[youtube]: https://www.youtube.com/eaglepb2
-[twitch]: https://www.twitch.tv/eaglepb2
-[discord]: https://discord.gg/qKrub9b
-
----
+<hr>
 
 <!-- RANDOMQUOTE:START -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
