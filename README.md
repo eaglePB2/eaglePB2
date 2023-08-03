@@ -60,9 +60,9 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <img align="left" alt="eaglePB2's Viewer Count" src="https://visitcount.itsvg.in/api?id=eaglepb2&label=Profile%20Views&color=3&icon=5&pretty=true" />
 <br>
 
-[website]: https://teamforestwork.nde.tw/
-[twitter]: https://teamforestwork.nde.tw/Twitter
-[youtube]: https://teamforestwork.nde.tw/Youtube
+[website]: https://forestwork.team
+[twitter]: https://twitter.com/eaglepb2
+[youtube]: https://www.youtube.com/eaglepb2
 [twitch]: https://www.twitch.tv/eaglepb2
 [discord]: https://discord.gg/qKrub9b
 
