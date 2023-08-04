@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 Minecraft | 林間 SMP 第二期](https://www.youtube.com/watch?v=uLOafP7Ma68)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第四十七期](https://www.youtube.com/watch?v=COE_fLFAag8)
 - [【夢想啓航系列】 Minecraft | 林間 SMP 第一期](https://www.youtube.com/watch?v=q45_amzxgAA)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第四十六期](https://www.youtube.com/watch?v=_0yUkDlh8BM)
 - [极限一滴 撑了一分钟 结果……](https://www.youtube.com/watch?v=13jyTpEQYGc)
-- [【夢想啓航系列】 Control Part 1](https://www.youtube.com/watch?v=5cblTw71G0s)
 <!-- YOUTUBE:END -->
 
 ---
