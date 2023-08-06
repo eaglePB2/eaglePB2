@@ -28,11 +28,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [🔴LIVE【早班晚播】血月降臨・ิཀ・ิ](https://www.twitch.tv/videos/1890732705)
+- [精选内容：Minecraft: Story Mode Part 6 #0603](https://www.twitch.tv/videos/1890688657)
+- [🔴LIVE【早班晚播】我要重操就业了 不要命的马拉松台我来了・ิཀ・ิ](https://www.twitch.tv/videos/1890542506)
 - [精选内容：Minecraft: Story Mode Part 5 #0602](https://www.twitch.tv/videos/1889076483)
 - [【早班晚播】主页有精选剪辑咯！](https://www.twitch.tv/videos/1888974453)
-- [精选内容：林间盃日麻积分赛 —— 8月第一场](https://www.twitch.tv/videos/1888612384)
-- [【早班晚播】好累 但有日麻要打](https://www.twitch.tv/videos/1888109313)
-- [精选内容：Minecraft: Story Mode Part 4 #0601](https://www.twitch.tv/videos/1887360451)
 <!-- TWITCH:END -->
 
 
