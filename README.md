@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 WARFRAME/星际战甲 | 第四十九期](https://www.youtube.com/watch?v=jMCd9umBFXg)
+- [【夢想啓航系列】 Minecraft | 林間 SMP 第三期](https://www.youtube.com/watch?v=hFrZLz1VdBk)
 - [Warframe，啓動！](https://www.youtube.com/watch?v=lA_stU7USWA)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第四十七期](https://www.youtube.com/watch?v=jaa0EclaJ8k)
 - [【夢想啓航系列】 Minecraft | 林間 SMP 第二期](https://www.youtube.com/watch?v=uLOafP7Ma68)
-- [【夢想啓航系列】 WARFRAME/星际战甲 | 第四十八期](https://www.youtube.com/watch?v=COE_fLFAag8)
-- [【夢想啓航系列】 Minecraft | 林間 SMP 第一期](https://www.youtube.com/watch?v=q45_amzxgAA)
 <!-- YOUTUBE:END -->
 
 ---
