@@ -28,11 +28,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：Seen #0607](https://www.twitch.tv/videos/1892467693)
+- [🔴LIVE【早班晚播】被80的人生](https://www.twitch.tv/videos/1892425728)
 - [精选内容：7 Days to Die Part 7 #0606](https://www.twitch.tv/videos/1891751327)
 - [🔴LIVE【早班晚播】外卖！ 哪里的外卖好吃？](https://www.twitch.tv/videos/1891613042)
 - [精选内容：Minecraft: Story Mode Part 7 #0605](https://www.twitch.tv/videos/1891523676)
-- [🔴LIVE【早班晚播】睡太久了啦 QAQQQQQQ](https://www.twitch.tv/videos/1891488984)
-- [精选内容：7 Days to Die Part 6 #0604](https://www.twitch.tv/videos/1891439403)
 <!-- TWITCH:END -->
 
 
