@@ -28,11 +28,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [🔴LIVE【早班晚播】林間護照系統開啟咯！ 請各位出示你們的護照！](https://www.twitch.tv/videos/1895012865)
 - [精选内容：林间盃日麻积分赛 —— 8月第二场](https://www.twitch.tv/videos/1894279815)
 - [🔴LIVE【早班晚播】日麻](https://www.twitch.tv/videos/1894154960)
 - [精选内容：Seen #0607](https://www.twitch.tv/videos/1892467693)
 - [🔴LIVE【早班晚播】被80的人生](https://www.twitch.tv/videos/1892425728)
-- [精选内容：7 Days to Die Part 7 #0606](https://www.twitch.tv/videos/1891751327)
 <!-- TWITCH:END -->
 
 
