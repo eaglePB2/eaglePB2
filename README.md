@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 Minecraft | 林間 SMP 第六期](https://www.youtube.com/watch?v=WgoAZoRR3-o)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第五十一期](https://www.youtube.com/watch?v=tsiIydBtM7I)
 - [【夢想啓航系列】 Minecraft | 林間 SMP 第五期](https://www.youtube.com/watch?v=ENBH_3_YTMM)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第五十期](https://www.youtube.com/watch?v=WrMoQYBPc0Q)
 - [【夢想啓航系列】 Minecraft | 林間 SMP 第四期](https://www.youtube.com/watch?v=XVSBguMupoQ)
-- [We&#39;ll be right back （七日杀 第三次血月）](https://www.youtube.com/watch?v=QK79JsSh5Dw)
 <!-- YOUTUBE:END -->
 
 ---
