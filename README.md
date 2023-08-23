@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 Heroes of the Hammerwatch | Ft. @mingixuyuki 、四煌、@chara3asd  | Part 2](https://www.youtube.com/watch?v=imfUy3shMBY)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第五十六期](https://www.youtube.com/watch?v=HhlkilVO_4s)
-- [【夢想啓航系列】 Left 4 Dead 2 第一团 | Ft.  @mingixuyuki   、四煌、中二3 | Part 2](https://www.youtube.com/watch?v=iY6_0Cwp4I0)
-- [【夢想啓航系列】 Left 4 Dead 2 第一团 | Ft. @mingixuyuki 、四煌、中二3 | Part 1](https://www.youtube.com/watch?v=CTzudou0CtU)
+- [【夢想啓航系列】 Left 4 Dead 2 第一团 | Ft. @mingixuyuki、儀式舉行中、@chara3asd  | Part 2](https://www.youtube.com/watch?v=iY6_0Cwp4I0)
+- [【夢想啓航系列】 Left 4 Dead 2 第一团 | Ft. @mingixuyuki 、四煌、@chara3asd  | Part 1](https://www.youtube.com/watch?v=CTzudou0CtU)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第五十五期](https://www.youtube.com/watch?v=by5srZ7zkg4)
-- [【夢想啓航系列】 Control Part 3](https://www.youtube.com/watch?v=JUYZ8vkLjHM)
 <!-- YOUTUBE:END -->
 
 ---
