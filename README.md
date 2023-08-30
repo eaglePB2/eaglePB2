@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 WARFRAME/星际战甲 | 第六十一期](https://www.youtube.com/watch?v=NhJT66p4zh0)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第六十期](https://www.youtube.com/watch?v=fZA1lHZ_1dY)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第五十九期](https://www.youtube.com/watch?v=3G7QPyDc_Cc)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第五十八期](https://www.youtube.com/watch?v=dx5JR9aJ3Pw)
 - [【夢想啓航系列】 Terraria | 第二期](https://www.youtube.com/watch?v=-6-zgHnCcOo)
-- [【夢想啓航系列】 WARFRAME/星际战甲 | 第五十七期](https://www.youtube.com/watch?v=KmPpk6b7qf4)
 <!-- YOUTUBE:END -->
 
 ---
