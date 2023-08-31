@@ -28,11 +28,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [🔴LIVE【早班晚播】日麻积分赛逐渐多了一堆牛鬼蛇神 我害怕 @eaglepb2](https://www.twitch.tv/videos/1912465030)
 - [🔴LIVE【早班晚播】潜渊症正式版都出多久了现在才打 @eaglepb2](https://www.twitch.tv/videos/1910742466)
 - [🔴LIVE【早班晚播】總感覺七日殺要過時了呢 ouob?](https://www.twitch.tv/videos/1908982656)
 - [精选内容：林间盃日麻积分赛 —— 8月第三场](https://www.twitch.tv/videos/1908258435)
 - [精选内容：【Warframe】Day 98 #0613](https://www.twitch.tv/videos/1908258009)
-- [精选内容：7 Days to Die Part 11 #0612](https://www.twitch.tv/videos/1908257871)
 <!-- TWITCH:END -->
 
 
