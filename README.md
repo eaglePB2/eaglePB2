@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 Terraria | 第六期](https://www.youtube.com/watch?v=bhZj-7qd5FU)
+- [【夢想啓航系列】 Heroes of the Hammerwatch | Ft.   @mingixuyuki 、四煌、 @chara3asd   | Part 3](https://www.youtube.com/watch?v=1Xt0QifBhO4)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第六十二期](https://www.youtube.com/watch?v=axZO-sLqSDc)
 - [【夢想啓航系列】 Terraria | 第五期](https://www.youtube.com/watch?v=RcQfZi6lMJA)
 - [【夢想啓航系列】 Terraria | 第四期](https://www.youtube.com/watch?v=rc3Ebnf-faM)
-- [【夢想啓航系列】 Terraria | 第三期](https://www.youtube.com/watch?v=b-H5UPvjsdQ)
-- [【夢想啓航系列】 WARFRAME/星际战甲 | 第六十一期](https://www.youtube.com/watch?v=NhJT66p4zh0)
 <!-- YOUTUBE:END -->
 
 ---
