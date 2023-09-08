@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 WARFRAME/星际战甲 | 第六十四期](https://www.youtube.com/watch?v=_3qUsPaJUA0)
+- [【夢想啓航系列】 Terraria | 第七期](https://www.youtube.com/watch?v=tRqEHeAXa9Y)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第六十三期](https://www.youtube.com/watch?v=Tb92P_6rOBQ)
 - [【Plazma Burst 2】Map developer Contest | Season 7](https://www.youtube.com/watch?v=lK4vqcGE-oQ)
 - [傳（萌）奇（新）3段位考試留存 | Warframe | 戰甲神兵](https://www.youtube.com/watch?v=io9EU2-pOf4)
-- [【夢想啓航系列】 Terraria | 第六期](https://www.youtube.com/watch?v=bhZj-7qd5FU)
-- [【夢想啓航系列】 Heroes of the Hammerwatch | Ft.   @mingixuyuki 、四煌、 @chara3asd   | Part 3](https://www.youtube.com/watch?v=1Xt0QifBhO4)
 <!-- YOUTUBE:END -->
 
 ---
