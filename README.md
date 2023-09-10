@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [【夢想啓航系列】 獵人:野性的呼喚 | 看風景遊戲的超擬真打獵](https://www.youtube.com/watch?v=bxrvJqbcBnY)
+- [【夢想啓航系列】 WARFRAME/星际战甲 | 第六十五期](https://www.youtube.com/watch?v=F8f4AD-A_DE)
+- [【夢想啓航系列】 徒步：耐心的呼喚 | 看風景遊戲的超擬真打獵](https://www.youtube.com/watch?v=bxrvJqbcBnY)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第六十四期](https://www.youtube.com/watch?v=_3qUsPaJUA0)
 - [【夢想啓航系列】 Terraria | 第七期](https://www.youtube.com/watch?v=tRqEHeAXa9Y)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第六十三期](https://www.youtube.com/watch?v=Tb92P_6rOBQ)
-- [【Plazma Burst 2】Map developer Contest | Season 7](https://www.youtube.com/watch?v=lK4vqcGE-oQ)
 <!-- YOUTUBE:END -->
 
 ---
