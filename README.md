@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 Heroes of the Hammerwatch | Ft. @mingixuyuki 、四煌、 @chara3asd  Part 4](https://www.youtube.com/watch?v=OB31CyCxPx0)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第六十七期](https://www.youtube.com/watch?v=kd0OlwrUKUQ)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第六十六期](https://www.youtube.com/watch?v=slG5GvfLHAU)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第六十五期](https://www.youtube.com/watch?v=F8f4AD-A_DE)
 - [【夢想啓航系列】 徒步：耐心的呼喚 | 看風景遊戲的超擬真打獵](https://www.youtube.com/watch?v=bxrvJqbcBnY)
-- [【夢想啓航系列】 WARFRAME/星际战甲 | 第六十四期](https://www.youtube.com/watch?v=_3qUsPaJUA0)
 <!-- YOUTUBE:END -->
 
 ---
