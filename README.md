@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 Terraria | 第八期](https://www.youtube.com/watch?v=nNnudS9yoVw)
+- [【夢想啓航系列】 The Long Dark / 漫漫長夜 | 第一期](https://www.youtube.com/watch?v=f6GFPX5uONk)
 - [【夢想啓航系列】 For The King | 第一团 Ft. @mingixuyuki @kp06125](https://www.youtube.com/watch?v=PaSykOydLDo)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第六十八期](https://www.youtube.com/watch?v=GIBj0abo4ng)
 - [【夢想啓航系列】 Heroes of the Hammerwatch | Ft. @mingixuyuki 、四煌、 @chara3asd  Part 4](https://www.youtube.com/watch?v=OB31CyCxPx0)
-- [【夢想啓航系列】 WARFRAME/星际战甲 | 第六十七期](https://www.youtube.com/watch?v=kd0OlwrUKUQ)
-- [【夢想啓航系列】 WARFRAME/星际战甲 | 第六十六期](https://www.youtube.com/watch?v=slG5GvfLHAU)
 <!-- YOUTUBE:END -->
 
 ---
