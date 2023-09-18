@@ -28,11 +28,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [🔴LIVE【早班晚播】饥荒杂谈](https://www.twitch.tv/videos/1927835853)
+- [🔴LIVE【早班晚播】潜水艇后遗症 发作中 @eaglepb2](https://www.twitch.tv/videos/1927674716)
 - [精选内容：【Barotrauma】Day 7 #0623](https://www.twitch.tv/videos/1926970359)
 - [🔴LIVE【早班晚播】潜水艇后遗症 发作中](https://www.twitch.tv/videos/1926766711)
 - [精选内容：饥荒 Day 4 #0622](https://www.twitch.tv/videos/1924829900)
-- [精选内容：林间盃日麻积分赛 —— 9月第二场](https://www.twitch.tv/videos/1924829247)
-- [🔴LIVE【早班晚播】日麻](https://www.twitch.tv/videos/1924340994)
 <!-- TWITCH:END -->
 
 
