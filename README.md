@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 The Long Dark / 漫漫長夜 | 第二期](https://www.youtube.com/watch?v=mzg0h3dRN3U)
 - [【夢想啓航系列】 For The King | 第二团 Ft. @yagi1228  瑪麻](https://www.youtube.com/watch?v=w04gtMi7wdY)
 - [Warframe，但每15秒会切换一次游戏画面](https://www.youtube.com/watch?v=TKMkPO7eg4g)
 - [【夢想啓航系列】 Terraria | 第八期](https://www.youtube.com/watch?v=nNnudS9yoVw)
 - [【夢想啓航系列】 The Long Dark / 漫漫長夜 | 第一期](https://www.youtube.com/watch?v=f6GFPX5uONk)
-- [【夢想啓航系列】 For The King | 第一团 Ft. @mingixuyuki @kp06125](https://www.youtube.com/watch?v=PaSykOydLDo)
 <!-- YOUTUBE:END -->
 
 ---
