@@ -28,11 +28,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [🔴LIVE【早班晚播】林間積分賽-进可攻退可守 ouob](https://www.twitch.tv/videos/1930391738)
 - [精选内容：We Were Here Expeditions: The FriendShip Feat. @jkyoyoop #0626](https://www.twitch.tv/videos/1928802478)
 - [🔴LIVE【早班晚播】默契支配大考验.png Feat. @jkyoyoop](https://www.twitch.tv/videos/1928655555)
 - [精选内容：饥荒 Day 5 #0625](https://www.twitch.tv/videos/1928635454)
 - [精选内容：【Barotrauma】Day 8 #0624](https://www.twitch.tv/videos/1928635244)
-- [🔴LIVE【早班晚播】饥荒杂谈](https://www.twitch.tv/videos/1927835853)
 <!-- TWITCH:END -->
 
 
