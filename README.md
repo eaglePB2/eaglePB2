@@ -28,11 +28,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：【Barotrauma】Day 10 #0627](https://www.twitch.tv/videos/1933925074)
+- [🔴LIVE【早班晚播】与鱼共游 科学化画皮玩家上线啦！](https://www.twitch.tv/videos/1933766376)
 - [精选内容：【Barotrauma】Day 9 #0626](https://www.twitch.tv/videos/1933187026)
 - [🔴LIVE【早班晚播】饥荒没人来 直接开潜水艇了awa](https://www.twitch.tv/videos/1933045155)
 - [🔴LIVE【早班晚播】肚子餓了 只能玩饑荒了](https://www.twitch.tv/videos/1933003113)
-- [精选内容：林间盃日麻积分赛 —— 9月第三场](https://www.twitch.tv/videos/1931210981)
-- [🔴LIVE【早班晚播】林間積分賽-进可攻退可守 ouob](https://www.twitch.tv/videos/1930391738)
 <!-- TWITCH:END -->
 
 
