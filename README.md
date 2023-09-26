@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 Valheim/瓦爾海姆 | 第一集](https://www.youtube.com/watch?v=P2JABc8szow)
 - [【夢想啓航系列】 WARFRAME/星际战甲 | 第七十期](https://www.youtube.com/watch?v=EVzVWlHb2Zg)
 - [【夢想啓航系列】 Stick Fight: The Game | 火柴人大乱斗系列 | Ft. @mingixuyuki](https://www.youtube.com/watch?v=18LT9C4yEAo)
 - [【夢想啓航系列】 The Long Dark / 漫漫長夜 | 第四期](https://www.youtube.com/watch?v=mu3JHmly5vY)
 - [【夢想啓航系列】 Heroes of the Hammerwatch | Ft.  @mingixuyuki 、四煌、  @chara3asd Part 5](https://www.youtube.com/watch?v=-D7WjxzlBAg)
-- [【夢想啓航系列】 WARFRAME/星际战甲 | 第六十九期](https://www.youtube.com/watch?v=jx21Pq31Hbw)
 <!-- YOUTUBE:END -->
 
 ---
