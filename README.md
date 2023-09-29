@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 Valheim/瓦爾海姆 | 第三集](https://www.youtube.com/watch?v=oFTk3kxO7nQ)
 - [【夢想啓航系列】 Valheim/瓦爾海姆 | 第二集](https://www.youtube.com/watch?v=hLxGwr-jmTg)
 - [【2021 林間傳統】10月第一周游戲企劃](https://www.youtube.com/watch?v=Sc6I8VaNQTw)
 - [【梦想起航系列】挖16^3的区块有点无聊，村民物语？ | Minecraft 基岩版成就生存 Day 4](https://www.youtube.com/watch?v=t-w4AHVd9BQ)
 - [媽！這潛水艇會吃人啦！](https://www.youtube.com/watch?v=Cv1GE9o3W7A)
-- [【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第七十一期](https://www.youtube.com/watch?v=q7bHi4eTTD0)
 <!-- YOUTUBE:END -->
 
 ---
