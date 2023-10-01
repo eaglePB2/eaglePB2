@@ -28,11 +28,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
-- [🔴LIVE【早班晚播】中秋節潛艇小隊粗發！](https://www.twitch.tv/videos/1938076044)
-- [精选内容：【Barotrauma】Day 10 #0627](https://www.twitch.tv/videos/1933925074)
-- [🔴LIVE【早班晚播】与鱼共游 科学化画皮玩家上线啦！](https://www.twitch.tv/videos/1933766376)
-- [精选内容：【Barotrauma】Day 9 #0626](https://www.twitch.tv/videos/1933187026)
-- [🔴LIVE【早班晚播】饥荒没人来 直接开潜水艇了awa](https://www.twitch.tv/videos/1933045155)
+- [精选内容：林间盃日麻积分赛 —— 9月第四场](https://www.twitch.tv/videos/1939128945)
+- [精选内容：【Barotrauma】Day 12 #0629](https://www.twitch.tv/videos/1939128425)
+- [精选内容：【Barotrauma】Day 11 #0628](https://www.twitch.tv/videos/1939125410)
+- [🔴LIVE【早班晚播】你被Discord封锁了吗？](https://www.twitch.tv/videos/1938978038)
+- [🔴LIVE【早班晚播】你被Discord封锁了吗？](https://www.twitch.tv/videos/1938832777)
 <!-- TWITCH:END -->
 
 
