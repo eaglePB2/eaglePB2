@@ -28,11 +28,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [🔴LIVE【早班晚播】林間10月積分賽~ 又是一個全新的廝殺~ @eaglepb2](https://www.twitch.tv/videos/1942350658)
 - [精选内容：【Sons of the Forest】Day 8 #0631](https://www.twitch.tv/videos/1941212096)
 - [精选内容：【Barotrauma】Day 13 #0630](https://www.twitch.tv/videos/1941211590)
 - [🔴LIVE【早班晚播】久違了！ 宇宙之子！](https://www.twitch.tv/videos/1940719757)
 - [🔴LIVE【早班晚播】潛行和潛水艇的共同點叫見不得光 owob](https://www.twitch.tv/videos/1939735897)
-- [精选内容：林间盃日麻积分赛 —— 9月第四场](https://www.twitch.tv/videos/1939128945)
 <!-- TWITCH:END -->
 
 
