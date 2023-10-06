@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【🎃 2021 林間傳統 🎃】 Game 6 | Amnesia ~The Dark Descent ~](https://www.youtube.com/watch?v=vKAMCQOroi8)
 - [【🎃 2021 林間傳統 🎃】 Game 5 | Layers of Fear 2 層層恐懼 2](https://www.youtube.com/watch?v=JFfw9HoogoM)
 - [【🎃 2021 林間傳統 🎃】 Game 4 | Layers of Fear 層層恐懼](https://www.youtube.com/watch?v=ZrwhX65ObiQ)
 - [【🎃 2021 林間傳統 🎃】 Game 3 | Conarium](https://www.youtube.com/watch?v=qfCczXhm1Y0)
 - [【🎃 2021 林間傳統 🎃】 Game 2 | SOMA](https://www.youtube.com/watch?v=N5DJCS_doEQ)
-- [【🎃 2021 林間傳統 🎃】Game 1 | Observer_](https://www.youtube.com/watch?v=s5Xr6LPTSKY)
 <!-- YOUTUBE:END -->
 
 ---
