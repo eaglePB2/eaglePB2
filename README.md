@@ -28,11 +28,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
-- [🔴LIVE【早班晚播】SCP-林間是一個坐落於Discord伺服器的異常。](https://www.twitch.tv/videos/1944880293)
-- [🔴LIVE【早班晚播】渊洋哦 高科技画皮人类 要找基因了！](https://www.twitch.tv/videos/1944723261)
-- [精选内容：Minecraft SMP Season 3 Day 1](https://www.twitch.tv/videos/1944151642)
-- [精选内容：林间盃日麻积分赛 —— 10月第一场](https://www.twitch.tv/videos/1944149464)
-- [🔴LIVE【早班晚播】落櫻之國賽季 啓動！](https://www.twitch.tv/videos/1943160367)
+- [精选内容：Minecraft SMP Season 3 Day 3 #0636](https://www.twitch.tv/videos/1946273313)
+- [精选内容：Barotrauma Day 15 #0635](https://www.twitch.tv/videos/1946273163)
+- [精选内容：Minecraft SMP Season 3 Day 2 #0634](https://www.twitch.tv/videos/1946272585)
+- [精选内容：Barotrauma Day 14 #0633](https://www.twitch.tv/videos/1946272072)
+- [🔴LIVE【早班晚播】 @eaglepb2 堅守著也太可怕了吧 OAO!](https://www.twitch.tv/videos/1945749658)
 <!-- TWITCH:END -->
 
 
