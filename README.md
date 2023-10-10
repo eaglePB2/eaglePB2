@@ -28,11 +28,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：Minecraft SMP Season 3 Day 4 #0637](https://www.twitch.tv/videos/1947058211)
+- [🔴LIVE【早班晚播】 @eaglepb2 今天只想要18顆凋零骷髏頭💀](https://www.twitch.tv/videos/1946577331)
 - [精选内容：Minecraft SMP Season 3 Day 3 #0636](https://www.twitch.tv/videos/1946273313)
 - [精选内容：Barotrauma Day 15 #0635](https://www.twitch.tv/videos/1946273163)
 - [精选内容：Minecraft SMP Season 3 Day 2 #0634](https://www.twitch.tv/videos/1946272585)
-- [精选内容：Barotrauma Day 14 #0633](https://www.twitch.tv/videos/1946272072)
-- [🔴LIVE【早班晚播】 @eaglepb2 堅守著也太可怕了吧 OAO!](https://www.twitch.tv/videos/1945749658)
 <!-- TWITCH:END -->
 
 
