@@ -28,11 +28,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
-- [🔴LIVE【早班晚播】 @eaglepb2 海底姬攻略Time！](https://www.twitch.tv/videos/1949834155)
-- [🔴LIVE【早班晚播】 @eaglepb2 海底姬攻略Time！](https://www.twitch.tv/videos/1948999986)
-- [精选内容：林间盃日麻积分赛 —— 10月第二场](https://www.twitch.tv/videos/1948351668)
-- [🔴LIVE【早班晚播】 @eaglepb2 林間積分賽 之 等等鬼轉SMP](https://www.twitch.tv/videos/1948199628)
-- [精选内容：Minecraft SMP Season 3 Day 5 #0638](https://www.twitch.tv/videos/1947871015)
+- [🔴LIVE【早班晚播】 @eaglepb2 物品分類機 運作中](https://www.twitch.tv/videos/1950735088)
+- [精选内容：Barotrauma Day 16 #0641](https://www.twitch.tv/videos/1950673103)
+- [精选内容：Minecraft SMP Season 3 Day 7 #0640](https://www.twitch.tv/videos/1950672980)
+- [精选内容：Minecraft SMP Season 3 Day 6 #0639](https://www.twitch.tv/videos/1950672928)
+- [🔴LIVE【早班晚播】 @eaglepb2 今天去第四海域了嗎？](https://www.twitch.tv/videos/1950594421)
 <!-- TWITCH:END -->
 
 
