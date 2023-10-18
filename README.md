@@ -40,10 +40,10 @@ You may come back later, as you wish if this readme.md is updated.   -->
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [【🎃 2021 林間傳統 🎃】 Game 17 | 返校 Detention](https://www.youtube.com/watch?v=uDq8YYsfIJY)
+- [【🎃 2021 林間傳統 🎃】 Game 18 | 還願 Devotion](https://www.youtube.com/watch?v=FtqBYGDB34o)
 - [【🎃 2021 林間傳統 🎃】 Game 16 | Outlast](https://www.youtube.com/watch?v=JhC70wtNSeg)
 - [【🎃 2021 林間傳統 🎃】 Game 15 | 打鬼 PAGUI](https://www.youtube.com/watch?v=GKsykVDPs5Y)
 - [【🎃 2021 林間傳統 🎃】 Game 14 | Five Nights At Freddy&#39;s 弗萊迪的五夜后宮](https://www.youtube.com/watch?v=jsbObrkfqqo)
-- [林間傳統 | 2021 開幕儀式](https://www.youtube.com/watch?v=gMXR0deOB-k)
 <!-- YOUTUBE:END -->
 
 ---
