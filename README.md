@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [【🎃 2021 林間傳統 🎃】 Game 20 | 零 ~濡鴉之巫女~](https://www.youtube.com/watch?v=4mBpzBfyF6k)
+- [【🎃 2021 林間傳統 🎃】 Game 20 | 零 ~濡鴉之巫女~ （上）](https://www.youtube.com/watch?v=4mBpzBfyF6k)
+- [【🎃 2021 林間傳統 🎃】 Game 20 | 零 ~濡鴉之巫女~ （下）](https://www.youtube.com/watch?v=BFha_gYUZk4)
 - [【🎃 2021 林間傳統 🎃】 Game 19 | Alien: Isolation （下）](https://www.youtube.com/watch?v=wYemsSXf1yI)
 - [【🎃 2021 林間傳統 🎃】 Game 19 | Alien: Isolation （上）](https://www.youtube.com/watch?v=1NAu4fFKSfU)
 - [【🎃 2021 林間傳統 🎃】 Game 18 | 還願 Devotion](https://www.youtube.com/watch?v=FtqBYGDB34o)
-- [【🎃 2021 林間傳統 🎃】 Game 17 | 返校 Detention](https://www.youtube.com/watch?v=uDq8YYsfIJY)
 <!-- YOUTUBE:END -->
 
 ---
