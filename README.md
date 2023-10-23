@@ -28,11 +28,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
-- [🔴LIVE【早班晚播】100%橙汁~ feat. @eaglepb2 @mingixu_yuki @meteor_dog_](https://www.twitch.tv/videos/1956541504)
-- [🔴LIVE【早班晚播】我想解簡單成就 @eaglepb2](https://www.twitch.tv/videos/1955631378)
-- [🔴LIVE【早班晚播】麥塊台](https://www.twitch.tv/videos/1954839689)
-- [🔴LIVE【早班晚播】林间盃 10月份 第三阶段 三人日麻积分赛](https://www.twitch.tv/videos/1954020789)
-- [精选内容：Minecraft SMP Season 3 Day 10 #0645](https://www.twitch.tv/videos/1953923431)
+- [精选内容：Barotrauma Day 18 #0648](https://www.twitch.tv/videos/1957455294)
+- [精选内容：Minecraft SMP Season 3 Day 12 #0647](https://www.twitch.tv/videos/1957449992)
+- [精选内容：Minecraft SMP Season 3 Day 11 #0646](https://www.twitch.tv/videos/1957449668)
+- [精选内容：林间盃日麻积分赛 —— 10月第三场](https://www.twitch.tv/videos/1957448354)
+- [精选内容：100%橙汁 Day 1 #0648](https://www.twitch.tv/videos/1957447689)
 <!-- TWITCH:END -->
 
 
