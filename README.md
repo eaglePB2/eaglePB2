@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【🎃 2021 林間傳統 🎃】 Game 24 | Ib](https://www.youtube.com/watch?v=SIgLmc4unbs)
 - [【🎃 2021 林間傳統 🎃】 Game 23 | 纸嫁衣3 · 鴛鴦債](https://www.youtube.com/watch?v=_ALxl2OwAkI)
 - [【🎃 2021 林間傳統 🎃】 Game 22 | 纸嫁衣2 · 奘铃村](https://www.youtube.com/watch?v=q1JvHba9mso)
 - [【🎃 2021 林間傳統 🎃】 Game 21 | 纸嫁衣](https://www.youtube.com/watch?v=gIw0IsNA4n0)
 - [【🎃 2021 林間傳統 🎃】 Game 20 | 零 ~濡鴉之巫女~ （下）](https://www.youtube.com/watch?v=BFha_gYUZk4)
-- [【🎃 2021 林間傳統 🎃】 Game 20 | 零 ~濡鴉之巫女~ （上）](https://www.youtube.com/watch?v=4mBpzBfyF6k)
 <!-- YOUTUBE:END -->
 
 ---
