@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [【🎃 2021 林間傳統 🎃】 Game 26 | Poppy Playtime](https://www.youtube.com/watch?v=jpiFIke6KIs)
 - [【🎃 2021 林間傳統 🎃】 Game 27 | 黑相集 · 梅兰号](https://www.youtube.com/watch?v=Hj4gHPVKTKI)
+- [【🎃 2021 林間傳統 🎃】 Game 28 | Outlast 2](https://www.youtube.com/watch?v=AxfG2gH4yUU)
+- [【🎃 2021 林間傳統 🎃】 Game 26 | Poppy Playtime](https://www.youtube.com/watch?v=jpiFIke6KIs)
 - [【🎃 2021 林間傳統 🎃】 Game 25 | 夜勤事件 The Convenience Store](https://www.youtube.com/watch?v=sTqIJU90yYw)
 - [【🎃 2021 林間傳統 🎃】 Game 24 | Ib](https://www.youtube.com/watch?v=SIgLmc4unbs)
-- [【🎃 2021 林間傳統 🎃】 Game 23 | 纸嫁衣3 · 鴛鴦債](https://www.youtube.com/watch?v=_ALxl2OwAkI)
 <!-- YOUTUBE:END -->
 
 ---
