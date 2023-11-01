@@ -28,11 +28,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [🔴LIVE【2023 林间传统】抽獎台](https://www.twitch.tv/videos/1964869194)
 - [精选内容：林间盃日麻积分赛 —— 10月第四场](https://www.twitch.tv/videos/1959970589)
 - [精选内容：Minecraft SMP Season 3 Day 13 #0649](https://www.twitch.tv/videos/1959968389)
 - [🔴LIVE【早班晚播】林間盃 10月份 第四階段 三人日麻積分賽](https://www.twitch.tv/videos/1959896496)
 - [🔴LIVE【早班晚播】动物园！ @eaglepb2](https://www.twitch.tv/videos/1958276098)
-- [精选内容：Barotrauma Day 18 #0648](https://www.twitch.tv/videos/1957455294)
 <!-- TWITCH:END -->
 
 
