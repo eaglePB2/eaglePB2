@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 The Long Dark / 漫漫長夜 | 第五期](https://www.youtube.com/watch?v=F88Aod4dw4E)
 - [【夢想啓航系列】 Valheim/瓦爾海姆 | 第五集](https://www.youtube.com/watch?v=hB3ewSHCkeE)
 - [【🎃 2021 林間傳統 🎃】 Game 29~31 | Alice ~ 愛麗澄 ~ / iRec / 無人之居](https://www.youtube.com/watch?v=RN-WgDRzmq8)
 - [【🎃 2021 林間傳統 🎃】 Game 28 | Outlast 2](https://www.youtube.com/watch?v=AxfG2gH4yUU)
 - [【🎃 2021 林間傳統 🎃】 Game 27 | 黑相集 · 梅兰号](https://www.youtube.com/watch?v=Hj4gHPVKTKI)
-- [【🎃 2021 林間傳統 🎃】 Game 26 | Poppy Playtime](https://www.youtube.com/watch?v=jpiFIke6KIs)
 <!-- YOUTUBE:END -->
 
 ---
