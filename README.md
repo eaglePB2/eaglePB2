@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [【夢想啓航系列】 Valheim/瓦爾海姆 | 第八集](https://www.youtube.com/watch?v=672CPJNmyjg)
+- [【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第七十三期](https://www.youtube.com/watch?v=3TwCUePtYo4)
+- [【夢想啓航系列】 The Long Dark / 漫漫長夜 | 第六期](https://www.youtube.com/watch?v=lJzjei2Zp-E)
 - [【夢想啓航系列】 The Escapist 2 監獄脫逃中 Feat. @mingixuyuki  小敏](https://www.youtube.com/watch?v=9jx3akmXm7o)
 - [【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第七十二期](https://www.youtube.com/watch?v=5c12QSylVOg)
 - [【夢想啓航系列】 Valheim/瓦爾海姆 | 第七集](https://www.youtube.com/watch?v=H1PqVPN5ewg)
-- [【夢想啓航系列】 Valheim/瓦爾海姆 | 第六集](https://www.youtube.com/watch?v=4mdKD7ePYrU)
 <!-- YOUTUBE:END -->
 
 ---
