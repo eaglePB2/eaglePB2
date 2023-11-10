@@ -28,11 +28,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [🔴LIVE【2023 林间传统】Day 9 | 女鬼橋 · 開魂路](https://www.twitch.tv/videos/1972665815)
 - [🔴LIVE 林間盃 11月份 第二階段 三人日麻積分賽](https://www.twitch.tv/videos/1971833937)
 - [【2023 林間傳統】Day 7：Happy Game](https://www.twitch.tv/videos/1971443034)
 - [【2023 林間傳統】Day 6：DARQ](https://www.twitch.tv/videos/1971442225)
 - [🔴LIVE【2023 林间传统】Day 7 | Happy Game](https://www.twitch.tv/videos/1970982677)
-- [🔴LIVE【2023 林间传统】Day 6 | DARQ](https://www.twitch.tv/videos/1970174745)
 <!-- TWITCH:END -->
 
 
