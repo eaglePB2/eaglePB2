@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [四個人就是要整整齊齊 倒在同一格，對吧&lpar;X](https://www.youtube.com/watch?v=Xiubr4WskRs)
+- [【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第七十四期](https://www.youtube.com/watch?v=zLC-Ekj806U)
 - [【夢想啓航系列】 Valheim/瓦爾海姆 | 第九集](https://www.youtube.com/watch?v=ttdJBqgQnHA)
 - [【夢想啓航系列】 The Long Dark / 漫漫長夜 | 第七期](https://www.youtube.com/watch?v=8ReX5FnwOTw)
 - [【夢想啓航系列】 Valheim/瓦爾海姆 | 第八集](https://www.youtube.com/watch?v=yxMSCtklOyw)
-- [【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第七十三期](https://www.youtube.com/watch?v=3TwCUePtYo4)
-- [【夢想啓航系列】 The Long Dark / 漫漫長夜 | 第六期](https://www.youtube.com/watch?v=lJzjei2Zp-E)
 <!-- YOUTUBE:END -->
 
 ---
