@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 The Long Dark / 漫漫長夜 | 第十期](https://www.youtube.com/watch?v=YXlPdWj3uJo)
 - [【夢想啓航系列】 The Long Dark / 漫漫長夜 | 第九期](https://www.youtube.com/watch?v=x4w547DQGK8)
 - [【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第七十五期](https://www.youtube.com/watch?v=USteSCQW1Ik)
 - [【夢想啓航系列】 Valheim/瓦爾海姆 | 第十集](https://www.youtube.com/watch?v=9ImQ9DiEbk8)
 - [【夢想啓航系列】 The Long Dark / 漫漫長夜 | 第八期](https://www.youtube.com/watch?v=F8s_QcbeEeg)
-- [四個人就是要整整齊齊 倒在同一格，對吧&lpar;X](https://www.youtube.com/watch?v=Xiubr4WskRs)
 <!-- YOUTUBE:END -->
 
 ---
