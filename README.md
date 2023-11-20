@@ -28,11 +28,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【2023 林間傳統】Day 14：紙嫁衣 · 無間夢境](https://www.twitch.tv/videos/1980759082)
+- [【2023 林間傳統】Day 2：黑相集 · 灰冥界](https://www.twitch.tv/videos/1980688313)
 - [【2023 林間傳統】Day 13：弗萊迪的五夜后宮：安保漏洞](https://www.twitch.tv/videos/1978171935)
 - [【2023 林間傳統】Day 12：弗萊迪的五夜后宮：安保漏洞](https://www.twitch.tv/videos/1978171696)
 - [🔴LIVE 🏕️林間小鎮【林間盃🏆】活動周 三人日麻團體賽](https://www.twitch.tv/videos/1978018711)
-- [🔴LIVE【2023 林间传统】Day 13 | 弗萊迪的安保漏洞](https://www.twitch.tv/videos/1977158602)
-- [🔴LIVE【2023 林间传统】Day 12 | 弗萊迪的安保漏洞](https://www.twitch.tv/videos/1975446145)
 <!-- TWITCH:END -->
 
 
