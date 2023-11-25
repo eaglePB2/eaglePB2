@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第七十八期](https://www.youtube.com/watch?v=gukmmkUZGS4)
 - [【夢想啓航系列】 Minecraft | 林間 SMP 戰國賽季 · 第一期](https://www.youtube.com/watch?v=J--MK1PeXO4)
 - [【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第七十七期](https://www.youtube.com/watch?v=vx_r48rts9s)
 - [【夢想啓航系列】 It Takes Two | 双人成行 | ft. @mingixuyuki](https://www.youtube.com/watch?v=QVJHKX0KCIg)
 - [【夢想啓航系列】 The Long Dark / 漫漫長夜 | 第十一期](https://www.youtube.com/watch?v=fSuVth6j6CQ)
-- [【夢想啓航系列】 Valheim/瓦爾海姆 | 第十一集](https://www.youtube.com/watch?v=FE8bxDxDIZk)
 <!-- YOUTUBE:END -->
 
 ---
