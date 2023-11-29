@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 iCEY | 艾希](https://www.youtube.com/watch?v=LBDLUZovOfk)
+- [【夢想啓航系列】 Minecraft | 林間 SMP 戰國賽季 · 第四期](https://www.youtube.com/watch?v=WELESwQqq7Q)
 - [【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第七十九期](https://www.youtube.com/watch?v=BpS_6AIwk4c)
 - [【夢想啓航系列】 Minecraft | 林間 SMP 戰國賽季 · 第三期](https://www.youtube.com/watch?v=06ykt3hwlHc)
 - [【夢想啓航系列】 Minecraft | 林間 SMP 戰國賽季 · 第二期](https://www.youtube.com/watch?v=FEmtYwQvPyI)
-- [【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第七十八期](https://www.youtube.com/watch?v=gukmmkUZGS4)
-- [【夢想啓航系列】 Minecraft | 林間 SMP 戰國賽季 · 第一期](https://www.youtube.com/watch?v=J--MK1PeXO4)
 <!-- YOUTUBE:END -->
 
 ---
