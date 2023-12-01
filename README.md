@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 Barotrauma 潛淵症 第一團 Part 1](https://www.youtube.com/watch?v=rkco-P5lFEk)
 - [【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第八十期](https://www.youtube.com/watch?v=Nj-jDihzSzM)
 - [【夢想啓航系列】 iCEY | 艾希](https://www.youtube.com/watch?v=LBDLUZovOfk)
 - [【夢想啓航系列】 Minecraft | 林間 SMP 戰國賽季 · 第四期](https://www.youtube.com/watch?v=WELESwQqq7Q)
 - [【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第七十九期](https://www.youtube.com/watch?v=BpS_6AIwk4c)
-- [【夢想啓航系列】 Minecraft | 林間 SMP 戰國賽季 · 第三期](https://www.youtube.com/watch?v=06ykt3hwlHc)
 <!-- YOUTUBE:END -->
 
 ---
