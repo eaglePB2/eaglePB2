@@ -39,11 +39,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [【夢想啓航系列】 Rise of the Tomb Raider | Part 1](https://www.youtube.com/watch?v=Qs7oZJIE7QQ)
+- [【夢想啓航系列】 Barotrauma 潛淵症 第一團 Part 3](https://www.youtube.com/watch?v=W4cSnpcuxBo)
 - [【夢想啓航系列】 Rise of the Tomb Raider | Part 2](https://www.youtube.com/watch?v=xVvEfbMAY4g)
+- [【夢想啓航系列】 Rise of the Tomb Raider | Part 1](https://www.youtube.com/watch?v=Qs7oZJIE7QQ)
 - [【夢想啓航系列】 Barotrauma 潛淵症 第一團 Part 2](https://www.youtube.com/watch?v=DP2O4M7iPYE)
 - [【夢想啓航系列】 Barotrauma 潛淵症 第一團 Part 1](https://www.youtube.com/watch?v=rkco-P5lFEk)
-- [【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第八十期](https://www.youtube.com/watch?v=Nj-jDihzSzM)
 <!-- YOUTUBE:END -->
 
 ---
