@@ -3,15 +3,7 @@ Thank you for standby for this profile.
 The purpose of this profile is coming soon.   
 You may come back later, as you wish if this readme.md is updated.   -->
 
-<a href="https://github.com/lightda104530"><img src="https://readme-typing-svg.herokuapp.com/?duration=7000&width=600&lines=Hello+people,+I%27m+EaglePB2.;The+one+who+builds+something+for+fun+%F0%9F%91%8B;Thank+you+for+standby+for+this+profile.;The+purpose+of+this+profile+is+coming+soon.;You+may+come+back+later.;As+you+wish+if+this+readme.md+is+updated.;"></a>
-
-
-## I'm a university student, interested on coding, fixing things, or even making games(?)
-- 🔭 I’m currently developing coding challenges by using various of languages I know of!
-- 🌱 I’m currently learning everything 🤣
-- 💬 I’m looking to doing more minecraft projects!
-- 🥅 2023 Goals: Do More Project, Dynamic Website goes brrrrr
-- ⚡ Fun fact: Introvert, so prepare yourself if you want to talk to me.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=1000&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hello+Everyone%2C+I'm+EaglePB2.;%F0%9F%99%87+Thank+you+for+stopping+by+my+profile.+;%F0%9F%94%AD+I%E2%80%99m+currently+developing+coding+challenges+by+using+various+of+languages+I+know+of!;%E2%9A%A1+Fun+fact%3A+Introvert%2C+so+prepare+yourself+if+you+want+to+talk+to+me." alt="Typing SVG" /></a>
 
 ### Connections:
 
