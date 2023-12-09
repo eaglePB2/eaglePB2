@@ -3,7 +3,7 @@ Thank you for standby for this profile.
 The purpose of this profile is coming soon.   
 You may come back later, as you wish if this readme.md is updated.   -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=1000&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hello+Everyone%2C+I'm+EaglePB2.;%F0%9F%99%87+Thank+you+for+stopping+by+my+profile.+;%F0%9F%94%AD+I%E2%80%99m+currently+developing+coding+challenges+by+using+various+of+languages+I+know+of!;%E2%9A%A1+Fun+fact%3A+Introvert%2C+so+prepare+yourself+if+you+want+to+talk+to+me." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=5000&vCenter=true&random=false&width=500&lines=%F0%9F%91%8B+Hello+Everyone%2C+I'm+EaglePB2.;%F0%9F%99%87+Thank+you+for+stopping+by+my+profile.+;%F0%9F%94%AD+%3D%3D%3D%3D+%F0%9F%94%AD;%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0%E6%88%91%E7%9A%84%E4%BB%A3%E7%A2%BC%E5%BA%AB%E3%80%82;%F0%9F%99%87+%E6%84%9F%E8%AC%9D%E5%89%8D%E4%BE%86%E5%8F%83%E8%A7%80%E5%B0%8F%E5%B1%8B+owo~" alt="Typing SVG" /></a>
 
 ### Connections:
 
