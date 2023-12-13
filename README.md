@@ -31,11 +31,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 Shadow of the Tomb Raider | Part 3](https://www.youtube.com/watch?v=L2JMKA0dn6c)
 - [【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第八十三期](https://www.youtube.com/watch?v=NifdQ5uR9Q4)
 - [【夢想啓航系列】 Shadow of the Tomb Raider | Part 2](https://www.youtube.com/watch?v=VjMV3o6ezC4)
 - [【夢想啓航系列】 Minecraft | 林間 SMP 戰國賽季 · 第五期](https://www.youtube.com/watch?v=45aGGmXFznM)
 - [【夢想啓航系列】 Shadow of the Tomb Raider | Part 1](https://www.youtube.com/watch?v=9dc9mIxmvcU)
-- [【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第八十二期](https://www.youtube.com/watch?v=n1fiRTRjAL4)
 <!-- YOUTUBE:END -->
 
 ---
