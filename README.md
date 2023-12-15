@@ -22,9 +22,9 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- TWITCH:START -->
 - [🔴LIVE Escape the Backrooms 逃離後房](https://www.twitch.tv/videos/2000344551)
 - [精选内容：林间盃日麻积分赛 —— 11月第四场](https://www.twitch.tv/videos/1992654065)
-- [🔴LIVE 🏕️林間小鎮【林間盃🏆】第四階段 三人日麻積分賽](https://www.twitch.tv/videos/1990286151)
 - [精选内容：林间盃日麻积分赛 —— 11月第三场](https://www.twitch.tv/videos/1986525274)
 - [【2023 林間傳統】Day 14：紙嫁衣 · 無間夢境](https://www.twitch.tv/videos/1980759082)
+- [【2023 林間傳統】Day 2：黑相集 · 灰冥界](https://www.twitch.tv/videos/1980688313)
 <!-- TWITCH:END -->
 
 
