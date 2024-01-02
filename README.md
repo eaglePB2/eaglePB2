@@ -31,11 +31,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [【夢想啓航系列】 跨年桌游！ ft. 很多人](https://www.youtube.com/watch?v=bjSk_0jA-SQ)
+- [【夢想啓航系列】 Conan Exiles | 柯南的流亡 | 第二期](https://www.youtube.com/watch?v=-LXC9ZlCnA4)
 - [【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第八十四期](https://www.youtube.com/watch?v=zcH8En2trBQ)
 - [【夢想啓航系列】 Unheard | 疑案追聲 Ft. @mingixuyuki](https://www.youtube.com/watch?v=ty_YKRt8vjQ)
 - [【夢想啓航系列】 Conan Exiles | 柯南的流亡 | 第一期](https://www.youtube.com/watch?v=XAHUPE2oXRA)
-- [【夢想啓航系列】 Shadow of the Tomb Raider | Part 4](https://www.youtube.com/watch?v=S4AtHyKBLPw)
-- [【夢想啓航系列】 Shadow of the Tomb Raider | Part 3](https://www.youtube.com/watch?v=L2JMKA0dn6c)
 <!-- YOUTUBE:END -->
 
 ---
