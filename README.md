@@ -36,8 +36,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=yH5oB1XZ1dc">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yH5oB1XZ1dc&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+The+Forest+%7C+%E7%AC%AC%E4%B8%80%E6%9C%9F&lang=zh&timestamp=1704325452&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=yH5oB1XZ1dc&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+The+Forest+%7C+%E7%AC%AC%E4%B8%80%E6%9C%9F&lang=zh&timestamp=1704325452&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【夢想啓航系列】 The Forest | 第一期" title="【夢想啓航系列】 The Forest | 第一期">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yH5oB1XZ1dc&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+The+Forest+%7C+%E7%AC%AC%E4%B8%80%E6%9C%9F&lang=zh&timestamp=1704353304&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26295">
+    <img src="https://ytcards.demolab.com/?id=yH5oB1XZ1dc&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+The+Forest+%7C+%E7%AC%AC%E4%B8%80%E6%9C%9F&lang=zh&timestamp=1704353304&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=26295" alt="【夢想啓航系列】 The Forest | 第一期" title="【夢想啓航系列】 The Forest | 第一期">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=mkhJ1QE4GwA">
