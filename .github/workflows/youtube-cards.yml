@@ -22,6 +22,7 @@ jobs:
           show_duration: true
           theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
           theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'
-          max_title_lines: 2
+          max_title_lines: 1
           output_type: html
+          card_width: 640
           
