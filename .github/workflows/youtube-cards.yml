@@ -24,5 +24,5 @@ jobs:
           theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'
           max_title_lines: 1
           output_type: html
-          card_width: 426
+          card_width: 250
           
