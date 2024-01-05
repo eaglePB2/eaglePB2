@@ -10,7 +10,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
 [![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/eaglepb2)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/eaglepb2)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/eaglepb2)
-[![ForestWork](https://img.shields.io/badge/Forestwork_Website-415549?style=flat-square&logo=homeadvisor&logoColor=white)](https://forestwork.team)
 
 ### Discord Server:
 
