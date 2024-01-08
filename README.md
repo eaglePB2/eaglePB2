@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=_2NREomfByc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_2NREomfByc&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Haven+%7C+%E7%AC%AC%E4%B8%80%E6%9C%9F+%7C+ft.+%40mingixuyuki&lang=zh&timestamp=1704686205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14462">
+    <img src="https://ytcards.demolab.com/?id=_2NREomfByc&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Haven+%7C+%E7%AC%AC%E4%B8%80%E6%9C%9F+%7C+ft.+%40mingixuyuki&lang=zh&timestamp=1704686205&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14462" alt="【夢想啓航系列】 Haven | 第一期 | ft. @mingixuyuki" title="【夢想啓航系列】 Haven | 第一期 | ft. @mingixuyuki">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=uYNAQzzDitk">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uYNAQzzDitk&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Conan+Exiles+%7C+%E6%9F%AF%E5%8D%97%E7%9A%84%E6%B5%81%E4%BA%A1+%7C+%E7%AC%AC%E5%9B%9B%E6%9C%9F&lang=zh&timestamp=1704607107&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10889">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mkhJ1QE4GwA&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Conan+Exiles+%7C+%E6%9F%AF%E5%8D%97%E7%9A%84%E6%B5%81%E4%BA%A1+%7C+%E7%AC%AC%E4%B8%89%E6%9C%9F&lang=zh&timestamp=1704255188&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15459">
     <img src="https://ytcards.demolab.com/?id=mkhJ1QE4GwA&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Conan+Exiles+%7C+%E6%9F%AF%E5%8D%97%E7%9A%84%E6%B5%81%E4%BA%A1+%7C+%E7%AC%AC%E4%B8%89%E6%9C%9F&lang=zh&timestamp=1704255188&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15459" alt="【夢想啓航系列】 Conan Exiles | 柯南的流亡 | 第三期" title="【夢想啓航系列】 Conan Exiles | 柯南的流亡 | 第三期">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=bjSk_0jA-SQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bjSk_0jA-SQ&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+%E8%B7%A8%E5%B9%B4%E6%A1%8C%E6%B8%B8%EF%BC%81+ft.+%E5%BE%88%E5%A4%9A%E4%BA%BA&lang=zh&timestamp=1704190697&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=37776">
-    <img src="https://ytcards.demolab.com/?id=bjSk_0jA-SQ&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+%E8%B7%A8%E5%B9%B4%E6%A1%8C%E6%B8%B8%EF%BC%81+ft.+%E5%BE%88%E5%A4%9A%E4%BA%BA&lang=zh&timestamp=1704190697&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=37776" alt="【夢想啓航系列】 跨年桌游！ ft. 很多人" title="【夢想啓航系列】 跨年桌游！ ft. 很多人">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
