@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=43cSq6akTMU">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=43cSq6akTMU&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+The+Forest+%7C+%E7%AC%AC%E4%BA%94%E6%9C%9F&lang=zh&timestamp=1705555575&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19949">
+    <img src="https://ytcards.demolab.com/?id=43cSq6akTMU&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+The+Forest+%7C+%E7%AC%AC%E4%BA%94%E6%9C%9F&lang=zh&timestamp=1705555575&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19949" alt="【夢想啓航系列】 The Forest | 第五期" title="【夢想啓航系列】 The Forest | 第五期">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=Hy8GtCaxXOk">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Hy8GtCaxXOk&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Haven+%7C+%E7%AC%AC%E4%B8%89%E6%9C%9F+%7C+ft.+%40mingixuyuki&lang=zh&timestamp=1705480615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10765">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J9-pI-S5QCI&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Touhou+Luna+Nights&lang=zh&timestamp=1705136486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23556">
     <img src="https://ytcards.demolab.com/?id=J9-pI-S5QCI&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Touhou+Luna+Nights&lang=zh&timestamp=1705136486&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=23556" alt="【夢想啓航系列】 Touhou Luna Nights" title="【夢想啓航系列】 Touhou Luna Nights">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=ua3HaJesUIs">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ua3HaJesUIs&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+The+Forest+%7C+%E7%AC%AC%E5%9B%9B%E6%9C%9F&lang=zh&timestamp=1705039304&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17842">
-    <img src="https://ytcards.demolab.com/?id=ua3HaJesUIs&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+The+Forest+%7C+%E7%AC%AC%E5%9B%9B%E6%9C%9F&lang=zh&timestamp=1705039304&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17842" alt="【夢想啓航系列】 The Forest | 第四期" title="【夢想啓航系列】 The Forest | 第四期">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
