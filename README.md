@@ -23,7 +23,7 @@ You may come back later, as you wish if this readme.md is updated.   -->
 - [【早班晚播】久違了 日麻](https://www.twitch.tv/videos/2028269574)
 - [精选内容：Monument Valley 2](https://www.twitch.tv/videos/2023564979)
 - [精选内容：Monument Valley 1](https://www.twitch.tv/videos/2023564980)
-- [【早班晚播】紀念碑谷，用來紀念逝去的一切。](https://www.twitch.tv/videos/2023434213)
+- [精选内容：林间盃日麻积分赛 —— 1月第一场](https://www.twitch.tv/videos/2023190517)
 <!-- TWITCH:END -->
 
 
