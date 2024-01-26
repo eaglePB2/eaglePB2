@@ -23,7 +23,7 @@ You may come back later, as you wish if this readme.md is updated.   -->
 - [精选内容：Human Resource Machine](https://www.twitch.tv/videos/2039211634)
 - [【早班晚播】嗨你好 我人生就長這樣茲拉 :D](https://www.twitch.tv/videos/2039017364)
 - [精选内容：林间盃日麻积分赛 —— 1月第二场](https://www.twitch.tv/videos/2028353476)
-- [【早班晚播】久違了 日麻](https://www.twitch.tv/videos/2028269574)
+- [精选内容：Monument Valley 2](https://www.twitch.tv/videos/2023564979)
 <!-- TWITCH:END -->
 
 
