@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=k9iPSvfjJBs">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k9iPSvfjJBs&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Conon+Exiles+%2F+%E6%9F%AF%E5%8D%97%E7%9A%84%E6%B5%81%E4%BA%A1%7C+%E7%AC%AC%E5%85%AB%E6%9C%9F&lang=zh&timestamp=1706327168&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7845">
+    <img src="https://ytcards.demolab.com/?id=k9iPSvfjJBs&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Conon+Exiles+%2F+%E6%9F%AF%E5%8D%97%E7%9A%84%E6%B5%81%E4%BA%A1%7C+%E7%AC%AC%E5%85%AB%E6%9C%9F&lang=zh&timestamp=1706327168&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7845" alt="【夢想啓航系列】 Conon Exiles / 柯南的流亡| 第八期" title="【夢想啓航系列】 Conon Exiles / 柯南的流亡| 第八期">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=Jd_g_sM0vkc">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Jd_g_sM0vkc&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+The+Forest+%7C+%E7%AC%AC%E4%B8%83%E6%9C%9F&lang=zh&timestamp=1706251351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15945">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ire_Zy3bdsg&title=%E3%80%90TR+%2F%2F+%E5%8F%A4%E5%A2%93%E9%BA%97%E5%BD%B1%E3%80%91%EF%BC%88%23003%EF%BC%89+%E8%80%B6%E9%A6%AC%E5%8F%B0%E6%9C%80%E5%BE%8C%E7%9A%84%E5%B8%8C%E6%9C%9B%EF%BC%8C%E7%A0%B4%E6%BB%85%E4%BA%86%E3%80%82&lang=zh&timestamp=1705922730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20736">
     <img src="https://ytcards.demolab.com/?id=ire_Zy3bdsg&title=%E3%80%90TR+%2F%2F+%E5%8F%A4%E5%A2%93%E9%BA%97%E5%BD%B1%E3%80%91%EF%BC%88%23003%EF%BC%89+%E8%80%B6%E9%A6%AC%E5%8F%B0%E6%9C%80%E5%BE%8C%E7%9A%84%E5%B8%8C%E6%9C%9B%EF%BC%8C%E7%A0%B4%E6%BB%85%E4%BA%86%E3%80%82&lang=zh&timestamp=1705922730&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20736" alt="【TR // 古墓麗影】（#003） 耶馬台最後的希望，破滅了。" title="【TR // 古墓麗影】（#003） 耶馬台最後的希望，破滅了。">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=f6nif9AkO3c">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f6nif9AkO3c&title=%E3%80%90The+Forest%E3%80%91%EF%BC%88%23006%EF%BC%898%E7%82%B9%E8%A6%81%E5%8F%82%E5%8A%A0%E4%B8%A7%E7%A4%BC%EF%BC%8C%E8%BF%99%E9%87%8C%E6%97%A9%E7%82%B9%E5%B0%8F%E5%BC%80%E5%8F%B0&lang=zh&timestamp=1705892714&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12031">
-    <img src="https://ytcards.demolab.com/?id=f6nif9AkO3c&title=%E3%80%90The+Forest%E3%80%91%EF%BC%88%23006%EF%BC%898%E7%82%B9%E8%A6%81%E5%8F%82%E5%8A%A0%E4%B8%A7%E7%A4%BC%EF%BC%8C%E8%BF%99%E9%87%8C%E6%97%A9%E7%82%B9%E5%B0%8F%E5%BC%80%E5%8F%B0&lang=zh&timestamp=1705892714&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12031" alt="【The Forest】（#006）8点要参加丧礼，这里早点小开台" title="【The Forest】（#006）8点要参加丧礼，这里早点小开台">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
