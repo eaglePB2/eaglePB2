@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=jWeV1_sm00I">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jWeV1_sm00I&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B9%9D%E5%8D%81%E4%BA%8C%E6%9C%9F&lang=zh&timestamp=1706502971&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10997">
+    <img src="https://ytcards.demolab.com/?id=jWeV1_sm00I&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B9%9D%E5%8D%81%E4%BA%8C%E6%9C%9F&lang=zh&timestamp=1706502971&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10997" alt="【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第九十二期" title="【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第九十二期">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=JDuvqE5BJSA">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JDuvqE5BJSA&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B9%9D%E5%8D%81%E4%B8%80%E6%9C%9F&lang=zh&timestamp=1706418008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14349">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OH_xIdQeP1E&title=%E3%80%90WARFRAME+%2F%2F+%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%E3%80%91%EF%BC%88%23089%EF%BC%89Vonura+%E5%88%B7%E5%88%B7%E5%88%B7%EF%BC%81&lang=zh&timestamp=1706064178&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7976">
     <img src="https://ytcards.demolab.com/?id=OH_xIdQeP1E&title=%E3%80%90WARFRAME+%2F%2F+%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%E3%80%91%EF%BC%88%23089%EF%BC%89Vonura+%E5%88%B7%E5%88%B7%E5%88%B7%EF%BC%81&lang=zh&timestamp=1706064178&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7976" alt="【WARFRAME // 星际战甲】（#089）Vonura 刷刷刷！" title="【WARFRAME // 星际战甲】（#089）Vonura 刷刷刷！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=9vr_aR7S-Ms">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9vr_aR7S-Ms&title=%E3%80%90GRIS%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%B8%80%E6%AE%B5%E5%B0%8B%E6%89%BE%E5%AA%BD%E5%AA%BD%E5%9B%9E%E6%86%B6%E7%9A%84%E6%95%85%E4%BA%8B&lang=zh&timestamp=1705976843&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10345">
-    <img src="https://ytcards.demolab.com/?id=9vr_aR7S-Ms&title=%E3%80%90GRIS%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%B8%80%E6%AE%B5%E5%B0%8B%E6%89%BE%E5%AA%BD%E5%AA%BD%E5%9B%9E%E6%86%B6%E7%9A%84%E6%95%85%E4%BA%8B&lang=zh&timestamp=1705976843&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10345" alt="【GRIS】（#000）一段尋找媽媽回憶的故事" title="【GRIS】（#000）一段尋找媽媽回憶的故事">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
