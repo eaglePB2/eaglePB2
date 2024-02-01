@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=nEQFYXo-1xw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nEQFYXo-1xw&title=%E3%80%90NSO+%2F%2F%E4%B8%BB%E6%92%AD%E5%A5%B3%E5%AD%A9%E9%87%8D%E5%BA%A6%E4%BE%9D%E8%B5%96+%E3%80%91+%EF%BC%88%23000%EF%BC%89%E7%9B%B4%E6%92%AD%E4%B8%BB%E7%9A%84N%E7%A8%AE%E7%87%9F%E9%81%8B%E6%A8%A1%E5%BC%8F%EF%BC%88%EF%BC%9F&lang=zh&timestamp=1706759635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14400">
+    <img src="https://ytcards.demolab.com/?id=nEQFYXo-1xw&title=%E3%80%90NSO+%2F%2F%E4%B8%BB%E6%92%AD%E5%A5%B3%E5%AD%A9%E9%87%8D%E5%BA%A6%E4%BE%9D%E8%B5%96+%E3%80%91+%EF%BC%88%23000%EF%BC%89%E7%9B%B4%E6%92%AD%E4%B8%BB%E7%9A%84N%E7%A8%AE%E7%87%9F%E9%81%8B%E6%A8%A1%E5%BC%8F%EF%BC%88%EF%BC%9F&lang=zh&timestamp=1706759635&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14400" alt="【NSO //主播女孩重度依赖 】 （#000）直播主的N種營運模式（？" title="【NSO //主播女孩重度依赖 】 （#000）直播主的N種營運模式（？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=evhJlfZXx3Q">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=evhJlfZXx3Q&title=%E3%80%90Portal+%2F%2F+%E5%82%B3%E9%80%81%E9%96%80%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%BF%99%E6%B8%B8%E6%88%8F%E9%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E5%B7%B2%E7%BB%8F%E8%BF%87%E5%87%A0%E7%99%BE%E5%B9%B4%E4%BA%86%E4%BD%A0%E8%B7%9F%E6%88%91%E8%AF%B4%E7%8E%B0%E5%9C%A8%E6%89%8D%E7%8E%A9%E8%BF%99%E4%B8%AA%EF%BC%9F&lang=zh&timestamp=1706689026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9715">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k9iPSvfjJBs&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Conon+Exiles+%2F+%E6%9F%AF%E5%8D%97%E7%9A%84%E6%B5%81%E4%BA%A1%7C+%E7%AC%AC%E5%85%AB%E6%9C%9F&lang=zh&timestamp=1706327168&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7845">
     <img src="https://ytcards.demolab.com/?id=k9iPSvfjJBs&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Conon+Exiles+%2F+%E6%9F%AF%E5%8D%97%E7%9A%84%E6%B5%81%E4%BA%A1%7C+%E7%AC%AC%E5%85%AB%E6%9C%9F&lang=zh&timestamp=1706327168&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7845" alt="【夢想啓航系列】 Conon Exiles / 柯南的流亡| 第八期" title="【夢想啓航系列】 Conon Exiles / 柯南的流亡| 第八期">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=Jd_g_sM0vkc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Jd_g_sM0vkc&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+The+Forest+%7C+%E7%AC%AC%E4%B8%83%E6%9C%9F&lang=zh&timestamp=1706251351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15945">
-    <img src="https://ytcards.demolab.com/?id=Jd_g_sM0vkc&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+The+Forest+%7C+%E7%AC%AC%E4%B8%83%E6%9C%9F&lang=zh&timestamp=1706251351&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15945" alt="【夢想啓航系列】 The Forest | 第七期" title="【夢想啓航系列】 The Forest | 第七期">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
