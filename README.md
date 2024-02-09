@@ -22,8 +22,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 - [精选内容：林间盃日麻积分赛 —— 1月第四场](https://www.twitch.tv/videos/2049140261)
 - [【早班晚播】一月最後一次的日麻台](https://www.twitch.tv/videos/2048947036)
 - [精选内容：林间盃日麻积分赛 —— 1月第三场](https://www.twitch.tv/videos/2043840465)
-- [【早班晚播】日嗎](https://www.twitch.tv/videos/2042130935)
 - [精选内容：Human Resource Machine](https://www.twitch.tv/videos/2039211634)
+- [精选内容：林间盃日麻积分赛 —— 1月第二场](https://www.twitch.tv/videos/2028353476)
 <!-- TWITCH:END -->
 
 
