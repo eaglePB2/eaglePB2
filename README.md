@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=kwF9XJfTFpI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kwF9XJfTFpI&title=%E3%80%90%E5%80%BC%E6%97%A5%E8%A1%A8%E3%80%912024-02-19+~+2024-02-25&lang=zh&timestamp=1708093563&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=kwF9XJfTFpI&title=%E3%80%90%E5%80%BC%E6%97%A5%E8%A1%A8%E3%80%912024-02-19+~+2024-02-25&lang=zh&timestamp=1708093563&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【值日表】2024-02-19 ~ 2024-02-25" title="【值日表】2024-02-19 ~ 2024-02-25">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=nEQFYXo-1xw">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nEQFYXo-1xw&title=%E3%80%90NSO+%2F%2F%E4%B8%BB%E6%92%AD%E5%A5%B3%E5%AD%A9%E9%87%8D%E5%BA%A6%E4%BE%9D%E8%B5%96+%E3%80%91+%EF%BC%88%23000%EF%BC%89%E7%9B%B4%E6%92%AD%E4%B8%BB%E7%9A%84N%E7%A8%AE%E7%87%9F%E9%81%8B%E6%A8%A1%E5%BC%8F%EF%BC%88%EF%BC%9F&lang=zh&timestamp=1706759635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14400">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JDuvqE5BJSA&title=%E3%80%90WARFRAME+%2F%2F+%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%E3%80%91%EF%BC%88%23091%EF%BC%89%E6%8C%87%E6%95%B01%E5%B0%8F%E6%97%B6&lang=zh&timestamp=1706418008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14349">
     <img src="https://ytcards.demolab.com/?id=JDuvqE5BJSA&title=%E3%80%90WARFRAME+%2F%2F+%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%E3%80%91%EF%BC%88%23091%EF%BC%89%E6%8C%87%E6%95%B01%E5%B0%8F%E6%97%B6&lang=zh&timestamp=1706418008&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14349" alt="【WARFRAME // 星际战甲】（#091）指数1小时" title="【WARFRAME // 星际战甲】（#091）指数1小时">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=k9iPSvfjJBs">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k9iPSvfjJBs&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Conon+Exiles+%2F+%E6%9F%AF%E5%8D%97%E7%9A%84%E6%B5%81%E4%BA%A1%7C+%E7%AC%AC%E5%85%AB%E6%9C%9F&lang=zh&timestamp=1706327168&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7845">
-    <img src="https://ytcards.demolab.com/?id=k9iPSvfjJBs&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Conon+Exiles+%2F+%E6%9F%AF%E5%8D%97%E7%9A%84%E6%B5%81%E4%BA%A1%7C+%E7%AC%AC%E5%85%AB%E6%9C%9F&lang=zh&timestamp=1706327168&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7845" alt="【夢想啓航系列】 Conon Exiles / 柯南的流亡| 第八期" title="【夢想啓航系列】 Conon Exiles / 柯南的流亡| 第八期">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
