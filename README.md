@@ -33,10 +33,22 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=ovAAvdU1Rsw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ovAAvdU1Rsw&title=%E3%80%90Pink+Explorer%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%A4%B1%E7%9C%A0%E7%9A%84%E7%B2%89%E8%89%B2%E6%8E%A2%E9%9A%AA%E8%80%85%E8%B7%91%E9%85%B7&lang=zh&timestamp=1708301378&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3026">
+    <img src="https://ytcards.demolab.com/?id=ovAAvdU1Rsw&title=%E3%80%90Pink+Explorer%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%A4%B1%E7%9C%A0%E7%9A%84%E7%B2%89%E8%89%B2%E6%8E%A2%E9%9A%AA%E8%80%85%E8%B7%91%E9%85%B7&lang=zh&timestamp=1708301378&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3026" alt="【Pink Explorer】（#000）失眠的粉色探險者跑酷" title="【Pink Explorer】（#000）失眠的粉色探險者跑酷">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=FVsnpELjj7Q">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FVsnpELjj7Q&title=%E3%80%90KALPA%E3%80%91%E5%85%A8Lana%E6%8C%91%E6%88%B0%E7%B3%BB%E5%88%97+%7C+Lana%27s+Album+All+Challange+%7C+%E6%8B%87%E6%8C%87%E7%B3%BB%E5%88%97+%7C+Part.+Thumb+Mode&lang=zh&timestamp=1708270295&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4448">
+    <img src="https://ytcards.demolab.com/?id=FVsnpELjj7Q&title=%E3%80%90KALPA%E3%80%91%E5%85%A8Lana%E6%8C%91%E6%88%B0%E7%B3%BB%E5%88%97+%7C+Lana%27s+Album+All+Challange+%7C+%E6%8B%87%E6%8C%87%E7%B3%BB%E5%88%97+%7C+Part.+Thumb+Mode&lang=zh&timestamp=1708270295&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4448" alt="【KALPA】全Lana挑戰系列 | Lana's Album All Challange | 拇指系列 | Part. Thumb Mode" title="【KALPA】全Lana挑戰系列 | Lana's Album All Challange | 拇指系列 | Part. Thumb Mode">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=6d-KloTJmOs">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6d-KloTJmOs&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B9%9D%E5%8D%81%E4%B8%89%E6%9C%9F&lang=zh&timestamp=1708249416&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=6d-KloTJmOs&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B9%9D%E5%8D%81%E4%B8%89%E6%9C%9F&lang=zh&timestamp=1708249416&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第九十三期" title="【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第九十三期">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6d-KloTJmOs&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B9%9D%E5%8D%81%E4%B8%89%E6%9C%9F&lang=zh&timestamp=1708267042&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16511">
+    <img src="https://ytcards.demolab.com/?id=6d-KloTJmOs&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B9%9D%E5%8D%81%E4%B8%89%E6%9C%9F&lang=zh&timestamp=1708267042&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16511" alt="【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第九十三期" title="【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第九十三期">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=kwF9XJfTFpI">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=evhJlfZXx3Q&title=%E3%80%90Portal+%2F%2F+%E5%82%B3%E9%80%81%E9%96%80%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%BF%99%E6%B8%B8%E6%88%8F%E9%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E5%B7%B2%E7%BB%8F%E8%BF%87%E5%87%A0%E7%99%BE%E5%B9%B4%E4%BA%86%E4%BD%A0%E8%B7%9F%E6%88%91%E8%AF%B4%E7%8E%B0%E5%9C%A8%E6%89%8D%E7%8E%A9%E8%BF%99%E4%B8%AA%EF%BC%9F&lang=zh&timestamp=1706689026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9715">
     <img src="https://ytcards.demolab.com/?id=evhJlfZXx3Q&title=%E3%80%90Portal+%2F%2F+%E5%82%B3%E9%80%81%E9%96%80%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%BF%99%E6%B8%B8%E6%88%8F%E9%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E5%B7%B2%E7%BB%8F%E8%BF%87%E5%87%A0%E7%99%BE%E5%B9%B4%E4%BA%86%E4%BD%A0%E8%B7%9F%E6%88%91%E8%AF%B4%E7%8E%B0%E5%9C%A8%E6%89%8D%E7%8E%A9%E8%BF%99%E4%B8%AA%EF%BC%9F&lang=zh&timestamp=1706689026&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9715" alt="【Portal // 傳送門】（#000）这游戏都不知道已经过几百年了你跟我说现在才玩这个？" title="【Portal // 傳送門】（#000）这游戏都不知道已经过几百年了你跟我说现在才玩这个？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=XumjVrkGH-Y">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XumjVrkGH-Y&title=%E3%80%90Little+Nightmares+2+%2F%2F+%E5%B0%8F%E5%B0%8F%E6%A2%A6%E9%AD%87+2%E3%80%91%EF%BC%88%23000%EF%BC%89%E7%BB%88%E4%BA%8E%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%BC%80%E5%8F%B0%E4%BA%86%E2%80%A6%E2%80%A6%E5%90%97%EF%BC%9F&lang=zh&timestamp=1706598064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18981">
-    <img src="https://ytcards.demolab.com/?id=XumjVrkGH-Y&title=%E3%80%90Little+Nightmares+2+%2F%2F+%E5%B0%8F%E5%B0%8F%E6%A2%A6%E9%AD%87+2%E3%80%91%EF%BC%88%23000%EF%BC%89%E7%BB%88%E4%BA%8E%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%BC%80%E5%8F%B0%E4%BA%86%E2%80%A6%E2%80%A6%E5%90%97%EF%BC%9F&lang=zh&timestamp=1706598064&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18981" alt="【Little Nightmares 2 // 小小梦魇 2】（#000）终于有机会开台了……吗？" title="【Little Nightmares 2 // 小小梦魇 2】（#000）终于有机会开台了……吗？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=jWeV1_sm00I">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jWeV1_sm00I&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B9%9D%E5%8D%81%E4%BA%8C%E6%9C%9F&lang=zh&timestamp=1706502971&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10997">
-    <img src="https://ytcards.demolab.com/?id=jWeV1_sm00I&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B9%9D%E5%8D%81%E4%BA%8C%E6%9C%9F&lang=zh&timestamp=1706502971&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10997" alt="【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第九十二期" title="【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第九十二期">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
