@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【Lethal Company】Day 1](https://www.twitch.tv/videos/2067593835)
+- [【早班晚播】撿垃圾公司上綫啦！ 這一定是最安全的工作了……吧？](https://www.twitch.tv/videos/2067382697)
 - [精选内容：林间盃日麻积分赛 —— 1月第四场](https://www.twitch.tv/videos/2049140261)
 - [精选内容：林间盃日麻积分赛 —— 1月第三场](https://www.twitch.tv/videos/2043840465)
 - [精选内容：Human Resource Machine](https://www.twitch.tv/videos/2039211634)
-- [精选内容：林间盃日麻积分赛 —— 1月第二场](https://www.twitch.tv/videos/2028353476)
-- [精选内容：Monument Valley 2](https://www.twitch.tv/videos/2023564979)
 <!-- TWITCH:END -->
 
 
