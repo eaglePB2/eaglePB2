@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=QFpUZfUjfgE">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QFpUZfUjfgE&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+The+Forest+%7C+%E7%AC%AC%E5%85%AB%E6%9C%9F&lang=zh&timestamp=1708488009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12502">
+    <img src="https://ytcards.demolab.com/?id=QFpUZfUjfgE&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+The+Forest+%7C+%E7%AC%AC%E5%85%AB%E6%9C%9F&lang=zh&timestamp=1708488009&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12502" alt="【夢想啓航系列】 The Forest | 第八期" title="【夢想啓航系列】 The Forest | 第八期">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=_6QrYyAgMWk">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_6QrYyAgMWk&title=%E3%80%90Reventure+%2F%2F+%E9%87%8D%E7%94%9F%E5%A4%A7%E5%86%92%E9%9A%AA%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%8B%87%E8%80%85%E7%9A%84101%E7%A8%AE%E7%B5%90%E5%B1%80&lang=zh&timestamp=1708431070&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32297">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kwF9XJfTFpI&title=%E3%80%90%E5%80%BC%E6%97%A5%E8%A1%A8%E3%80%912024-02-19+~+2024-02-25&lang=zh&timestamp=1708093563&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
     <img src="https://ytcards.demolab.com/?id=kwF9XJfTFpI&title=%E3%80%90%E5%80%BC%E6%97%A5%E8%A1%A8%E3%80%912024-02-19+~+2024-02-25&lang=zh&timestamp=1708093563&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【值日表】2024-02-19 ~ 2024-02-25" title="【值日表】2024-02-19 ~ 2024-02-25">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=nEQFYXo-1xw">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nEQFYXo-1xw&title=%E3%80%90NSO+%2F%2F%E4%B8%BB%E6%92%AD%E5%A5%B3%E5%AD%A9%E9%87%8D%E5%BA%A6%E4%BE%9D%E8%B5%96+%E3%80%91+%EF%BC%88%23000%EF%BC%89%E7%9B%B4%E6%92%AD%E4%B8%BB%E7%9A%84N%E7%A8%AE%E7%87%9F%E9%81%8B%E6%A8%A1%E5%BC%8F%EF%BC%88%EF%BC%9F&lang=zh&timestamp=1706759635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14400">
-    <img src="https://ytcards.demolab.com/?id=nEQFYXo-1xw&title=%E3%80%90NSO+%2F%2F%E4%B8%BB%E6%92%AD%E5%A5%B3%E5%AD%A9%E9%87%8D%E5%BA%A6%E4%BE%9D%E8%B5%96+%E3%80%91+%EF%BC%88%23000%EF%BC%89%E7%9B%B4%E6%92%AD%E4%B8%BB%E7%9A%84N%E7%A8%AE%E7%87%9F%E9%81%8B%E6%A8%A1%E5%BC%8F%EF%BC%88%EF%BC%9F&lang=zh&timestamp=1706759635&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14400" alt="【NSO //主播女孩重度依赖 】 （#000）直播主的N種營運模式（？" title="【NSO //主播女孩重度依赖 】 （#000）直播主的N種營運模式（？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
