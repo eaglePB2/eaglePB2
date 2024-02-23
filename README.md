@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [【Lethal Company】Day 2](https://www.twitch.tv/videos/2070383451)
+- [【早班晚播】撿垃圾公司 第二天正式運作中](https://www.twitch.tv/videos/2070267174)
+- [精选内容：林间盃日麻积分赛 —— 2月第三场](https://www.twitch.tv/videos/2070243227)
 - [【早班晚播】這個月唯一一次有開日麻的一天 pwq](https://www.twitch.tv/videos/2069313094)
 - [【Portal: Revolution】](https://www.twitch.tv/videos/2068592405)
-- [【早班晚播】Portal: Revolution 傳説中Valve能數到三的作品？](https://www.twitch.tv/videos/2068355913)
-- [【Lethal Company】Day 1](https://www.twitch.tv/videos/2067593835)
-- [【早班晚播】撿垃圾公司上綫啦！ 這一定是最安全的工作了……吧？](https://www.twitch.tv/videos/2067382697)
 <!-- TWITCH:END -->
 
 
