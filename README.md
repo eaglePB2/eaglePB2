@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=7AABgOsMwcA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7AABgOsMwcA&title=%E3%80%90Portal+2%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%B2%A1%E6%9C%89%E5%93%88%E5%88%A9%E7%9A%84%E7%8F%80%E7%89%B92&lang=zh&timestamp=1709710233&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18516">
+    <img src="https://ytcards.demolab.com/?id=7AABgOsMwcA&title=%E3%80%90Portal+2%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%B2%A1%E6%9C%89%E5%93%88%E5%88%A9%E7%9A%84%E7%8F%80%E7%89%B92&lang=zh&timestamp=1709710233&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18516" alt="【Portal 2】（#000）没有哈利的珀特2" title="【Portal 2】（#000）没有哈利的珀特2">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=qCWSqM_uvgM">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qCWSqM_uvgM&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B9%9D%E5%8D%81%E5%9B%9B%E6%9C%9F&lang=zh&timestamp=1708654972&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7457">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ovAAvdU1Rsw&title=%E3%80%90Pink+Explorer%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%A4%B1%E7%9C%A0%E7%9A%84%E7%B2%89%E8%89%B2%E6%8E%A2%E9%9A%AA%E8%80%85%E8%B7%91%E9%85%B7&lang=zh&timestamp=1708348498&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3022">
     <img src="https://ytcards.demolab.com/?id=ovAAvdU1Rsw&title=%E3%80%90Pink+Explorer%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%A4%B1%E7%9C%A0%E7%9A%84%E7%B2%89%E8%89%B2%E6%8E%A2%E9%9A%AA%E8%80%85%E8%B7%91%E9%85%B7&lang=zh&timestamp=1708348498&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3022" alt="【Pink Explorer】（#000）失眠的粉色探險者跑酷" title="【Pink Explorer】（#000）失眠的粉色探險者跑酷">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=FVsnpELjj7Q">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FVsnpELjj7Q&title=%E3%80%90KALPA%E3%80%91%E5%85%A8Lana%E6%8C%91%E6%88%B0%E7%B3%BB%E5%88%97+%7C+Lana%27s+Album+All+Challange+%7C+%E6%8B%87%E6%8C%87%E7%B3%BB%E5%88%97+%7C+Part.+Thumb+Mode&lang=zh&timestamp=1708270295&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4448">
-    <img src="https://ytcards.demolab.com/?id=FVsnpELjj7Q&title=%E3%80%90KALPA%E3%80%91%E5%85%A8Lana%E6%8C%91%E6%88%B0%E7%B3%BB%E5%88%97+%7C+Lana%27s+Album+All+Challange+%7C+%E6%8B%87%E6%8C%87%E7%B3%BB%E5%88%97+%7C+Part.+Thumb+Mode&lang=zh&timestamp=1708270295&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4448" alt="【KALPA】全Lana挑戰系列 | Lana's Album All Challange | 拇指系列 | Part. Thumb Mode" title="【KALPA】全Lana挑戰系列 | Lana's Album All Challange | 拇指系列 | Part. Thumb Mode">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
