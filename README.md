@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=hsYra9oXCDs">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hsYra9oXCDs&title=%E3%80%90While+True%3A+learn%28%29%E3%80%91%EF%BC%88%23000%EF%BC%89%E7%88%B2%E4%BA%86%E7%90%86%E8%A7%A3%E9%80%99%E9%9A%BB%E8%B2%93%E5%9C%A8%E8%AA%AC%E4%BB%80%E9%BA%BD%EF%BC%8C%E6%96%BC%E6%98%AF%E9%80%99%E9%9A%BB%E7%A8%8B%E5%BC%8F%E9%B7%B9%E8%B8%8F%E4%B8%8A%E4%BA%86%E5%B0%8B%E6%89%BEAI%E7%9A%84%E6%97%85%E7%A8%8B%E3%80%82&lang=zh&timestamp=1710152712&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=30318">
+    <img src="https://ytcards.demolab.com/?id=hsYra9oXCDs&title=%E3%80%90While+True%3A+learn%28%29%E3%80%91%EF%BC%88%23000%EF%BC%89%E7%88%B2%E4%BA%86%E7%90%86%E8%A7%A3%E9%80%99%E9%9A%BB%E8%B2%93%E5%9C%A8%E8%AA%AC%E4%BB%80%E9%BA%BD%EF%BC%8C%E6%96%BC%E6%98%AF%E9%80%99%E9%9A%BB%E7%A8%8B%E5%BC%8F%E9%B7%B9%E8%B8%8F%E4%B8%8A%E4%BA%86%E5%B0%8B%E6%89%BEAI%E7%9A%84%E6%97%85%E7%A8%8B%E3%80%82&lang=zh&timestamp=1710152712&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=30318" alt="【While True: learn()】（#000）爲了理解這隻貓在説什麽，於是這隻程式鷹踏上了尋找AI的旅程。" title="【While True: learn()】（#000）爲了理解這隻貓在説什麽，於是這隻程式鷹踏上了尋找AI的旅程。">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=ekFKv1A1dmo">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ekFKv1A1dmo&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B9%9D%E5%8D%81%E4%BA%94%E6%9C%9F&lang=zh&timestamp=1710067118&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14767">
@@ -47,8 +53,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 </a>
 <a href="https://www.youtube.com/watch?v=QFRBmVD9epI">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QFRBmVD9epI&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+The+Forest+%7C+%E7%AC%AC%E4%B9%9D%E6%9C%9F&lang=zh&timestamp=1709805678&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21527">
-    <img src="https://ytcards.demolab.com/?id=QFRBmVD9epI&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+The+Forest+%7C+%E7%AC%AC%E4%B9%9D%E6%9C%9F&lang=zh&timestamp=1709805678&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21527" alt="【夢想啓航系列】 The Forest | 第九期" title="【夢想啓航系列】 The Forest | 第九期">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QFRBmVD9epI&title=%E3%80%90The+Forest%E3%80%91%EF%BC%88%23009%EF%BC%89%E7%88%B7%E7%88%B7%EF%BC%81%E6%9C%89%E7%94%9F%E4%B9%8B%E5%B9%B4%E4%BD%A0%E6%9C%80%E7%88%B1%E7%9C%8B%E7%9A%84%E6%A3%AE%E6%9E%97%E7%9B%B4%E6%92%AD%E5%B1%85%E7%84%B6%E4%B8%8A%E7%BA%BF%E5%95%A6%EF%BC%81&lang=zh&timestamp=1709805678&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21527">
+    <img src="https://ytcards.demolab.com/?id=QFRBmVD9epI&title=%E3%80%90The+Forest%E3%80%91%EF%BC%88%23009%EF%BC%89%E7%88%B7%E7%88%B7%EF%BC%81%E6%9C%89%E7%94%9F%E4%B9%8B%E5%B9%B4%E4%BD%A0%E6%9C%80%E7%88%B1%E7%9C%8B%E7%9A%84%E6%A3%AE%E6%9E%97%E7%9B%B4%E6%92%AD%E5%B1%85%E7%84%B6%E4%B8%8A%E7%BA%BF%E5%95%A6%EF%BC%81&lang=zh&timestamp=1709805678&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21527" alt="【The Forest】（#009）爷爷！有生之年你最爱看的森林直播居然上线啦！" title="【The Forest】（#009）爷爷！有生之年你最爱看的森林直播居然上线啦！">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=7AABgOsMwcA">
@@ -59,14 +65,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 </a>
 <a href="https://www.youtube.com/watch?v=qCWSqM_uvgM">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qCWSqM_uvgM&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B9%9D%E5%8D%81%E5%9B%9B%E6%9C%9F&lang=zh&timestamp=1708654972&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7457">
-    <img src="https://ytcards.demolab.com/?id=qCWSqM_uvgM&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B9%9D%E5%8D%81%E5%9B%9B%E6%9C%9F&lang=zh&timestamp=1708654972&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7457" alt="【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第九十四期" title="【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第九十四期">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=z-93naIPBgM">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z-93naIPBgM&title=%E3%80%90Epistory%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%87%8D%E8%BF%94%E4%BB%A5%E5%89%8D%E7%8E%A9%E9%81%8E%E7%9A%84%E6%89%93%E5%AD%97%E6%B8%B8%E6%88%B2%EF%BC%8C%E7%9C%8B%E7%9C%8B%E6%88%91%E7%8F%BE%E5%9C%A8%E6%89%93%E5%AD%97%E9%80%9F%E5%BA%A6%E5%A6%82%E4%BD%95%E4%BA%86%EF%BC%9F+%E9%80%99%E5%80%8B%E6%88%91%E6%83%B3%E5%8F%AB%E4%BB%96%E9%80%9F%E9%80%9A%E7%B3%BB%E5%88%97%EF%BC%81&lang=zh&timestamp=1708583080&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15186">
-    <img src="https://ytcards.demolab.com/?id=z-93naIPBgM&title=%E3%80%90Epistory%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%87%8D%E8%BF%94%E4%BB%A5%E5%89%8D%E7%8E%A9%E9%81%8E%E7%9A%84%E6%89%93%E5%AD%97%E6%B8%B8%E6%88%B2%EF%BC%8C%E7%9C%8B%E7%9C%8B%E6%88%91%E7%8F%BE%E5%9C%A8%E6%89%93%E5%AD%97%E9%80%9F%E5%BA%A6%E5%A6%82%E4%BD%95%E4%BA%86%EF%BC%9F+%E9%80%99%E5%80%8B%E6%88%91%E6%83%B3%E5%8F%AB%E4%BB%96%E9%80%9F%E9%80%9A%E7%B3%BB%E5%88%97%EF%BC%81&lang=zh&timestamp=1708583080&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15186" alt="【Epistory】（#000）重返以前玩過的打字游戲，看看我現在打字速度如何了？ 這個我想叫他速通系列！" title="【Epistory】（#000）重返以前玩過的打字游戲，看看我現在打字速度如何了？ 這個我想叫他速通系列！">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qCWSqM_uvgM&title=%E3%80%90WARFRAME+%2F%2F+%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%E3%80%91%EF%BC%88%23094%EF%BC%89%E9%95%9C%E5%83%8F%E9%98%B2%E5%BE%A1%E5%88%9D%E4%BD%93%E9%AA%8C&lang=zh&timestamp=1708654972&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7457">
+    <img src="https://ytcards.demolab.com/?id=qCWSqM_uvgM&title=%E3%80%90WARFRAME+%2F%2F+%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%E3%80%91%EF%BC%88%23094%EF%BC%89%E9%95%9C%E5%83%8F%E9%98%B2%E5%BE%A1%E5%88%9D%E4%BD%93%E9%AA%8C&lang=zh&timestamp=1708654972&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7457" alt="【WARFRAME // 星际战甲】（#094）镜像防御初体验" title="【WARFRAME // 星际战甲】（#094）镜像防御初体验">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
