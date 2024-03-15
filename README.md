@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=3pGoebMY33s">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3pGoebMY33s&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Sons+of+the+Forest+%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90+%7C+%E7%AC%AC%E4%BA%8C%E6%9C%9F&lang=zh&timestamp=1710492681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=3pGoebMY33s&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Sons+of+the+Forest+%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90+%7C+%E7%AC%AC%E4%BA%8C%E6%9C%9F&lang=zh&timestamp=1710492681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【夢想啓航系列】 Sons of the Forest / 森林之子 | 第二期" title="【夢想啓航系列】 Sons of the Forest / 森林之子 | 第二期">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=s2QSOb-z9N4">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s2QSOb-z9N4&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Sons+of+the+Forest+%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90+%7C+%E7%AC%AC%E4%B8%80%E6%9C%9F&lang=zh&timestamp=1710412730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20350">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ekFKv1A1dmo&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B9%9D%E5%8D%81%E4%BA%94%E6%9C%9F&lang=zh&timestamp=1710067118&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14767">
     <img src="https://ytcards.demolab.com/?id=ekFKv1A1dmo&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B9%9D%E5%8D%81%E4%BA%94%E6%9C%9F&lang=zh&timestamp=1710067118&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14767" alt="【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第九十五期" title="【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第九十五期">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=ypg3f-qHQRg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ypg3f-qHQRg&title=%E3%80%90The+Forest%E3%80%91%EF%BC%88%23010%EF%BC%89%E5%87%8C%E6%99%A8%E4%B8%80%E9%BB%9E%EF%BC%8C%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E8%A6%81%E9%96%8B%E8%B3%A3%E5%95%A6%EF%BC%81&lang=zh&timestamp=1709960045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15998">
-    <img src="https://ytcards.demolab.com/?id=ypg3f-qHQRg&title=%E3%80%90The+Forest%E3%80%91%EF%BC%88%23010%EF%BC%89%E5%87%8C%E6%99%A8%E4%B8%80%E9%BB%9E%EF%BC%8C%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E8%A6%81%E9%96%8B%E8%B3%A3%E5%95%A6%EF%BC%81&lang=zh&timestamp=1709960045&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15998" alt="【The Forest】（#010）凌晨一點，森林之子要開賣啦！" title="【The Forest】（#010）凌晨一點，森林之子要開賣啦！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
