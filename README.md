@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=q7asE3wh97U">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=q7asE3wh97U&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Sons+of+the+Forest+%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90+%7C+%E7%AC%AC%E4%BA%94%E6%9C%9F&lang=zh&timestamp=1711182180&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18271">
+    <img src="https://ytcards.demolab.com/?id=q7asE3wh97U&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Sons+of+the+Forest+%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90+%7C+%E7%AC%AC%E4%BA%94%E6%9C%9F&lang=zh&timestamp=1711182180&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18271" alt="【夢想啓航系列】 Sons of the Forest / 森林之子 | 第五期" title="【夢想啓航系列】 Sons of the Forest / 森林之子 | 第五期">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=5a0qMEUzwkM">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5a0qMEUzwkM&title=%E3%80%90Operation%EF%BC%9ATango%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%88%91%E6%98%AF%E7%AA%9C%E7%BD%91%E4%BD%BF%EF%BC%8C%E8%AF%B7%E5%A4%9A%E6%8C%87%E6%95%99%E3%80%82+Ft.+%40V_HanasakiAyame&lang=zh&timestamp=1711096842&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14766">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xUYwBiOegOg&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Sons+of+the+Forest+%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90+%7C+%E7%AC%AC%E5%9B%9B%E6%9C%9F&lang=zh&timestamp=1710828614&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11034">
     <img src="https://ytcards.demolab.com/?id=xUYwBiOegOg&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Sons+of+the+Forest+%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90+%7C+%E7%AC%AC%E5%9B%9B%E6%9C%9F&lang=zh&timestamp=1710828614&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11034" alt="【夢想啓航系列】 Sons of the Forest / 森林之子 | 第四期" title="【夢想啓航系列】 Sons of the Forest / 森林之子 | 第四期">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=r-dXlU9dXI0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r-dXlU9dXI0&title=%E3%80%90Detroit+%2F%2F+%E5%BA%95%E7%89%B9%E5%BE%8B%EF%BC%9A%E8%AE%8A%E4%BA%BA%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%88%91%E5%85%8D%E8%B2%BB%E5%95%A6%EF%BC%81%E4%B8%80%E5%8F%A3%E6%B0%A3%E6%89%93%E5%AE%8C%EF%BC%8C%E7%A9%B6%E7%AB%9F%E6%98%AF%E6%88%91%E5%85%88%E6%89%93%E5%AE%8C%EF%BC%8C%E9%82%84%E6%98%AF%E7%B6%B2%E7%B5%A1%E5%85%88%E6%92%90%E4%B8%8D%E4%BD%8F%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1710772322&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=35151">
-    <img src="https://ytcards.demolab.com/?id=r-dXlU9dXI0&title=%E3%80%90Detroit+%2F%2F+%E5%BA%95%E7%89%B9%E5%BE%8B%EF%BC%9A%E8%AE%8A%E4%BA%BA%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%88%91%E5%85%8D%E8%B2%BB%E5%95%A6%EF%BC%81%E4%B8%80%E5%8F%A3%E6%B0%A3%E6%89%93%E5%AE%8C%EF%BC%8C%E7%A9%B6%E7%AB%9F%E6%98%AF%E6%88%91%E5%85%88%E6%89%93%E5%AE%8C%EF%BC%8C%E9%82%84%E6%98%AF%E7%B6%B2%E7%B5%A1%E5%85%88%E6%92%90%E4%B8%8D%E4%BD%8F%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1710772322&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=35151" alt="【Detroit // 底特律：變人】（#000）我免費啦！一口氣打完，究竟是我先打完，還是網絡先撐不住呢？" title="【Detroit // 底特律：變人】（#000）我免費啦！一口氣打完，究竟是我先打完，還是網絡先撐不住呢？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
