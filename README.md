@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
-- [2024-03-20 三人日麻 第三階段積分賽](https://www.twitch.tv/videos/2096162352)
-- [久違一周年 森林之子回歸！](https://www.twitch.tv/videos/2093241427)
-- [精选内容：林间盃日麻积分赛 —— 3月第二场](https://www.twitch.tv/videos/2093226474)
-- [一群前往高科技島嶼，尋找失蹤富豪的安保部隊，直升機墜毀后只能到這鬼地方探索島嶼，發現奇怪宗教，遇到奇異怪物，神秘機關等等…… 至於爲什麽我把所有故事説完了，因爲以前玩過了啊不然呢？](https://www.twitch.tv/videos/2092366923)
-- [三月份 第二階段 三人日麻積分賽](https://www.twitch.tv/videos/2089499000)
+- [精选内容：Sons of the Forest S2 P2](https://www.twitch.tv/videos/2099119698)
+- [精选内容：Sons of the Forest S2 P1](https://www.twitch.tv/videos/2099119504)
+- [8番出口](https://www.twitch.tv/videos/2099117953)
+- [精选内容：林间盃日麻积分赛 —— 3月第三场](https://www.twitch.tv/videos/2099117663)
+- [8番出口 大家來找茬](https://www.twitch.tv/videos/2099040475)
 <!-- TWITCH:END -->
 
 
