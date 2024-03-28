@@ -33,6 +33,18 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=Ejryk_SmHi4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ejryk_SmHi4&title=%E3%80%90%E7%B8%B1%E5%90%91%E7%9B%B4%E6%92%AD%E6%B8%AC%E8%A9%A6%E3%80%91+Heroes+of+Hammerwatch+%7C+%E5%A4%9A%E4%BA%BA%E8%A6%96%E8%A7%92+%7C+Part+5+%28END%29&lang=zh&timestamp=1711611284&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11184">
+    <img src="https://ytcards.demolab.com/?id=Ejryk_SmHi4&title=%E3%80%90%E7%B8%B1%E5%90%91%E7%9B%B4%E6%92%AD%E6%B8%AC%E8%A9%A6%E3%80%91+Heroes+of+Hammerwatch+%7C+%E5%A4%9A%E4%BA%BA%E8%A6%96%E8%A7%92+%7C+Part+5+%28END%29&lang=zh&timestamp=1711611284&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11184" alt="【縱向直播測試】 Heroes of Hammerwatch | 多人視角 | Part 5 (END)" title="【縱向直播測試】 Heroes of Hammerwatch | 多人視角 | Part 5 (END)">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=Ocd07Hrp_6s">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ocd07Hrp_6s&title=%E3%80%90We+were+here%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%9B%99%E4%BA%BA%E5%90%88%E4%BD%9C+%E7%AC%AC%E4%B8%80%E5%BD%88+ft.+%40V_HanasakiAyame&lang=zh&timestamp=1711591629&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4856">
+    <img src="https://ytcards.demolab.com/?id=Ocd07Hrp_6s&title=%E3%80%90We+were+here%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%9B%99%E4%BA%BA%E5%90%88%E4%BD%9C+%E7%AC%AC%E4%B8%80%E5%BD%88+ft.+%40V_HanasakiAyame&lang=zh&timestamp=1711591629&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4856" alt="【We were here】（#000）雙人合作 第一彈 ft. @V_HanasakiAyame" title="【We were here】（#000）雙人合作 第一彈 ft. @V_HanasakiAyame">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=7juZgygmBoA">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7juZgygmBoA&title=%E3%80%90L4D2%E3%80%91%EF%BC%88%23002%EF%BC%89+L4D2+%E5%89%A7%E5%9C%BA%E7%89%88+%E9%87%8D%E6%B8%B8+%7C+%E7%AC%AC%E4%BA%8C%E5%9B%A2+%7C+Ft.++%40V_HanasakiAyame+%40TianXuan+%E5%84%80%E5%BC%8F&lang=zh&timestamp=1711533564&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21323">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h0pHMwhtPhA&title=%E3%80%90%E7%B8%B1%E5%90%91%E7%9B%B4%E6%92%AD%E6%B8%AC%E8%A9%A6%E3%80%91+Heroes+of+Hammerwatch+%7C+%E5%A4%9A%E4%BA%BA%E8%A6%96%E8%A7%92+%7C+Part+3&lang=zh&timestamp=1711440928&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9342">
     <img src="https://ytcards.demolab.com/?id=h0pHMwhtPhA&title=%E3%80%90%E7%B8%B1%E5%90%91%E7%9B%B4%E6%92%AD%E6%B8%AC%E8%A9%A6%E3%80%91+Heroes+of+Hammerwatch+%7C+%E5%A4%9A%E4%BA%BA%E8%A6%96%E8%A7%92+%7C+Part+3&lang=zh&timestamp=1711440928&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9342" alt="【縱向直播測試】 Heroes of Hammerwatch | 多人視角 | Part 3" title="【縱向直播測試】 Heroes of Hammerwatch | 多人視角 | Part 3">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=hFpam4bqkig">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hFpam4bqkig&title=%E3%80%90L4D2%E3%80%91%EF%BC%88%23001%EF%BC%89+L4D2+%E5%89%A7%E5%9C%BA%E7%89%88+%E9%87%8D%E6%B8%B8+%7C+%E7%AC%AC%E4%BA%8C%E5%9B%A2+%7C+Ft.+%40V_HanasakiAyame++%40TianXuan++%E5%84%80%E5%BC%8F&lang=zh&timestamp=1711360372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15187">
-    <img src="https://ytcards.demolab.com/?id=hFpam4bqkig&title=%E3%80%90L4D2%E3%80%91%EF%BC%88%23001%EF%BC%89+L4D2+%E5%89%A7%E5%9C%BA%E7%89%88+%E9%87%8D%E6%B8%B8+%7C+%E7%AC%AC%E4%BA%8C%E5%9B%A2+%7C+Ft.+%40V_HanasakiAyame++%40TianXuan++%E5%84%80%E5%BC%8F&lang=zh&timestamp=1711360372&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15187" alt="【L4D2】（#001） L4D2 剧场版 重游 | 第二团 | Ft. @V_HanasakiAyame  @TianXuan  儀式" title="【L4D2】（#001） L4D2 剧场版 重游 | 第二团 | Ft. @V_HanasakiAyame  @TianXuan  儀式">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=eILo_0rx4mg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eILo_0rx4mg&title=%E3%80%90%E7%B8%B1%E5%90%91%E7%9B%B4%E6%92%AD%E6%B8%AC%E8%A9%A6%E3%80%91+Heroes+of+Hammerwatch+%7C+%E5%A4%9A%E4%BA%BA%E8%A6%96%E8%A7%92+%7C+Part+2&lang=zh&timestamp=1711338864&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9998">
-    <img src="https://ytcards.demolab.com/?id=eILo_0rx4mg&title=%E3%80%90%E7%B8%B1%E5%90%91%E7%9B%B4%E6%92%AD%E6%B8%AC%E8%A9%A6%E3%80%91+Heroes+of+Hammerwatch+%7C+%E5%A4%9A%E4%BA%BA%E8%A6%96%E8%A7%92+%7C+Part+2&lang=zh&timestamp=1711338864&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9998" alt="【縱向直播測試】 Heroes of Hammerwatch | 多人視角 | Part 2" title="【縱向直播測試】 Heroes of Hammerwatch | 多人視角 | Part 2">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
