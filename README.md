@@ -33,6 +33,18 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=zk3YTMf3-EI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zk3YTMf3-EI&title=%E3%80%90TAKUMI%C2%B3%E3%80%91FREEDOM+DiVE%E2%86%93+ALL+JUST%21&lang=zh&timestamp=1711969250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=165">
+    <img src="https://ytcards.demolab.com/?id=zk3YTMf3-EI&title=%E3%80%90TAKUMI%C2%B3%E3%80%91FREEDOM+DiVE%E2%86%93+ALL+JUST%21&lang=zh&timestamp=1711969250&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=165" alt="【TAKUMI³】FREEDOM DiVE↓ ALL JUST!" title="【TAKUMI³】FREEDOM DiVE↓ ALL JUST!">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=56ynLrn-QVw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=56ynLrn-QVw&title=%E3%80%90For+the+King+II%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%A9%A6%E7%8E%A9%E7%B3%BB%E5%88%97%EF%BC%8C%E8%81%BD%E8%AA%AC%E5%8F%AF%E4%BB%A5%E5%9B%9B%E4%BA%BA%E7%B5%84%E5%9C%98%E4%BA%86%EF%BC%9F%7C+Ft.+%40V_HanasakiAyame+%2C+%E5%9B%9B%E7%85%8C%EF%BC%8CAnchor&lang=zh&timestamp=1711950702&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11697">
+    <img src="https://ytcards.demolab.com/?id=56ynLrn-QVw&title=%E3%80%90For+the+King+II%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%A9%A6%E7%8E%A9%E7%B3%BB%E5%88%97%EF%BC%8C%E8%81%BD%E8%AA%AC%E5%8F%AF%E4%BB%A5%E5%9B%9B%E4%BA%BA%E7%B5%84%E5%9C%98%E4%BA%86%EF%BC%9F%7C+Ft.+%40V_HanasakiAyame+%2C+%E5%9B%9B%E7%85%8C%EF%BC%8CAnchor&lang=zh&timestamp=1711950702&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11697" alt="【For the King II】（#000）試玩系列，聽説可以四人組團了？| Ft. @V_HanasakiAyame , 四煌，Anchor" title="【For the King II】（#000）試玩系列，聽説可以四人組團了？| Ft. @V_HanasakiAyame , 四煌，Anchor">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=0GeivYkXDzU">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0GeivYkXDzU&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B9%9D%E5%8D%81%E4%B9%9D%E6%9C%9F&lang=zh&timestamp=1711879718&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16687">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ocd07Hrp_6s&title=%E3%80%90We+were+here%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%9B%99%E4%BA%BA%E5%90%88%E4%BD%9C+%E7%AC%AC%E4%B8%80%E5%BD%88+ft.+%40V_HanasakiAyame&lang=zh&timestamp=1711641152&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4853">
     <img src="https://ytcards.demolab.com/?id=Ocd07Hrp_6s&title=%E3%80%90We+were+here%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%9B%99%E4%BA%BA%E5%90%88%E4%BD%9C+%E7%AC%AC%E4%B8%80%E5%BD%88+ft.+%40V_HanasakiAyame&lang=zh&timestamp=1711641152&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4853" alt="【We were here】（#000）雙人合作 第一彈 ft. @V_HanasakiAyame" title="【We were here】（#000）雙人合作 第一彈 ft. @V_HanasakiAyame">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=Ejryk_SmHi4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ejryk_SmHi4&title=%E3%80%90%E7%B8%B1%E5%90%91%E7%9B%B4%E6%92%AD%E6%B8%AC%E8%A9%A6%E3%80%91+Heroes+of+Hammerwatch+%7C+%E5%A4%9A%E4%BA%BA%E8%A6%96%E8%A7%92+%7C+Part+5+%28END%29&lang=zh&timestamp=1711611284&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11184">
-    <img src="https://ytcards.demolab.com/?id=Ejryk_SmHi4&title=%E3%80%90%E7%B8%B1%E5%90%91%E7%9B%B4%E6%92%AD%E6%B8%AC%E8%A9%A6%E3%80%91+Heroes+of+Hammerwatch+%7C+%E5%A4%9A%E4%BA%BA%E8%A6%96%E8%A7%92+%7C+Part+5+%28END%29&lang=zh&timestamp=1711611284&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11184" alt="【縱向直播測試】 Heroes of Hammerwatch | 多人視角 | Part 5 (END)" title="【縱向直播測試】 Heroes of Hammerwatch | 多人視角 | Part 5 (END)">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=7juZgygmBoA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7juZgygmBoA&title=%E3%80%90L4D2%E3%80%91%EF%BC%88%23002%EF%BC%89+L4D2+%E5%89%A7%E5%9C%BA%E7%89%88+%E9%87%8D%E6%B8%B8+%7C+%E7%AC%AC%E4%BA%8C%E5%9B%A2+%7C+Ft.++%40V_HanasakiAyame+%40TianXuan+%E5%84%80%E5%BC%8F&lang=zh&timestamp=1711533564&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21323">
-    <img src="https://ytcards.demolab.com/?id=7juZgygmBoA&title=%E3%80%90L4D2%E3%80%91%EF%BC%88%23002%EF%BC%89+L4D2+%E5%89%A7%E5%9C%BA%E7%89%88+%E9%87%8D%E6%B8%B8+%7C+%E7%AC%AC%E4%BA%8C%E5%9B%A2+%7C+Ft.++%40V_HanasakiAyame+%40TianXuan+%E5%84%80%E5%BC%8F&lang=zh&timestamp=1711533564&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21323" alt="【L4D2】（#002） L4D2 剧场版 重游 | 第二团 | Ft.  @V_HanasakiAyame @TianXuan 儀式" title="【L4D2】（#002） L4D2 剧场版 重游 | 第二团 | Ft.  @V_HanasakiAyame @TianXuan 儀式">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
