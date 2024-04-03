@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=omaVt0fK8Pw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=omaVt0fK8Pw&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Sons+of+the+Forest+%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90+%7C+%E7%AC%AC%E4%B8%83%E6%9C%9F&lang=zh&timestamp=1712120885&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9536">
+    <img src="https://ytcards.demolab.com/?id=omaVt0fK8Pw&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Sons+of+the+Forest+%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90+%7C+%E7%AC%AC%E4%B8%83%E6%9C%9F&lang=zh&timestamp=1712120885&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9536" alt="【夢想啓航系列】 Sons of the Forest / 森林之子 | 第七期" title="【夢想啓航系列】 Sons of the Forest / 森林之子 | 第七期">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=dFKPOgPQHiQ">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dFKPOgPQHiQ&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B8%80%E7%99%BE%E6%9C%9F&lang=zh&timestamp=1712044564&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18834">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tIbElMfN8hY&title=%E3%80%90Goose+Goose+Duck%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%9E%97%E9%96%93%E9%B5%9D%E9%B5%9D%E6%AE%BA&lang=zh&timestamp=1711833145&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6296">
     <img src="https://ytcards.demolab.com/?id=tIbElMfN8hY&title=%E3%80%90Goose+Goose+Duck%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%9E%97%E9%96%93%E9%B5%9D%E9%B5%9D%E6%AE%BA&lang=zh&timestamp=1711833145&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6296" alt="【Goose Goose Duck】（#000）林間鵝鵝殺" title="【Goose Goose Duck】（#000）林間鵝鵝殺">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=hTTbkImI4G0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hTTbkImI4G0&title=%E3%80%90A+little+to+the+left%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%B8%80%E5%80%8B%E5%BC%BA%E8%BF%AB%E7%97%87%E5%92%8C%E4%B8%80%E5%80%8B%E6%84%9B%E6%90%97%E4%BA%82%E7%9A%84%E8%B2%93&lang=zh&timestamp=1711684832&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9026">
-    <img src="https://ytcards.demolab.com/?id=hTTbkImI4G0&title=%E3%80%90A+little+to+the+left%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%B8%80%E5%80%8B%E5%BC%BA%E8%BF%AB%E7%97%87%E5%92%8C%E4%B8%80%E5%80%8B%E6%84%9B%E6%90%97%E4%BA%82%E7%9A%84%E8%B2%93&lang=zh&timestamp=1711684832&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9026" alt="【A little to the left】（#000）一個强迫症和一個愛搗亂的貓" title="【A little to the left】（#000）一個强迫症和一個愛搗亂的貓">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
