@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=EghU87k4VTQ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EghU87k4VTQ&title=%E3%80%90Road+96+%2F%2F+96%E8%99%9F%E5%85%AC%E8%B7%AF%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%88%91%E8%A6%81%E9%80%83%E9%9B%A2%E9%80%99%E5%80%8B%E9%AC%BC%E5%9C%B0%E6%96%B9%EF%BC%81&lang=zh&timestamp=1712398610&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10860">
+    <img src="https://ytcards.demolab.com/?id=EghU87k4VTQ&title=%E3%80%90Road+96+%2F%2F+96%E8%99%9F%E5%85%AC%E8%B7%AF%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%88%91%E8%A6%81%E9%80%83%E9%9B%A2%E9%80%99%E5%80%8B%E9%AC%BC%E5%9C%B0%E6%96%B9%EF%BC%81&lang=zh&timestamp=1712398610&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10860" alt="【Road 96 // 96號公路】（#000）我要逃離這個鬼地方！" title="【Road 96 // 96號公路】（#000）我要逃離這個鬼地方！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=3eDWKEDsDp4">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3eDWKEDsDp4&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+7+Days+2+Die+%2F+%E4%B8%83%E6%97%A5%E6%AE%BA+%7C+%E7%AC%AC%E4%B8%80%E6%9C%9F&lang=zh&timestamp=1712315457&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15312">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dFKPOgPQHiQ&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B8%80%E7%99%BE%E6%9C%9F&lang=zh&timestamp=1712044564&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18834">
     <img src="https://ytcards.demolab.com/?id=dFKPOgPQHiQ&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B8%80%E7%99%BE%E6%9C%9F&lang=zh&timestamp=1712044564&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18834" alt="【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第一百期" title="【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第一百期">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=zk3YTMf3-EI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zk3YTMf3-EI&title=%E3%80%90TAKUMI%C2%B3%E3%80%91FREEDOM+DiVE%E2%86%93+ALL+JUST%21&lang=zh&timestamp=1711969250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=165">
-    <img src="https://ytcards.demolab.com/?id=zk3YTMf3-EI&title=%E3%80%90TAKUMI%C2%B3%E3%80%91FREEDOM+DiVE%E2%86%93+ALL+JUST%21&lang=zh&timestamp=1711969250&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=165" alt="【TAKUMI³】FREEDOM DiVE↓ ALL JUST!" title="【TAKUMI³】FREEDOM DiVE↓ ALL JUST!">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
