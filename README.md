@@ -33,10 +33,16 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=JRgBkHFsglc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JRgBkHFsglc&title=%E3%80%90Road+96+%2F%2F+96%E8%99%9F%E5%85%AC%E8%B7%AF%E3%80%91%EF%BC%88%23002%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E5%BC%B5%EF%BC%8C%E6%94%B9%E8%AE%8A%E6%94%BF%E6%B2%BB%E5%8B%95%E8%95%A9%E7%9A%84%E5%8D%A1%E3%80%82&lang=zh&timestamp=1712471514&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10942">
+    <img src="https://ytcards.demolab.com/?id=JRgBkHFsglc&title=%E3%80%90Road+96+%2F%2F+96%E8%99%9F%E5%85%AC%E8%B7%AF%E3%80%91%EF%BC%88%23002%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E5%BC%B5%EF%BC%8C%E6%94%B9%E8%AE%8A%E6%94%BF%E6%B2%BB%E5%8B%95%E8%95%A9%E7%9A%84%E5%8D%A1%E3%80%82&lang=zh&timestamp=1712471514&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10942" alt="【Road 96 // 96號公路】（#002）這是一張，改變政治動蕩的卡。" title="【Road 96 // 96號公路】（#002）這是一張，改變政治動蕩的卡。">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=EghU87k4VTQ">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EghU87k4VTQ&title=%E3%80%90Road+96+%2F%2F+96%E8%99%9F%E5%85%AC%E8%B7%AF%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%88%91%E8%A6%81%E9%80%83%E9%9B%A2%E9%80%99%E5%80%8B%E9%AC%BC%E5%9C%B0%E6%96%B9%EF%BC%81&lang=zh&timestamp=1712398610&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10860">
-    <img src="https://ytcards.demolab.com/?id=EghU87k4VTQ&title=%E3%80%90Road+96+%2F%2F+96%E8%99%9F%E5%85%AC%E8%B7%AF%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%88%91%E8%A6%81%E9%80%83%E9%9B%A2%E9%80%99%E5%80%8B%E9%AC%BC%E5%9C%B0%E6%96%B9%EF%BC%81&lang=zh&timestamp=1712398610&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10860" alt="【Road 96 // 96號公路】（#000）我要逃離這個鬼地方！" title="【Road 96 // 96號公路】（#000）我要逃離這個鬼地方！">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EghU87k4VTQ&title=%E3%80%90Road+96+%2F%2F+96%E8%99%9F%E5%85%AC%E8%B7%AF%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%88%91%E8%A6%81%E9%80%83%E9%9B%A2%E9%80%99%E5%80%8B%E9%AC%BC%E5%9C%B0%E6%96%B9%EF%BC%81&lang=zh&timestamp=1712398610&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10860">
+    <img src="https://ytcards.demolab.com/?id=EghU87k4VTQ&title=%E3%80%90Road+96+%2F%2F+96%E8%99%9F%E5%85%AC%E8%B7%AF%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%88%91%E8%A6%81%E9%80%83%E9%9B%A2%E9%80%99%E5%80%8B%E9%AC%BC%E5%9C%B0%E6%96%B9%EF%BC%81&lang=zh&timestamp=1712398610&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10860" alt="【Road 96 // 96號公路】（#001）我要逃離這個鬼地方！" title="【Road 96 // 96號公路】（#001）我要逃離這個鬼地方！">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=3eDWKEDsDp4">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=omaVt0fK8Pw&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Sons+of+the+Forest+%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90+%7C+%E7%AC%AC%E4%B8%83%E6%9C%9F&lang=zh&timestamp=1712120885&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9536">
     <img src="https://ytcards.demolab.com/?id=omaVt0fK8Pw&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+Sons+of+the+Forest+%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90+%7C+%E7%AC%AC%E4%B8%83%E6%9C%9F&lang=zh&timestamp=1712120885&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9536" alt="【夢想啓航系列】 Sons of the Forest / 森林之子 | 第七期" title="【夢想啓航系列】 Sons of the Forest / 森林之子 | 第七期">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=dFKPOgPQHiQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dFKPOgPQHiQ&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B8%80%E7%99%BE%E6%9C%9F&lang=zh&timestamp=1712044564&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18834">
-    <img src="https://ytcards.demolab.com/?id=dFKPOgPQHiQ&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B8%80%E7%99%BE%E6%9C%9F&lang=zh&timestamp=1712044564&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18834" alt="【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第一百期" title="【夢想啓航系列】 WARFRAME/星际战甲/戰甲神兵 | 第一百期">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
