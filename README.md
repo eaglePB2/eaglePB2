@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [收集藍圖！ 目前進度：12/16](https://www.twitch.tv/videos/2112380889)
 - [問就是日麻](https://www.twitch.tv/videos/2109511433)
 - [精选内容：林间盃日麻积分赛 —— 3月第四场](https://www.twitch.tv/videos/2107423237)
 - [精选内容：Sons of the Forest S2 P5](https://www.twitch.tv/videos/2107422956)
 - [精选内容：Sons of the Forest S2 P4.95](https://www.twitch.tv/videos/2107422703)
-- [精选内容：Sons of the Forest S2 P4](https://www.twitch.tv/videos/2107422460)
 <!-- TWITCH:END -->
 
 
