@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=waAubE1S_aA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=waAubE1S_aA&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91Minecraft%3A+Story+Mode+%7C+%E7%AC%AC%E4%B8%89%E6%9C%9F&lang=zh&timestamp=1713254335&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10844">
+    <img src="https://ytcards.demolab.com/?id=waAubE1S_aA&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91Minecraft%3A+Story+Mode+%7C+%E7%AC%AC%E4%B8%89%E6%9C%9F&lang=zh&timestamp=1713254335&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10844" alt="【夢想啓航系列】Minecraft: Story Mode | 第三期" title="【夢想啓航系列】Minecraft: Story Mode | 第三期">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=A24mdfGysK0">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A24mdfGysK0&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+7+Days+2+Die+%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21+%7C+%E7%AC%AC%E4%BA%94%E6%9C%9F&lang=zh&timestamp=1713168171&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15073">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cJThGdqaNtw&title=%E3%80%90Hue%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B0%8B%E6%89%BE%E5%A4%B1%E8%90%BD%E7%9A%848%E5%BD%A9&lang=zh&timestamp=1712825649&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17729">
     <img src="https://ytcards.demolab.com/?id=cJThGdqaNtw&title=%E3%80%90Hue%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B0%8B%E6%89%BE%E5%A4%B1%E8%90%BD%E7%9A%848%E5%BD%A9&lang=zh&timestamp=1712825649&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17729" alt="【Hue】（#000）尋找失落的8彩" title="【Hue】（#000）尋找失落的8彩">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=-lbxCrQgOcM">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-lbxCrQgOcM&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+7+Days+2+Die+%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21+%7C+%E7%AC%AC%E4%B8%89%E6%9C%9F&lang=zh&timestamp=1712728203&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14761">
-    <img src="https://ytcards.demolab.com/?id=-lbxCrQgOcM&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+7+Days+2+Die+%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21+%7C+%E7%AC%AC%E4%B8%89%E6%9C%9F&lang=zh&timestamp=1712728203&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14761" alt="【夢想啓航系列】 7 Days 2 Die / 七日殺A21 | 第三期" title="【夢想啓航系列】 7 Days 2 Die / 七日殺A21 | 第三期">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
