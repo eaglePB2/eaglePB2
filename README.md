@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=Ba4IWemsldA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ba4IWemsldA&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+7+Days+2+Die+%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21+%7C+%E7%AC%AC%E4%B8%83%E6%9C%9F&lang=zh&timestamp=1714547900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12520">
+    <img src="https://ytcards.demolab.com/?id=Ba4IWemsldA&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+7+Days+2+Die+%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21+%7C+%E7%AC%AC%E4%B8%83%E6%9C%9F&lang=zh&timestamp=1714547900&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12520" alt="【夢想啓航系列】 7 Days 2 Die / 七日殺A21 | 第七期" title="【夢想啓航系列】 7 Days 2 Die / 七日殺A21 | 第七期">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=HHkz5WHx1e0">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HHkz5WHx1e0&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+7+Days+2+Die+%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21+%7C+%E7%AC%AC%E5%85%AD%E6%9C%9F&lang=zh&timestamp=1714464407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15337">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=waAubE1S_aA&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91Minecraft%3A+Story+Mode+%7C+%E7%AC%AC%E4%B8%89%E6%9C%9F&lang=zh&timestamp=1713254335&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10844">
     <img src="https://ytcards.demolab.com/?id=waAubE1S_aA&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91Minecraft%3A+Story+Mode+%7C+%E7%AC%AC%E4%B8%89%E6%9C%9F&lang=zh&timestamp=1713254335&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10844" alt="【夢想啓航系列】Minecraft: Story Mode | 第三期" title="【夢想啓航系列】Minecraft: Story Mode | 第三期">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=A24mdfGysK0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A24mdfGysK0&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+7+Days+2+Die+%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21+%7C+%E7%AC%AC%E4%BA%94%E6%9C%9F&lang=zh&timestamp=1713168171&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15073">
-    <img src="https://ytcards.demolab.com/?id=A24mdfGysK0&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+7+Days+2+Die+%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21+%7C+%E7%AC%AC%E4%BA%94%E6%9C%9F&lang=zh&timestamp=1713168171&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15073" alt="【夢想啓航系列】 7 Days 2 Die / 七日殺A21 | 第五期" title="【夢想啓航系列】 7 Days 2 Die / 七日殺A21 | 第五期">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
