@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=z7wTPIVM4nc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z7wTPIVM4nc&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+7+Days+2+Die+%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21+%7C+%E7%AC%AC%E4%B9%9D%E6%9C%9F&lang=zh&timestamp=1716265227&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15084">
+    <img src="https://ytcards.demolab.com/?id=z7wTPIVM4nc&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+7+Days+2+Die+%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21+%7C+%E7%AC%AC%E4%B9%9D%E6%9C%9F&lang=zh&timestamp=1716265227&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15084" alt="【夢想啓航系列】 7 Days 2 Die / 七日殺A21 | 第九期" title="【夢想啓航系列】 7 Days 2 Die / 七日殺A21 | 第九期">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=HJKYPF_3bIk">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HJKYPF_3bIk&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B8%80%E7%99%BE%E9%9B%B6%E4%B8%80%E6%9C%9F&lang=zh&timestamp=1716201264&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15562">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=b8TzYXBkkU8&title=%E9%9B%80%E9%AD%82%E9%BA%BB%E5%B0%87+X+%E7%A2%A7%E8%97%8D%E6%AA%94%E6%A1%88+%E4%BB%A3%E6%8A%BD%E6%B4%BB%E5%8B%95%EF%BC%81&lang=zh&timestamp=1714633759&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=56">
     <img src="https://ytcards.demolab.com/?id=b8TzYXBkkU8&title=%E9%9B%80%E9%AD%82%E9%BA%BB%E5%B0%87+X+%E7%A2%A7%E8%97%8D%E6%AA%94%E6%A1%88+%E4%BB%A3%E6%8A%BD%E6%B4%BB%E5%8B%95%EF%BC%81&lang=zh&timestamp=1714633759&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=56" alt="雀魂麻將 X 碧藍檔案 代抽活動！" title="雀魂麻將 X 碧藍檔案 代抽活動！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=Ba4IWemsldA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ba4IWemsldA&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+7+Days+2+Die+%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21+%7C+%E7%AC%AC%E4%B8%83%E6%9C%9F&lang=zh&timestamp=1714547900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12520">
-    <img src="https://ytcards.demolab.com/?id=Ba4IWemsldA&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+7+Days+2+Die+%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21+%7C+%E7%AC%AC%E4%B8%83%E6%9C%9F&lang=zh&timestamp=1714547900&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12520" alt="【夢想啓航系列】 7 Days 2 Die / 七日殺A21 | 第七期" title="【夢想啓航系列】 7 Days 2 Die / 七日殺A21 | 第七期">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
