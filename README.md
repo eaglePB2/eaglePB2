@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=qJkueoi0kbI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qJkueoi0kbI&title=%E3%80%8A%E5%BD%93%E6%96%B0%E6%89%8B%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%8E%A9Kalpa%E3%80%8B&lang=zh&timestamp=1716781373&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=171">
+    <img src="https://ytcards.demolab.com/?id=qJkueoi0kbI&title=%E3%80%8A%E5%BD%93%E6%96%B0%E6%89%8B%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%8E%A9Kalpa%E3%80%8B&lang=zh&timestamp=1716781373&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=171" alt="《当新手第一次玩Kalpa》" title="《当新手第一次玩Kalpa》">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=h22OS1TmC7U">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h22OS1TmC7U&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+WARFRAME%2F%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%2F%E6%88%B0%E7%94%B2%E7%A5%9E%E5%85%B5+%7C+%E7%AC%AC%E4%B8%80%E7%99%BE%E9%9B%B6%E4%BA%8C%E6%9C%9F&lang=zh&timestamp=1716447448&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14321">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vqs4evz8suA&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+7+Days+2+Die+%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21+%7C+%E7%AC%AC%E5%85%AB%E6%9C%9F&lang=zh&timestamp=1716100140&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17977">
     <img src="https://ytcards.demolab.com/?id=Vqs4evz8suA&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+7+Days+2+Die+%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21+%7C+%E7%AC%AC%E5%85%AB%E6%9C%9F&lang=zh&timestamp=1716100140&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17977" alt="【夢想啓航系列】 7 Days 2 Die / 七日殺A21 | 第八期" title="【夢想啓航系列】 7 Days 2 Die / 七日殺A21 | 第八期">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=i8QL2dWPXKA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=i8QL2dWPXKA&title=%E3%80%90Seen%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%A2%AB%E9%9C%B8%E5%87%8C%E4%BA%86%E9%BA%BD%EF%BC%9F%E4%BD%A0%E9%9C%80%E8%A6%81%E5%AE%89%E6%92%AB%E5%A5%BD%E5%BF%83%E9%9D%88%E7%9A%84%E5%89%B5%E5%82%B7%E3%80%82&lang=zh&timestamp=1716045399&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4942">
-    <img src="https://ytcards.demolab.com/?id=i8QL2dWPXKA&title=%E3%80%90Seen%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%A2%AB%E9%9C%B8%E5%87%8C%E4%BA%86%E9%BA%BD%EF%BC%9F%E4%BD%A0%E9%9C%80%E8%A6%81%E5%AE%89%E6%92%AB%E5%A5%BD%E5%BF%83%E9%9D%88%E7%9A%84%E5%89%B5%E5%82%B7%E3%80%82&lang=zh&timestamp=1716045399&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4942" alt="【Seen】（#000）被霸凌了麽？你需要安撫好心靈的創傷。" title="【Seen】（#000）被霸凌了麽？你需要安撫好心靈的創傷。">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
