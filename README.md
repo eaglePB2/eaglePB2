@@ -22,8 +22,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 - [精选内容：林间盃日麻积分赛 —— 5月第三场](https://www.twitch.tv/videos/2152370934)
 - [@eaglepb2 日麻出發！我們出發！第三階段日麻積分賽！| 玩家視角： @kirishima_saya // @meteor_dog_](https://www.twitch.tv/videos/2152215987)
 - [精选内容：Content Warning Part 1](https://www.twitch.tv/videos/2151484303)
-- [@eaglepb2 因財務危機，只能下海拍片流淚播出](https://www.twitch.tv/videos/2151421678)
 - [精选内容：OD公關](https://www.twitch.tv/videos/2149875025)
+- [精选内容：King of the Castle 第一團](https://www.twitch.tv/videos/2149875024)
 <!-- TWITCH:END -->
 
 
