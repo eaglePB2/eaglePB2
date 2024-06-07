@@ -35,8 +35,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=qJkueoi0kbI">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qJkueoi0kbI&title=%E3%80%8A%E5%BD%93%E6%96%B0%E6%89%8B%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%8E%A9Kalpa%E3%80%8B&lang=zh&timestamp=1716781373&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=171">
-    <img src="https://ytcards.demolab.com/?id=qJkueoi0kbI&title=%E3%80%8A%E5%BD%93%E6%96%B0%E6%89%8B%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%8E%A9Kalpa%E3%80%8B&lang=zh&timestamp=1716781373&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=171" alt="《当新手第一次玩Kalpa》" title="《当新手第一次玩Kalpa》">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qJkueoi0kbI&title=Altale+in+Kalpa%EF%BC%8C%E4%BD%86%E5%AE%83%E7%9A%84%E9%9B%A3%E5%BA%A6%E6%98%AFArcaea+%E9%9B%A3%E5%BA%A6%E2%80%A6%E2%80%A6&lang=zh&timestamp=1716781373&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=171">
+    <img src="https://ytcards.demolab.com/?id=qJkueoi0kbI&title=Altale+in+Kalpa%EF%BC%8C%E4%BD%86%E5%AE%83%E7%9A%84%E9%9B%A3%E5%BA%A6%E6%98%AFArcaea+%E9%9B%A3%E5%BA%A6%E2%80%A6%E2%80%A6&lang=zh&timestamp=1716781373&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=171" alt="Altale in Kalpa，但它的難度是Arcaea 難度……" title="Altale in Kalpa，但它的難度是Arcaea 難度……">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=h22OS1TmC7U">
