@@ -20,10 +20,10 @@ You may come back later, as you wish if this readme.md is updated.   -->
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
 - [精选内容：林间盃日麻积分赛 —— 5月第三场](https://www.twitch.tv/videos/2152370934)
-- [@eaglepb2 日麻出發！我們出發！第三階段日麻積分賽！| 玩家視角： @kirishima_saya // @meteor_dog_](https://www.twitch.tv/videos/2152215987)
 - [精选内容：Content Warning Part 1](https://www.twitch.tv/videos/2151484303)
 - [精选内容：OD公關](https://www.twitch.tv/videos/2149875025)
 - [精选内容：King of the Castle 第一團](https://www.twitch.tv/videos/2149875024)
+- [珈藍之花 麥塊解謎記錄](https://www.twitch.tv/videos/2148875349)
 <!-- TWITCH:END -->
 
 
