@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=v2VdKICNgks">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v2VdKICNgks&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+7+Days+2+Die+%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21+%7C+%E7%AC%AC%E5%8D%81%E6%9C%9F&lang=zh&timestamp=1718367217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17067">
+    <img src="https://ytcards.demolab.com/?id=v2VdKICNgks&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+7+Days+2+Die+%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21+%7C+%E7%AC%AC%E5%8D%81%E6%9C%9F&lang=zh&timestamp=1718367217&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17067" alt="【夢想啓航系列】 7 Days 2 Die / 七日殺A21 | 第十期" title="【夢想啓航系列】 7 Days 2 Die / 七日殺A21 | 第十期">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=qJkueoi0kbI">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qJkueoi0kbI&title=Altale+in+Kalpa%EF%BC%8C%E4%BD%86%E5%AE%83%E7%9A%84%E9%9B%A3%E5%BA%A6%E6%98%AFArcaea+%E9%9B%A3%E5%BA%A6%E2%80%A6%E2%80%A6&lang=zh&timestamp=1716781373&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=171">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HJKYPF_3bIk&title=%E3%80%90WARFRAME+%2F%2F+%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%E3%80%91%EF%BC%88%23101%EF%BC%89%E6%9C%80%E5%BE%8C%E7%9A%84%EF%BC%81%E5%82%B3%EF%BC%81%E5%A5%87%EF%BC%81%E4%B8%89%EF%BC%81&lang=zh&timestamp=1716201264&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15562">
     <img src="https://ytcards.demolab.com/?id=HJKYPF_3bIk&title=%E3%80%90WARFRAME+%2F%2F+%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%E3%80%91%EF%BC%88%23101%EF%BC%89%E6%9C%80%E5%BE%8C%E7%9A%84%EF%BC%81%E5%82%B3%EF%BC%81%E5%A5%87%EF%BC%81%E4%B8%89%EF%BC%81&lang=zh&timestamp=1716201264&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15562" alt="【WARFRAME // 星际战甲】（#101）最後的！傳！奇！三！" title="【WARFRAME // 星际战甲】（#101）最後的！傳！奇！三！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=Vqs4evz8suA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vqs4evz8suA&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21%E3%80%91%EF%BC%88%23008%EF%BC%89%E8%A1%80%E6%9C%88%E8%A6%81%E4%BE%86%E4%BA%86+%E6%88%91%E5%80%91%E4%BB%80%E9%BA%BD%E9%83%BD%E6%B2%92%E5%81%9A+%E6%88%91%E5%80%91%E6%98%AF%E4%B8%8D%E6%98%AF%E2%91%A3%E5%AE%9A%E4%BA%86%EF%BC%9F&lang=zh&timestamp=1716100140&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17977">
-    <img src="https://ytcards.demolab.com/?id=Vqs4evz8suA&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21%E3%80%91%EF%BC%88%23008%EF%BC%89%E8%A1%80%E6%9C%88%E8%A6%81%E4%BE%86%E4%BA%86+%E6%88%91%E5%80%91%E4%BB%80%E9%BA%BD%E9%83%BD%E6%B2%92%E5%81%9A+%E6%88%91%E5%80%91%E6%98%AF%E4%B8%8D%E6%98%AF%E2%91%A3%E5%AE%9A%E4%BA%86%EF%BC%9F&lang=zh&timestamp=1716100140&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17977" alt="【7D2D // 七日殺A21】（#008）血月要來了 我們什麽都沒做 我們是不是④定了？" title="【7D2D // 七日殺A21】（#008）血月要來了 我們什麽都沒做 我們是不是④定了？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
