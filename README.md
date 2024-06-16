@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=AEBhbPudyBY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AEBhbPudyBY&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21%E3%80%91%EF%BC%88%23012%EF%BC%89%E5%B7%B2%E7%B6%93%E6%B2%92%E6%9D%B1%E8%A5%BF%E6%89%93%E4%BA%86%EF%BC%8C%E6%89%80%E4%BB%A5%E6%87%89%E8%A9%B2%E6%98%AF%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1A21%E4%BA%86&lang=zh&timestamp=1718530724&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19640">
+    <img src="https://ytcards.demolab.com/?id=AEBhbPudyBY&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21%E3%80%91%EF%BC%88%23012%EF%BC%89%E5%B7%B2%E7%B6%93%E6%B2%92%E6%9D%B1%E8%A5%BF%E6%89%93%E4%BA%86%EF%BC%8C%E6%89%80%E4%BB%A5%E6%87%89%E8%A9%B2%E6%98%AF%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1A21%E4%BA%86&lang=zh&timestamp=1718530724&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19640" alt="【7D2D // 七日殺A21】（#012）已經沒東西打了，所以應該是最後一次A21了" title="【7D2D // 七日殺A21】（#012）已經沒東西打了，所以應該是最後一次A21了">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=NuCur70m2n8">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NuCur70m2n8&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21%E3%80%91%EF%BC%88%23011%EF%BC%89%E9%9B%AA%E5%9C%B0%E7%AA%81%E8%A2%AD%EF%BC%81%E7%9B%B4%E6%8E%A5%E8%B7%B3%E8%BF%87%E6%B2%99%E6%BC%A0+%E5%9C%A8%E9%9B%AA%E5%9C%B0%E6%89%93%E6%BB%9A%E6%89%93%E5%83%B5%E5%B0%B8%28&lang=zh&timestamp=1718436912&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14776">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9wfC0nURGvc&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%8B%86%E5%BD%88%E6%B8%B8%E6%88%B2+%7C+ft.+%40V_HanasakiAyame&lang=zh&timestamp=1716348661&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8565">
     <img src="https://ytcards.demolab.com/?id=9wfC0nURGvc&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%8B%86%E5%BD%88%E6%B8%B8%E6%88%B2+%7C+ft.+%40V_HanasakiAyame&lang=zh&timestamp=1716348661&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8565" alt="【KT&NE】（#001）拆彈游戲 | ft. @V_HanasakiAyame" title="【KT&NE】（#001）拆彈游戲 | ft. @V_HanasakiAyame">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=z7wTPIVM4nc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z7wTPIVM4nc&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21%E3%80%91%EF%BC%88%23009%EF%BC%89%E7%88%B2%E4%BA%86%E6%9C%AA%E4%BE%86%E7%9A%84%E4%B8%89%E5%8D%81%E4%BA%94%E6%AE%BA%EF%BC%81&lang=zh&timestamp=1716265227&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15084">
-    <img src="https://ytcards.demolab.com/?id=z7wTPIVM4nc&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21%E3%80%91%EF%BC%88%23009%EF%BC%89%E7%88%B2%E4%BA%86%E6%9C%AA%E4%BE%86%E7%9A%84%E4%B8%89%E5%8D%81%E4%BA%94%E6%AE%BA%EF%BC%81&lang=zh&timestamp=1716265227&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15084" alt="【7D2D // 七日殺A21】（#009）爲了未來的三十五殺！" title="【7D2D // 七日殺A21】（#009）爲了未來的三十五殺！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
