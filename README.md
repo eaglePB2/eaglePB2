@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [@eaglepb2 戰地風雲 1 單機版](https://www.twitch.tv/videos/2172614101)
 - [@eaglepb2 小開一下 等等抽獎](https://www.twitch.tv/videos/2171777695)
 - [精选内容：林间盃日麻积分赛 —— 5月第三场](https://www.twitch.tv/videos/2152370934)
 - [精选内容：Content Warning Part 1](https://www.twitch.tv/videos/2151484303)
 - [精选内容：OD公關](https://www.twitch.tv/videos/2149875025)
-- [精选内容：King of the Castle 第一團](https://www.twitch.tv/videos/2149875024)
 <!-- TWITCH:END -->
 
 
