@@ -33,6 +33,18 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=Vo5cSVl2vIU">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vo5cSVl2vIU&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+barotrauma+%7C+%E7%AC%AC%E4%B8%80%E6%9C%9F&lang=zh&timestamp=1718608974&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12821">
+    <img src="https://ytcards.demolab.com/?id=Vo5cSVl2vIU&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+barotrauma+%7C+%E7%AC%AC%E4%B8%80%E6%9C%9F&lang=zh&timestamp=1718608974&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12821" alt="【夢想啓航系列】 barotrauma | 第一期" title="【夢想啓航系列】 barotrauma | 第一期">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=QJuA2D_WH9I">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QJuA2D_WH9I&title=%E4%B8%9F%E8%AA%98%E9%A4%8C%E6%80%8E%E9%BA%BD%E4%B8%9F%E9%80%99%E9%BA%BD%E5%87%86%E5%95%A6%40A%40%3F&lang=zh&timestamp=1718596824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
+    <img src="https://ytcards.demolab.com/?id=QJuA2D_WH9I&title=%E4%B8%9F%E8%AA%98%E9%A4%8C%E6%80%8E%E9%BA%BD%E4%B8%9F%E9%80%99%E9%BA%BD%E5%87%86%E5%95%A6%40A%40%3F&lang=zh&timestamp=1718596824&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20" alt="丟誘餌怎麽丟這麽准啦@A@?" title="丟誘餌怎麽丟這麽准啦@A@?">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=AEBhbPudyBY">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AEBhbPudyBY&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21%E3%80%91%EF%BC%88%23012%EF%BC%89%E5%B7%B2%E7%B6%93%E6%B2%92%E6%9D%B1%E8%A5%BF%E6%89%93%E4%BA%86%EF%BC%8C%E6%89%80%E4%BB%A5%E6%87%89%E8%A9%B2%E6%98%AF%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1A21%E4%BA%86&lang=zh&timestamp=1718530724&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19640">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qJkueoi0kbI&title=Altale+in+Kalpa%EF%BC%8C%E4%BD%86%E5%AE%83%E7%9A%84%E9%9B%A3%E5%BA%A6%E6%98%AFArcaea+%E9%9B%A3%E5%BA%A6%E2%80%A6%E2%80%A6&lang=zh&timestamp=1716781373&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=171">
     <img src="https://ytcards.demolab.com/?id=qJkueoi0kbI&title=Altale+in+Kalpa%EF%BC%8C%E4%BD%86%E5%AE%83%E7%9A%84%E9%9B%A3%E5%BA%A6%E6%98%AFArcaea+%E9%9B%A3%E5%BA%A6%E2%80%A6%E2%80%A6&lang=zh&timestamp=1716781373&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=171" alt="Altale in Kalpa，但它的難度是Arcaea 難度……" title="Altale in Kalpa，但它的難度是Arcaea 難度……">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=h22OS1TmC7U">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h22OS1TmC7U&title=%E3%80%90WARFRAME+%2F%2F+%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%E3%80%91%EF%BC%88%23102%EF%BC%89%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1Warframe%E5%8F%B0%EF%BC%8C%E5%85%AC%E9%96%8B%E9%BB%9E%E6%AD%8C%E6%B4%BB%E5%8B%95+%3AD&lang=zh&timestamp=1716447448&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14321">
-    <img src="https://ytcards.demolab.com/?id=h22OS1TmC7U&title=%E3%80%90WARFRAME+%2F%2F+%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%E3%80%91%EF%BC%88%23102%EF%BC%89%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1Warframe%E5%8F%B0%EF%BC%8C%E5%85%AC%E9%96%8B%E9%BB%9E%E6%AD%8C%E6%B4%BB%E5%8B%95+%3AD&lang=zh&timestamp=1716447448&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14321" alt="【WARFRAME // 星际战甲】（#102）最後一次Warframe台，公開點歌活動 :D" title="【WARFRAME // 星际战甲】（#102）最後一次Warframe台，公開點歌活動 :D">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=9wfC0nURGvc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9wfC0nURGvc&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%8B%86%E5%BD%88%E6%B8%B8%E6%88%B2+%7C+ft.+%40V_HanasakiAyame&lang=zh&timestamp=1716348661&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8565">
-    <img src="https://ytcards.demolab.com/?id=9wfC0nURGvc&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%8B%86%E5%BD%88%E6%B8%B8%E6%88%B2+%7C+ft.+%40V_HanasakiAyame&lang=zh&timestamp=1716348661&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8565" alt="【KT&NE】（#001）拆彈游戲 | ft. @V_HanasakiAyame" title="【KT&NE】（#001）拆彈游戲 | ft. @V_HanasakiAyame">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
