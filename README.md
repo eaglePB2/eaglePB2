@@ -33,10 +33,22 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=opf-G7JX2X4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=opf-G7JX2X4&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%BD%9B%E6%B0%B4%E8%89%87+%E9%87%8D%E6%96%B0%E5%87%BA%E7%99%BC%EF%BC%81%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718706994&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13039">
+    <img src="https://ytcards.demolab.com/?id=opf-G7JX2X4&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%BD%9B%E6%B0%B4%E8%89%87+%E9%87%8D%E6%96%B0%E5%87%BA%E7%99%BC%EF%BC%81%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718706994&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13039" alt="【Barotrauma // 潛淵症】（#002）潛水艇 重新出發！| Ft. 第二團" title="【Barotrauma // 潛淵症】（#002）潛水艇 重新出發！| Ft. 第二團">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=bAT7XhWr-pM">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bAT7XhWr-pM&title=%E4%B8%80%E7%99%BCRPG%E6%8A%8A%E6%88%91%E6%89%93%E5%8E%BB%E5%8F%A6%E4%B8%80%E6%AC%BE%E6%B8%B8%E6%88%B2%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1718696413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18">
+    <img src="https://ytcards.demolab.com/?id=bAT7XhWr-pM&title=%E4%B8%80%E7%99%BCRPG%E6%8A%8A%E6%88%91%E6%89%93%E5%8E%BB%E5%8F%A6%E4%B8%80%E6%AC%BE%E6%B8%B8%E6%88%B2%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1718696413&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18" alt="一發RPG把我打去另一款游戲……？" title="一發RPG把我打去另一款游戲……？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=Vo5cSVl2vIU">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vo5cSVl2vIU&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+barotrauma+%7C+%E7%AC%AC%E4%B8%80%E6%9C%9F&lang=zh&timestamp=1718608974&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12821">
-    <img src="https://ytcards.demolab.com/?id=Vo5cSVl2vIU&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+barotrauma+%7C+%E7%AC%AC%E4%B8%80%E6%9C%9F&lang=zh&timestamp=1718608974&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12821" alt="【夢想啓航系列】 barotrauma | 第一期" title="【夢想啓航系列】 barotrauma | 第一期">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vo5cSVl2vIU&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91+%EF%BC%88%23001%EF%BC%89%E6%BD%9C%E6%B8%8A%E7%97%87%E6%AD%A3%E5%BC%8F%E7%89%88%E9%83%BD%E5%87%BA%E5%A4%9A%E4%B9%85%E4%BA%86%E7%8E%B0%E5%9C%A8%E6%89%8D%E6%89%93+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718608974&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12821">
+    <img src="https://ytcards.demolab.com/?id=Vo5cSVl2vIU&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91+%EF%BC%88%23001%EF%BC%89%E6%BD%9C%E6%B8%8A%E7%97%87%E6%AD%A3%E5%BC%8F%E7%89%88%E9%83%BD%E5%87%BA%E5%A4%9A%E4%B9%85%E4%BA%86%E7%8E%B0%E5%9C%A8%E6%89%8D%E6%89%93+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718608974&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12821" alt="【Barotrauma // 潛淵症】 （#001）潜渊症正式版都出多久了现在才打 | Ft. 第二團" title="【Barotrauma // 潛淵症】 （#001）潜渊症正式版都出多久了现在才打 | Ft. 第二團">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=QJuA2D_WH9I">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NuCur70m2n8&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21%E3%80%91%EF%BC%88%23011%EF%BC%89%E9%9B%AA%E5%9C%B0%E7%AA%81%E8%A2%AD%EF%BC%81%E7%9B%B4%E6%8E%A5%E8%B7%B3%E8%BF%87%E6%B2%99%E6%BC%A0+%E5%9C%A8%E9%9B%AA%E5%9C%B0%E6%89%93%E6%BB%9A%E6%89%93%E5%83%B5%E5%B0%B8%28&lang=zh&timestamp=1718436912&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14776">
     <img src="https://ytcards.demolab.com/?id=NuCur70m2n8&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21%E3%80%91%EF%BC%88%23011%EF%BC%89%E9%9B%AA%E5%9C%B0%E7%AA%81%E8%A2%AD%EF%BC%81%E7%9B%B4%E6%8E%A5%E8%B7%B3%E8%BF%87%E6%B2%99%E6%BC%A0+%E5%9C%A8%E9%9B%AA%E5%9C%B0%E6%89%93%E6%BB%9A%E6%89%93%E5%83%B5%E5%B0%B8%28&lang=zh&timestamp=1718436912&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14776" alt="【7D2D // 七日殺A21】（#011）雪地突袭！直接跳过沙漠 在雪地打滚打僵尸(" title="【7D2D // 七日殺A21】（#011）雪地突袭！直接跳过沙漠 在雪地打滚打僵尸(">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=v2VdKICNgks">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v2VdKICNgks&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21%E3%80%91%EF%BC%88%23010%EF%BC%89%E5%90%AC%E8%AF%B4%E7%8E%B0%E5%9C%A8%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A6%81%E8%A1%80%E6%9C%88%E4%BA%86%28+%E2%80%A2%CC%80+%CF%89+%E2%80%A2%CC%81+%29y&lang=zh&timestamp=1718367217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17067">
-    <img src="https://ytcards.demolab.com/?id=v2VdKICNgks&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21%E3%80%91%EF%BC%88%23010%EF%BC%89%E5%90%AC%E8%AF%B4%E7%8E%B0%E5%9C%A8%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A6%81%E8%A1%80%E6%9C%88%E4%BA%86%28+%E2%80%A2%CC%80+%CF%89+%E2%80%A2%CC%81+%29y&lang=zh&timestamp=1718367217&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17067" alt="【7D2D // 七日殺A21】（#010）听说现在是不是要血月了( •̀ ω •́ )y" title="【7D2D // 七日殺A21】（#010）听说现在是不是要血月了( •̀ ω •́ )y">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=qJkueoi0kbI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qJkueoi0kbI&title=Altale+in+Kalpa%EF%BC%8C%E4%BD%86%E5%AE%83%E7%9A%84%E9%9B%A3%E5%BA%A6%E6%98%AFArcaea+%E9%9B%A3%E5%BA%A6%E2%80%A6%E2%80%A6&lang=zh&timestamp=1716781373&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=171">
-    <img src="https://ytcards.demolab.com/?id=qJkueoi0kbI&title=Altale+in+Kalpa%EF%BC%8C%E4%BD%86%E5%AE%83%E7%9A%84%E9%9B%A3%E5%BA%A6%E6%98%AFArcaea+%E9%9B%A3%E5%BA%A6%E2%80%A6%E2%80%A6&lang=zh&timestamp=1716781373&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=171" alt="Altale in Kalpa，但它的難度是Arcaea 難度……" title="Altale in Kalpa，但它的難度是Arcaea 難度……">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
