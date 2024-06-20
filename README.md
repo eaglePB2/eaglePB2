@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=K0YaieV-GY8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=K0YaieV-GY8&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%BD%9B%E6%B0%B4%E8%89%87%E5%87%BA%E4%BA%BA%E5%91%BD%E4%B9%9F%E4%B8%8D%E6%98%AF%E4%B8%80%E5%A4%A9%E5%85%A9%E5%A4%A9%E7%9A%84%E4%BA%8B%E6%83%85%E4%BA%86awa+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718864772&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11710">
+    <img src="https://ytcards.demolab.com/?id=K0YaieV-GY8&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%BD%9B%E6%B0%B4%E8%89%87%E5%87%BA%E4%BA%BA%E5%91%BD%E4%B9%9F%E4%B8%8D%E6%98%AF%E4%B8%80%E5%A4%A9%E5%85%A9%E5%A4%A9%E7%9A%84%E4%BA%8B%E6%83%85%E4%BA%86awa+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718864772&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11710" alt="【Barotrauma // 潛淵症】（#003）潛水艇出人命也不是一天兩天的事情了awa | Ft. 第二團" title="【Barotrauma // 潛淵症】（#003）潛水艇出人命也不是一天兩天的事情了awa | Ft. 第二團">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=QmJ_i-lL1K8">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QmJ_i-lL1K8&title=%E3%80%90WARFRAME+%2F%2F+%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%E3%80%91%EF%BC%88%23103%EF%BC%8910-0%E6%94%BB%E7%95%A5%E5%8F%B0%EF%BC%8C%E9%80%99%E6%AC%A1%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1&lang=zh&timestamp=1718776062&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9781">
@@ -53,20 +59,14 @@ You may come back later, as you wish if this readme.md is updated.   -->
 </a>
 <a href="https://www.youtube.com/watch?v=Vo5cSVl2vIU">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vo5cSVl2vIU&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91+%EF%BC%88%23001%EF%BC%89%E6%BD%9C%E6%B8%8A%E7%97%87%E6%AD%A3%E5%BC%8F%E7%89%88%E9%83%BD%E5%87%BA%E5%A4%9A%E4%B9%85%E4%BA%86%E7%8E%B0%E5%9C%A8%E6%89%8D%E6%89%93+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718608974&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12821">
-    <img src="https://ytcards.demolab.com/?id=Vo5cSVl2vIU&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91+%EF%BC%88%23001%EF%BC%89%E6%BD%9C%E6%B8%8A%E7%97%87%E6%AD%A3%E5%BC%8F%E7%89%88%E9%83%BD%E5%87%BA%E5%A4%9A%E4%B9%85%E4%BA%86%E7%8E%B0%E5%9C%A8%E6%89%8D%E6%89%93+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718608974&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12821" alt="【Barotrauma // 潛淵症】 （#001）潜渊症正式版都出多久了现在才打 | Ft. 第二團" title="【Barotrauma // 潛淵症】 （#001）潜渊症正式版都出多久了现在才打 | Ft. 第二團">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vo5cSVl2vIU&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%BD%9C%E6%B8%8A%E7%97%87%E6%AD%A3%E5%BC%8F%E7%89%88%E9%83%BD%E5%87%BA%E5%A4%9A%E4%B9%85%E4%BA%86%E7%8E%B0%E5%9C%A8%E6%89%8D%E6%89%93+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718608974&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12821">
+    <img src="https://ytcards.demolab.com/?id=Vo5cSVl2vIU&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%BD%9C%E6%B8%8A%E7%97%87%E6%AD%A3%E5%BC%8F%E7%89%88%E9%83%BD%E5%87%BA%E5%A4%9A%E4%B9%85%E4%BA%86%E7%8E%B0%E5%9C%A8%E6%89%8D%E6%89%93+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718608974&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12821" alt="【Barotrauma // 潛淵症】（#001）潜渊症正式版都出多久了现在才打 | Ft. 第二團" title="【Barotrauma // 潛淵症】（#001）潜渊症正式版都出多久了现在才打 | Ft. 第二團">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=QJuA2D_WH9I">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QJuA2D_WH9I&title=%E4%B8%9F%E8%AA%98%E9%A4%8C%E6%80%8E%E9%BA%BD%E4%B8%9F%E9%80%99%E9%BA%BD%E5%87%86%E5%95%A6%40A%40%3F&lang=zh&timestamp=1718596824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
     <img src="https://ytcards.demolab.com/?id=QJuA2D_WH9I&title=%E4%B8%9F%E8%AA%98%E9%A4%8C%E6%80%8E%E9%BA%BD%E4%B8%9F%E9%80%99%E9%BA%BD%E5%87%86%E5%95%A6%40A%40%3F&lang=zh&timestamp=1718596824&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20" alt="丟誘餌怎麽丟這麽准啦@A@?" title="丟誘餌怎麽丟這麽准啦@A@?">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=AEBhbPudyBY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AEBhbPudyBY&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21%E3%80%91%EF%BC%88%23012%EF%BC%89%E5%B7%B2%E7%B6%93%E6%B2%92%E6%9D%B1%E8%A5%BF%E6%89%93%E4%BA%86%EF%BC%8C%E6%89%80%E4%BB%A5%E6%87%89%E8%A9%B2%E6%98%AF%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1A21%E4%BA%86&lang=zh&timestamp=1718530724&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19640">
-    <img src="https://ytcards.demolab.com/?id=AEBhbPudyBY&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAA21%E3%80%91%EF%BC%88%23012%EF%BC%89%E5%B7%B2%E7%B6%93%E6%B2%92%E6%9D%B1%E8%A5%BF%E6%89%93%E4%BA%86%EF%BC%8C%E6%89%80%E4%BB%A5%E6%87%89%E8%A9%B2%E6%98%AF%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1A21%E4%BA%86&lang=zh&timestamp=1718530724&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19640" alt="【7D2D // 七日殺A21】（#012）已經沒東西打了，所以應該是最後一次A21了" title="【7D2D // 七日殺A21】（#012）已經沒東西打了，所以應該是最後一次A21了">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
