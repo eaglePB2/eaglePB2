@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=vR611pxRQaA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vR611pxRQaA&title=%E3%80%90PayDay+3%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%9E%97%E9%96%93%E5%9C%98%E7%9A%84%E5%85%AC%E6%B8%AC%E9%AB%94%E9%A9%97&lang=zh&timestamp=1719138651&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10146">
+    <img src="https://ytcards.demolab.com/?id=vR611pxRQaA&title=%E3%80%90PayDay+3%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%9E%97%E9%96%93%E5%9C%98%E7%9A%84%E5%85%AC%E6%B8%AC%E9%AB%94%E9%A9%97&lang=zh&timestamp=1719138651&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10146" alt="【PayDay 3】（#000）林間團的公測體驗" title="【PayDay 3】（#000）林間團的公測體驗">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=K0YaieV-GY8">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=K0YaieV-GY8&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%BD%9B%E6%B0%B4%E8%89%87%E5%87%BA%E4%BA%BA%E5%91%BD%E4%B9%9F%E4%B8%8D%E6%98%AF%E4%B8%80%E5%A4%A9%E5%85%A9%E5%A4%A9%E7%9A%84%E4%BA%8B%E6%83%85%E4%BA%86awa+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718864772&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11710">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vo5cSVl2vIU&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%BD%9C%E6%B8%8A%E7%97%87%E6%AD%A3%E5%BC%8F%E7%89%88%E9%83%BD%E5%87%BA%E5%A4%9A%E4%B9%85%E4%BA%86%E7%8E%B0%E5%9C%A8%E6%89%8D%E6%89%93+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718608974&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12821">
     <img src="https://ytcards.demolab.com/?id=Vo5cSVl2vIU&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%BD%9C%E6%B8%8A%E7%97%87%E6%AD%A3%E5%BC%8F%E7%89%88%E9%83%BD%E5%87%BA%E5%A4%9A%E4%B9%85%E4%BA%86%E7%8E%B0%E5%9C%A8%E6%89%8D%E6%89%93+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718608974&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12821" alt="【Barotrauma // 潛淵症】（#001）潜渊症正式版都出多久了现在才打 | Ft. 第二團" title="【Barotrauma // 潛淵症】（#001）潜渊症正式版都出多久了现在才打 | Ft. 第二團">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=QJuA2D_WH9I">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QJuA2D_WH9I&title=%E4%B8%9F%E8%AA%98%E9%A4%8C%E6%80%8E%E9%BA%BD%E4%B8%9F%E9%80%99%E9%BA%BD%E5%87%86%E5%95%A6%40A%40%3F&lang=zh&timestamp=1718596824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
-    <img src="https://ytcards.demolab.com/?id=QJuA2D_WH9I&title=%E4%B8%9F%E8%AA%98%E9%A4%8C%E6%80%8E%E9%BA%BD%E4%B8%9F%E9%80%99%E9%BA%BD%E5%87%86%E5%95%A6%40A%40%3F&lang=zh&timestamp=1718596824&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20" alt="丟誘餌怎麽丟這麽准啦@A@?" title="丟誘餌怎麽丟這麽准啦@A@?">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
