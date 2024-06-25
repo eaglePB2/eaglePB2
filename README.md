@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=8Y5B-6E3TCk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8Y5B-6E3TCk&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23005%EF%BC%89%E9%82%81%E5%85%A5%E7%AC%AC%E4%B8%89%E5%B1%A4+%E5%9D%90%E7%AD%89%E3%80%8C%E5%B7%A5%E4%BD%9C%E3%80%8D%E4%B8%AD+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719289334&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12216">
+    <img src="https://ytcards.demolab.com/?id=8Y5B-6E3TCk&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23005%EF%BC%89%E9%82%81%E5%85%A5%E7%AC%AC%E4%B8%89%E5%B1%A4+%E5%9D%90%E7%AD%89%E3%80%8C%E5%B7%A5%E4%BD%9C%E3%80%8D%E4%B8%AD+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719289334&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12216" alt="【Barotrauma // 潛淵症】（#005）邁入第三層 坐等「工作」中 | Ft. 第二團" title="【Barotrauma // 潛淵症】（#005）邁入第三層 坐等「工作」中 | Ft. 第二團">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=hZPoC9z8P5o">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hZPoC9z8P5o&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%BD%9C%E6%B0%B4%E8%89%87%E5%90%8E%E9%81%97%E7%97%87+%E5%8F%91%E4%BD%9C%E4%B8%AD+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719214233&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12807">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=opf-G7JX2X4&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%BD%9B%E6%B0%B4%E8%89%87+%E9%87%8D%E6%96%B0%E5%87%BA%E7%99%BC%EF%BC%81%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718706994&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13039">
     <img src="https://ytcards.demolab.com/?id=opf-G7JX2X4&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%BD%9B%E6%B0%B4%E8%89%87+%E9%87%8D%E6%96%B0%E5%87%BA%E7%99%BC%EF%BC%81%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718706994&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13039" alt="【Barotrauma // 潛淵症】（#002）潛水艇 重新出發！| Ft. 第二團" title="【Barotrauma // 潛淵症】（#002）潛水艇 重新出發！| Ft. 第二團">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=bAT7XhWr-pM">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bAT7XhWr-pM&title=%E4%B8%80%E7%99%BCRPG%E6%8A%8A%E6%88%91%E6%89%93%E5%8E%BB%E5%8F%A6%E4%B8%80%E6%AC%BE%E6%B8%B8%E6%88%B2%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1718696413&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18">
-    <img src="https://ytcards.demolab.com/?id=bAT7XhWr-pM&title=%E4%B8%80%E7%99%BCRPG%E6%8A%8A%E6%88%91%E6%89%93%E5%8E%BB%E5%8F%A6%E4%B8%80%E6%AC%BE%E6%B8%B8%E6%88%B2%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1718696413&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18" alt="一發RPG把我打去另一款游戲……？" title="一發RPG把我打去另一款游戲……？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
