@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=yuGx2D0RkyQ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yuGx2D0RkyQ&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+barotrauma+%7C+%E7%AC%AC%E5%85%AD%E6%9C%9F&lang=zh&timestamp=1719388117&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14333">
+    <img src="https://ytcards.demolab.com/?id=yuGx2D0RkyQ&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+barotrauma+%7C+%E7%AC%AC%E5%85%AD%E6%9C%9F&lang=zh&timestamp=1719388117&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14333" alt="【夢想啓航系列】 barotrauma | 第六期" title="【夢想啓航系列】 barotrauma | 第六期">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=8Y5B-6E3TCk">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8Y5B-6E3TCk&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23005%EF%BC%89%E9%82%81%E5%85%A5%E7%AC%AC%E4%B8%89%E5%B1%A4+%E5%9D%90%E7%AD%89%E3%80%8C%E5%B7%A5%E4%BD%9C%E3%80%8D%E4%B8%AD+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719289334&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12216">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QmJ_i-lL1K8&title=%E3%80%90WARFRAME+%2F%2F+%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%E3%80%91%EF%BC%88%23103%EF%BC%8910-0%E6%94%BB%E7%95%A5%E5%8F%B0%EF%BC%8C%E9%80%99%E6%AC%A1%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1&lang=zh&timestamp=1718776062&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9781">
     <img src="https://ytcards.demolab.com/?id=QmJ_i-lL1K8&title=%E3%80%90WARFRAME+%2F%2F+%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%E3%80%91%EF%BC%88%23103%EF%BC%8910-0%E6%94%BB%E7%95%A5%E5%8F%B0%EF%BC%8C%E9%80%99%E6%AC%A1%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1&lang=zh&timestamp=1718776062&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9781" alt="【WARFRAME // 星际战甲】（#103）10-0攻略台，這次真的是最後一次" title="【WARFRAME // 星际战甲】（#103）10-0攻略台，這次真的是最後一次">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=opf-G7JX2X4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=opf-G7JX2X4&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%BD%9B%E6%B0%B4%E8%89%87+%E9%87%8D%E6%96%B0%E5%87%BA%E7%99%BC%EF%BC%81%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718706994&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13039">
-    <img src="https://ytcards.demolab.com/?id=opf-G7JX2X4&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%BD%9B%E6%B0%B4%E8%89%87+%E9%87%8D%E6%96%B0%E5%87%BA%E7%99%BC%EF%BC%81%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718706994&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13039" alt="【Barotrauma // 潛淵症】（#002）潛水艇 重新出發！| Ft. 第二團" title="【Barotrauma // 潛淵症】（#002）潛水艇 重新出發！| Ft. 第二團">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
