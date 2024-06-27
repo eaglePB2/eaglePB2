@@ -33,10 +33,16 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=6XZcgaRgxfk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6XZcgaRgxfk&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23007%EF%BC%89%E6%92%9E%E8%88%B9%E7%9A%84%E8%88%B9%E9%95%B7%E5%92%8C%E6%89%8B%E5%BF%99%E8%85%B3%E4%BA%82%E7%9A%84%E4%B8%80%E7%BE%A4%E8%88%B9%E5%93%A1+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719467370&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11890">
+    <img src="https://ytcards.demolab.com/?id=6XZcgaRgxfk&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23007%EF%BC%89%E6%92%9E%E8%88%B9%E7%9A%84%E8%88%B9%E9%95%B7%E5%92%8C%E6%89%8B%E5%BF%99%E8%85%B3%E4%BA%82%E7%9A%84%E4%B8%80%E7%BE%A4%E8%88%B9%E5%93%A1+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719467370&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11890" alt="【Barotrauma // 潛淵症】（#007）撞船的船長和手忙腳亂的一群船員 | Ft. 第二團" title="【Barotrauma // 潛淵症】（#007）撞船的船長和手忙腳亂的一群船員 | Ft. 第二團">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=yuGx2D0RkyQ">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yuGx2D0RkyQ&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+barotrauma+%7C+%E7%AC%AC%E5%85%AD%E6%9C%9F&lang=zh&timestamp=1719388117&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14333">
-    <img src="https://ytcards.demolab.com/?id=yuGx2D0RkyQ&title=%E3%80%90%E5%A4%A2%E6%83%B3%E5%95%93%E8%88%AA%E7%B3%BB%E5%88%97%E3%80%91+barotrauma+%7C+%E7%AC%AC%E5%85%AD%E6%9C%9F&lang=zh&timestamp=1719388117&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14333" alt="【夢想啓航系列】 barotrauma | 第六期" title="【夢想啓航系列】 barotrauma | 第六期">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yuGx2D0RkyQ&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23006%EF%BC%89%E5%A4%A7%E4%BD%AC%E9%9C%87%E6%92%BC%E4%BE%86%E8%A5%B2%EF%BC%81%E4%B8%AD%E7%B9%BC%E7%AB%99%E5%B1%85%E7%84%B6%E6%9C%89%E9%80%99%E7%A8%AE%E7%8E%A9%E6%B3%95%EF%BC%9F+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719388117&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14333">
+    <img src="https://ytcards.demolab.com/?id=yuGx2D0RkyQ&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23006%EF%BC%89%E5%A4%A7%E4%BD%AC%E9%9C%87%E6%92%BC%E4%BE%86%E8%A5%B2%EF%BC%81%E4%B8%AD%E7%B9%BC%E7%AB%99%E5%B1%85%E7%84%B6%E6%9C%89%E9%80%99%E7%A8%AE%E7%8E%A9%E6%B3%95%EF%BC%9F+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719388117&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14333" alt="【Barotrauma // 潛淵症】（#006）大佬震撼來襲！中繼站居然有這種玩法？ | Ft. 第二團" title="【Barotrauma // 潛淵症】（#006）大佬震撼來襲！中繼站居然有這種玩法？ | Ft. 第二團">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=8Y5B-6E3TCk">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=K0YaieV-GY8&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%BD%9B%E6%B0%B4%E8%89%87%E5%87%BA%E4%BA%BA%E5%91%BD%E4%B9%9F%E4%B8%8D%E6%98%AF%E4%B8%80%E5%A4%A9%E5%85%A9%E5%A4%A9%E7%9A%84%E4%BA%8B%E6%83%85%E4%BA%86awa+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718864772&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11710">
     <img src="https://ytcards.demolab.com/?id=K0YaieV-GY8&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%BD%9B%E6%B0%B4%E8%89%87%E5%87%BA%E4%BA%BA%E5%91%BD%E4%B9%9F%E4%B8%8D%E6%98%AF%E4%B8%80%E5%A4%A9%E5%85%A9%E5%A4%A9%E7%9A%84%E4%BA%8B%E6%83%85%E4%BA%86awa+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718864772&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11710" alt="【Barotrauma // 潛淵症】（#003）潛水艇出人命也不是一天兩天的事情了awa | Ft. 第二團" title="【Barotrauma // 潛淵症】（#003）潛水艇出人命也不是一天兩天的事情了awa | Ft. 第二團">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=QmJ_i-lL1K8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QmJ_i-lL1K8&title=%E3%80%90WARFRAME+%2F%2F+%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%E3%80%91%EF%BC%88%23103%EF%BC%8910-0%E6%94%BB%E7%95%A5%E5%8F%B0%EF%BC%8C%E9%80%99%E6%AC%A1%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1&lang=zh&timestamp=1718776062&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9781">
-    <img src="https://ytcards.demolab.com/?id=QmJ_i-lL1K8&title=%E3%80%90WARFRAME+%2F%2F+%E6%98%9F%E9%99%85%E6%88%98%E7%94%B2%E3%80%91%EF%BC%88%23103%EF%BC%8910-0%E6%94%BB%E7%95%A5%E5%8F%B0%EF%BC%8C%E9%80%99%E6%AC%A1%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%80%E5%BE%8C%E4%B8%80%E6%AC%A1&lang=zh&timestamp=1718776062&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9781" alt="【WARFRAME // 星际战甲】（#103）10-0攻略台，這次真的是最後一次" title="【WARFRAME // 星际战甲】（#103）10-0攻略台，這次真的是最後一次">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
