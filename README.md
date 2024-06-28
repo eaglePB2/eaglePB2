@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=r9o2PjmLimY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r9o2PjmLimY&title=%E3%80%90We+were+here+Expeditions%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%BB%98%E5%A5%91%E6%94%AF%E9%85%8D%E5%A4%A7%E8%80%83%E9%AA%8C.png+ft.++%40user-dq1nk6og7y&lang=zh&timestamp=1719565198&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16524">
+    <img src="https://ytcards.demolab.com/?id=r9o2PjmLimY&title=%E3%80%90We+were+here+Expeditions%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%BB%98%E5%A5%91%E6%94%AF%E9%85%8D%E5%A4%A7%E8%80%83%E9%AA%8C.png+ft.++%40user-dq1nk6og7y&lang=zh&timestamp=1719565198&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16524" alt="【We were here Expeditions】（#000）默契支配大考验.png ft.  @user-dq1nk6og7y" title="【We were here Expeditions】（#000）默契支配大考验.png ft.  @user-dq1nk6og7y">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=6XZcgaRgxfk">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6XZcgaRgxfk&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23007%EF%BC%89%E6%92%9E%E8%88%B9%E7%9A%84%E8%88%B9%E9%95%B7%E5%92%8C%E6%89%8B%E5%BF%99%E8%85%B3%E4%BA%82%E7%9A%84%E4%B8%80%E7%BE%A4%E8%88%B9%E5%93%A1+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719467370&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11890">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vR611pxRQaA&title=%E3%80%90PayDay+3%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%9E%97%E9%96%93%E5%9C%98%E7%9A%84%E5%85%AC%E6%B8%AC%E9%AB%94%E9%A9%97&lang=zh&timestamp=1719138651&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10146">
     <img src="https://ytcards.demolab.com/?id=vR611pxRQaA&title=%E3%80%90PayDay+3%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%9E%97%E9%96%93%E5%9C%98%E7%9A%84%E5%85%AC%E6%B8%AC%E9%AB%94%E9%A9%97&lang=zh&timestamp=1719138651&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10146" alt="【PayDay 3】（#000）林間團的公測體驗" title="【PayDay 3】（#000）林間團的公測體驗">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=K0YaieV-GY8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=K0YaieV-GY8&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%BD%9B%E6%B0%B4%E8%89%87%E5%87%BA%E4%BA%BA%E5%91%BD%E4%B9%9F%E4%B8%8D%E6%98%AF%E4%B8%80%E5%A4%A9%E5%85%A9%E5%A4%A9%E7%9A%84%E4%BA%8B%E6%83%85%E4%BA%86awa+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718864772&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11710">
-    <img src="https://ytcards.demolab.com/?id=K0YaieV-GY8&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%BD%9B%E6%B0%B4%E8%89%87%E5%87%BA%E4%BA%BA%E5%91%BD%E4%B9%9F%E4%B8%8D%E6%98%AF%E4%B8%80%E5%A4%A9%E5%85%A9%E5%A4%A9%E7%9A%84%E4%BA%8B%E6%83%85%E4%BA%86awa+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1718864772&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11710" alt="【Barotrauma // 潛淵症】（#003）潛水艇出人命也不是一天兩天的事情了awa | Ft. 第二團" title="【Barotrauma // 潛淵症】（#003）潛水艇出人命也不是一天兩天的事情了awa | Ft. 第二團">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
