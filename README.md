@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：Battlefield 4 故事模式](https://www.twitch.tv/videos/2183660432)
+- [精选内容：林间盃日麻积分赛 —— 6月第四场](https://www.twitch.tv/videos/2183660170)
 - [@eaglepb2 日](https://www.twitch.tv/videos/2182117123)
 - [@eaglepb2 戰地風雲 4 —— 戰役模式](https://www.twitch.tv/videos/2181229759)
 - [精选内容：林间盃日麻积分赛 —— 6月第三场](https://www.twitch.tv/videos/2176158299)
-- [@eaglepb2 林間盃 6月份 第三階段 日麻積分賽](https://www.twitch.tv/videos/2175985253)
-- [精选内容：Battlefield 3 故事模式](https://www.twitch.tv/videos/2174536755)
 <!-- TWITCH:END -->
 
 
