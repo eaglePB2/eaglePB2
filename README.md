@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=IMF6URaxeFI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IMF6URaxeFI&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23009%EF%BC%89%E4%B8%AD%E7%A7%8B%E7%AF%80%E6%BD%9B%E8%89%87%E5%B0%8F%E9%9A%8A%E7%B2%97%E7%99%BC%EF%BC%81+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719733919&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14629">
+    <img src="https://ytcards.demolab.com/?id=IMF6URaxeFI&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23009%EF%BC%89%E4%B8%AD%E7%A7%8B%E7%AF%80%E6%BD%9B%E8%89%87%E5%B0%8F%E9%9A%8A%E7%B2%97%E7%99%BC%EF%BC%81+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719733919&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14629" alt="【Barotrauma // 潛淵症】（#009）中秋節潛艇小隊粗發！ | Ft. 第二團" title="【Barotrauma // 潛淵症】（#009）中秋節潛艇小隊粗發！ | Ft. 第二團">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=UgRAVwgYXdE">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UgRAVwgYXdE&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23008%EF%BC%89%E4%B8%8E%E9%B1%BC%E5%85%B1%E6%B8%B8+%E7%A7%91%E5%AD%A6%E5%8C%96%E7%94%BB%E7%9A%AE%E7%8E%A9%E5%AE%B6%E4%B8%8A%E7%BA%BF%E5%95%A6%EF%BC%81+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719662808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11311">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8Y5B-6E3TCk&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23005%EF%BC%89%E9%82%81%E5%85%A5%E7%AC%AC%E4%B8%89%E5%B1%A4+%E5%9D%90%E7%AD%89%E3%80%8C%E5%B7%A5%E4%BD%9C%E3%80%8D%E4%B8%AD+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719289334&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12216">
     <img src="https://ytcards.demolab.com/?id=8Y5B-6E3TCk&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23005%EF%BC%89%E9%82%81%E5%85%A5%E7%AC%AC%E4%B8%89%E5%B1%A4+%E5%9D%90%E7%AD%89%E3%80%8C%E5%B7%A5%E4%BD%9C%E3%80%8D%E4%B8%AD+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719289334&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12216" alt="【Barotrauma // 潛淵症】（#005）邁入第三層 坐等「工作」中 | Ft. 第二團" title="【Barotrauma // 潛淵症】（#005）邁入第三層 坐等「工作」中 | Ft. 第二團">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=hZPoC9z8P5o">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hZPoC9z8P5o&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%BD%9C%E6%B0%B4%E8%89%87%E5%90%8E%E9%81%97%E7%97%87+%E5%8F%91%E4%BD%9C%E4%B8%AD+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719214233&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12807">
-    <img src="https://ytcards.demolab.com/?id=hZPoC9z8P5o&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%BD%9C%E6%B0%B4%E8%89%87%E5%90%8E%E9%81%97%E7%97%87+%E5%8F%91%E4%BD%9C%E4%B8%AD+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719214233&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12807" alt="【Barotrauma // 潛淵症】（#004）潜水艇后遗症 发作中 | Ft. 第二團" title="【Barotrauma // 潛淵症】（#004）潜水艇后遗症 发作中 | Ft. 第二團">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
