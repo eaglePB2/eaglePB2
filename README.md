@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=jtZgjeYpUsU">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jtZgjeYpUsU&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23010%EF%BC%89%E6%88%91%E6%98%AF%E5%80%8B%E5%A5%BD%E8%88%B9%E5%93%A1%EF%BC%8C%E6%98%AF%E5%90%A7%EF%BC%9F%E6%98%AF%E5%90%A7...+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719812428&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11446">
+    <img src="https://ytcards.demolab.com/?id=jtZgjeYpUsU&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23010%EF%BC%89%E6%88%91%E6%98%AF%E5%80%8B%E5%A5%BD%E8%88%B9%E5%93%A1%EF%BC%8C%E6%98%AF%E5%90%A7%EF%BC%9F%E6%98%AF%E5%90%A7...+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719812428&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11446" alt="【Barotrauma // 潛淵症】（#010）我是個好船員，是吧？是吧... | Ft. 第二團" title="【Barotrauma // 潛淵症】（#010）我是個好船員，是吧？是吧... | Ft. 第二團">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=IMF6URaxeFI">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IMF6URaxeFI&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23009%EF%BC%89%E4%B8%AD%E7%A7%8B%E7%AF%80%E6%BD%9B%E8%89%87%E5%B0%8F%E9%9A%8A%E7%B2%97%E7%99%BC%EF%BC%81+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719733919&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14629">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yuGx2D0RkyQ&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23006%EF%BC%89%E5%A4%A7%E4%BD%AC%E9%9C%87%E6%92%BC%E4%BE%86%E8%A5%B2%EF%BC%81%E4%B8%AD%E7%B9%BC%E7%AB%99%E5%B1%85%E7%84%B6%E6%9C%89%E9%80%99%E7%A8%AE%E7%8E%A9%E6%B3%95%EF%BC%9F+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719388117&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14333">
     <img src="https://ytcards.demolab.com/?id=yuGx2D0RkyQ&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23006%EF%BC%89%E5%A4%A7%E4%BD%AC%E9%9C%87%E6%92%BC%E4%BE%86%E8%A5%B2%EF%BC%81%E4%B8%AD%E7%B9%BC%E7%AB%99%E5%B1%85%E7%84%B6%E6%9C%89%E9%80%99%E7%A8%AE%E7%8E%A9%E6%B3%95%EF%BC%9F+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719388117&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14333" alt="【Barotrauma // 潛淵症】（#006）大佬震撼來襲！中繼站居然有這種玩法？ | Ft. 第二團" title="【Barotrauma // 潛淵症】（#006）大佬震撼來襲！中繼站居然有這種玩法？ | Ft. 第二團">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=8Y5B-6E3TCk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8Y5B-6E3TCk&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23005%EF%BC%89%E9%82%81%E5%85%A5%E7%AC%AC%E4%B8%89%E5%B1%A4+%E5%9D%90%E7%AD%89%E3%80%8C%E5%B7%A5%E4%BD%9C%E3%80%8D%E4%B8%AD+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719289334&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12216">
-    <img src="https://ytcards.demolab.com/?id=8Y5B-6E3TCk&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23005%EF%BC%89%E9%82%81%E5%85%A5%E7%AC%AC%E4%B8%89%E5%B1%A4+%E5%9D%90%E7%AD%89%E3%80%8C%E5%B7%A5%E4%BD%9C%E3%80%8D%E4%B8%AD+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719289334&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12216" alt="【Barotrauma // 潛淵症】（#005）邁入第三層 坐等「工作」中 | Ft. 第二團" title="【Barotrauma // 潛淵症】（#005）邁入第三層 坐等「工作」中 | Ft. 第二團">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
