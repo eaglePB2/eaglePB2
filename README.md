@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=jSO_FBDEg1M">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jSO_FBDEg1M&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E3%80%91%EF%BC%88%23008%EF%BC%89%E4%B9%85%E9%81%95%E4%BA%86%EF%BC%8C%E5%AE%87%E5%AE%99%E4%B9%8B%E5%AD%90%E5%A4%A7%E5%A4%A9%E7%8E%84%EF%BC%81&lang=zh&timestamp=1720000862&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14420">
+    <img src="https://ytcards.demolab.com/?id=jSO_FBDEg1M&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E3%80%91%EF%BC%88%23008%EF%BC%89%E4%B9%85%E9%81%95%E4%BA%86%EF%BC%8C%E5%AE%87%E5%AE%99%E4%B9%8B%E5%AD%90%E5%A4%A7%E5%A4%A9%E7%8E%84%EF%BC%81&lang=zh&timestamp=1720000862&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14420" alt="【SotF // 森林之子】（#008）久違了，宇宙之子大天玄！" title="【SotF // 森林之子】（#008）久違了，宇宙之子大天玄！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=179YMgJUprw">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=179YMgJUprw&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23011%EF%BC%89%E4%BD%A0%E8%A2%ABDiscord%E5%B0%81%E9%94%81%E4%BA%86%E5%90%97%EF%BC%9F+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719895491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10789">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r9o2PjmLimY&title=%E3%80%90We+were+here+Expeditions%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%BB%98%E5%A5%91%E6%94%AF%E9%85%8D%E5%A4%A7%E8%80%83%E9%AA%8C.png+ft.++%40user-dq1nk6og7y&lang=zh&timestamp=1719565198&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16524">
     <img src="https://ytcards.demolab.com/?id=r9o2PjmLimY&title=%E3%80%90We+were+here+Expeditions%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%BB%98%E5%A5%91%E6%94%AF%E9%85%8D%E5%A4%A7%E8%80%83%E9%AA%8C.png+ft.++%40user-dq1nk6og7y&lang=zh&timestamp=1719565198&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16524" alt="【We were here Expeditions】（#000）默契支配大考验.png ft.  @user-dq1nk6og7y" title="【We were here Expeditions】（#000）默契支配大考验.png ft.  @user-dq1nk6og7y">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=6XZcgaRgxfk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6XZcgaRgxfk&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23007%EF%BC%89%E6%92%9E%E8%88%B9%E7%9A%84%E8%88%B9%E9%95%B7%E5%92%8C%E6%89%8B%E5%BF%99%E8%85%B3%E4%BA%82%E7%9A%84%E4%B8%80%E7%BE%A4%E8%88%B9%E5%93%A1+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719467370&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11890">
-    <img src="https://ytcards.demolab.com/?id=6XZcgaRgxfk&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23007%EF%BC%89%E6%92%9E%E8%88%B9%E7%9A%84%E8%88%B9%E9%95%B7%E5%92%8C%E6%89%8B%E5%BF%99%E8%85%B3%E4%BA%82%E7%9A%84%E4%B8%80%E7%BE%A4%E8%88%B9%E5%93%A1+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719467370&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11890" alt="【Barotrauma // 潛淵症】（#007）撞船的船長和手忙腳亂的一群船員 | Ft. 第二團" title="【Barotrauma // 潛淵症】（#007）撞船的船長和手忙腳亂的一群船員 | Ft. 第二團">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
