@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=76xPMRYcQ_w">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=76xPMRYcQ_w&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1720085274&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14143">
+    <img src="https://ytcards.demolab.com/?id=76xPMRYcQ_w&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1720085274&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14143" alt="【MC Java // 麥塊Java版】（#001）林間 SMP 櫻花賽季" title="【MC Java // 麥塊Java版】（#001）林間 SMP 櫻花賽季">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=jSO_FBDEg1M">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jSO_FBDEg1M&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E3%80%91%EF%BC%88%23008%EF%BC%89%E4%B9%85%E9%81%95%E4%BA%86%EF%BC%8C%E5%AE%87%E5%AE%99%E4%B9%8B%E5%AD%90%E5%A4%A7%E5%A4%A9%E7%8E%84%EF%BC%81&lang=zh&timestamp=1720000862&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14420">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UgRAVwgYXdE&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23008%EF%BC%89%E4%B8%8E%E9%B1%BC%E5%85%B1%E6%B8%B8+%E7%A7%91%E5%AD%A6%E5%8C%96%E7%94%BB%E7%9A%AE%E7%8E%A9%E5%AE%B6%E4%B8%8A%E7%BA%BF%E5%95%A6%EF%BC%81+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719662808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11311">
     <img src="https://ytcards.demolab.com/?id=UgRAVwgYXdE&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23008%EF%BC%89%E4%B8%8E%E9%B1%BC%E5%85%B1%E6%B8%B8+%E7%A7%91%E5%AD%A6%E5%8C%96%E7%94%BB%E7%9A%AE%E7%8E%A9%E5%AE%B6%E4%B8%8A%E7%BA%BF%E5%95%A6%EF%BC%81+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1719662808&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11311" alt="【Barotrauma // 潛淵症】（#008）与鱼共游 科学化画皮玩家上线啦！ | Ft. 第二團" title="【Barotrauma // 潛淵症】（#008）与鱼共游 科学化画皮玩家上线啦！ | Ft. 第二團">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=r9o2PjmLimY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r9o2PjmLimY&title=%E3%80%90We+were+here+Expeditions%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%BB%98%E5%A5%91%E6%94%AF%E9%85%8D%E5%A4%A7%E8%80%83%E9%AA%8C.png+ft.++%40user-dq1nk6og7y&lang=zh&timestamp=1719565198&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16524">
-    <img src="https://ytcards.demolab.com/?id=r9o2PjmLimY&title=%E3%80%90We+were+here+Expeditions%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%BB%98%E5%A5%91%E6%94%AF%E9%85%8D%E5%A4%A7%E8%80%83%E9%AA%8C.png+ft.++%40user-dq1nk6og7y&lang=zh&timestamp=1719565198&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16524" alt="【We were here Expeditions】（#000）默契支配大考验.png ft.  @user-dq1nk6og7y" title="【We were here Expeditions】（#000）默契支配大考验.png ft.  @user-dq1nk6og7y">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
