@@ -23,7 +23,7 @@ You may come back later, as you wish if this readme.md is updated.   -->
 - [精选内容：L4D2 對抗者模式](https://www.twitch.tv/videos/2187974983)
 - [@eaglepb2 生還者模式！ 63圖 10分鐘的防守型玩法！ 怎麽沒什麽人來打？](https://www.twitch.tv/videos/2187237046)
 - [精选内容：King of the Castle 第二團](https://www.twitch.tv/videos/2185556619)
-- [@eaglepb2 國王游戲，林間國王與叛亂貴族的内鬥之旅](https://www.twitch.tv/videos/2184706272)
+- [精选内容：Battlefield 4 故事模式](https://www.twitch.tv/videos/2183660432)
 <!-- TWITCH:END -->
 
 
