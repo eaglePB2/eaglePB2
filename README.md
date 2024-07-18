@@ -21,9 +21,9 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- TWITCH:START -->
 - [@eaglepb2 無機器人模式 啓動！](https://www.twitch.tv/videos/2188076894)
 - [精选内容：L4D2 對抗者模式](https://www.twitch.tv/videos/2187974983)
-- [@eaglepb2 生還者模式！ 63圖 10分鐘的防守型玩法！ 怎麽沒什麽人來打？](https://www.twitch.tv/videos/2187237046)
 - [精选内容：King of the Castle 第二團](https://www.twitch.tv/videos/2185556619)
 - [精选内容：Battlefield 4 故事模式](https://www.twitch.tv/videos/2183660432)
+- [精选内容：林间盃日麻积分赛 —— 6月第四场](https://www.twitch.tv/videos/2183660170)
 <!-- TWITCH:END -->
 
 
