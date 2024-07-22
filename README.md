@@ -33,10 +33,22 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=f_cKGTq9fuw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f_cKGTq9fuw&title=%E3%80%8CMinecraft+%E4%B9%8B%E7%9F%B3%E9%96%80%E6%B0%B4%E5%BA%AB60%E5%91%A8%E5%B9%B4Speedrun%E7%B4%80%E5%BF%B5%E6%B4%BB%E5%8B%95%E3%80%8D&lang=zh&timestamp=1721645950&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=660">
+    <img src="https://ytcards.demolab.com/?id=f_cKGTq9fuw&title=%E3%80%8CMinecraft+%E4%B9%8B%E7%9F%B3%E9%96%80%E6%B0%B4%E5%BA%AB60%E5%91%A8%E5%B9%B4Speedrun%E7%B4%80%E5%BF%B5%E6%B4%BB%E5%8B%95%E3%80%8D&lang=zh&timestamp=1721645950&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=660" alt="「Minecraft 之石門水庫60周年Speedrun紀念活動」" title="「Minecraft 之石門水庫60周年Speedrun紀念活動」">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=jOTEl9gDp2w">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jOTEl9gDp2w&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1721625085&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15614">
+    <img src="https://ytcards.demolab.com/?id=jOTEl9gDp2w&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1721625085&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15614" alt="【MC Java // 麥塊Java版】（#003）林間 SMP 櫻花賽季" title="【MC Java // 麥塊Java版】（#003）林間 SMP 櫻花賽季">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=5oyrt747YXY">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5oyrt747YXY&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1721559813&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=5oyrt747YXY&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1721559813&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【MC Java // 麥塊Java版】（#002）林間 SMP 櫻花賽季" title="【MC Java // 麥塊Java版】（#002）林間 SMP 櫻花賽季">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5oyrt747YXY&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1721573036&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12562">
+    <img src="https://ytcards.demolab.com/?id=5oyrt747YXY&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1721573036&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12562" alt="【MC Java // 麥塊Java版】（#002）林間 SMP 櫻花賽季" title="【MC Java // 麥塊Java版】（#002）林間 SMP 櫻花賽季">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=TQuPbv3iFa8">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9-VQvHMWP9k&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23012%EF%BC%89%E6%BD%9B%E8%A1%8C%E5%92%8C%E6%BD%9B%E6%B0%B4%E8%89%87%E7%9A%84%E5%85%B1%E5%90%8C%E9%BB%9E%E5%8F%AB%E8%A6%8B%E4%B8%8D%E5%BE%97%E5%85%89+owob+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1720161920&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10544">
     <img src="https://ytcards.demolab.com/?id=9-VQvHMWP9k&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23012%EF%BC%89%E6%BD%9B%E8%A1%8C%E5%92%8C%E6%BD%9B%E6%B0%B4%E8%89%87%E7%9A%84%E5%85%B1%E5%90%8C%E9%BB%9E%E5%8F%AB%E8%A6%8B%E4%B8%8D%E5%BE%97%E5%85%89+owob+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1720161920&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10544" alt="【Barotrauma // 潛淵症】（#012）潛行和潛水艇的共同點叫見不得光 owob | Ft. 第二團" title="【Barotrauma // 潛淵症】（#012）潛行和潛水艇的共同點叫見不得光 owob | Ft. 第二團">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=76xPMRYcQ_w">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=76xPMRYcQ_w&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1720085274&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14143">
-    <img src="https://ytcards.demolab.com/?id=76xPMRYcQ_w&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1720085274&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14143" alt="【MC Java // 麥塊Java版】（#001）林間 SMP 櫻花賽季" title="【MC Java // 麥塊Java版】（#001）林間 SMP 櫻花賽季">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=jSO_FBDEg1M">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jSO_FBDEg1M&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E3%80%91%EF%BC%88%23008%EF%BC%89%E4%B9%85%E9%81%95%E4%BA%86%EF%BC%8C%E5%AE%87%E5%AE%99%E4%B9%8B%E5%AD%90%E5%A4%A7%E5%A4%A9%E7%8E%84%EF%BC%81&lang=zh&timestamp=1720000862&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14420">
-    <img src="https://ytcards.demolab.com/?id=jSO_FBDEg1M&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E3%80%91%EF%BC%88%23008%EF%BC%89%E4%B9%85%E9%81%95%E4%BA%86%EF%BC%8C%E5%AE%87%E5%AE%99%E4%B9%8B%E5%AD%90%E5%A4%A7%E5%A4%A9%E7%8E%84%EF%BC%81&lang=zh&timestamp=1720000862&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14420" alt="【SotF // 森林之子】（#008）久違了，宇宙之子大天玄！" title="【SotF // 森林之子】（#008）久違了，宇宙之子大天玄！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
