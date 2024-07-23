@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=NUVbl10epUk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NUVbl10epUk&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1721712238&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16016">
+    <img src="https://ytcards.demolab.com/?id=NUVbl10epUk&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1721712238&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16016" alt="【MC Java // 麥塊Java版】（#004）林間 SMP 櫻花賽季" title="【MC Java // 麥塊Java版】（#004）林間 SMP 櫻花賽季">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=f_cKGTq9fuw">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f_cKGTq9fuw&title=%E3%80%8CMinecraft+%E4%B9%8B%E7%9F%B3%E9%96%80%E6%B0%B4%E5%BA%AB60%E5%91%A8%E5%B9%B4Speedrun%E7%B4%80%E5%BF%B5%E6%B4%BB%E5%8B%95%E3%80%8D&lang=zh&timestamp=1721645950&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=660">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RPXlj-eYf7o&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23013%EF%BC%89%E6%B8%8A%E6%B4%8B%E5%93%A6+%E9%AB%98%E7%A7%91%E6%8A%80%E7%94%BB%E7%9A%AE%E4%BA%BA%E7%B1%BB+%E8%A6%81%E6%89%BE%E5%9F%BA%E5%9B%A0%E4%BA%86%EF%BC%81+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1720244461&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12465">
     <img src="https://ytcards.demolab.com/?id=RPXlj-eYf7o&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23013%EF%BC%89%E6%B8%8A%E6%B4%8B%E5%93%A6+%E9%AB%98%E7%A7%91%E6%8A%80%E7%94%BB%E7%9A%AE%E4%BA%BA%E7%B1%BB+%E8%A6%81%E6%89%BE%E5%9F%BA%E5%9B%A0%E4%BA%86%EF%BC%81+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1720244461&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12465" alt="【Barotrauma // 潛淵症】（#013）渊洋哦 高科技画皮人类 要找基因了！ | Ft. 第二團" title="【Barotrauma // 潛淵症】（#013）渊洋哦 高科技画皮人类 要找基因了！ | Ft. 第二團">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=9-VQvHMWP9k">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9-VQvHMWP9k&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23012%EF%BC%89%E6%BD%9B%E8%A1%8C%E5%92%8C%E6%BD%9B%E6%B0%B4%E8%89%87%E7%9A%84%E5%85%B1%E5%90%8C%E9%BB%9E%E5%8F%AB%E8%A6%8B%E4%B8%8D%E5%BE%97%E5%85%89+owob+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1720161920&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10544">
-    <img src="https://ytcards.demolab.com/?id=9-VQvHMWP9k&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23012%EF%BC%89%E6%BD%9B%E8%A1%8C%E5%92%8C%E6%BD%9B%E6%B0%B4%E8%89%87%E7%9A%84%E5%85%B1%E5%90%8C%E9%BB%9E%E5%8F%AB%E8%A6%8B%E4%B8%8D%E5%BE%97%E5%85%89+owob+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1720161920&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10544" alt="【Barotrauma // 潛淵症】（#012）潛行和潛水艇的共同點叫見不得光 owob | Ft. 第二團" title="【Barotrauma // 潛淵症】（#012）潛行和潛水艇的共同點叫見不得光 owob | Ft. 第二團">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
