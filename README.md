@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：潛淵第三團 Part 02](https://www.twitch.tv/videos/2207017185)
+- [@eaglepb2 雜魚號想讓人成材-雜魚門的生存頭腦戰](https://www.twitch.tv/videos/2206895339)
+- [精选内容：林间盃日麻积分赛 —— 7月第三场](https://www.twitch.tv/videos/2206731228)
+- [精选内容：潛淵第三團 Part 01](https://www.twitch.tv/videos/2206648366)
 - [@eaglepb2 今日開第四臺！來打日麻，之後抽游戲](https://www.twitch.tv/videos/2206007862)
-- [@eaglepb2 雜魚號，啓航！](https://www.twitch.tv/videos/2205876444)
-- [精选内容：MC錦夢賽小遊戲活動](https://www.twitch.tv/videos/2205843324)
-- [@eaglepb2 聽説MCC跟麥塊合作？然後又有新披風？ java版也會有？ 我來了！](https://www.twitch.tv/videos/2205673122)
-- [精选内容：L4D2 對抗者模式](https://www.twitch.tv/videos/2187974983)
 <!-- TWITCH:END -->
 
 
