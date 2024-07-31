@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=34h8_tY-W8U">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=34h8_tY-W8U&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23002%EF%BC%89FBI%E5%B7%B2%E7%B6%93%E7%AD%89%E6%88%91%E5%80%91%E6%8B%86%E5%BD%88%E5%BE%88%E4%B9%85%E4%BA%86%E6%AC%B8030+%7C+ft.+%40V_HanasakiAyame&lang=zh&timestamp=1722396728&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9546">
+    <img src="https://ytcards.demolab.com/?id=34h8_tY-W8U&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23002%EF%BC%89FBI%E5%B7%B2%E7%B6%93%E7%AD%89%E6%88%91%E5%80%91%E6%8B%86%E5%BD%88%E5%BE%88%E4%B9%85%E4%BA%86%E6%AC%B8030+%7C+ft.+%40V_HanasakiAyame&lang=zh&timestamp=1722396728&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9546" alt="【KT&NE】（#002）FBI已經等我們拆彈很久了欸030 | ft. @V_HanasakiAyame" title="【KT&NE】（#002）FBI已經等我們拆彈很久了欸030 | ft. @V_HanasakiAyame">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=oU0DOwS7s0w">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oU0DOwS7s0w&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23009%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1722321893&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13700">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-zzRJTrXv_I&title=We%27ll+be+Right+Back&lang=zh&timestamp=1722058148&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16">
     <img src="https://ytcards.demolab.com/?id=-zzRJTrXv_I&title=We%27ll+be+Right+Back&lang=zh&timestamp=1722058148&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16" alt="We'll be Right Back" title="We'll be Right Back">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=3a_X-PWqq0g">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3a_X-PWqq0g&title=%E8%BF%99%E4%B8%AASpeedrun%E5%B7%B2%E7%BB%8F%E5%9D%8F%E6%8E%89%E4%BA%86%EF%BC%8C50%E6%94%B6&lang=zh&timestamp=1722012823&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43">
-    <img src="https://ytcards.demolab.com/?id=3a_X-PWqq0g&title=%E8%BF%99%E4%B8%AASpeedrun%E5%B7%B2%E7%BB%8F%E5%9D%8F%E6%8E%89%E4%BA%86%EF%BC%8C50%E6%94%B6&lang=zh&timestamp=1722012823&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=43" alt="这个Speedrun已经坏掉了，50收" title="这个Speedrun已经坏掉了，50收">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
