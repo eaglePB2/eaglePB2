@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=amdAqXCZ-EM">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=amdAqXCZ-EM&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%85%A5%E7%82%B8%E8%84%86%E7%9A%AE%E8%B2%93%EF%BC%8C9%E6%A2%9D%E5%91%BD%E9%83%BD%E4%B8%8D%E5%A4%A0%E6%8B%86+%7C+ft.++%40V_HanasakiAyame&lang=zh&timestamp=1722487169&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12179">
+    <img src="https://ytcards.demolab.com/?id=amdAqXCZ-EM&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%85%A5%E7%82%B8%E8%84%86%E7%9A%AE%E8%B2%93%EF%BC%8C9%E6%A2%9D%E5%91%BD%E9%83%BD%E4%B8%8D%E5%A4%A0%E6%8B%86+%7C+ft.++%40V_HanasakiAyame&lang=zh&timestamp=1722487169&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12179" alt="【KT&NE】（#003）酥炸脆皮貓，9條命都不夠拆 | ft.  @V_HanasakiAyame" title="【KT&NE】（#003）酥炸脆皮貓，9條命都不夠拆 | ft.  @V_HanasakiAyame">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=34h8_tY-W8U">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=34h8_tY-W8U&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23002%EF%BC%89FBI%E5%B7%B2%E7%B6%93%E7%AD%89%E6%88%91%E5%80%91%E6%8B%86%E5%BD%88%E5%BE%88%E4%B9%85%E4%BA%86%E6%AC%B8030+%7C+ft.+%40V_HanasakiAyame&lang=zh&timestamp=1722396728&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9546">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L6xjZyjCAcw&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23014%EF%BC%89%E7%95%AB%E7%9A%AE%E5%85%AC%E5%8F%B8+%E8%B7%91%E8%B5%B7%E4%BE%86+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1722065777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11891">
     <img src="https://ytcards.demolab.com/?id=L6xjZyjCAcw&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23014%EF%BC%89%E7%95%AB%E7%9A%AE%E5%85%AC%E5%8F%B8+%E8%B7%91%E8%B5%B7%E4%BE%86+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1722065777&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11891" alt="【Barotrauma // 潛淵症】（#014）畫皮公司 跑起來 | Ft. 第二團" title="【Barotrauma // 潛淵症】（#014）畫皮公司 跑起來 | Ft. 第二團">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=-zzRJTrXv_I">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-zzRJTrXv_I&title=We%27ll+be+Right+Back&lang=zh&timestamp=1722058148&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16">
-    <img src="https://ytcards.demolab.com/?id=-zzRJTrXv_I&title=We%27ll+be+Right+Back&lang=zh&timestamp=1722058148&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16" alt="We'll be Right Back" title="We'll be Right Back">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
