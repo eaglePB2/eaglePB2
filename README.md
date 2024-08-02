@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
-- [@eaglepb2 7月最後一場日麻賽 OHO](https://www.twitch.tv/videos/2212072955)
-- [@eaglepb2 FBI等很久了好吧 ft. @v_hanasakiayame](https://www.twitch.tv/videos/2211209393)
-- [精选内容： 战地风云 V part 2](https://www.twitch.tv/videos/2211079892)
-- [@eaglepb2 FBI等很久了好吧 ft. @v_hanasakiayame](https://www.twitch.tv/videos/2210413276)
-- [@eaglepb2 战地风云 V 剧情版](https://www.twitch.tv/videos/2210351293)
+- [精选内容：潛淵第三團 Part 05](https://www.twitch.tv/videos/2213034144)
+- [@eaglepb2 晚安，雜魚號~](https://www.twitch.tv/videos/2212929969)
+- [精选内容：潛淵第三團 Part 04](https://www.twitch.tv/videos/2212926541)
+- [精选内容：林间盃日麻积分赛 —— 7月第四场](https://www.twitch.tv/videos/2212926069)
+- [@eaglepb2 雜魚下午補航中](https://www.twitch.tv/videos/2212809030)
 <!-- TWITCH:END -->
 
 
