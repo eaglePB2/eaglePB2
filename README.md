@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=N7KQ9rBdayY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N7KQ9rBdayY&title=%E3%80%90100%25+Orange+Juice+%2F%2F+100%25%E9%AE%AE%E6%A9%99%E6%B1%81%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%A4%A7%E5%AF%8C%E7%BF%81%E6%A9%99%E6%B1%81%EF%BC%81TRPG%E5%9C%98%E8%83%BD%E7%8E%A9%E5%87%BA%E4%BB%80%E9%BA%BD%E7%81%AB%E8%8A%B1%E5%91%A2%EF%BC%9F+%7C+Ft.++%40mingixuyuki+++%EF%BC%8C%40meteor_DOG++++%EF%BC%8C%E8%B5%A4%E9%8A%80&lang=zh&timestamp=1722757669&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14061">
+    <img src="https://ytcards.demolab.com/?id=N7KQ9rBdayY&title=%E3%80%90100%25+Orange+Juice+%2F%2F+100%25%E9%AE%AE%E6%A9%99%E6%B1%81%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%A4%A7%E5%AF%8C%E7%BF%81%E6%A9%99%E6%B1%81%EF%BC%81TRPG%E5%9C%98%E8%83%BD%E7%8E%A9%E5%87%BA%E4%BB%80%E9%BA%BD%E7%81%AB%E8%8A%B1%E5%91%A2%EF%BC%9F+%7C+Ft.++%40mingixuyuki+++%EF%BC%8C%40meteor_DOG++++%EF%BC%8C%E8%B5%A4%E9%8A%80&lang=zh&timestamp=1722757669&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14061" alt="【100% Orange Juice // 100%鮮橙汁】（#000）大富翁橙汁！TRPG團能玩出什麽火花呢？ | Ft.  @mingixuyuki   ，@meteor_DOG    ，赤銀" title="【100% Orange Juice // 100%鮮橙汁】（#000）大富翁橙汁！TRPG團能玩出什麽火花呢？ | Ft.  @mingixuyuki   ，@meteor_DOG    ，赤銀">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=6YQUKTrDKSk">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6YQUKTrDKSk&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23011%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1722653466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12557">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oU0DOwS7s0w&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23009%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1722321893&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13700">
     <img src="https://ytcards.demolab.com/?id=oU0DOwS7s0w&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23009%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1722321893&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13700" alt="【MC Java // 麥塊Java版】（#009）林間 SMP 櫻花賽季" title="【MC Java // 麥塊Java版】（#009）林間 SMP 櫻花賽季">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=h3HjIyRLVPA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h3HjIyRLVPA&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23015%EF%BC%89%E4%BB%8A%E5%A4%A9%E5%8E%BB%E7%AC%AC%E5%9B%9B%E6%B5%B7%E5%9F%9F%E4%BA%86%E5%97%8E%EF%BC%9F+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1722229201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11136">
-    <img src="https://ytcards.demolab.com/?id=h3HjIyRLVPA&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23015%EF%BC%89%E4%BB%8A%E5%A4%A9%E5%8E%BB%E7%AC%AC%E5%9B%9B%E6%B5%B7%E5%9F%9F%E4%BA%86%E5%97%8E%EF%BC%9F+%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1722229201&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11136" alt="【Barotrauma // 潛淵症】（#015）今天去第四海域了嗎？ | Ft. 第二團" title="【Barotrauma // 潛淵症】（#015）今天去第四海域了嗎？ | Ft. 第二團">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
