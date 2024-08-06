@@ -33,6 +33,18 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=i3mi2m1e4jA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=i3mi2m1e4jA&title=%5C+%E5%8C%96%E5%AD%A6%E4%B8%8D%E5%8F%8A%E6%A0%BC+%2F&lang=zh&timestamp=1722923794&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21">
+    <img src="https://ytcards.demolab.com/?id=i3mi2m1e4jA&title=%5C+%E5%8C%96%E5%AD%A6%E4%B8%8D%E5%8F%8A%E6%A0%BC+%2F&lang=zh&timestamp=1722923794&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21" alt="\ 化学不及格 /" title="\ 化学不及格 /">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=LN765xh96eU">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LN765xh96eU&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23016%EF%BC%89%E4%BB%8A%E5%A4%A9%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%B5%E8%BE%BE%E6%AC%A7%E7%BD%97%E5%B7%B4%E4%B9%8B%E7%9C%BC%EF%BC%81%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1722923221&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10189">
+    <img src="https://ytcards.demolab.com/?id=LN765xh96eU&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23016%EF%BC%89%E4%BB%8A%E5%A4%A9%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%B5%E8%BE%BE%E6%AC%A7%E7%BD%97%E5%B7%B4%E4%B9%8B%E7%9C%BC%EF%BC%81%7C+Ft.+%E7%AC%AC%E4%BA%8C%E5%9C%98&lang=zh&timestamp=1722923221&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10189" alt="【Barotrauma // 潛淵症】（#016）今天一定要抵达欧罗巴之眼！| Ft. 第二團" title="【Barotrauma // 潛淵症】（#016）今天一定要抵达欧罗巴之眼！| Ft. 第二團">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=F-rVEDKmjnc">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F-rVEDKmjnc&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23012%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1722838322&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15236">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6YQUKTrDKSk&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23011%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1722653466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12557">
     <img src="https://ytcards.demolab.com/?id=6YQUKTrDKSk&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23011%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1722653466&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12557" alt="【MC Java // 麥塊Java版】（#011）林間 SMP 櫻花賽季" title="【MC Java // 麥塊Java版】（#011）林間 SMP 櫻花賽季">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=VI5mITxCEjo">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VI5mITxCEjo&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23010%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1722575581&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15232">
-    <img src="https://ytcards.demolab.com/?id=VI5mITxCEjo&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23010%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1722575581&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15232" alt="【MC Java // 麥塊Java版】（#010）林間 SMP 櫻花賽季" title="【MC Java // 麥塊Java版】（#010）林間 SMP 櫻花賽季">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=amdAqXCZ-EM">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=amdAqXCZ-EM&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%85%A5%E7%82%B8%E8%84%86%E7%9A%AE%E8%B2%93%EF%BC%8C9%E6%A2%9D%E5%91%BD%E9%83%BD%E4%B8%8D%E5%A4%A0%E6%8B%86+%7C+ft.++%40V_HanasakiAyame&lang=zh&timestamp=1722487169&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12179">
-    <img src="https://ytcards.demolab.com/?id=amdAqXCZ-EM&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%85%A5%E7%82%B8%E8%84%86%E7%9A%AE%E8%B2%93%EF%BC%8C9%E6%A2%9D%E5%91%BD%E9%83%BD%E4%B8%8D%E5%A4%A0%E6%8B%86+%7C+ft.++%40V_HanasakiAyame&lang=zh&timestamp=1722487169&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12179" alt="【KT&NE】（#003）酥炸脆皮貓，9條命都不夠拆 | ft.  @V_HanasakiAyame" title="【KT&NE】（#003）酥炸脆皮貓，9條命都不夠拆 | ft.  @V_HanasakiAyame">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
