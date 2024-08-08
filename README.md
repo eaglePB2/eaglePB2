@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [@eaglepb2 又來到打日麻的季節了嗎？](https://www.twitch.tv/videos/2218085467)
 - [精选内容：潛淵第三團 Part 08](https://www.twitch.tv/videos/2217324555)
 - [@eaglepb2 海洋好冷……ＱＡＱ](https://www.twitch.tv/videos/2217213522)
 - [精选内容：潛淵第三團 Part 07](https://www.twitch.tv/videos/2216502122)
 - [@eaglepb2 總所周知，潛淵症是一款賭博游戲（？](https://www.twitch.tv/videos/2216366518)
-- [精选内容：Escape Academy 單人版](https://www.twitch.tv/videos/2215666031)
 <!-- TWITCH:END -->
 
 
