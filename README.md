@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=Q-oDhIecu4o">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Q-oDhIecu4o&title=%E3%80%90Lethal+Company+%2F%2F+%E8%87%B4%E5%91%BD%E5%85%AC%E5%8F%B8%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%8A%AA%E5%8A%9B%E3%84%89%E4%B8%80%E5%88%87%E9%83%BD%E7%99%BD%E8%B2%BB%E3%84%8C%E6%92%BF%E5%9E%83%E5%9C%BE%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1723518762&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10655">
+    <img src="https://ytcards.demolab.com/?id=Q-oDhIecu4o&title=%E3%80%90Lethal+Company+%2F%2F+%E8%87%B4%E5%91%BD%E5%85%AC%E5%8F%B8%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%8A%AA%E5%8A%9B%E3%84%89%E4%B8%80%E5%88%87%E9%83%BD%E7%99%BD%E8%B2%BB%E3%84%8C%E6%92%BF%E5%9E%83%E5%9C%BE%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1723518762&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10655" alt="【Lethal Company // 致命公司】（#002）努力ㄉ一切都白費ㄌ撿垃圾游戲" title="【Lethal Company // 致命公司】（#002）努力ㄉ一切都白費ㄌ撿垃圾游戲">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=FKt8gNhwTSA">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FKt8gNhwTSA&title=%E3%80%90Portal+Revolution%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%BC%A0%E9%80%81%E9%97%A8%E7%B3%BB%E5%88%97+%E7%BB%AD%E4%BD%9C&lang=zh&timestamp=1723452028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20647">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=duDEnssg1fM&title=%E3%80%90Monument+Valley+%2F%2F+%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%B0%B7%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%B4%80%E5%BF%B5%E7%A2%91%E8%B0%B7%EF%BC%8C%E7%94%A8%E4%BE%86%E7%B4%80%E5%BF%B5%E9%80%9D%E5%8E%BB%E7%9A%84%E4%B8%80%E5%88%87%E3%80%82&lang=zh&timestamp=1723211548&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6585">
     <img src="https://ytcards.demolab.com/?id=duDEnssg1fM&title=%E3%80%90Monument+Valley+%2F%2F+%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%B0%B7%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%B4%80%E5%BF%B5%E7%A2%91%E8%B0%B7%EF%BC%8C%E7%94%A8%E4%BE%86%E7%B4%80%E5%BF%B5%E9%80%9D%E5%8E%BB%E7%9A%84%E4%B8%80%E5%88%87%E3%80%82&lang=zh&timestamp=1723211548&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6585" alt="【Monument Valley // 纪念碑谷】（#001）紀念碑谷，用來紀念逝去的一切。" title="【Monument Valley // 纪念碑谷】（#001）紀念碑谷，用來紀念逝去的一切。">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=mElaxVRFsbg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mElaxVRFsbg&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23014%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1723084044&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7238">
-    <img src="https://ytcards.demolab.com/?id=mElaxVRFsbg&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A5%E5%A1%8AJava%E7%89%88%E3%80%91%EF%BC%88%23014%EF%BC%89%E6%9E%97%E9%96%93+SMP+%E6%AB%BB%E8%8A%B1%E8%B3%BD%E5%AD%A3&lang=zh&timestamp=1723084044&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7238" alt="【MC Java // 麥塊Java版】（#014）林間 SMP 櫻花賽季" title="【MC Java // 麥塊Java版】（#014）林間 SMP 櫻花賽季">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
