@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=N9KstTE3dwI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N9KstTE3dwI&title=%E3%80%908%E7%95%AA%E5%87%BA%E5%8F%A3%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%AD%A3%E5%B8%B8%E5%B0%B1%E8%B5%B0%EF%BC%8C%E4%B8%8D%E6%AD%A3%E5%B8%B8%E5%B0%B1%E5%9B%9E%E9%A0%AD%E7%9A%84%E6%89%BE%E4%B8%8D%E5%90%8C%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1723596217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2387">
+    <img src="https://ytcards.demolab.com/?id=N9KstTE3dwI&title=%E3%80%908%E7%95%AA%E5%87%BA%E5%8F%A3%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%AD%A3%E5%B8%B8%E5%B0%B1%E8%B5%B0%EF%BC%8C%E4%B8%8D%E6%AD%A3%E5%B8%B8%E5%B0%B1%E5%9B%9E%E9%A0%AD%E7%9A%84%E6%89%BE%E4%B8%8D%E5%90%8C%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1723596217&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2387" alt="【8番出口】（#000）正常就走，不正常就回頭的找不同游戲" title="【8番出口】（#000）正常就走，不正常就回頭的找不同游戲">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=Q-oDhIecu4o">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Q-oDhIecu4o&title=%E3%80%90Lethal+Company+%2F%2F+%E8%87%B4%E5%91%BD%E5%85%AC%E5%8F%B8%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%8A%AA%E5%8A%9B%E3%84%89%E4%B8%80%E5%88%87%E9%83%BD%E7%99%BD%E8%B2%BB%E3%84%8C%E6%92%BF%E5%9E%83%E5%9C%BE%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1723518762&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10655">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aFAEnHuJNks&title=%E3%80%90Monument+Valley+II+%2F%2F+%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%B0%B7+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%B4%80%E5%BF%B5%E7%A2%91%E8%B0%B7%EF%BC%8C%E6%AF%8D%E5%A5%B3%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B0%B8%E9%9A%94%E8%AF%80%E5%88%AB%E3%80%82&lang=zh&timestamp=1723217765&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4648">
     <img src="https://ytcards.demolab.com/?id=aFAEnHuJNks&title=%E3%80%90Monument+Valley+II+%2F%2F+%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%B0%B7+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%B4%80%E5%BF%B5%E7%A2%91%E8%B0%B7%EF%BC%8C%E6%AF%8D%E5%A5%B3%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B0%B8%E9%9A%94%E8%AF%80%E5%88%AB%E3%80%82&lang=zh&timestamp=1723217765&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4648" alt="【Monument Valley II // 纪念碑谷 2】（#002）紀念碑谷，母女之间的永隔诀别。" title="【Monument Valley II // 纪念碑谷 2】（#002）紀念碑谷，母女之间的永隔诀别。">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=duDEnssg1fM">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=duDEnssg1fM&title=%E3%80%90Monument+Valley+%2F%2F+%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%B0%B7%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%B4%80%E5%BF%B5%E7%A2%91%E8%B0%B7%EF%BC%8C%E7%94%A8%E4%BE%86%E7%B4%80%E5%BF%B5%E9%80%9D%E5%8E%BB%E7%9A%84%E4%B8%80%E5%88%87%E3%80%82&lang=zh&timestamp=1723211548&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6585">
-    <img src="https://ytcards.demolab.com/?id=duDEnssg1fM&title=%E3%80%90Monument+Valley+%2F%2F+%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%B0%B7%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%B4%80%E5%BF%B5%E7%A2%91%E8%B0%B7%EF%BC%8C%E7%94%A8%E4%BE%86%E7%B4%80%E5%BF%B5%E9%80%9D%E5%8E%BB%E7%9A%84%E4%B8%80%E5%88%87%E3%80%82&lang=zh&timestamp=1723211548&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6585" alt="【Monument Valley // 纪念碑谷】（#001）紀念碑谷，用來紀念逝去的一切。" title="【Monument Valley // 纪念碑谷】（#001）紀念碑谷，用來紀念逝去的一切。">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
