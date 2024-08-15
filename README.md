@@ -33,10 +33,16 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=8-A8kApgj2Y">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8-A8kApgj2Y&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23001%EF%BC%89%E4%B9%85%E8%BF%9D%E4%B8%80%E5%91%A8%E5%B9%B4%EF%BC%8C%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E5%9B%9E%E5%BD%92%EF%BC%81&lang=zh&timestamp=1723698557&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20374">
+    <img src="https://ytcards.demolab.com/?id=8-A8kApgj2Y&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23001%EF%BC%89%E4%B9%85%E8%BF%9D%E4%B8%80%E5%91%A8%E5%B9%B4%EF%BC%8C%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E5%9B%9E%E5%BD%92%EF%BC%81&lang=zh&timestamp=1723698557&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20374" alt="【SotF // 森林之子正式版】（#001）久违一周年，正式版森林之子回归！" title="【SotF // 森林之子正式版】（#001）久违一周年，正式版森林之子回归！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=N9KstTE3dwI">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N9KstTE3dwI&title=%E3%80%908%E7%95%AA%E5%87%BA%E5%8F%A3%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%AD%A3%E5%B8%B8%E5%B0%B1%E8%B5%B0%EF%BC%8C%E4%B8%8D%E6%AD%A3%E5%B8%B8%E5%B0%B1%E5%9B%9E%E9%A0%AD%E7%9A%84%E6%89%BE%E4%B8%8D%E5%90%8C%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1723596217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2387">
-    <img src="https://ytcards.demolab.com/?id=N9KstTE3dwI&title=%E3%80%908%E7%95%AA%E5%87%BA%E5%8F%A3%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%AD%A3%E5%B8%B8%E5%B0%B1%E8%B5%B0%EF%BC%8C%E4%B8%8D%E6%AD%A3%E5%B8%B8%E5%B0%B1%E5%9B%9E%E9%A0%AD%E7%9A%84%E6%89%BE%E4%B8%8D%E5%90%8C%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1723596217&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2387" alt="【8番出口】（#000）正常就走，不正常就回頭的找不同游戲" title="【8番出口】（#000）正常就走，不正常就回頭的找不同游戲">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N9KstTE3dwI&title=%E3%80%908%E7%95%AA%E5%87%BA%E5%8F%A3%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%AD%A3%E5%B8%B8%E5%B0%B1%E8%B5%B0%EF%BC%8C%E4%B8%8D%E6%AD%A3%E5%B8%B8%E5%B0%B1%E5%9B%9E%E9%A0%AD%E7%9A%84%E6%89%BE%E4%B8%8D%E5%90%8C%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1723642100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2388">
+    <img src="https://ytcards.demolab.com/?id=N9KstTE3dwI&title=%E3%80%908%E7%95%AA%E5%87%BA%E5%8F%A3%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%AD%A3%E5%B8%B8%E5%B0%B1%E8%B5%B0%EF%BC%8C%E4%B8%8D%E6%AD%A3%E5%B8%B8%E5%B0%B1%E5%9B%9E%E9%A0%AD%E7%9A%84%E6%89%BE%E4%B8%8D%E5%90%8C%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1723642100&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2388" alt="【8番出口】（#000）正常就走，不正常就回頭的找不同游戲" title="【8番出口】（#000）正常就走，不正常就回頭的找不同游戲">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=Q-oDhIecu4o">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xypX_mDUk4o&title=%E3%80%90Human+Resource+Machine%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%97%A8%E4%BD%A0%E5%A5%BD+%E6%88%91%E4%BA%BA%E7%94%9F%E5%B0%B1%E9%95%B7%E9%80%99%E6%A8%A3%E8%8C%B2%E6%8B%89+%3AD&lang=zh&timestamp=1723265927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19402">
     <img src="https://ytcards.demolab.com/?id=xypX_mDUk4o&title=%E3%80%90Human+Resource+Machine%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%97%A8%E4%BD%A0%E5%A5%BD+%E6%88%91%E4%BA%BA%E7%94%9F%E5%B0%B1%E9%95%B7%E9%80%99%E6%A8%A3%E8%8C%B2%E6%8B%89+%3AD&lang=zh&timestamp=1723265927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19402" alt="【Human Resource Machine】（#000）嗨你好 我人生就長這樣茲拉 :D" title="【Human Resource Machine】（#000）嗨你好 我人生就長這樣茲拉 :D">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=aFAEnHuJNks">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aFAEnHuJNks&title=%E3%80%90Monument+Valley+II+%2F%2F+%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%B0%B7+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%B4%80%E5%BF%B5%E7%A2%91%E8%B0%B7%EF%BC%8C%E6%AF%8D%E5%A5%B3%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B0%B8%E9%9A%94%E8%AF%80%E5%88%AB%E3%80%82&lang=zh&timestamp=1723217765&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4648">
-    <img src="https://ytcards.demolab.com/?id=aFAEnHuJNks&title=%E3%80%90Monument+Valley+II+%2F%2F+%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%B0%B7+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%B4%80%E5%BF%B5%E7%A2%91%E8%B0%B7%EF%BC%8C%E6%AF%8D%E5%A5%B3%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B0%B8%E9%9A%94%E8%AF%80%E5%88%AB%E3%80%82&lang=zh&timestamp=1723217765&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4648" alt="【Monument Valley II // 纪念碑谷 2】（#002）紀念碑谷，母女之间的永隔诀别。" title="【Monument Valley II // 纪念碑谷 2】（#002）紀念碑谷，母女之间的永隔诀别。">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
