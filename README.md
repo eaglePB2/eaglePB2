@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：潛淵第三團 Part 12](https://www.twitch.tv/videos/2225873666)
+- [【宿舍鹰生 V3.0】 @eaglepb2 宿舍還是要開潛水艇！](https://www.twitch.tv/videos/2225691648)
 - [精选内容：潛淵第三團 Part 11](https://www.twitch.tv/videos/2219918779)
 - [@eaglepb2 打击海盗 人人有责&lpar;??](https://www.twitch.tv/videos/2219779239)
 - [精选内容：潛淵第三團 Part 10](https://www.twitch.tv/videos/2219741428)
-- [精选内容：潛淵第三團 Part 09](https://www.twitch.tv/videos/2219741370)
-- [@eaglepb2 迅猛龙狙击计划 研发中](https://www.twitch.tv/videos/2219659452)
 <!-- TWITCH:END -->
 
 
