@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=vICPcBYy9DQ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vICPcBYy9DQ&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90+%E7%B9%BC%E7%BA%8C%E8%93%8B%E5%AE%B6+OwOb&lang=zh&timestamp=1723865275&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10979">
+    <img src="https://ytcards.demolab.com/?id=vICPcBYy9DQ&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90+%E7%B9%BC%E7%BA%8C%E8%93%8B%E5%AE%B6+OwOb&lang=zh&timestamp=1723865275&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10979" alt="【SotF // 森林之子正式版】（#003）森林之子 繼續蓋家 OwOb" title="【SotF // 森林之子正式版】（#003）森林之子 繼續蓋家 OwOb">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=e0kE-DOrh-A">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e0kE-DOrh-A&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%B8%80%E7%BE%A4%E5%89%8D%E5%BE%80%E9%AB%98%E7%A7%91%E6%8A%80%E5%B3%B6%E5%B6%BC%EF%BC%8C%E5%B0%8B%E6%89%BE%E5%A4%B1%E8%B9%A4%E5%AF%8C%E8%B1%AA%E7%9A%84%E5%AE%89%E4%BF%9D%E9%83%A8%E9%9A%8A%EF%BC%8C%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%A2%9C%E6%AF%80%E5%90%8E%E5%8F%AA%E8%83%BD%E5%88%B0%E9%80%99%E9%AC%BC%E5%9C%B0%E6%96%B9+%E5%88%B0%E5%BA%95%E6%98%AF%E4%BE%86%E6%95%91%E4%BA%BA%E7%9A%84%E9%82%84%E6%98%AF%E4%BE%86%E9%A4%8A%E8%80%81%E8%93%8B%E5%AE%B6%E7%9A%84&lang=zh&timestamp=1723790116&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24676">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FKt8gNhwTSA&title=%E3%80%90Portal+Revolution%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%BC%A0%E9%80%81%E9%97%A8%E7%B3%BB%E5%88%97+%E7%BB%AD%E4%BD%9C&lang=zh&timestamp=1723452028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20647">
     <img src="https://ytcards.demolab.com/?id=FKt8gNhwTSA&title=%E3%80%90Portal+Revolution%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%BC%A0%E9%80%81%E9%97%A8%E7%B3%BB%E5%88%97+%E7%BB%AD%E4%BD%9C&lang=zh&timestamp=1723452028&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20647" alt="【Portal Revolution】（#000）传送门系列 续作" title="【Portal Revolution】（#000）传送门系列 续作">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=4veiHaG0Cro">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4veiHaG0Cro&title=%E3%80%90Lethal+Company+%2F%2F+%E8%87%B4%E5%91%BD%E5%85%AC%E5%8F%B8%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%92%BF%E5%9E%83%E5%9C%BE%E5%85%AC%E5%8F%B8%E4%B8%8A%E7%B6%AB%E5%95%A6%EF%BC%81+%E9%80%99%E4%B8%80%E5%AE%9A%E6%98%AF%E6%9C%80%E5%AE%89%E5%85%A8%E7%9A%84%E5%B7%A5%E4%BD%9C%E4%BA%86%E2%80%A6%E2%80%A6%E5%90%A7%EF%BC%9F&lang=zh&timestamp=1723350913&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10990">
-    <img src="https://ytcards.demolab.com/?id=4veiHaG0Cro&title=%E3%80%90Lethal+Company+%2F%2F+%E8%87%B4%E5%91%BD%E5%85%AC%E5%8F%B8%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%92%BF%E5%9E%83%E5%9C%BE%E5%85%AC%E5%8F%B8%E4%B8%8A%E7%B6%AB%E5%95%A6%EF%BC%81+%E9%80%99%E4%B8%80%E5%AE%9A%E6%98%AF%E6%9C%80%E5%AE%89%E5%85%A8%E7%9A%84%E5%B7%A5%E4%BD%9C%E4%BA%86%E2%80%A6%E2%80%A6%E5%90%A7%EF%BC%9F&lang=zh&timestamp=1723350913&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10990" alt="【Lethal Company // 致命公司】（#001）撿垃圾公司上綫啦！ 這一定是最安全的工作了……吧？" title="【Lethal Company // 致命公司】（#001）撿垃圾公司上綫啦！ 這一定是最安全的工作了……吧？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
