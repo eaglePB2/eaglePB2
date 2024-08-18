@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=AQNIDCOVUJc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AQNIDCOVUJc&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23004%EF%BC%89%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%87%8E%E4%BA%BA%E9%80%81%EF%BC%81&lang=zh&timestamp=1723955110&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10003">
+    <img src="https://ytcards.demolab.com/?id=AQNIDCOVUJc&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23004%EF%BC%89%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%87%8E%E4%BA%BA%E9%80%81%EF%BC%81&lang=zh&timestamp=1723955110&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10003" alt="【SotF // 森林之子正式版】（#004）麥當勞野人送！" title="【SotF // 森林之子正式版】（#004）麥當勞野人送！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=vICPcBYy9DQ">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vICPcBYy9DQ&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90+%E7%B9%BC%E7%BA%8C%E8%93%8B%E5%AE%B6+OwOb&lang=zh&timestamp=1723865275&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10979">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Q-oDhIecu4o&title=%E3%80%90Lethal+Company+%2F%2F+%E8%87%B4%E5%91%BD%E5%85%AC%E5%8F%B8%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%8A%AA%E5%8A%9B%E3%84%89%E4%B8%80%E5%88%87%E9%83%BD%E7%99%BD%E8%B2%BB%E3%84%8C%E6%92%BF%E5%9E%83%E5%9C%BE%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1723518762&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10655">
     <img src="https://ytcards.demolab.com/?id=Q-oDhIecu4o&title=%E3%80%90Lethal+Company+%2F%2F+%E8%87%B4%E5%91%BD%E5%85%AC%E5%8F%B8%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%8A%AA%E5%8A%9B%E3%84%89%E4%B8%80%E5%88%87%E9%83%BD%E7%99%BD%E8%B2%BB%E3%84%8C%E6%92%BF%E5%9E%83%E5%9C%BE%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1723518762&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10655" alt="【Lethal Company // 致命公司】（#002）努力ㄉ一切都白費ㄌ撿垃圾游戲" title="【Lethal Company // 致命公司】（#002）努力ㄉ一切都白費ㄌ撿垃圾游戲">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=FKt8gNhwTSA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FKt8gNhwTSA&title=%E3%80%90Portal+Revolution%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%BC%A0%E9%80%81%E9%97%A8%E7%B3%BB%E5%88%97+%E7%BB%AD%E4%BD%9C&lang=zh&timestamp=1723452028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20647">
-    <img src="https://ytcards.demolab.com/?id=FKt8gNhwTSA&title=%E3%80%90Portal+Revolution%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%BC%A0%E9%80%81%E9%97%A8%E7%B3%BB%E5%88%97+%E7%BB%AD%E4%BD%9C&lang=zh&timestamp=1723452028&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20647" alt="【Portal Revolution】（#000）传送门系列 续作" title="【Portal Revolution】（#000）传送门系列 续作">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
