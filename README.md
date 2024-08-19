@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=7qRmd1gvjlY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7qRmd1gvjlY&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%AD%A3%E5%BC%8F%E7%89%88%E5%B7%B2%E7%BB%8F%E5%8F%98%E6%88%90%E5%85%BB%E8%80%81%E6%B8%B8%E6%88%8F%E4%BA%86%E5%91%A2owob&lang=zh&timestamp=1724035836&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10991">
+    <img src="https://ytcards.demolab.com/?id=7qRmd1gvjlY&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%AD%A3%E5%BC%8F%E7%89%88%E5%B7%B2%E7%BB%8F%E5%8F%98%E6%88%90%E5%85%BB%E8%80%81%E6%B8%B8%E6%88%8F%E4%BA%86%E5%91%A2owob&lang=zh&timestamp=1724035836&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10991" alt="【SotF // 森林之子正式版】（#005）正式版已经变成养老游戏了呢owob" title="【SotF // 森林之子正式版】（#005）正式版已经变成养老游戏了呢owob">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=AQNIDCOVUJc">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AQNIDCOVUJc&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23004%EF%BC%89%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%87%8E%E4%BA%BA%E9%80%81%EF%BC%81&lang=zh&timestamp=1723955110&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10003">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N9KstTE3dwI&title=%E3%80%908%E7%95%AA%E5%87%BA%E5%8F%A3%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%AD%A3%E5%B8%B8%E5%B0%B1%E8%B5%B0%EF%BC%8C%E4%B8%8D%E6%AD%A3%E5%B8%B8%E5%B0%B1%E5%9B%9E%E9%A0%AD%E7%9A%84%E6%89%BE%E4%B8%8D%E5%90%8C%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1723642100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2388">
     <img src="https://ytcards.demolab.com/?id=N9KstTE3dwI&title=%E3%80%908%E7%95%AA%E5%87%BA%E5%8F%A3%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%AD%A3%E5%B8%B8%E5%B0%B1%E8%B5%B0%EF%BC%8C%E4%B8%8D%E6%AD%A3%E5%B8%B8%E5%B0%B1%E5%9B%9E%E9%A0%AD%E7%9A%84%E6%89%BE%E4%B8%8D%E5%90%8C%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1723642100&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2388" alt="【8番出口】（#000）正常就走，不正常就回頭的找不同游戲" title="【8番出口】（#000）正常就走，不正常就回頭的找不同游戲">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=Q-oDhIecu4o">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Q-oDhIecu4o&title=%E3%80%90Lethal+Company+%2F%2F+%E8%87%B4%E5%91%BD%E5%85%AC%E5%8F%B8%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%8A%AA%E5%8A%9B%E3%84%89%E4%B8%80%E5%88%87%E9%83%BD%E7%99%BD%E8%B2%BB%E3%84%8C%E6%92%BF%E5%9E%83%E5%9C%BE%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1723518762&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10655">
-    <img src="https://ytcards.demolab.com/?id=Q-oDhIecu4o&title=%E3%80%90Lethal+Company+%2F%2F+%E8%87%B4%E5%91%BD%E5%85%AC%E5%8F%B8%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%8A%AA%E5%8A%9B%E3%84%89%E4%B8%80%E5%88%87%E9%83%BD%E7%99%BD%E8%B2%BB%E3%84%8C%E6%92%BF%E5%9E%83%E5%9C%BE%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1723518762&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10655" alt="【Lethal Company // 致命公司】（#002）努力ㄉ一切都白費ㄌ撿垃圾游戲" title="【Lethal Company // 致命公司】（#002）努力ㄉ一切都白費ㄌ撿垃圾游戲">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
