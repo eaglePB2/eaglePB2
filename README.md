@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：潛淵第三團 Part 14](https://www.twitch.tv/videos/2227936134)
+- [☾ 宿舍 ⋆ 鹰生 ☽ V3.0 @eaglepb2 今天來當稱職好船長！](https://www.twitch.tv/videos/2227463271)
 - [精选内容：Supermarket Together](https://www.twitch.tv/videos/2226849848)
 - [精选内容：潛淵第三團 Part 13](https://www.twitch.tv/videos/2226849632)
 - [【宿舍鹰生 V3.0】 @eaglepb2 薪水小偷](https://www.twitch.tv/videos/2226603148)
-- [【宿舍鹰生 V3.0】 @eaglepb2 宿舍還是要開潛水艇！ part 2](https://www.twitch.tv/videos/2226452556)
-- [精选内容：潛淵第三團 Part 12](https://www.twitch.tv/videos/2225873666)
 <!-- TWITCH:END -->
 
 
