@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=4u1Ugl-o12c">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4u1Ugl-o12c&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23006%EF%BC%89%E6%AD%A3%E5%BC%8F%E7%89%88%3D%E5%B0%8F%E4%B8%91%E7%89%88%EF%BC%8C%E8%BF%99%E4%B8%AA%E6%A2%97%E5%B0%B1%E6%98%AF%E4%BB%8E%E8%BF%99%E7%9B%B4%E6%92%AD%E5%BC%80%E5%A7%8B%E7%9A%84%E2%80%A6%E2%80%A6&lang=zh&timestamp=1724133117&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18729">
+    <img src="https://ytcards.demolab.com/?id=4u1Ugl-o12c&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23006%EF%BC%89%E6%AD%A3%E5%BC%8F%E7%89%88%3D%E5%B0%8F%E4%B8%91%E7%89%88%EF%BC%8C%E8%BF%99%E4%B8%AA%E6%A2%97%E5%B0%B1%E6%98%AF%E4%BB%8E%E8%BF%99%E7%9B%B4%E6%92%AD%E5%BC%80%E5%A7%8B%E7%9A%84%E2%80%A6%E2%80%A6&lang=zh&timestamp=1724133117&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18729" alt="【SotF // 森林之子正式版】（#006）正式版=小丑版，这个梗就是从这直播开始的……" title="【SotF // 森林之子正式版】（#006）正式版=小丑版，这个梗就是从这直播开始的……">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=7qRmd1gvjlY">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7qRmd1gvjlY&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%AD%A3%E5%BC%8F%E7%89%88%E5%B7%B2%E7%BB%8F%E5%8F%98%E6%88%90%E5%85%BB%E8%80%81%E6%B8%B8%E6%88%8F%E4%BA%86%E5%91%A2owob&lang=zh&timestamp=1724035836&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10991">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8-A8kApgj2Y&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23001%EF%BC%89%E4%B9%85%E8%BF%9D%E4%B8%80%E5%91%A8%E5%B9%B4%EF%BC%8C%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E5%9B%9E%E5%BD%92%EF%BC%81&lang=zh&timestamp=1723698557&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20374">
     <img src="https://ytcards.demolab.com/?id=8-A8kApgj2Y&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23001%EF%BC%89%E4%B9%85%E8%BF%9D%E4%B8%80%E5%91%A8%E5%B9%B4%EF%BC%8C%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E5%9B%9E%E5%BD%92%EF%BC%81&lang=zh&timestamp=1723698557&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20374" alt="【SotF // 森林之子正式版】（#001）久违一周年，正式版森林之子回归！" title="【SotF // 森林之子正式版】（#001）久违一周年，正式版森林之子回归！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=N9KstTE3dwI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N9KstTE3dwI&title=%E3%80%908%E7%95%AA%E5%87%BA%E5%8F%A3%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%AD%A3%E5%B8%B8%E5%B0%B1%E8%B5%B0%EF%BC%8C%E4%B8%8D%E6%AD%A3%E5%B8%B8%E5%B0%B1%E5%9B%9E%E9%A0%AD%E7%9A%84%E6%89%BE%E4%B8%8D%E5%90%8C%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1723642100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2388">
-    <img src="https://ytcards.demolab.com/?id=N9KstTE3dwI&title=%E3%80%908%E7%95%AA%E5%87%BA%E5%8F%A3%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%AD%A3%E5%B8%B8%E5%B0%B1%E8%B5%B0%EF%BC%8C%E4%B8%8D%E6%AD%A3%E5%B8%B8%E5%B0%B1%E5%9B%9E%E9%A0%AD%E7%9A%84%E6%89%BE%E4%B8%8D%E5%90%8C%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1723642100&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2388" alt="【8番出口】（#000）正常就走，不正常就回頭的找不同游戲" title="【8番出口】（#000）正常就走，不正常就回頭的找不同游戲">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
