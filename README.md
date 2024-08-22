@@ -33,10 +33,16 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=r0PtjulSVD4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r0PtjulSVD4&title=%E3%80%90KotC%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%AC%AC%E4%B8%80%E5%9C%98+%C2%B7+%E5%9C%8B%E7%8E%8B%E5%88%9D%E9%AB%94%E9%A9%97%EF%BC%81%E7%A9%B6%E7%AB%9F%E6%98%AF%E8%A2%AB%E4%B8%9F%E5%87%BA%E7%8E%8B%E5%BA%A7%EF%BC%8C%E9%82%84%E6%98%AF%E8%83%BD%E6%B4%BB%E5%88%B0%E6%9C%80%E5%BE%8C%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1724302415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7285">
+    <img src="https://ytcards.demolab.com/?id=r0PtjulSVD4&title=%E3%80%90KotC%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%AC%AC%E4%B8%80%E5%9C%98+%C2%B7+%E5%9C%8B%E7%8E%8B%E5%88%9D%E9%AB%94%E9%A9%97%EF%BC%81%E7%A9%B6%E7%AB%9F%E6%98%AF%E8%A2%AB%E4%B8%9F%E5%87%BA%E7%8E%8B%E5%BA%A7%EF%BC%8C%E9%82%84%E6%98%AF%E8%83%BD%E6%B4%BB%E5%88%B0%E6%9C%80%E5%BE%8C%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1724302415&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7285" alt="【KotC】（#001）第一團 · 國王初體驗！究竟是被丟出王座，還是能活到最後呢？" title="【KotC】（#001）第一團 · 國王初體驗！究竟是被丟出王座，還是能活到最後呢？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=bX0nqxQZdjk">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bX0nqxQZdjk&title=%E3%80%90MC+Java+Edition+%2F%2F+%E9%BA%A6%E5%9D%97Java%E7%89%88%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%BC%BD%E8%97%8D%E3%81%AE%E8%8A%B1%E8%A7%A3%E8%B0%9C%E5%9C%B0%E5%9B%BE&lang=zh&timestamp=1724204267&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7076">
-    <img src="https://ytcards.demolab.com/?id=bX0nqxQZdjk&title=%E3%80%90MC+Java+Edition+%2F%2F+%E9%BA%A6%E5%9D%97Java%E7%89%88%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%BC%BD%E8%97%8D%E3%81%AE%E8%8A%B1%E8%A7%A3%E8%B0%9C%E5%9C%B0%E5%9B%BE&lang=zh&timestamp=1724204267&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7076" alt="【MC Java Edition // 麦块Java版】（#000）伽藍の花解谜地图" title="【MC Java Edition // 麦块Java版】（#000）伽藍の花解谜地图">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bX0nqxQZdjk&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A6%E5%9D%97Java%E7%89%88%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%BC%BD%E8%97%8D%E3%81%AE%E8%8A%B1&lang=zh&timestamp=1724255955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7079">
+    <img src="https://ytcards.demolab.com/?id=bX0nqxQZdjk&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A6%E5%9D%97Java%E7%89%88%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%BC%BD%E8%97%8D%E3%81%AE%E8%8A%B1&lang=zh&timestamp=1724255955&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7079" alt="【MC Java // 麦块Java版】（#002）伽藍の花" title="【MC Java // 麦块Java版】（#002）伽藍の花">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=4u1Ugl-o12c">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vICPcBYy9DQ&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90+%E7%B9%BC%E7%BA%8C%E8%93%8B%E5%AE%B6+OwOb&lang=zh&timestamp=1723865275&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10979">
     <img src="https://ytcards.demolab.com/?id=vICPcBYy9DQ&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90+%E7%B9%BC%E7%BA%8C%E8%93%8B%E5%AE%B6+OwOb&lang=zh&timestamp=1723865275&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10979" alt="【SotF // 森林之子正式版】（#003）森林之子 繼續蓋家 OwOb" title="【SotF // 森林之子正式版】（#003）森林之子 繼續蓋家 OwOb">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=e0kE-DOrh-A">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e0kE-DOrh-A&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%B8%80%E7%BE%A4%E5%89%8D%E5%BE%80%E9%AB%98%E7%A7%91%E6%8A%80%E5%B3%B6%E5%B6%BC%EF%BC%8C%E5%B0%8B%E6%89%BE%E5%A4%B1%E8%B9%A4%E5%AF%8C%E8%B1%AA%E7%9A%84%E5%AE%89%E4%BF%9D%E9%83%A8%E9%9A%8A%EF%BC%8C%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%A2%9C%E6%AF%80%E5%90%8E%E5%8F%AA%E8%83%BD%E5%88%B0%E9%80%99%E9%AC%BC%E5%9C%B0%E6%96%B9+%E5%88%B0%E5%BA%95%E6%98%AF%E4%BE%86%E6%95%91%E4%BA%BA%E7%9A%84%E9%82%84%E6%98%AF%E4%BE%86%E9%A4%8A%E8%80%81%E8%93%8B%E5%AE%B6%E7%9A%84&lang=zh&timestamp=1723790116&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24676">
-    <img src="https://ytcards.demolab.com/?id=e0kE-DOrh-A&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%B8%80%E7%BE%A4%E5%89%8D%E5%BE%80%E9%AB%98%E7%A7%91%E6%8A%80%E5%B3%B6%E5%B6%BC%EF%BC%8C%E5%B0%8B%E6%89%BE%E5%A4%B1%E8%B9%A4%E5%AF%8C%E8%B1%AA%E7%9A%84%E5%AE%89%E4%BF%9D%E9%83%A8%E9%9A%8A%EF%BC%8C%E7%9B%B4%E5%8D%87%E6%A9%9F%E5%A2%9C%E6%AF%80%E5%90%8E%E5%8F%AA%E8%83%BD%E5%88%B0%E9%80%99%E9%AC%BC%E5%9C%B0%E6%96%B9+%E5%88%B0%E5%BA%95%E6%98%AF%E4%BE%86%E6%95%91%E4%BA%BA%E7%9A%84%E9%82%84%E6%98%AF%E4%BE%86%E9%A4%8A%E8%80%81%E8%93%8B%E5%AE%B6%E7%9A%84&lang=zh&timestamp=1723790116&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=24676" alt="【SotF // 森林之子正式版】（#002）一群前往高科技島嶼，尋找失蹤富豪的安保部隊，直升機墜毀后只能到這鬼地方 到底是來救人的還是來養老蓋家的" title="【SotF // 森林之子正式版】（#002）一群前往高科技島嶼，尋找失蹤富豪的安保部隊，直升機墜毀后只能到這鬼地方 到底是來救人的還是來養老蓋家的">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
