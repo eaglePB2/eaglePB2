@@ -33,10 +33,16 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=NeCovtBgpes">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NeCovtBgpes&title=%E3%80%90Battlefield%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%88%B0%E5%9C%B0%E9%A2%A8%E9%9B%B21+%E6%88%B0%E5%BD%B9%E6%A8%A1%E5%BC%8F&lang=zh&timestamp=1724482726&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26141">
+    <img src="https://ytcards.demolab.com/?id=NeCovtBgpes&title=%E3%80%90Battlefield%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%88%B0%E5%9C%B0%E9%A2%A8%E9%9B%B21+%E6%88%B0%E5%BD%B9%E6%A8%A1%E5%BC%8F&lang=zh&timestamp=1724482726&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=26141" alt="【Battlefield】（#001）戰地風雲1 戰役模式" title="【Battlefield】（#001）戰地風雲1 戰役模式">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=zjL8a-BCHIg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zjL8a-BCHIg&title=%E3%80%90Content+Warning%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%BF%99%E6%98%AF%E5%8F%A6%E7%B1%BB%E7%9A%84%E6%81%90%E6%80%96%E5%86%92%E9%99%A9%E5%AE%9E%E5%86%B5%E5%90%97owo%3F&lang=zh&timestamp=1724378955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5199">
-    <img src="https://ytcards.demolab.com/?id=zjL8a-BCHIg&title=%E3%80%90Content+Warning%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%BF%99%E6%98%AF%E5%8F%A6%E7%B1%BB%E7%9A%84%E6%81%90%E6%80%96%E5%86%92%E9%99%A9%E5%AE%9E%E5%86%B5%E5%90%97owo%3F&lang=zh&timestamp=1724378955&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5199" alt="【Content Warning】（#000）这是另类的恐怖冒险实况吗owo?" title="【Content Warning】（#000）这是另类的恐怖冒险实况吗owo?">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zjL8a-BCHIg&title=%E3%80%90Content+Warning%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%BF%99%E6%98%AF%E5%8F%A6%E7%B1%BB%E7%9A%84%E6%81%90%E6%80%96%E5%86%92%E9%99%A9%E5%AE%9E%E5%86%B5%E5%90%97owo%3F&lang=zh&timestamp=1724427891&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5132">
+    <img src="https://ytcards.demolab.com/?id=zjL8a-BCHIg&title=%E3%80%90Content+Warning%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%BF%99%E6%98%AF%E5%8F%A6%E7%B1%BB%E7%9A%84%E6%81%90%E6%80%96%E5%86%92%E9%99%A9%E5%AE%9E%E5%86%B5%E5%90%97owo%3F&lang=zh&timestamp=1724427891&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5132" alt="【Content Warning】（#000）这是另类的恐怖冒险实况吗owo?" title="【Content Warning】（#000）这是另类的恐怖冒险实况吗owo?">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=r0PtjulSVD4">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7qRmd1gvjlY&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%AD%A3%E5%BC%8F%E7%89%88%E5%B7%B2%E7%BB%8F%E5%8F%98%E6%88%90%E5%85%BB%E8%80%81%E6%B8%B8%E6%88%8F%E4%BA%86%E5%91%A2owob&lang=zh&timestamp=1724035836&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10991">
     <img src="https://ytcards.demolab.com/?id=7qRmd1gvjlY&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%AD%A3%E5%BC%8F%E7%89%88%E5%B7%B2%E7%BB%8F%E5%8F%98%E6%88%90%E5%85%BB%E8%80%81%E6%B8%B8%E6%88%8F%E4%BA%86%E5%91%A2owob&lang=zh&timestamp=1724035836&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10991" alt="【SotF // 森林之子正式版】（#005）正式版已经变成养老游戏了呢owob" title="【SotF // 森林之子正式版】（#005）正式版已经变成养老游戏了呢owob">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=AQNIDCOVUJc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AQNIDCOVUJc&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23004%EF%BC%89%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%87%8E%E4%BA%BA%E9%80%81%EF%BC%81&lang=zh&timestamp=1723955110&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10003">
-    <img src="https://ytcards.demolab.com/?id=AQNIDCOVUJc&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23004%EF%BC%89%E9%BA%A5%E7%95%B6%E5%8B%9E%E9%87%8E%E4%BA%BA%E9%80%81%EF%BC%81&lang=zh&timestamp=1723955110&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10003" alt="【SotF // 森林之子正式版】（#004）麥當勞野人送！" title="【SotF // 森林之子正式版】（#004）麥當勞野人送！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
