@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=B3TJaPqKcq4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B3TJaPqKcq4&title=%E3%80%90%E7%81%BD%E9%9B%A3%E5%85%AC%E9%97%9C%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%90%84%E4%BD%8D%E8%A6%AA%E6%84%9B%E7%9A%84%E6%97%85%E5%AE%A2%E5%80%91%EF%BC%8C%E5%9C%B0%E7%8D%84%E5%88%97%E8%BB%8A%E5%B7%B2%E6%8A%B5%E9%81%94%E6%9E%97%E9%96%93%E5%B0%8F%E9%8E%AE%EF%BC%8C%E6%83%B3%E4%B8%8A%E5%96%AE%E7%A8%8B%E7%A5%A8%E7%9A%84%E8%B6%95%E5%BF%AB%E4%B8%8A%E8%BB%8A%E5%88%A5%E9%8C%AF%E9%81%8E%E5%92%AF%EF%BC%9F&lang=zh&timestamp=1724648036&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19333">
+    <img src="https://ytcards.demolab.com/?id=B3TJaPqKcq4&title=%E3%80%90%E7%81%BD%E9%9B%A3%E5%85%AC%E9%97%9C%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%90%84%E4%BD%8D%E8%A6%AA%E6%84%9B%E7%9A%84%E6%97%85%E5%AE%A2%E5%80%91%EF%BC%8C%E5%9C%B0%E7%8D%84%E5%88%97%E8%BB%8A%E5%B7%B2%E6%8A%B5%E9%81%94%E6%9E%97%E9%96%93%E5%B0%8F%E9%8E%AE%EF%BC%8C%E6%83%B3%E4%B8%8A%E5%96%AE%E7%A8%8B%E7%A5%A8%E7%9A%84%E8%B6%95%E5%BF%AB%E4%B8%8A%E8%BB%8A%E5%88%A5%E9%8C%AF%E9%81%8E%E5%92%AF%EF%BC%9F&lang=zh&timestamp=1724648036&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19333" alt="【災難公關】（#000）各位親愛的旅客們，地獄列車已抵達林間小鎮，想上單程票的趕快上車別錯過咯？" title="【災難公關】（#000）各位親愛的旅客們，地獄列車已抵達林間小鎮，想上單程票的趕快上車別錯過咯？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=Wp1iHACcz5Q">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Wp1iHACcz5Q&title=%E3%80%90Battlefield%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%88%B0%E5%9C%B0%E9%A2%A8%E9%9B%B23+%E6%88%B0%E5%BD%B9%E6%A8%A1%E5%BC%8F&lang=zh&timestamp=1724569915&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18148">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bX0nqxQZdjk&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A6%E5%9D%97Java%E7%89%88%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%BC%BD%E8%97%8D%E3%81%AE%E8%8A%B1&lang=zh&timestamp=1724255955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7079">
     <img src="https://ytcards.demolab.com/?id=bX0nqxQZdjk&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A6%E5%9D%97Java%E7%89%88%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%BC%BD%E8%97%8D%E3%81%AE%E8%8A%B1&lang=zh&timestamp=1724255955&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7079" alt="【MC Java // 麦块Java版】（#002）伽藍の花" title="【MC Java // 麦块Java版】（#002）伽藍の花">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=4u1Ugl-o12c">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4u1Ugl-o12c&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23006%EF%BC%89%E6%AD%A3%E5%BC%8F%E7%89%88%3D%E5%B0%8F%E4%B8%91%E7%89%88%EF%BC%8C%E8%BF%99%E4%B8%AA%E6%A2%97%E5%B0%B1%E6%98%AF%E4%BB%8E%E8%BF%99%E7%9B%B4%E6%92%AD%E5%BC%80%E5%A7%8B%E7%9A%84%E2%80%A6%E2%80%A6&lang=zh&timestamp=1724133117&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18729">
-    <img src="https://ytcards.demolab.com/?id=4u1Ugl-o12c&title=%E3%80%90SotF+%2F%2F+%E6%A3%AE%E6%9E%97%E4%B9%8B%E5%AD%90%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%91%EF%BC%88%23006%EF%BC%89%E6%AD%A3%E5%BC%8F%E7%89%88%3D%E5%B0%8F%E4%B8%91%E7%89%88%EF%BC%8C%E8%BF%99%E4%B8%AA%E6%A2%97%E5%B0%B1%E6%98%AF%E4%BB%8E%E8%BF%99%E7%9B%B4%E6%92%AD%E5%BC%80%E5%A7%8B%E7%9A%84%E2%80%A6%E2%80%A6&lang=zh&timestamp=1724133117&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18729" alt="【SotF // 森林之子正式版】（#006）正式版=小丑版，这个梗就是从这直播开始的……" title="【SotF // 森林之子正式版】（#006）正式版=小丑版，这个梗就是从这直播开始的……">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
