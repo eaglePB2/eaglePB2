@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=yCC_U0qdnuY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yCC_U0qdnuY&title=%E3%80%90Battlefield%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%88%B0%E5%9C%B0%E9%A2%A8%E9%9B%B24+%E6%88%B0%E5%BD%B9%E6%A8%A1%E5%BC%8F&lang=zh&timestamp=1724743580&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22592">
+    <img src="https://ytcards.demolab.com/?id=yCC_U0qdnuY&title=%E3%80%90Battlefield%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%88%B0%E5%9C%B0%E9%A2%A8%E9%9B%B24+%E6%88%B0%E5%BD%B9%E6%A8%A1%E5%BC%8F&lang=zh&timestamp=1724743580&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=22592" alt="【Battlefield】（#004）戰地風雲4 戰役模式" title="【Battlefield】（#004）戰地風雲4 戰役模式">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=B3TJaPqKcq4">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B3TJaPqKcq4&title=%E3%80%90%E7%81%BD%E9%9B%A3%E5%85%AC%E9%97%9C%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%90%84%E4%BD%8D%E8%A6%AA%E6%84%9B%E7%9A%84%E6%97%85%E5%AE%A2%E5%80%91%EF%BC%8C%E5%9C%B0%E7%8D%84%E5%88%97%E8%BB%8A%E5%B7%B2%E6%8A%B5%E9%81%94%E6%9E%97%E9%96%93%E5%B0%8F%E9%8E%AE%EF%BC%8C%E6%83%B3%E4%B8%8A%E5%96%AE%E7%A8%8B%E7%A5%A8%E7%9A%84%E8%B6%95%E5%BF%AB%E4%B8%8A%E8%BB%8A%E5%88%A5%E9%8C%AF%E9%81%8E%E5%92%AF%EF%BC%9F&lang=zh&timestamp=1724648036&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19333">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r0PtjulSVD4&title=%E3%80%90KotC%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%AC%AC%E4%B8%80%E5%9C%98+%C2%B7+%E5%9C%8B%E7%8E%8B%E5%88%9D%E9%AB%94%E9%A9%97%EF%BC%81%E7%A9%B6%E7%AB%9F%E6%98%AF%E8%A2%AB%E4%B8%9F%E5%87%BA%E7%8E%8B%E5%BA%A7%EF%BC%8C%E9%82%84%E6%98%AF%E8%83%BD%E6%B4%BB%E5%88%B0%E6%9C%80%E5%BE%8C%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1724302415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7285">
     <img src="https://ytcards.demolab.com/?id=r0PtjulSVD4&title=%E3%80%90KotC%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%AC%AC%E4%B8%80%E5%9C%98+%C2%B7+%E5%9C%8B%E7%8E%8B%E5%88%9D%E9%AB%94%E9%A9%97%EF%BC%81%E7%A9%B6%E7%AB%9F%E6%98%AF%E8%A2%AB%E4%B8%9F%E5%87%BA%E7%8E%8B%E5%BA%A7%EF%BC%8C%E9%82%84%E6%98%AF%E8%83%BD%E6%B4%BB%E5%88%B0%E6%9C%80%E5%BE%8C%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1724302415&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7285" alt="【KotC】（#001）第一團 · 國王初體驗！究竟是被丟出王座，還是能活到最後呢？" title="【KotC】（#001）第一團 · 國王初體驗！究竟是被丟出王座，還是能活到最後呢？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=bX0nqxQZdjk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bX0nqxQZdjk&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A6%E5%9D%97Java%E7%89%88%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%BC%BD%E8%97%8D%E3%81%AE%E8%8A%B1&lang=zh&timestamp=1724255955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7079">
-    <img src="https://ytcards.demolab.com/?id=bX0nqxQZdjk&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A6%E5%9D%97Java%E7%89%88%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%BC%BD%E8%97%8D%E3%81%AE%E8%8A%B1&lang=zh&timestamp=1724255955&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7079" alt="【MC Java // 麦块Java版】（#002）伽藍の花" title="【MC Java // 麦块Java版】（#002）伽藍の花">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
