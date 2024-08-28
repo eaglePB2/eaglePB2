@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：潛淵第三團 Part 16](https://www.twitch.tv/videos/2235124793)
 - [☾ 宿舍 ⋆ 鹰生 ☽ V3.0 @eaglepb2 今天一定可以摧毀畫皮巢穴吧?](https://www.twitch.tv/videos/2232694715)
 - [精选内容：潛淵第三團 Part 15](https://www.twitch.tv/videos/2231861463)
 - [☾ 宿舍 ⋆ 鹰生 ☽ V3.0 @eaglepb2 摧毀畫皮巢穴 啓動！](https://www.twitch.tv/videos/2231752021)
 - [精选内容：林间盃日麻积分赛 —— 8月第三场](https://www.twitch.tv/videos/2230695538)
-- [☾ 宿舍 ⋆ 鹰生 ☽ V3.0 @eaglepb2 第三階段 日起來](https://www.twitch.tv/videos/2230024707)
 <!-- TWITCH:END -->
 
 
