@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=Ml4s0w-7Y5k">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ml4s0w-7Y5k&title=%E3%80%90KotC%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%AC%AC%E4%BA%8C%E5%9C%98+%C2%B7+%E6%96%B0%E7%9A%84%E4%B8%80%E6%89%B9%E4%BA%BA%EF%BC%8CTRPG%E4%B8%8E%E5%85%B6%E4%BB%96%E6%BC%94%E5%91%98%E7%9A%84%E8%B4%B5%E6%97%8F%E7%BA%B7%E4%BA%89%EF%BC%81&lang=zh&timestamp=1724819442&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10679">
+    <img src="https://ytcards.demolab.com/?id=Ml4s0w-7Y5k&title=%E3%80%90KotC%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%AC%AC%E4%BA%8C%E5%9C%98+%C2%B7+%E6%96%B0%E7%9A%84%E4%B8%80%E6%89%B9%E4%BA%BA%EF%BC%8CTRPG%E4%B8%8E%E5%85%B6%E4%BB%96%E6%BC%94%E5%91%98%E7%9A%84%E8%B4%B5%E6%97%8F%E7%BA%B7%E4%BA%89%EF%BC%81&lang=zh&timestamp=1724819442&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10679" alt="【KotC】（#002）第二團 · 新的一批人，TRPG与其他演员的贵族纷争！" title="【KotC】（#002）第二團 · 新的一批人，TRPG与其他演员的贵族纷争！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=yCC_U0qdnuY">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yCC_U0qdnuY&title=%E3%80%90Battlefield%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%88%B0%E5%9C%B0%E9%A2%A8%E9%9B%B24+%E6%88%B0%E5%BD%B9%E6%A8%A1%E5%BC%8F&lang=zh&timestamp=1724743580&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22592">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zjL8a-BCHIg&title=%E3%80%90Content+Warning%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%BF%99%E6%98%AF%E5%8F%A6%E7%B1%BB%E7%9A%84%E6%81%90%E6%80%96%E5%86%92%E9%99%A9%E5%AE%9E%E5%86%B5%E5%90%97owo%3F&lang=zh&timestamp=1724427891&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5132">
     <img src="https://ytcards.demolab.com/?id=zjL8a-BCHIg&title=%E3%80%90Content+Warning%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%BF%99%E6%98%AF%E5%8F%A6%E7%B1%BB%E7%9A%84%E6%81%90%E6%80%96%E5%86%92%E9%99%A9%E5%AE%9E%E5%86%B5%E5%90%97owo%3F&lang=zh&timestamp=1724427891&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5132" alt="【Content Warning】（#000）这是另类的恐怖冒险实况吗owo?" title="【Content Warning】（#000）这是另类的恐怖冒险实况吗owo?">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=r0PtjulSVD4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r0PtjulSVD4&title=%E3%80%90KotC%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%AC%AC%E4%B8%80%E5%9C%98+%C2%B7+%E5%9C%8B%E7%8E%8B%E5%88%9D%E9%AB%94%E9%A9%97%EF%BC%81%E7%A9%B6%E7%AB%9F%E6%98%AF%E8%A2%AB%E4%B8%9F%E5%87%BA%E7%8E%8B%E5%BA%A7%EF%BC%8C%E9%82%84%E6%98%AF%E8%83%BD%E6%B4%BB%E5%88%B0%E6%9C%80%E5%BE%8C%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1724302415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7285">
-    <img src="https://ytcards.demolab.com/?id=r0PtjulSVD4&title=%E3%80%90KotC%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%AC%AC%E4%B8%80%E5%9C%98+%C2%B7+%E5%9C%8B%E7%8E%8B%E5%88%9D%E9%AB%94%E9%A9%97%EF%BC%81%E7%A9%B6%E7%AB%9F%E6%98%AF%E8%A2%AB%E4%B8%9F%E5%87%BA%E7%8E%8B%E5%BA%A7%EF%BC%8C%E9%82%84%E6%98%AF%E8%83%BD%E6%B4%BB%E5%88%B0%E6%9C%80%E5%BE%8C%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1724302415&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7285" alt="【KotC】（#001）第一團 · 國王初體驗！究竟是被丟出王座，還是能活到最後呢？" title="【KotC】（#001）第一團 · 國王初體驗！究竟是被丟出王座，還是能活到最後呢？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
