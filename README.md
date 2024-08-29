@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=KBuufpK4SRw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KBuufpK4SRw&title=%E3%80%90L4D2%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%9D%82%E9%A1%B9+%C2%B7+PvP%E4%B9%8B%E6%88%98%EF%BC%81&lang=zh&timestamp=1724903235&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15452">
+    <img src="https://ytcards.demolab.com/?id=KBuufpK4SRw&title=%E3%80%90L4D2%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%9D%82%E9%A1%B9+%C2%B7+PvP%E4%B9%8B%E6%88%98%EF%BC%81&lang=zh&timestamp=1724903235&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15452" alt="【L4D2】（#000）杂项 · PvP之战！" title="【L4D2】（#000）杂项 · PvP之战！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=Ml4s0w-7Y5k">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ml4s0w-7Y5k&title=%E3%80%90KotC%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%AC%AC%E4%BA%8C%E5%9C%98+%C2%B7+%E6%96%B0%E7%9A%84%E4%B8%80%E6%89%B9%E4%BA%BA%EF%BC%8CTRPG%E4%B8%8E%E5%85%B6%E4%BB%96%E6%BC%94%E5%91%98%E7%9A%84%E8%B4%B5%E6%97%8F%E7%BA%B7%E4%BA%89%EF%BC%81&lang=zh&timestamp=1724819442&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10679">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NeCovtBgpes&title=%E3%80%90Battlefield%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%88%B0%E5%9C%B0%E9%A2%A8%E9%9B%B21+%E6%88%B0%E5%BD%B9%E6%A8%A1%E5%BC%8F&lang=zh&timestamp=1724482726&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26141">
     <img src="https://ytcards.demolab.com/?id=NeCovtBgpes&title=%E3%80%90Battlefield%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%88%B0%E5%9C%B0%E9%A2%A8%E9%9B%B21+%E6%88%B0%E5%BD%B9%E6%A8%A1%E5%BC%8F&lang=zh&timestamp=1724482726&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=26141" alt="【Battlefield】（#001）戰地風雲1 戰役模式" title="【Battlefield】（#001）戰地風雲1 戰役模式">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=zjL8a-BCHIg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zjL8a-BCHIg&title=%E3%80%90Content+Warning%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%BF%99%E6%98%AF%E5%8F%A6%E7%B1%BB%E7%9A%84%E6%81%90%E6%80%96%E5%86%92%E9%99%A9%E5%AE%9E%E5%86%B5%E5%90%97owo%3F&lang=zh&timestamp=1724427891&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5132">
-    <img src="https://ytcards.demolab.com/?id=zjL8a-BCHIg&title=%E3%80%90Content+Warning%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%BF%99%E6%98%AF%E5%8F%A6%E7%B1%BB%E7%9A%84%E6%81%90%E6%80%96%E5%86%92%E9%99%A9%E5%AE%9E%E5%86%B5%E5%90%97owo%3F&lang=zh&timestamp=1724427891&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5132" alt="【Content Warning】（#000）这是另类的恐怖冒险实况吗owo?" title="【Content Warning】（#000）这是另类的恐怖冒险实况吗owo?">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
