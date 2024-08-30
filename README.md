@@ -33,10 +33,16 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=BZw2oGO79mk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BZw2oGO79mk&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A6%E5%9D%97Java%E7%89%88%E3%80%91%EF%BC%88%23000%EF%BC%89Minecraft+x+MCC+%E8%81%94%E5%8A%A8%E4%B9%8B%E6%97%85&lang=zh&timestamp=1724992403&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12932">
+    <img src="https://ytcards.demolab.com/?id=BZw2oGO79mk&title=%E3%80%90MC+Java+%2F%2F+%E9%BA%A6%E5%9D%97Java%E7%89%88%E3%80%91%EF%BC%88%23000%EF%BC%89Minecraft+x+MCC+%E8%81%94%E5%8A%A8%E4%B9%8B%E6%97%85&lang=zh&timestamp=1724992403&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12932" alt="【MC Java // 麦块Java版】（#000）Minecraft x MCC 联动之旅" title="【MC Java // 麦块Java版】（#000）Minecraft x MCC 联动之旅">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=KBuufpK4SRw">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KBuufpK4SRw&title=%E3%80%90L4D2%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%9D%82%E9%A1%B9+%C2%B7+PvP%E4%B9%8B%E6%88%98%EF%BC%81&lang=zh&timestamp=1724903235&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15452">
-    <img src="https://ytcards.demolab.com/?id=KBuufpK4SRw&title=%E3%80%90L4D2%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%9D%82%E9%A1%B9+%C2%B7+PvP%E4%B9%8B%E6%88%98%EF%BC%81&lang=zh&timestamp=1724903235&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15452" alt="【L4D2】（#000）杂项 · PvP之战！" title="【L4D2】（#000）杂项 · PvP之战！">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KBuufpK4SRw&title=%E3%80%90L4D2%E3%80%91%EF%BC%88%23001%EF%BC%89PvP%E4%B9%8B%E6%88%98+%7C+%E7%AC%AC%E4%B8%89%E5%9B%A2&lang=zh&timestamp=1724903235&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15452">
+    <img src="https://ytcards.demolab.com/?id=KBuufpK4SRw&title=%E3%80%90L4D2%E3%80%91%EF%BC%88%23001%EF%BC%89PvP%E4%B9%8B%E6%88%98+%7C+%E7%AC%AC%E4%B8%89%E5%9B%A2&lang=zh&timestamp=1724903235&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15452" alt="【L4D2】（#001）PvP之战 | 第三团" title="【L4D2】（#001）PvP之战 | 第三团">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=Ml4s0w-7Y5k">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Wp1iHACcz5Q&title=%E3%80%90Battlefield%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%88%B0%E5%9C%B0%E9%A2%A8%E9%9B%B23+%E6%88%B0%E5%BD%B9%E6%A8%A1%E5%BC%8F&lang=zh&timestamp=1724569915&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18148">
     <img src="https://ytcards.demolab.com/?id=Wp1iHACcz5Q&title=%E3%80%90Battlefield%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%88%B0%E5%9C%B0%E9%A2%A8%E9%9B%B23+%E6%88%B0%E5%BD%B9%E6%A8%A1%E5%BC%8F&lang=zh&timestamp=1724569915&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18148" alt="【Battlefield】（#003）戰地風雲3 戰役模式" title="【Battlefield】（#003）戰地風雲3 戰役模式">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=NeCovtBgpes">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NeCovtBgpes&title=%E3%80%90Battlefield%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%88%B0%E5%9C%B0%E9%A2%A8%E9%9B%B21+%E6%88%B0%E5%BD%B9%E6%A8%A1%E5%BC%8F&lang=zh&timestamp=1724482726&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26141">
-    <img src="https://ytcards.demolab.com/?id=NeCovtBgpes&title=%E3%80%90Battlefield%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%88%B0%E5%9C%B0%E9%A2%A8%E9%9B%B21+%E6%88%B0%E5%BD%B9%E6%A8%A1%E5%BC%8F&lang=zh&timestamp=1724482726&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=26141" alt="【Battlefield】（#001）戰地風雲1 戰役模式" title="【Battlefield】（#001）戰地風雲1 戰役模式">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
