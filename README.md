@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ SCP玩不起来，所以鬼转潜渊](https://www.twitch.tv/videos/2238860492)
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ SCP玩不起来，所以鬼转潜渊](https://www.twitch.tv/videos/2238852313)
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ SCP玩不起来，所以鬼转潜渊](https://www.twitch.tv/videos/2238843573)
 - [精选内容：Deadlock](https://www.twitch.tv/videos/2237989346)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 这难道就是传说中 播了会被ban的游戏吗？](https://www.twitch.tv/videos/2237833298)
-- [精选内容：林间盃日麻积分赛 —— 8月第四场](https://www.twitch.tv/videos/2236838823)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 林間盃 八月份第四階段 日麻積分賽 轉播台](https://www.twitch.tv/videos/2236128567)
-- [精选内容：潛淵第三團 Part 16](https://www.twitch.tv/videos/2235124793)
 <!-- TWITCH:END -->
 
 
