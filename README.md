@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=3HmLneZ11j4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3HmLneZ11j4&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23002%EF%BC%89%E9%87%A3%E9%AD%9A~+%E9%87%A3%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%BB%80%E9%BA%BD%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%B8%80%E7%BE%A4%E9%9B%9C%E9%AD%9A+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725167631&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12292">
+    <img src="https://ytcards.demolab.com/?id=3HmLneZ11j4&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23002%EF%BC%89%E9%87%A3%E9%AD%9A~+%E9%87%A3%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%BB%80%E9%BA%BD%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%B8%80%E7%BE%A4%E9%9B%9C%E9%AD%9A+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725167631&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12292" alt="【Barotrauma // 潛淵症】（#002）釣魚~ 釣魚~ 釣到什麽魚~ 釣到一群雜魚 | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#002）釣魚~ 釣魚~ 釣到什麽魚~ 釣到一群雜魚 | Ft. 雜魚團">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=4kYHM94nyW8">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4kYHM94nyW8&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%87%A3%E9%AD%9A~+%E9%87%A3%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%BB%80%E9%BA%BD%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%B8%80%E7%BE%A4%E9%9B%9C%E9%AD%9A+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725076724&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10894">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yCC_U0qdnuY&title=%E3%80%90Battlefield%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%88%B0%E5%9C%B0%E9%A2%A8%E9%9B%B24+%E6%88%B0%E5%BD%B9%E6%A8%A1%E5%BC%8F&lang=zh&timestamp=1724743580&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22592">
     <img src="https://ytcards.demolab.com/?id=yCC_U0qdnuY&title=%E3%80%90Battlefield%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%88%B0%E5%9C%B0%E9%A2%A8%E9%9B%B24+%E6%88%B0%E5%BD%B9%E6%A8%A1%E5%BC%8F&lang=zh&timestamp=1724743580&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=22592" alt="【Battlefield】（#004）戰地風雲4 戰役模式" title="【Battlefield】（#004）戰地風雲4 戰役模式">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=B3TJaPqKcq4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B3TJaPqKcq4&title=%E3%80%90%E7%81%BD%E9%9B%A3%E5%85%AC%E9%97%9C%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%90%84%E4%BD%8D%E8%A6%AA%E6%84%9B%E7%9A%84%E6%97%85%E5%AE%A2%E5%80%91%EF%BC%8C%E5%9C%B0%E7%8D%84%E5%88%97%E8%BB%8A%E5%B7%B2%E6%8A%B5%E9%81%94%E6%9E%97%E9%96%93%E5%B0%8F%E9%8E%AE%EF%BC%8C%E6%83%B3%E4%B8%8A%E5%96%AE%E7%A8%8B%E7%A5%A8%E7%9A%84%E8%B6%95%E5%BF%AB%E4%B8%8A%E8%BB%8A%E5%88%A5%E9%8C%AF%E9%81%8E%E5%92%AF%EF%BC%9F&lang=zh&timestamp=1724648036&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19333">
-    <img src="https://ytcards.demolab.com/?id=B3TJaPqKcq4&title=%E3%80%90%E7%81%BD%E9%9B%A3%E5%85%AC%E9%97%9C%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%90%84%E4%BD%8D%E8%A6%AA%E6%84%9B%E7%9A%84%E6%97%85%E5%AE%A2%E5%80%91%EF%BC%8C%E5%9C%B0%E7%8D%84%E5%88%97%E8%BB%8A%E5%B7%B2%E6%8A%B5%E9%81%94%E6%9E%97%E9%96%93%E5%B0%8F%E9%8E%AE%EF%BC%8C%E6%83%B3%E4%B8%8A%E5%96%AE%E7%A8%8B%E7%A5%A8%E7%9A%84%E8%B6%95%E5%BF%AB%E4%B8%8A%E8%BB%8A%E5%88%A5%E9%8C%AF%E9%81%8E%E5%92%AF%EF%BC%9F&lang=zh&timestamp=1724648036&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19333" alt="【災難公關】（#000）各位親愛的旅客們，地獄列車已抵達林間小鎮，想上單程票的趕快上車別錯過咯？" title="【災難公關】（#000）各位親愛的旅客們，地獄列車已抵達林間小鎮，想上單程票的趕快上車別錯過咯？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
