@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=iTOxMkv765o">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iTOxMkv765o&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%87%A3%E9%AD%9A~+%E9%87%A3%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%BB%80%E9%BA%BD%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%B8%80%E7%BE%A4%E9%9B%9C%E9%AD%9A+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725246544&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13206">
+    <img src="https://ytcards.demolab.com/?id=iTOxMkv765o&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%87%A3%E9%AD%9A~+%E9%87%A3%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%BB%80%E9%BA%BD%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%B8%80%E7%BE%A4%E9%9B%9C%E9%AD%9A+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725246544&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13206" alt="【Barotrauma // 潛淵症】（#003）釣魚~ 釣魚~ 釣到什麽魚~ 釣到一群雜魚 | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#003）釣魚~ 釣魚~ 釣到什麽魚~ 釣到一群雜魚 | Ft. 雜魚團">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=3HmLneZ11j4">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3HmLneZ11j4&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23002%EF%BC%89%E9%87%A3%E9%AD%9A~+%E9%87%A3%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%BB%80%E9%BA%BD%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%B8%80%E7%BE%A4%E9%9B%9C%E9%AD%9A+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725167631&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12292">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ml4s0w-7Y5k&title=%E3%80%90KotC%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%AC%AC%E4%BA%8C%E5%9C%98+%C2%B7+%E6%96%B0%E7%9A%84%E4%B8%80%E6%89%B9%E4%BA%BA%EF%BC%8CTRPG%E4%B8%8E%E5%85%B6%E4%BB%96%E6%BC%94%E5%91%98%E7%9A%84%E8%B4%B5%E6%97%8F%E7%BA%B7%E4%BA%89%EF%BC%81&lang=zh&timestamp=1724819442&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10679">
     <img src="https://ytcards.demolab.com/?id=Ml4s0w-7Y5k&title=%E3%80%90KotC%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%AC%AC%E4%BA%8C%E5%9C%98+%C2%B7+%E6%96%B0%E7%9A%84%E4%B8%80%E6%89%B9%E4%BA%BA%EF%BC%8CTRPG%E4%B8%8E%E5%85%B6%E4%BB%96%E6%BC%94%E5%91%98%E7%9A%84%E8%B4%B5%E6%97%8F%E7%BA%B7%E4%BA%89%EF%BC%81&lang=zh&timestamp=1724819442&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10679" alt="【KotC】（#002）第二團 · 新的一批人，TRPG与其他演员的贵族纷争！" title="【KotC】（#002）第二團 · 新的一批人，TRPG与其他演员的贵族纷争！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=yCC_U0qdnuY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yCC_U0qdnuY&title=%E3%80%90Battlefield%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%88%B0%E5%9C%B0%E9%A2%A8%E9%9B%B24+%E6%88%B0%E5%BD%B9%E6%A8%A1%E5%BC%8F&lang=zh&timestamp=1724743580&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22592">
-    <img src="https://ytcards.demolab.com/?id=yCC_U0qdnuY&title=%E3%80%90Battlefield%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%88%B0%E5%9C%B0%E9%A2%A8%E9%9B%B24+%E6%88%B0%E5%BD%B9%E6%A8%A1%E5%BC%8F&lang=zh&timestamp=1724743580&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=22592" alt="【Battlefield】（#004）戰地風雲4 戰役模式" title="【Battlefield】（#004）戰地風雲4 戰役模式">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
