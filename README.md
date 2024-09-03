@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：Terraria 大师团 Part 1](https://www.twitch.tv/videos/2240439207)
+- [精选内容：潛淵第三團 Part 17](https://www.twitch.tv/videos/2240439052)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 泰拉瑞亚 大师模式 这次玩的完么？](https://www.twitch.tv/videos/2239730762)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ SCP玩不起来，所以鬼转潜渊](https://www.twitch.tv/videos/2238860492)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ SCP玩不起来，所以鬼转潜渊](https://www.twitch.tv/videos/2238852313)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ SCP玩不起来，所以鬼转潜渊](https://www.twitch.tv/videos/2238843573)
-- [精选内容：Deadlock](https://www.twitch.tv/videos/2237989346)
 <!-- TWITCH:END -->
 
 
