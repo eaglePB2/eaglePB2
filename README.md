@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：林间盃日麻积分赛 —— 9月第一场](https://www.twitch.tv/videos/2242484204)
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 九月份 第一階段 林間日麻積分賽 主辦視角](https://www.twitch.tv/videos/2242309794)
 - [精选内容：Terraria 大师团 Part 1](https://www.twitch.tv/videos/2240439207)
 - [精选内容：潛淵第三團 Part 17](https://www.twitch.tv/videos/2240439052)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 泰拉瑞亚 大师模式 这次玩的完么？](https://www.twitch.tv/videos/2239730762)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ SCP玩不起来，所以鬼转潜渊](https://www.twitch.tv/videos/2238860492)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ SCP玩不起来，所以鬼转潜渊](https://www.twitch.tv/videos/2238852313)
 <!-- TWITCH:END -->
 
 
