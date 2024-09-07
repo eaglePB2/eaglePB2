@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=omWXfe_L71Q">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=omWXfe_L71Q&title=%E3%80%90L4D2%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%94%9F%E8%BF%98%E8%80%85%E4%B9%8B%E6%88%98+%7C+%E7%AC%AC%E4%B8%89%E5%9B%A2&lang=zh&timestamp=1725681898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11328">
+    <img src="https://ytcards.demolab.com/?id=omWXfe_L71Q&title=%E3%80%90L4D2%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%94%9F%E8%BF%98%E8%80%85%E4%B9%8B%E6%88%98+%7C+%E7%AC%AC%E4%B8%89%E5%9B%A2&lang=zh&timestamp=1725681898&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11328" alt="【L4D2】（#002）生还者之战 | 第三团" title="【L4D2】（#002）生还者之战 | 第三团">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=uXE205Euv3g">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uXE205Euv3g&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23006%EF%BC%89%E9%87%A3%E9%AD%9A~+%E9%87%A3%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%BB%80%E9%BA%BD%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%B8%80%E7%BE%A4%E9%9B%9C%E9%AD%9A+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725600340&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12466">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iTOxMkv765o&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%87%A3%E9%AD%9A~+%E9%87%A3%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%BB%80%E9%BA%BD%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%B8%80%E7%BE%A4%E9%9B%9C%E9%AD%9A+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725246544&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13206">
     <img src="https://ytcards.demolab.com/?id=iTOxMkv765o&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%87%A3%E9%AD%9A~+%E9%87%A3%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%BB%80%E9%BA%BD%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%B8%80%E7%BE%A4%E9%9B%9C%E9%AD%9A+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725246544&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13206" alt="【Barotrauma // 潛淵症】（#003）釣魚~ 釣魚~ 釣到什麽魚~ 釣到一群雜魚 | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#003）釣魚~ 釣魚~ 釣到什麽魚~ 釣到一群雜魚 | Ft. 雜魚團">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=3HmLneZ11j4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3HmLneZ11j4&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23002%EF%BC%89%E9%87%A3%E9%AD%9A~+%E9%87%A3%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%BB%80%E9%BA%BD%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%B8%80%E7%BE%A4%E9%9B%9C%E9%AD%9A+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725167631&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12292">
-    <img src="https://ytcards.demolab.com/?id=3HmLneZ11j4&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23002%EF%BC%89%E9%87%A3%E9%AD%9A~+%E9%87%A3%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%BB%80%E9%BA%BD%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%B8%80%E7%BE%A4%E9%9B%9C%E9%AD%9A+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725167631&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12292" alt="【Barotrauma // 潛淵症】（#002）釣魚~ 釣魚~ 釣到什麽魚~ 釣到一群雜魚 | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#002）釣魚~ 釣魚~ 釣到什麽魚~ 釣到一群雜魚 | Ft. 雜魚團">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
