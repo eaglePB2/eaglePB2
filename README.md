@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=yaze1z-jwvw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yaze1z-jwvw&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23008%EF%BC%89%E6%B5%B7%E5%BA%95%E5%B0%8D%E4%B8%80%E7%BE%A4%E9%9B%9C%E9%AD%9A%E4%BE%86%E8%AA%AC%EF%BC%8C%E6%98%AF%E6%9C%89%E5%A4%A0%E5%86%B7%E7%9A%84+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725942532&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11587">
+    <img src="https://ytcards.demolab.com/?id=yaze1z-jwvw&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23008%EF%BC%89%E6%B5%B7%E5%BA%95%E5%B0%8D%E4%B8%80%E7%BE%A4%E9%9B%9C%E9%AD%9A%E4%BE%86%E8%AA%AC%EF%BC%8C%E6%98%AF%E6%9C%89%E5%A4%A0%E5%86%B7%E7%9A%84+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725942532&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11587" alt="【Barotrauma // 潛淵症】（#008）海底對一群雜魚來説，是有夠冷的 | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#008）海底對一群雜魚來説，是有夠冷的 | Ft. 雜魚團">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=Rc_h8nCCOlU">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Rc_h8nCCOlU&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23007%EF%BC%89%E7%B8%BD%E6%89%80%E5%91%A8%E7%9F%A5%EF%BC%8C%E6%BD%9B%E6%B7%B5%E7%97%87%E6%98%AF%E4%B8%80%E6%AC%BEgacha%E6%B8%B8%E6%88%B2%EF%BC%8C%E9%9B%9C%E9%AD%9A%E9%83%BD%E8%A0%BB%E5%96%9C%E6%AD%A1%E6%8A%BD%E4%B8%80%E6%8A%BD%E7%9A%84%E5%B0%8D%E5%90%A7%EF%BC%9F+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725850086&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12059">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aLNcYqMg8I4&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%99%9A%E5%AE%89%EF%BC%8C%E9%9B%9C%E9%AD%9A%E8%99%9F~+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725519373&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11310">
     <img src="https://ytcards.demolab.com/?id=aLNcYqMg8I4&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%99%9A%E5%AE%89%EF%BC%8C%E9%9B%9C%E9%AD%9A%E8%99%9F~+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725519373&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11310" alt="【Barotrauma // 潛淵症】（#005）晚安，雜魚號~ | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#005）晚安，雜魚號~ | Ft. 雜魚團">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=y4_2zzJajMY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y4_2zzJajMY&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23004%EF%BC%89%E9%87%A3%E9%AD%9A~+%E9%87%A3%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%BB%80%E9%BA%BD%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%B8%80%E7%BE%A4%E9%9B%9C%E9%AD%9A+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725428506&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10728">
-    <img src="https://ytcards.demolab.com/?id=y4_2zzJajMY&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23004%EF%BC%89%E9%87%A3%E9%AD%9A~+%E9%87%A3%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%BB%80%E9%BA%BD%E9%AD%9A~+%E9%87%A3%E5%88%B0%E4%B8%80%E7%BE%A4%E9%9B%9C%E9%AD%9A+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725428506&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10728" alt="【Barotrauma // 潛淵症】（#004）釣魚~ 釣魚~ 釣到什麽魚~ 釣到一群雜魚 | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#004）釣魚~ 釣魚~ 釣到什麽魚~ 釣到一群雜魚 | Ft. 雜魚團">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
