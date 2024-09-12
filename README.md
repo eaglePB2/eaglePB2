@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=WNmGeLZLyXw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WNmGeLZLyXw&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23010%EF%BC%89%E9%9B%9C%E9%AD%9A%E4%B9%9F%E6%83%B3%E6%89%93%E6%B5%B7%E7%9B%9C%EF%BC%81%E4%BD%86%E5%A5%BD%E5%83%8F%E6%98%AF%E7%A7%92%E6%AE%BA%E5%B1%80%E6%AC%B8%E2%80%A6%E2%80%A6+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1726109126&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10685">
+    <img src="https://ytcards.demolab.com/?id=WNmGeLZLyXw&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23010%EF%BC%89%E9%9B%9C%E9%AD%9A%E4%B9%9F%E6%83%B3%E6%89%93%E6%B5%B7%E7%9B%9C%EF%BC%81%E4%BD%86%E5%A5%BD%E5%83%8F%E6%98%AF%E7%A7%92%E6%AE%BA%E5%B1%80%E6%AC%B8%E2%80%A6%E2%80%A6+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1726109126&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10685" alt="【Barotrauma // 潛淵症】（#010）雜魚也想打海盜！但好像是秒殺局欸…… | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#010）雜魚也想打海盜！但好像是秒殺局欸…… | Ft. 雜魚團">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=kVzigf3JSPE">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kVzigf3JSPE&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23009%EF%BC%89%E4%B8%80%E5%A4%A9%E5%8F%AA%E8%83%BD%E8%BD%89%E4%B8%80%E5%80%8B%E9%BB%9E%EF%BC%8C%E6%9E%9C%E7%84%B6%E9%9B%9C%E9%AD%9A%E9%82%84%E6%98%AF%E6%A2%9D%E9%9B%9C%E9%AD%9A+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1726036118&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12073">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=omWXfe_L71Q&title=%E3%80%90L4D2%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%94%9F%E8%BF%98%E8%80%85%E4%B9%8B%E6%88%98+%7C+%E7%AC%AC%E4%B8%89%E5%9B%A2&lang=zh&timestamp=1725681898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11328">
     <img src="https://ytcards.demolab.com/?id=omWXfe_L71Q&title=%E3%80%90L4D2%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%94%9F%E8%BF%98%E8%80%85%E4%B9%8B%E6%88%98+%7C+%E7%AC%AC%E4%B8%89%E5%9B%A2&lang=zh&timestamp=1725681898&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11328" alt="【L4D2】（#002）生还者之战 | 第三团" title="【L4D2】（#002）生还者之战 | 第三团">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=uXE205Euv3g">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uXE205Euv3g&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23006%EF%BC%89%E9%80%99%E6%B0%B4%E5%BE%88%E6%B7%B1%EF%BC%8C%E9%9B%9C%E9%AD%9A%E6%9C%83%E5%8F%97%E4%B8%8D%E4%BA%86%E7%9A%84+QAQ+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725600340&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12466">
-    <img src="https://ytcards.demolab.com/?id=uXE205Euv3g&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23006%EF%BC%89%E9%80%99%E6%B0%B4%E5%BE%88%E6%B7%B1%EF%BC%8C%E9%9B%9C%E9%AD%9A%E6%9C%83%E5%8F%97%E4%B8%8D%E4%BA%86%E7%9A%84+QAQ+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725600340&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12466" alt="【Barotrauma // 潛淵症】（#006）這水很深，雜魚會受不了的 QAQ | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#006）這水很深，雜魚會受不了的 QAQ | Ft. 雜魚團">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
