@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=NA1urlyyAFU">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NA1urlyyAFU&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23011%EF%BC%89%E9%9B%9C%E9%AD%9A%E7%9A%84%E8%BF%85%E7%8C%9B%E9%BE%8D%E7%8B%99%E6%93%8A%E8%A8%88%E5%8A%83+%E7%A0%94%E7%99%BC%E4%B8%AD+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1726208274&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14698">
+    <img src="https://ytcards.demolab.com/?id=NA1urlyyAFU&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23011%EF%BC%89%E9%9B%9C%E9%AD%9A%E7%9A%84%E8%BF%85%E7%8C%9B%E9%BE%8D%E7%8B%99%E6%93%8A%E8%A8%88%E5%8A%83+%E7%A0%94%E7%99%BC%E4%B8%AD+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1726208274&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14698" alt="【Barotrauma // 潛淵症】（#011）雜魚的迅猛龍狙擊計劃 研發中 | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#011）雜魚的迅猛龍狙擊計劃 研發中 | Ft. 雜魚團">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=WNmGeLZLyXw">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WNmGeLZLyXw&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23010%EF%BC%89%E9%9B%9C%E9%AD%9A%E4%B9%9F%E6%83%B3%E6%89%93%E6%B5%B7%E7%9B%9C%EF%BC%81%E4%BD%86%E5%A5%BD%E5%83%8F%E6%98%AF%E7%A7%92%E6%AE%BA%E5%B1%80%E6%AC%B8%E2%80%A6%E2%80%A6+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1726109126&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10685">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DgM9IQp16dE&title=%E3%80%90Escape+Acaademy%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%BE%9E%E5%8A%A0%E5%85%A5%E9%80%99%E5%80%8B%E5%AD%B8%E9%99%A2%EF%BC%8C%E7%9B%B4%E5%88%B0%E7%95%A2%E6%A5%AD%EF%BC%8C%E6%87%89%E8%A9%B2%E5%B0%B1%E6%98%AF%E4%B8%80%E5%A0%B4%E7%9B%B4%E6%92%AD%E7%9A%84%E4%BA%8B%E8%80%8C%E5%B7%B2&lang=zh&timestamp=1725781896&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13372">
     <img src="https://ytcards.demolab.com/?id=DgM9IQp16dE&title=%E3%80%90Escape+Acaademy%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%BE%9E%E5%8A%A0%E5%85%A5%E9%80%99%E5%80%8B%E5%AD%B8%E9%99%A2%EF%BC%8C%E7%9B%B4%E5%88%B0%E7%95%A2%E6%A5%AD%EF%BC%8C%E6%87%89%E8%A9%B2%E5%B0%B1%E6%98%AF%E4%B8%80%E5%A0%B4%E7%9B%B4%E6%92%AD%E7%9A%84%E4%BA%8B%E8%80%8C%E5%B7%B2&lang=zh&timestamp=1725781896&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13372" alt="【Escape Acaademy】（#000）從加入這個學院，直到畢業，應該就是一場直播的事而已" title="【Escape Acaademy】（#000）從加入這個學院，直到畢業，應該就是一場直播的事而已">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=omWXfe_L71Q">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=omWXfe_L71Q&title=%E3%80%90L4D2%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%94%9F%E8%BF%98%E8%80%85%E4%B9%8B%E6%88%98+%7C+%E7%AC%AC%E4%B8%89%E5%9B%A2&lang=zh&timestamp=1725681898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11328">
-    <img src="https://ytcards.demolab.com/?id=omWXfe_L71Q&title=%E3%80%90L4D2%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%94%9F%E8%BF%98%E8%80%85%E4%B9%8B%E6%88%98+%7C+%E7%AC%AC%E4%B8%89%E5%9B%A2&lang=zh&timestamp=1725681898&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11328" alt="【L4D2】（#002）生还者之战 | 第三团" title="【L4D2】（#002）生还者之战 | 第三团">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
