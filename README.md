@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：潛淵第三團 Part 21.5](https://www.twitch.tv/videos/2250123305)
+- [精选内容：潛淵第三團 Part 21](https://www.twitch.tv/videos/2250123072)
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 雜魚也想打基因！ 第三海域基因流？](https://www.twitch.tv/videos/2249951354)
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 雜魚也想打基因！ 第三海域基因流？](https://www.twitch.tv/videos/2249917023)
 - [精选内容：林间盃日麻积分赛 —— 9月第二场](https://www.twitch.tv/videos/2249249734)
-- [精选内容：潛淵第三團 Part 20](https://www.twitch.tv/videos/2249249537)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 一個半莊平均就只有1~2次是你進攻的時刻，其他時間只要坐著看戲看別人表演自摸點炮就行。](https://www.twitch.tv/videos/2248276015)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 箱子整理完了，來打打看owob](https://www.twitch.tv/videos/2245821137)
-- [精选内容：潛淵第三團 Part 19](https://www.twitch.tv/videos/2245673165)
 <!-- TWITCH:END -->
 
 
