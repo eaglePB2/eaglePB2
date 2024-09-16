@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=79lbp1lu8Dw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=79lbp1lu8Dw&title=%E3%80%90Supermarket+Together%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%96%8B%E9%9B%9C%E8%B2%A8%E5%BA%97%E6%99%82%E9%96%93%EF%BC%81%E9%80%99%E5%BA%97%E5%88%B0%E5%BA%95%E7%A9%A9%E4%B8%8D%E7%A9%A9%E5%95%A6%28%3F&lang=zh&timestamp=1726467834&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8908">
+    <img src="https://ytcards.demolab.com/?id=79lbp1lu8Dw&title=%E3%80%90Supermarket+Together%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%96%8B%E9%9B%9C%E8%B2%A8%E5%BA%97%E6%99%82%E9%96%93%EF%BC%81%E9%80%99%E5%BA%97%E5%88%B0%E5%BA%95%E7%A9%A9%E4%B8%8D%E7%A9%A9%E5%95%A6%28%3F&lang=zh&timestamp=1726467834&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8908" alt="【Supermarket Together】（#000）開雜貨店時間！這店到底穩不穩啦(?" title="【Supermarket Together】（#000）開雜貨店時間！這店到底穩不穩啦(?">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=eF3NS4LP_3Q">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eF3NS4LP_3Q&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23013%EF%BC%89%E9%9B%9C%E9%AD%9A%E4%B9%9F%E6%83%B3%E5%8D%A0%E5%9C%B0%E7%82%BA%E5%B7%A2%EF%BC%81%E9%80%86%E6%B5%81%E8%80%8C%E4%B8%8A%E7%9A%84%E9%9B%9C%E9%AD%9A%E8%99%9F%EF%BC%81+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1726378144&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10024">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kVzigf3JSPE&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23009%EF%BC%89%E4%B8%80%E5%A4%A9%E5%8F%AA%E8%83%BD%E8%BD%89%E4%B8%80%E5%80%8B%E9%BB%9E%EF%BC%8C%E6%9E%9C%E7%84%B6%E9%9B%9C%E9%AD%9A%E9%82%84%E6%98%AF%E6%A2%9D%E9%9B%9C%E9%AD%9A+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1726036118&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12073">
     <img src="https://ytcards.demolab.com/?id=kVzigf3JSPE&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23009%EF%BC%89%E4%B8%80%E5%A4%A9%E5%8F%AA%E8%83%BD%E8%BD%89%E4%B8%80%E5%80%8B%E9%BB%9E%EF%BC%8C%E6%9E%9C%E7%84%B6%E9%9B%9C%E9%AD%9A%E9%82%84%E6%98%AF%E6%A2%9D%E9%9B%9C%E9%AD%9A+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1726036118&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12073" alt="【Barotrauma // 潛淵症】（#009）一天只能轉一個點，果然雜魚還是條雜魚 | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#009）一天只能轉一個點，果然雜魚還是條雜魚 | Ft. 雜魚團">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=yaze1z-jwvw">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yaze1z-jwvw&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23008%EF%BC%89%E6%B5%B7%E5%BA%95%E5%B0%8D%E4%B8%80%E7%BE%A4%E9%9B%9C%E9%AD%9A%E4%BE%86%E8%AA%AC%EF%BC%8C%E6%98%AF%E6%9C%89%E5%A4%A0%E5%86%B7%E7%9A%84+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725942532&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11587">
-    <img src="https://ytcards.demolab.com/?id=yaze1z-jwvw&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23008%EF%BC%89%E6%B5%B7%E5%BA%95%E5%B0%8D%E4%B8%80%E7%BE%A4%E9%9B%9C%E9%AD%9A%E4%BE%86%E8%AA%AC%EF%BC%8C%E6%98%AF%E6%9C%89%E5%A4%A0%E5%86%B7%E7%9A%84+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1725942532&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11587" alt="【Barotrauma // 潛淵症】（#008）海底對一群雜魚來説，是有夠冷的 | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#008）海底對一群雜魚來説，是有夠冷的 | Ft. 雜魚團">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
