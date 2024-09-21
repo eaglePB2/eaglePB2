@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=hG7M_CZpMAA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hG7M_CZpMAA&title=%E3%80%90Deadlock%E3%80%91%EF%BC%88%23000%EF%BC%89Deadlock%E8%A7%A3%E7%A6%81%EF%BC%81%E7%BB%88%E4%BA%8E%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%92%AD%E8%AF%95%E7%8E%A9%E8%BF%99%E6%B8%B8%E6%88%8F%E4%BA%86+awa%21+%E8%AF%9D%E8%AF%B4%E8%BF%99%E9%82%80%E8%AF%B7%E5%88%B6%E6%B8%B8%E6%88%8F%E6%80%8E%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E7%97%85%E6%AF%92%E4%B8%80%E6%A0%B7%E4%BC%A0%E6%92%AD%E5%95%8Aowo%3F&lang=zh&timestamp=1726898201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13173">
+    <img src="https://ytcards.demolab.com/?id=hG7M_CZpMAA&title=%E3%80%90Deadlock%E3%80%91%EF%BC%88%23000%EF%BC%89Deadlock%E8%A7%A3%E7%A6%81%EF%BC%81%E7%BB%88%E4%BA%8E%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%92%AD%E8%AF%95%E7%8E%A9%E8%BF%99%E6%B8%B8%E6%88%8F%E4%BA%86+awa%21+%E8%AF%9D%E8%AF%B4%E8%BF%99%E9%82%80%E8%AF%B7%E5%88%B6%E6%B8%B8%E6%88%8F%E6%80%8E%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E7%97%85%E6%AF%92%E4%B8%80%E6%A0%B7%E4%BC%A0%E6%92%AD%E5%95%8Aowo%3F&lang=zh&timestamp=1726898201&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13173" alt="【Deadlock】（#000）Deadlock解禁！终于可以直播试玩这游戏了 awa! 话说这邀请制游戏怎么越来越像病毒一样传播啊owo?" title="【Deadlock】（#000）Deadlock解禁！终于可以直播试玩这游戏了 awa! 话说这邀请制游戏怎么越来越像病毒一样传播啊owo?">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=BUoLsoBpo4c">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BUoLsoBpo4c&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23017%EF%BC%89%E7%95%B6%E9%9B%9C%E9%AD%9A%E7%99%BC%E7%8F%BE%E8%BC%89%E8%B2%A8%E6%BB%91%E6%9D%BF%E8%BB%8A%E5%8F%AF%E6%9B%BF%E8%83%8C%E5%8C%85%E6%99%82%E2%80%A6%E2%80%A6+%E4%B8%80%E5%88%87%E9%83%BD%E5%80%BC%E5%BE%97%E4%BA%86owo%E2%80%A6%E2%80%A6+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1726800804&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9690">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=79lbp1lu8Dw&title=%E3%80%90Supermarket+Together%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%96%8B%E9%9B%9C%E8%B2%A8%E5%BA%97%E6%99%82%E9%96%93%EF%BC%81%E9%80%99%E5%BA%97%E5%88%B0%E5%BA%95%E7%A9%A9%E4%B8%8D%E7%A9%A9%E5%95%A6%28%3F&lang=zh&timestamp=1726467834&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8908">
     <img src="https://ytcards.demolab.com/?id=79lbp1lu8Dw&title=%E3%80%90Supermarket+Together%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%96%8B%E9%9B%9C%E8%B2%A8%E5%BA%97%E6%99%82%E9%96%93%EF%BC%81%E9%80%99%E5%BA%97%E5%88%B0%E5%BA%95%E7%A9%A9%E4%B8%8D%E7%A9%A9%E5%95%A6%28%3F&lang=zh&timestamp=1726467834&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8908" alt="【Supermarket Together】（#000）開雜貨店時間！這店到底穩不穩啦(?" title="【Supermarket Together】（#000）開雜貨店時間！這店到底穩不穩啦(?">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=eF3NS4LP_3Q">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eF3NS4LP_3Q&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23013%EF%BC%89%E9%9B%9C%E9%AD%9A%E4%B9%9F%E6%83%B3%E5%8D%A0%E5%9C%B0%E7%82%BA%E5%B7%A2%EF%BC%81%E9%80%86%E6%B5%81%E8%80%8C%E4%B8%8A%E7%9A%84%E9%9B%9C%E9%AD%9A%E8%99%9F%EF%BC%81+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1726378144&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10024">
-    <img src="https://ytcards.demolab.com/?id=eF3NS4LP_3Q&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23013%EF%BC%89%E9%9B%9C%E9%AD%9A%E4%B9%9F%E6%83%B3%E5%8D%A0%E5%9C%B0%E7%82%BA%E5%B7%A2%EF%BC%81%E9%80%86%E6%B5%81%E8%80%8C%E4%B8%8A%E7%9A%84%E9%9B%9C%E9%AD%9A%E8%99%9F%EF%BC%81+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1726378144&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10024" alt="【Barotrauma // 潛淵症】（#013）雜魚也想占地為巢！逆流而上的雜魚號！ | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#013）雜魚也想占地為巢！逆流而上的雜魚號！ | Ft. 雜魚團">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
