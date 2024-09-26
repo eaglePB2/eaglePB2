@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 刺殺成功 雜魚開始第三團！](https://www.twitch.tv/videos/2259948034)
 - [精选内容：潛淵第三團 Part 26](https://www.twitch.tv/videos/2258196195)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 刺殺成功 雜魚開始第四海域！](https://www.twitch.tv/videos/2257531419)
 - [精选内容：林间盃日麻积分赛 —— 9月第三场](https://www.twitch.tv/videos/2256830780)
 - [精选内容：潛淵第三團 Part 25](https://www.twitch.tv/videos/2256830194)
-- [精选内容：潛淵第三團 Part 24](https://www.twitch.tv/videos/2256830052)
 <!-- TWITCH:END -->
 
 
