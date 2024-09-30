@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=WuZgDQ8nye4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WuZgDQ8nye4&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23025%EF%BC%89%E9%9B%9C%E9%AD%9A%E7%9A%84%E7%87%9F%E6%95%91%E6%9C%8D%E5%8B%99%EF%BC%81%E6%80%8E%E9%BA%BD%E6%8A%8A%E4%BA%BA%E8%B3%AA%E7%83%A4%E4%BA%86%E5%95%8A%E5%96%82%EF%BC%9F+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727679233&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16641">
+    <img src="https://ytcards.demolab.com/?id=WuZgDQ8nye4&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23025%EF%BC%89%E9%9B%9C%E9%AD%9A%E7%9A%84%E7%87%9F%E6%95%91%E6%9C%8D%E5%8B%99%EF%BC%81%E6%80%8E%E9%BA%BD%E6%8A%8A%E4%BA%BA%E8%B3%AA%E7%83%A4%E4%BA%86%E5%95%8A%E5%96%82%EF%BC%9F+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727679233&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16641" alt="【Barotrauma // 潛淵症】（#025）雜魚的營救服務！怎麽把人質烤了啊喂？ | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#025）雜魚的營救服務！怎麽把人質烤了啊喂？ | Ft. 雜魚團">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=r7KDtOaFrus">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r7KDtOaFrus&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23024%EF%BC%89%E7%B5%82%E6%A5%B5%E7%8E%A9%E7%AC%91%E5%B7%B2%E8%A7%A3%E6%B1%BA%EF%BC%8C%E9%9B%9C%E9%AD%9A%E5%B8%AE%E8%B6%8A%E7%8D%84%E5%BC%80%E5%A7%8B%EF%BC%81+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727600123&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21930">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=izbqK8RX2qQ&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23020%EF%BC%89%E8%81%BD%E9%81%8E%E7%8F%BE%E4%BB%A3%E7%89%88%E7%9A%84%E5%9F%BA%E5%9B%A0%E6%94%B9%E9%80%A0%E9%9B%9C%E9%AD%9A%E5%97%8E%EF%BC%9F%E6%B2%92%E8%81%BD%E9%81%8E%E7%9A%84%E8%A9%B1%EF%BC%8C%E7%8F%BE%E5%9C%A8%E5%B0%B1%E8%AE%93%E4%BD%A0%E7%9C%8B%E7%9C%8B%E4%BB%80%E9%BA%BD%E6%98%AF%E5%9F%BA%E5%9B%A0%E6%94%B9%E8%89%AF%E5%8C%96%E7%9A%84%E9%9B%9C%E9%AD%9A+owob+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727237387&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11895">
     <img src="https://ytcards.demolab.com/?id=izbqK8RX2qQ&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23020%EF%BC%89%E8%81%BD%E9%81%8E%E7%8F%BE%E4%BB%A3%E7%89%88%E7%9A%84%E5%9F%BA%E5%9B%A0%E6%94%B9%E9%80%A0%E9%9B%9C%E9%AD%9A%E5%97%8E%EF%BC%9F%E6%B2%92%E8%81%BD%E9%81%8E%E7%9A%84%E8%A9%B1%EF%BC%8C%E7%8F%BE%E5%9C%A8%E5%B0%B1%E8%AE%93%E4%BD%A0%E7%9C%8B%E7%9C%8B%E4%BB%80%E9%BA%BD%E6%98%AF%E5%9F%BA%E5%9B%A0%E6%94%B9%E8%89%AF%E5%8C%96%E7%9A%84%E9%9B%9C%E9%AD%9A+owob+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727237387&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11895" alt="【Barotrauma // 潛淵症】（#020）聽過現代版的基因改造雜魚嗎？沒聽過的話，現在就讓你看看什麽是基因改良化的雜魚 owob | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#020）聽過現代版的基因改造雜魚嗎？沒聽過的話，現在就讓你看看什麽是基因改良化的雜魚 owob | Ft. 雜魚團">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=n05N5vkLg8k">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=n05N5vkLg8k&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23019%EF%BC%89barocraftables%2B+%E4%B8%8A%E7%B6%AB%EF%BC%81+%E7%84%B6%E5%BE%8C%E9%9B%9C%E9%AD%9A%E5%80%91%E8%A6%81%E8%A2%AB%E9%80%99%E5%9C%98%E7%8E%A9%E5%A3%9E%E4%BA%86+OAO+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727155057&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11241">
-    <img src="https://ytcards.demolab.com/?id=n05N5vkLg8k&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23019%EF%BC%89barocraftables%2B+%E4%B8%8A%E7%B6%AB%EF%BC%81+%E7%84%B6%E5%BE%8C%E9%9B%9C%E9%AD%9A%E5%80%91%E8%A6%81%E8%A2%AB%E9%80%99%E5%9C%98%E7%8E%A9%E5%A3%9E%E4%BA%86+OAO+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727155057&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11241" alt="【Barotrauma // 潛淵症】（#019）barocraftables+ 上綫！ 然後雜魚們要被這團玩壞了 OAO | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#019）barocraftables+ 上綫！ 然後雜魚們要被這團玩壞了 OAO | Ft. 雜魚團">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
