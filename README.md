@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=wtE3QGDogs4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wtE3QGDogs4&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23026%EF%BC%89%E9%9B%9C%E9%AD%9A%E7%9A%84%E7%A5%9E%E6%AE%BF%E5%86%92%E9%99%A9%EF%BC%81%E5%8D%8A%E8%87%AA%E5%8A%A8%E9%9C%B0%E5%BC%B9%E6%9E%AA%E5%B1%85%E7%84%B6%E6%98%AF%E7%89%88%E6%9C%AC%E6%9C%80%E5%BC%BA%EF%BC%9F+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727766130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17714">
+    <img src="https://ytcards.demolab.com/?id=wtE3QGDogs4&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23026%EF%BC%89%E9%9B%9C%E9%AD%9A%E7%9A%84%E7%A5%9E%E6%AE%BF%E5%86%92%E9%99%A9%EF%BC%81%E5%8D%8A%E8%87%AA%E5%8A%A8%E9%9C%B0%E5%BC%B9%E6%9E%AA%E5%B1%85%E7%84%B6%E6%98%AF%E7%89%88%E6%9C%AC%E6%9C%80%E5%BC%BA%EF%BC%9F+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727766130&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17714" alt="【Barotrauma // 潛淵症】（#026）雜魚的神殿冒险！半自动霰弹枪居然是版本最强？ | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#026）雜魚的神殿冒险！半自动霰弹枪居然是版本最强？ | Ft. 雜魚團">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=WuZgDQ8nye4">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WuZgDQ8nye4&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23025%EF%BC%89%E9%9B%9C%E9%AD%9A%E7%9A%84%E7%87%9F%E6%95%91%E6%9C%8D%E5%8B%99%EF%BC%81%E6%80%8E%E9%BA%BD%E6%8A%8A%E4%BA%BA%E8%B3%AA%E7%83%A4%E4%BA%86%E5%95%8A%E5%96%82%EF%BC%9F+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727679233&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16641">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lPPlhlvxsjw&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23021%EF%BC%89%E9%9B%9C%E9%AD%9A%E4%B9%9F%E6%83%B3%E6%89%93%E5%9F%BA%E5%9B%A0%EF%BC%81+%E7%AC%AC%E4%B8%89%E6%B5%B7%E5%9F%9F%E5%9F%BA%E5%9B%A0%E6%B5%81%EF%BC%9F+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727382471&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19750">
     <img src="https://ytcards.demolab.com/?id=lPPlhlvxsjw&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23021%EF%BC%89%E9%9B%9C%E9%AD%9A%E4%B9%9F%E6%83%B3%E6%89%93%E5%9F%BA%E5%9B%A0%EF%BC%81+%E7%AC%AC%E4%B8%89%E6%B5%B7%E5%9F%9F%E5%9F%BA%E5%9B%A0%E6%B5%81%EF%BC%9F+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727382471&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19750" alt="【Barotrauma // 潛淵症】（#021）雜魚也想打基因！ 第三海域基因流？ | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#021）雜魚也想打基因！ 第三海域基因流？ | Ft. 雜魚團">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=izbqK8RX2qQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=izbqK8RX2qQ&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23020%EF%BC%89%E8%81%BD%E9%81%8E%E7%8F%BE%E4%BB%A3%E7%89%88%E7%9A%84%E5%9F%BA%E5%9B%A0%E6%94%B9%E9%80%A0%E9%9B%9C%E9%AD%9A%E5%97%8E%EF%BC%9F%E6%B2%92%E8%81%BD%E9%81%8E%E7%9A%84%E8%A9%B1%EF%BC%8C%E7%8F%BE%E5%9C%A8%E5%B0%B1%E8%AE%93%E4%BD%A0%E7%9C%8B%E7%9C%8B%E4%BB%80%E9%BA%BD%E6%98%AF%E5%9F%BA%E5%9B%A0%E6%94%B9%E8%89%AF%E5%8C%96%E7%9A%84%E9%9B%9C%E9%AD%9A+owob+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727237387&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11895">
-    <img src="https://ytcards.demolab.com/?id=izbqK8RX2qQ&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23020%EF%BC%89%E8%81%BD%E9%81%8E%E7%8F%BE%E4%BB%A3%E7%89%88%E7%9A%84%E5%9F%BA%E5%9B%A0%E6%94%B9%E9%80%A0%E9%9B%9C%E9%AD%9A%E5%97%8E%EF%BC%9F%E6%B2%92%E8%81%BD%E9%81%8E%E7%9A%84%E8%A9%B1%EF%BC%8C%E7%8F%BE%E5%9C%A8%E5%B0%B1%E8%AE%93%E4%BD%A0%E7%9C%8B%E7%9C%8B%E4%BB%80%E9%BA%BD%E6%98%AF%E5%9F%BA%E5%9B%A0%E6%94%B9%E8%89%AF%E5%8C%96%E7%9A%84%E9%9B%9C%E9%AD%9A+owob+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727237387&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11895" alt="【Barotrauma // 潛淵症】（#020）聽過現代版的基因改造雜魚嗎？沒聽過的話，現在就讓你看看什麽是基因改良化的雜魚 owob | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#020）聽過現代版的基因改造雜魚嗎？沒聽過的話，現在就讓你看看什麽是基因改良化的雜魚 owob | Ft. 雜魚團">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
