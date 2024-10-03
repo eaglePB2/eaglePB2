@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=urG6tCTHv00">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=urG6tCTHv00&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23028%EF%BC%89%E4%B2%9F%E9%AD%9A%E8%99%9F%EF%BC%8C%E8%B5%B7%E8%88%AA%EF%BC%81barocraftables%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%80%8E%E9%BA%BD%E6%94%B9%E5%86%85%E8%A3%9D%EF%BC%8C%E8%AE%93%E9%9B%9C%E9%AD%9A%E5%86%8D%E6%AC%A1%E5%81%89%E5%A4%A7%EF%BC%81%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727944883&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24353">
+    <img src="https://ytcards.demolab.com/?id=urG6tCTHv00&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23028%EF%BC%89%E4%B2%9F%E9%AD%9A%E8%99%9F%EF%BC%8C%E8%B5%B7%E8%88%AA%EF%BC%81barocraftables%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%80%8E%E9%BA%BD%E6%94%B9%E5%86%85%E8%A3%9D%EF%BC%8C%E8%AE%93%E9%9B%9C%E9%AD%9A%E5%86%8D%E6%AC%A1%E5%81%89%E5%A4%A7%EF%BC%81%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727944883&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=24353" alt="【Barotrauma // 潛淵症】（#028）䲟魚號，起航！barocraftables手把手教你怎麽改内裝，讓雜魚再次偉大！| Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#028）䲟魚號，起航！barocraftables手把手教你怎麽改内裝，讓雜魚再次偉大！| Ft. 雜魚團">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=B7MMy_KDkQc">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B7MMy_KDkQc&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23027%EF%BC%89%E9%9B%9C%E9%AD%9A%E6%83%B3%E7%9C%8B%E9%BB%91%E6%B4%9E%E5%90%97%EF%BC%9F%E8%BF%99%E9%87%8C%E7%9A%84%E6%9C%88%E4%BA%AE%E5%BE%88%E6%BC%82%E4%BA%AE%EF%BC%8C%E5%B0%B1%E6%98%AF%E5%A4%A7%E4%BA%86%E7%82%B9%E3%80%82+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727844219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11471">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4xVHqQlE-7M&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23023%EF%BC%89%E9%9B%9C%E9%AD%9A%E9%80%86%E6%B5%81%E6%AD%B7%E9%9A%AA%E8%A8%98%EF%BC%8C%E5%8D%83%E9%87%8C%E8%BF%A2%E8%BF%A2%E5%B0%B1%E4%B8%BA%E4%BA%86%E6%88%90%E7%AB%8B%E5%B0%8F%E4%B8%91%E6%B8%AF%E9%83%BD+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727509684&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20919">
     <img src="https://ytcards.demolab.com/?id=4xVHqQlE-7M&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23023%EF%BC%89%E9%9B%9C%E9%AD%9A%E9%80%86%E6%B5%81%E6%AD%B7%E9%9A%AA%E8%A8%98%EF%BC%8C%E5%8D%83%E9%87%8C%E8%BF%A2%E8%BF%A2%E5%B0%B1%E4%B8%BA%E4%BA%86%E6%88%90%E7%AB%8B%E5%B0%8F%E4%B8%91%E6%B8%AF%E9%83%BD+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727509684&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20919" alt="【Barotrauma // 潛淵症】（#023）雜魚逆流歷險記，千里迢迢就为了成立小丑港都 | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#023）雜魚逆流歷險記，千里迢迢就为了成立小丑港都 | Ft. 雜魚團">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=g8naOE4VkEE">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=g8naOE4VkEE&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23022%EF%BC%89%E9%9B%9C%E9%AD%9A%E7%9A%84%E7%BB%88%E7%BA%A7%E7%8E%A9%E7%AC%91%EF%BC%81%E4%BB%8E%E7%AC%AC%E4%B8%89%E6%B5%B7%E5%9F%9F%E9%80%86%E6%B5%81%E5%9B%9E%E7%AC%AC%E4%B8%80%E6%B5%B7%E5%9F%9F%EF%BC%81+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727422811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20392">
-    <img src="https://ytcards.demolab.com/?id=g8naOE4VkEE&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23022%EF%BC%89%E9%9B%9C%E9%AD%9A%E7%9A%84%E7%BB%88%E7%BA%A7%E7%8E%A9%E7%AC%91%EF%BC%81%E4%BB%8E%E7%AC%AC%E4%B8%89%E6%B5%B7%E5%9F%9F%E9%80%86%E6%B5%81%E5%9B%9E%E7%AC%AC%E4%B8%80%E6%B5%B7%E5%9F%9F%EF%BC%81+%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1727422811&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20392" alt="【Barotrauma // 潛淵症】（#022）雜魚的终级玩笑！从第三海域逆流回第一海域！ | Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#022）雜魚的终级玩笑！从第三海域逆流回第一海域！ | Ft. 雜魚團">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
