@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 這個月的日麻比賽，是個很特別的一個月。](https://www.twitch.tv/videos/2265707576)
 - [精选内容：潛淵第三團 Part 29](https://www.twitch.tv/videos/2263532491)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 第四海域打滾中](https://www.twitch.tv/videos/2263323537)
 - [精选内容：潛淵第三團 Part 28](https://www.twitch.tv/videos/2262733238)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 第四海域打滾中](https://www.twitch.tv/videos/2262450024)
-- [精选内容：潛淵第三團 Part 27](https://www.twitch.tv/videos/2262157074)
 <!-- TWITCH:END -->
 
 
