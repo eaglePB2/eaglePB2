@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 贸易路线解锁 T2任务开始！](https://www.twitch.tv/videos/2269854752)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 林間七日殺 重磅回歸！](https://www.twitch.tv/videos/2269060102)
-- [精选内容：潛淵第三團 Part 31](https://www.twitch.tv/videos/2268308681)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 伺服器頂不順了，趕快衝到第五海域](https://www.twitch.tv/videos/2268177335)
-- [精选内容：潛淵第三團 Part 30](https://www.twitch.tv/videos/2267900757)
+- [【7D2D // 七日殺 V1.1】 Part 3](https://www.twitch.tv/videos/2270930352)
+- [【7D2D // 七日殺 V1.1】 Part 2](https://www.twitch.tv/videos/2270930147)
+- [【7D2D // 七日殺 V1.1】 Part 1](https://www.twitch.tv/videos/2270929988)
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 好消息：有保家；坏消息：要等两个月](https://www.twitch.tv/videos/2270678000)
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 好消息：有保家；坏消息：要等两个月](https://www.twitch.tv/videos/2270675857)
 <!-- TWITCH:END -->
 
 
