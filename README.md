@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 翻译系统上线啦！只需输入 !translate 就可以翻译成英文，这样我就看得懂所有语言了呢！](https://www.twitch.tv/videos/2271521940)
 - [【7D2D // 七日殺 V1.1】 Part 3](https://www.twitch.tv/videos/2270930352)
 - [【7D2D // 七日殺 V1.1】 Part 2](https://www.twitch.tv/videos/2270930147)
 - [【7D2D // 七日殺 V1.1】 Part 1](https://www.twitch.tv/videos/2270929988)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 好消息：有保家；坏消息：要等两个月](https://www.twitch.tv/videos/2270678000)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 好消息：有保家；坏消息：要等两个月](https://www.twitch.tv/videos/2270675857)
 <!-- TWITCH:END -->
 
 
