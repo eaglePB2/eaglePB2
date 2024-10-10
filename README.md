@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=SpnwfEpTphA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SpnwfEpTphA&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+4+%7C+DarQ&lang=zh&timestamp=1728535542&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9436">
+    <img src="https://ytcards.demolab.com/?id=SpnwfEpTphA&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+4+%7C+DarQ&lang=zh&timestamp=1728535542&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9436" alt="【🎃 2023 林間傳統 🎃】Game 4 | DarQ" title="【🎃 2023 林間傳統 🎃】Game 4 | DarQ">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=a-JbEI1WR_8">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=a-JbEI1WR_8&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+3+%7C+Dark+Deception&lang=zh&timestamp=1728465945&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25552">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sCMQ6MdOFPE&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23031%EF%BC%89%E9%9B%9C%E9%AD%9A%E6%8C%91%E6%88%B0%E6%AD%90%E7%BE%85%E5%B7%B4%E4%B9%8B%E7%9C%BC%EF%BC%81%E9%80%99%E5%B0%B1%E6%98%AF%E6%9C%80%E5%BE%8C%E7%9A%84%E5%BE%AA%E7%92%B0%E4%BA%86%E5%97%8E%EF%BC%9F%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1728202433&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12567">
     <img src="https://ytcards.demolab.com/?id=sCMQ6MdOFPE&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23031%EF%BC%89%E9%9B%9C%E9%AD%9A%E6%8C%91%E6%88%B0%E6%AD%90%E7%BE%85%E5%B7%B4%E4%B9%8B%E7%9C%BC%EF%BC%81%E9%80%99%E5%B0%B1%E6%98%AF%E6%9C%80%E5%BE%8C%E7%9A%84%E5%BE%AA%E7%92%B0%E4%BA%86%E5%97%8E%EF%BC%9F%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1728202433&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12567" alt="【Barotrauma // 潛淵症】（#031）雜魚挑戰歐羅巴之眼！這就是最後的循環了嗎？| Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#031）雜魚挑戰歐羅巴之眼！這就是最後的循環了嗎？| Ft. 雜魚團">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=r887vYUfijU">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r887vYUfijU&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23030%EF%BC%89%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%BC%BA%E6%9C%8D%E5%99%A8+%E5%8D%81%E5%88%86%E8%A8%8E%E5%8E%AD%E9%9B%9C%E9%AD%9A%E5%91%A2~%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1728112812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11129">
-    <img src="https://ytcards.demolab.com/?id=r887vYUfijU&title=%E3%80%90Barotrauma+%2F%2F+%E6%BD%9B%E6%B7%B5%E7%97%87%E3%80%91%EF%BC%88%23030%EF%BC%89%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%BC%BA%E6%9C%8D%E5%99%A8+%E5%8D%81%E5%88%86%E8%A8%8E%E5%8E%AD%E9%9B%9C%E9%AD%9A%E5%91%A2~%7C+Ft.+%E9%9B%9C%E9%AD%9A%E5%9C%98&lang=zh&timestamp=1728112812&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11129" alt="【Barotrauma // 潛淵症】（#030）今天的伺服器 十分討厭雜魚呢~| Ft. 雜魚團" title="【Barotrauma // 潛淵症】（#030）今天的伺服器 十分討厭雜魚呢~| Ft. 雜魚團">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
