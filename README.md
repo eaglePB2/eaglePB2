@@ -33,10 +33,16 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=Vn6ahXQn7Hk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vn6ahXQn7Hk&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+6+%7C+%E5%A5%B3%E9%AC%BC%E6%A9%8B+%C2%B7+%E9%96%8B%E9%AD%82%E8%B7%AF&lang=zh&timestamp=1728727013&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15272">
+    <img src="https://ytcards.demolab.com/?id=Vn6ahXQn7Hk&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+6+%7C+%E5%A5%B3%E9%AC%BC%E6%A9%8B+%C2%B7+%E9%96%8B%E9%AD%82%E8%B7%AF&lang=zh&timestamp=1728727013&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15272" alt="【🎃 2023 林間傳統 🎃】Game 6 | 女鬼橋 · 開魂路" title="【🎃 2023 林間傳統 🎃】Game 6 | 女鬼橋 · 開魂路">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=W0nEFNVAUaw">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W0nEFNVAUaw&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+5+%7C+Happy+Game+%28Speedrun%29&lang=zh&timestamp=1728614658&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5459">
-    <img src="https://ytcards.demolab.com/?id=W0nEFNVAUaw&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+5+%7C+Happy+Game+%28Speedrun%29&lang=zh&timestamp=1728614658&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5459" alt="【🎃 2023 林間傳統 🎃】Game 5 | Happy Game (Speedrun)" title="【🎃 2023 林間傳統 🎃】Game 5 | Happy Game (Speedrun)">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W0nEFNVAUaw&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+5+%7C+Happy+Game+%28Speedrun%29&lang=zh&timestamp=1728665241&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5487">
+    <img src="https://ytcards.demolab.com/?id=W0nEFNVAUaw&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+5+%7C+Happy+Game+%28Speedrun%29&lang=zh&timestamp=1728665241&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5487" alt="【🎃 2023 林間傳統 🎃】Game 5 | Happy Game (Speedrun)" title="【🎃 2023 林間傳統 🎃】Game 5 | Happy Game (Speedrun)">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=SpnwfEpTphA">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FA5j6MWIOhI&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+1+%7C+%E7%B4%99%E5%AB%81%E8%A1%A34+%C2%B7+%E7%B4%85%E7%B5%B2%E7%BA%8F&lang=zh&timestamp=1728283338&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10246">
     <img src="https://ytcards.demolab.com/?id=FA5j6MWIOhI&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+1+%7C+%E7%B4%99%E5%AB%81%E8%A1%A34+%C2%B7+%E7%B4%85%E7%B5%B2%E7%BA%8F&lang=zh&timestamp=1728283338&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10246" alt="【🎃 2023 林間傳統 🎃】Game 1 | 紙嫁衣4 · 紅絲纏" title="【🎃 2023 林間傳統 🎃】Game 1 | 紙嫁衣4 · 紅絲纏">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=gBtoRtC7P-s">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gBtoRtC7P-s&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+0+%7C+%E6%8A%BD%E7%B1%A4&lang=zh&timestamp=1728272710&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=988">
-    <img src="https://ytcards.demolab.com/?id=gBtoRtC7P-s&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+0+%7C+%E6%8A%BD%E7%B1%A4&lang=zh&timestamp=1728272710&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=988" alt="【🎃 2023 林間傳統 🎃】Game 0 | 抽籤" title="【🎃 2023 林間傳統 🎃】Game 0 | 抽籤">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
