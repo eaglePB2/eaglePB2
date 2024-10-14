@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 使用 !translate 來實現多國翻譯哦~](https://www.twitch.tv/videos/2274876635)
 - [精选内容：【異界戰鬥幻想】Part 2](https://www.twitch.tv/videos/2273444920)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 七咒幻想系列 啓動！](https://www.twitch.tv/videos/2273074811)
 - [精选内容：【異界戰鬥幻想】Part 1](https://www.twitch.tv/videos/2273035505)
 - [精选内容：林间盃日麻积分赛 —— 10月第二场](https://www.twitch.tv/videos/2273035333)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 七咒 vs 七日 選一個吧 !translate](https://www.twitch.tv/videos/2272369295)
 <!-- TWITCH:END -->
 
 
