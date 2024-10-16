@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=ZWD4Bk4aNco">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZWD4Bk4aNco&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAV1.1%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%AD%89%E4%BA%86%E5%8D%81%E5%B9%B4%EF%BC%8C%E6%AD%A3%E5%BC%8F%E7%89%88%E7%BB%88%E4%BA%8E%E5%87%BA%E4%BA%86%EF%BC%8C%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%98%AF%E5%8D%81%E5%B9%B4%E5%87%BA%E6%9D%A5%E7%9A%84%E4%B8%80%E5%9D%A8%E5%B0%8F%E4%B8%91%EF%BC%88%EF%BC%9F&lang=zh&timestamp=1729066123&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16022">
+    <img src="https://ytcards.demolab.com/?id=ZWD4Bk4aNco&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAV1.1%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%AD%89%E4%BA%86%E5%8D%81%E5%B9%B4%EF%BC%8C%E6%AD%A3%E5%BC%8F%E7%89%88%E7%BB%88%E4%BA%8E%E5%87%BA%E4%BA%86%EF%BC%8C%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%98%AF%E5%8D%81%E5%B9%B4%E5%87%BA%E6%9D%A5%E7%9A%84%E4%B8%80%E5%9D%A8%E5%B0%8F%E4%B8%91%EF%BC%88%EF%BC%9F&lang=zh&timestamp=1729066123&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16022" alt="【7D2D // 七日殺V1.1】（#001）等了十年，正式版终于出了，会不会是十年出来的一坨小丑（？" title="【7D2D // 七日殺V1.1】（#001）等了十年，正式版终于出了，会不会是十年出来的一坨小丑（？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=kW2hSuSmlnU">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kW2hSuSmlnU&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+9+%7C+%E7%B4%99%E5%AB%81%E8%A1%A35+%C2%B7+%E7%84%A1%E9%96%93%E5%A4%A2%E5%A2%83&lang=zh&timestamp=1728969707&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7508">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W0nEFNVAUaw&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+5+%7C+Happy+Game+%28Speedrun%29&lang=zh&timestamp=1728665241&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5487">
     <img src="https://ytcards.demolab.com/?id=W0nEFNVAUaw&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+5+%7C+Happy+Game+%28Speedrun%29&lang=zh&timestamp=1728665241&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5487" alt="【🎃 2023 林間傳統 🎃】Game 5 | Happy Game (Speedrun)" title="【🎃 2023 林間傳統 🎃】Game 5 | Happy Game (Speedrun)">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=SpnwfEpTphA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SpnwfEpTphA&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+4+%7C+DarQ&lang=zh&timestamp=1728535542&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9436">
-    <img src="https://ytcards.demolab.com/?id=SpnwfEpTphA&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+4+%7C+DarQ&lang=zh&timestamp=1728535542&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9436" alt="【🎃 2023 林間傳統 🎃】Game 4 | DarQ" title="【🎃 2023 林間傳統 🎃】Game 4 | DarQ">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
