@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=03jHEdMKCAI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=03jHEdMKCAI&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAV1.1%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%A8%99%E9%A1%8C%E5%B0%9A%E6%9C%AA%E6%83%B3%E5%88%B0%EF%BC%8C%E7%AD%89%E7%AD%89%E8%A3%9C%E4%B8%8A&lang=zh&timestamp=1729238191&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19143">
+    <img src="https://ytcards.demolab.com/?id=03jHEdMKCAI&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAV1.1%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%A8%99%E9%A1%8C%E5%B0%9A%E6%9C%AA%E6%83%B3%E5%88%B0%EF%BC%8C%E7%AD%89%E7%AD%89%E8%A3%9C%E4%B8%8A&lang=zh&timestamp=1729238191&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19143" alt="【7D2D // 七日殺V1.1】（#003）標題尚未想到，等等補上" title="【7D2D // 七日殺V1.1】（#003）標題尚未想到，等等補上">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=_h-v1Vj1iY0">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_h-v1Vj1iY0&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAV1.1%E3%80%91%EF%BC%88%23002%EF%BC%89%E8%B7%B3%E6%A5%BC%E6%9C%BA%E5%A5%BD%E5%83%8F%E8%BF%98%E6%B2%A1%E5%81%9A%E5%AE%8C+%E8%A1%80%E6%9C%88%E5%A5%BD%E5%83%8F%E8%A6%81%E6%BB%85%E5%9C%98%E4%BA%86&lang=zh&timestamp=1729147316&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15963">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QDibFRDuMsQ&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+7+%7C+%E5%BC%97%E8%90%8A%E8%BF%AA%E7%9A%84%E4%BA%94%E5%A4%9C%E5%90%8E%E5%AE%AE+%C2%B7+%E6%B1%82%E6%95%91%E4%BF%A1%E8%99%9F&lang=zh&timestamp=1728811391&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24373">
     <img src="https://ytcards.demolab.com/?id=QDibFRDuMsQ&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+7+%7C+%E5%BC%97%E8%90%8A%E8%BF%AA%E7%9A%84%E4%BA%94%E5%A4%9C%E5%90%8E%E5%AE%AE+%C2%B7+%E6%B1%82%E6%95%91%E4%BF%A1%E8%99%9F&lang=zh&timestamp=1728811391&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=24373" alt="【🎃 2023 林間傳統 🎃】Game 7 | 弗萊迪的五夜后宮 · 求救信號" title="【🎃 2023 林間傳統 🎃】Game 7 | 弗萊迪的五夜后宮 · 求救信號">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=Vn6ahXQn7Hk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vn6ahXQn7Hk&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+6+%7C+%E5%A5%B3%E9%AC%BC%E6%A9%8B+%C2%B7+%E9%96%8B%E9%AD%82%E8%B7%AF&lang=zh&timestamp=1728727013&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15272">
-    <img src="https://ytcards.demolab.com/?id=Vn6ahXQn7Hk&title=%E3%80%90%F0%9F%8E%83+2023+%E6%9E%97%E9%96%93%E5%82%B3%E7%B5%B1+%F0%9F%8E%83%E3%80%91Game+6+%7C+%E5%A5%B3%E9%AC%BC%E6%A9%8B+%C2%B7+%E9%96%8B%E9%AD%82%E8%B7%AF&lang=zh&timestamp=1728727013&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15272" alt="【🎃 2023 林間傳統 🎃】Game 6 | 女鬼橋 · 開魂路" title="【🎃 2023 林間傳統 🎃】Game 6 | 女鬼橋 · 開魂路">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
