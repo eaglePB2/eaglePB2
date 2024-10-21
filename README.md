@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=z9etUSxd91Y">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z9etUSxd91Y&title=%E3%80%90%E7%95%B0%E7%95%8C%E6%88%B0%E9%AC%A5%E5%B9%BB%E6%83%B3%E3%80%91%EF%BC%88%23003%EF%BC%89%E4%BD%BF%E5%BE%92%E7%AC%AC%E4%B8%80%E6%88%B0+%E5%95%93%E5%8B%95%EF%BC%81+%7C+DC%E6%9C%83%E5%93%A1%E8%A9%A6%E7%9C%8B%E7%AF%87&lang=zh&timestamp=1729503006&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=29819">
+    <img src="https://ytcards.demolab.com/?id=z9etUSxd91Y&title=%E3%80%90%E7%95%B0%E7%95%8C%E6%88%B0%E9%AC%A5%E5%B9%BB%E6%83%B3%E3%80%91%EF%BC%88%23003%EF%BC%89%E4%BD%BF%E5%BE%92%E7%AC%AC%E4%B8%80%E6%88%B0+%E5%95%93%E5%8B%95%EF%BC%81+%7C+DC%E6%9C%83%E5%93%A1%E8%A9%A6%E7%9C%8B%E7%AF%87&lang=zh&timestamp=1729503006&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=29819" alt="【異界戰鬥幻想】（#003）使徒第一戰 啓動！ | DC會員試看篇" title="【異界戰鬥幻想】（#003）使徒第一戰 啓動！ | DC會員試看篇">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=EhMqmHLKGlc">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EhMqmHLKGlc&title=%E5%9C%A8%E6%BC%AB%E6%BC%AB%E9%95%BF%E5%A4%9C%E8%A2%AB%E7%86%8A%E6%9A%B4%E6%89%933%E6%AC%A1%EF%BC%8C%E4%BB%8E%E7%A5%9E%E8%A3%85%E4%B8%80%E8%B7%AF%E8%A2%AB%E6%89%93%E5%88%B0%E6%AD%BB%E2%80%A6%E2%80%A6&lang=zh&timestamp=1729420147&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=57">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_h-v1Vj1iY0&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAV1.1%E3%80%91%EF%BC%88%23002%EF%BC%89%E8%B7%B3%E6%A5%BC%E6%9C%BA%E5%A5%BD%E5%83%8F%E8%BF%98%E6%B2%A1%E5%81%9A%E5%AE%8C+%E8%A1%80%E6%9C%88%E5%A5%BD%E5%83%8F%E8%A6%81%E6%BB%85%E5%9C%98%E4%BA%86&lang=zh&timestamp=1729147316&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15963">
     <img src="https://ytcards.demolab.com/?id=_h-v1Vj1iY0&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAV1.1%E3%80%91%EF%BC%88%23002%EF%BC%89%E8%B7%B3%E6%A5%BC%E6%9C%BA%E5%A5%BD%E5%83%8F%E8%BF%98%E6%B2%A1%E5%81%9A%E5%AE%8C+%E8%A1%80%E6%9C%88%E5%A5%BD%E5%83%8F%E8%A6%81%E6%BB%85%E5%9C%98%E4%BA%86&lang=zh&timestamp=1729147316&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15963" alt="【7D2D // 七日殺V1.1】（#002）跳楼机好像还没做完 血月好像要滅團了" title="【7D2D // 七日殺V1.1】（#002）跳楼机好像还没做完 血月好像要滅團了">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=ZWD4Bk4aNco">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZWD4Bk4aNco&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAV1.1%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%AD%89%E4%BA%86%E5%8D%81%E5%B9%B4%EF%BC%8C%E6%AD%A3%E5%BC%8F%E7%89%88%E7%BB%88%E4%BA%8E%E5%87%BA%E4%BA%86%EF%BC%8C%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%98%AF%E5%8D%81%E5%B9%B4%E5%87%BA%E6%9D%A5%E7%9A%84%E4%B8%80%E5%9D%A8%E5%B0%8F%E4%B8%91%EF%BC%88%EF%BC%9F&lang=zh&timestamp=1729066123&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16022">
-    <img src="https://ytcards.demolab.com/?id=ZWD4Bk4aNco&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAV1.1%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%AD%89%E4%BA%86%E5%8D%81%E5%B9%B4%EF%BC%8C%E6%AD%A3%E5%BC%8F%E7%89%88%E7%BB%88%E4%BA%8E%E5%87%BA%E4%BA%86%EF%BC%8C%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%98%AF%E5%8D%81%E5%B9%B4%E5%87%BA%E6%9D%A5%E7%9A%84%E4%B8%80%E5%9D%A8%E5%B0%8F%E4%B8%91%EF%BC%88%EF%BC%9F&lang=zh&timestamp=1729066123&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16022" alt="【7D2D // 七日殺V1.1】（#001）等了十年，正式版终于出了，会不会是十年出来的一坨小丑（？" title="【7D2D // 七日殺V1.1】（#001）等了十年，正式版终于出了，会不会是十年出来的一坨小丑（？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
