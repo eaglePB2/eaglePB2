@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=TXWS6tJso5s">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TXWS6tJso5s&title=%E3%80%90%E7%95%B0%E7%95%8C%E6%88%B0%E9%AC%A5%E5%B9%BB%E6%83%B3%E3%80%91%EF%BC%88%23004%EF%BC%89%E4%BE%86%E5%88%B0%E4%BD%BF%E5%BE%92%E6%93%85%E9%95%B7%E7%9A%84%E9%A0%98%E5%9F%9F%EF%BC%8C%E7%A9%B6%E7%AB%9F%E8%A9%B2%E5%A6%82%E4%BD%95%E6%87%89%E5%B0%8D%E5%91%A2+%7C+DC%E6%9C%83%E5%93%A1%E8%A9%A6%E7%9C%8B%E7%AF%87&lang=zh&timestamp=1729584758&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=29482">
+    <img src="https://ytcards.demolab.com/?id=TXWS6tJso5s&title=%E3%80%90%E7%95%B0%E7%95%8C%E6%88%B0%E9%AC%A5%E5%B9%BB%E6%83%B3%E3%80%91%EF%BC%88%23004%EF%BC%89%E4%BE%86%E5%88%B0%E4%BD%BF%E5%BE%92%E6%93%85%E9%95%B7%E7%9A%84%E9%A0%98%E5%9F%9F%EF%BC%8C%E7%A9%B6%E7%AB%9F%E8%A9%B2%E5%A6%82%E4%BD%95%E6%87%89%E5%B0%8D%E5%91%A2+%7C+DC%E6%9C%83%E5%93%A1%E8%A9%A6%E7%9C%8B%E7%AF%87&lang=zh&timestamp=1729584758&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=29482" alt="【異界戰鬥幻想】（#004）來到使徒擅長的領域，究竟該如何應對呢 | DC會員試看篇" title="【異界戰鬥幻想】（#004）來到使徒擅長的領域，究竟該如何應對呢 | DC會員試看篇">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=z9etUSxd91Y">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z9etUSxd91Y&title=%E3%80%90%E7%95%B0%E7%95%8C%E6%88%B0%E9%AC%A5%E5%B9%BB%E6%83%B3%E3%80%91%EF%BC%88%23003%EF%BC%89%E4%BD%BF%E5%BE%92%E7%AC%AC%E4%B8%80%E6%88%B0+%E5%95%93%E5%8B%95%EF%BC%81+%7C+DC%E6%9C%83%E5%93%A1%E8%A9%A6%E7%9C%8B%E7%AF%87&lang=zh&timestamp=1729503006&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=29819">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=03jHEdMKCAI&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAV1.1%E3%80%91%EF%BC%88%23003%EF%BC%89%E4%B8%83%E5%92%92+vs+%E4%B8%83%E6%97%A5+%E9%81%B8%E4%B8%80%E6%AC%BE%E5%90%A7awa&lang=zh&timestamp=1729238191&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19143">
     <img src="https://ytcards.demolab.com/?id=03jHEdMKCAI&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAV1.1%E3%80%91%EF%BC%88%23003%EF%BC%89%E4%B8%83%E5%92%92+vs+%E4%B8%83%E6%97%A5+%E9%81%B8%E4%B8%80%E6%AC%BE%E5%90%A7awa&lang=zh&timestamp=1729238191&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19143" alt="【7D2D // 七日殺V1.1】（#003）七咒 vs 七日 選一款吧awa" title="【7D2D // 七日殺V1.1】（#003）七咒 vs 七日 選一款吧awa">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=_h-v1Vj1iY0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_h-v1Vj1iY0&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAV1.1%E3%80%91%EF%BC%88%23002%EF%BC%89%E8%B7%B3%E6%A5%BC%E6%9C%BA%E5%A5%BD%E5%83%8F%E8%BF%98%E6%B2%A1%E5%81%9A%E5%AE%8C+%E8%A1%80%E6%9C%88%E5%A5%BD%E5%83%8F%E8%A6%81%E6%BB%85%E5%9C%98%E4%BA%86&lang=zh&timestamp=1729147316&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15963">
-    <img src="https://ytcards.demolab.com/?id=_h-v1Vj1iY0&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAV1.1%E3%80%91%EF%BC%88%23002%EF%BC%89%E8%B7%B3%E6%A5%BC%E6%9C%BA%E5%A5%BD%E5%83%8F%E8%BF%98%E6%B2%A1%E5%81%9A%E5%AE%8C+%E8%A1%80%E6%9C%88%E5%A5%BD%E5%83%8F%E8%A6%81%E6%BB%85%E5%9C%98%E4%BA%86&lang=zh&timestamp=1729147316&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15963" alt="【7D2D // 七日殺V1.1】（#002）跳楼机好像还没做完 血月好像要滅團了" title="【7D2D // 七日殺V1.1】（#002）跳楼机好像还没做完 血月好像要滅團了">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
