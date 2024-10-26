@@ -33,6 +33,18 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=19y0qwV10Z0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=19y0qwV10Z0&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E5%86%92%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%AE%80%E5%8D%95%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88+%7C+Lite+%E7%89%88%E6%9C%AC&lang=zh&timestamp=1729944088&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22949">
+    <img src="https://ytcards.demolab.com/?id=19y0qwV10Z0&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E5%86%92%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%AE%80%E5%8D%95%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88+%7C+Lite+%E7%89%88%E6%9C%AC&lang=zh&timestamp=1729944088&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=22949" alt="【乌托邦冒险之旅】（#001）简单替代方案 | Lite 版本" title="【乌托邦冒险之旅】（#001）简单替代方案 | Lite 版本">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=T4bW6tK-CvI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=T4bW6tK-CvI&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E5%86%92%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23001%EF%BC%89%E8%B4%B9%E6%97%B6200%E5%B0%8F%E6%97%B6%E6%B8%B2%E6%9F%93%E7%9A%84%E8%AE%B0%E5%BD%95%E6%A1%A3%E6%A1%88+%7C+360%E7%89%88%E6%9C%AC&lang=zh&timestamp=1729919697&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12360">
+    <img src="https://ytcards.demolab.com/?id=T4bW6tK-CvI&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E5%86%92%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23001%EF%BC%89%E8%B4%B9%E6%97%B6200%E5%B0%8F%E6%97%B6%E6%B8%B2%E6%9F%93%E7%9A%84%E8%AE%B0%E5%BD%95%E6%A1%A3%E6%A1%88+%7C+360%E7%89%88%E6%9C%AC&lang=zh&timestamp=1729919697&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12360" alt="【乌托邦冒险之旅】（#001）费时200小时渲染的记录档案 | 360版本" title="【乌托邦冒险之旅】（#001）费时200小时渲染的记录档案 | 360版本">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=TXWS6tJso5s">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TXWS6tJso5s&title=%E3%80%90%E7%95%B0%E7%95%8C%E6%88%B0%E9%AC%A5%E5%B9%BB%E6%83%B3%E3%80%91%EF%BC%88%23004%EF%BC%89%E4%BE%86%E5%88%B0%E4%BD%BF%E5%BE%92%E6%93%85%E9%95%B7%E7%9A%84%E9%A0%98%E5%9F%9F%EF%BC%8C%E7%A9%B6%E7%AB%9F%E8%A9%B2%E5%A6%82%E4%BD%95%E6%87%89%E5%B0%8D%E5%91%A2+%7C+DC%E6%9C%83%E5%93%A1%E8%A9%A6%E7%9C%8B%E7%AF%87&lang=zh&timestamp=1729584758&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=29482">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v-THSqHf6pk&title=%E3%80%90%E7%95%B0%E7%95%8C%E6%88%B0%E9%AC%A5%E5%B9%BB%E6%83%B3%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%B9%85%E8%BF%9D%E7%9A%84%E9%A9%AC%E6%8B%89%E6%9D%BE%E7%9B%B4%E6%92%AD%E5%BC%80%E5%A7%8B%E5%92%AF%EF%BC%8C%E8%BF%99%E6%AC%A1%E6%9C%80%E5%A4%9A11%E5%B0%8F%E6%97%B6%EF%BC%8C%E5%9B%A0%E4%B8%BAYT%E5%9B%9E%E6%94%BE%E5%B0%B1%E5%8F%AA%E6%9C%8911%E5%B0%8F%E6%97%B6+%7C+DC%E6%9C%83%E5%93%A1%E8%A9%A6%E7%9C%8B%E7%AF%87&lang=zh&timestamp=1729396726&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=40926">
     <img src="https://ytcards.demolab.com/?id=v-THSqHf6pk&title=%E3%80%90%E7%95%B0%E7%95%8C%E6%88%B0%E9%AC%A5%E5%B9%BB%E6%83%B3%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%B9%85%E8%BF%9D%E7%9A%84%E9%A9%AC%E6%8B%89%E6%9D%BE%E7%9B%B4%E6%92%AD%E5%BC%80%E5%A7%8B%E5%92%AF%EF%BC%8C%E8%BF%99%E6%AC%A1%E6%9C%80%E5%A4%9A11%E5%B0%8F%E6%97%B6%EF%BC%8C%E5%9B%A0%E4%B8%BAYT%E5%9B%9E%E6%94%BE%E5%B0%B1%E5%8F%AA%E6%9C%8911%E5%B0%8F%E6%97%B6+%7C+DC%E6%9C%83%E5%93%A1%E8%A9%A6%E7%9C%8B%E7%AF%87&lang=zh&timestamp=1729396726&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=40926" alt="【異界戰鬥幻想】（#002）久违的马拉松直播开始咯，这次最多11小时，因为YT回放就只有11小时 | DC會員試看篇" title="【異界戰鬥幻想】（#002）久违的马拉松直播开始咯，这次最多11小时，因为YT回放就只有11小时 | DC會員試看篇">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=8VjaRvOGoac">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8VjaRvOGoac&title=%E3%80%90%E7%95%B0%E7%95%8C%E6%88%B0%E9%AC%A5%E5%B9%BB%E6%83%B3%E3%80%91%EF%BC%88%23001%EF%BC%89+%E4%B8%83%E5%92%92%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97+%E5%95%93%E5%8B%95%EF%BC%81+%7C+DC%E6%9C%83%E5%93%A1%E8%A9%A6%E7%9C%8B%E7%AF%87&lang=zh&timestamp=1729325913&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21552">
-    <img src="https://ytcards.demolab.com/?id=8VjaRvOGoac&title=%E3%80%90%E7%95%B0%E7%95%8C%E6%88%B0%E9%AC%A5%E5%B9%BB%E6%83%B3%E3%80%91%EF%BC%88%23001%EF%BC%89+%E4%B8%83%E5%92%92%E5%B9%BB%E6%83%B3%E7%B3%BB%E5%88%97+%E5%95%93%E5%8B%95%EF%BC%81+%7C+DC%E6%9C%83%E5%93%A1%E8%A9%A6%E7%9C%8B%E7%AF%87&lang=zh&timestamp=1729325913&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21552" alt="【異界戰鬥幻想】（#001） 七咒幻想系列 啓動！ | DC會員試看篇" title="【異界戰鬥幻想】（#001） 七咒幻想系列 啓動！ | DC會員試看篇">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=03jHEdMKCAI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=03jHEdMKCAI&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAV1.1%E3%80%91%EF%BC%88%23003%EF%BC%89%E4%B8%83%E5%92%92+vs+%E4%B8%83%E6%97%A5+%E9%81%B8%E4%B8%80%E6%AC%BE%E5%90%A7awa&lang=zh&timestamp=1729238191&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19143">
-    <img src="https://ytcards.demolab.com/?id=03jHEdMKCAI&title=%E3%80%907D2D+%2F%2F+%E4%B8%83%E6%97%A5%E6%AE%BAV1.1%E3%80%91%EF%BC%88%23003%EF%BC%89%E4%B8%83%E5%92%92+vs+%E4%B8%83%E6%97%A5+%E9%81%B8%E4%B8%80%E6%AC%BE%E5%90%A7awa&lang=zh&timestamp=1729238191&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19143" alt="【7D2D // 七日殺V1.1】（#003）七咒 vs 七日 選一款吧awa" title="【7D2D // 七日殺V1.1】（#003）七咒 vs 七日 選一款吧awa">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
