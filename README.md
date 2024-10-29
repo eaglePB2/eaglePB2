@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=WjUqLNsnxd4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WjUqLNsnxd4&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23004%EF%BC%89%E8%BF%99%E6%98%AF%E6%B2%A1%E6%9C%89360%E7%9A%84%E7%9B%B4%E6%92%AD+%7C+Lite%E7%89%88&lang=zh&timestamp=1730184522&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19469">
+    <img src="https://ytcards.demolab.com/?id=WjUqLNsnxd4&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23004%EF%BC%89%E8%BF%99%E6%98%AF%E6%B2%A1%E6%9C%89360%E7%9A%84%E7%9B%B4%E6%92%AD+%7C+Lite%E7%89%88&lang=zh&timestamp=1730184522&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19469" alt="【乌托邦探险之旅】（#004）这是没有360的直播 | Lite版" title="【乌托邦探险之旅】（#004）这是没有360的直播 | Lite版">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=DXl64MTUTTg">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DXl64MTUTTg&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23003%EF%BC%89%E8%BF%99%E6%98%AF%E6%B2%A1%E6%9C%89360%E7%9A%84%E7%9B%B4%E6%92%AD+%7C+Lite%E7%89%88&lang=zh&timestamp=1730094121&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14381">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TXWS6tJso5s&title=%E3%80%90%E7%95%B0%E7%95%8C%E6%88%B0%E9%AC%A5%E5%B9%BB%E6%83%B3%E3%80%91%EF%BC%88%23004%EF%BC%89%E4%BE%86%E5%88%B0%E4%BD%BF%E5%BE%92%E6%93%85%E9%95%B7%E7%9A%84%E9%A0%98%E5%9F%9F%EF%BC%8C%E7%A9%B6%E7%AB%9F%E8%A9%B2%E5%A6%82%E4%BD%95%E6%87%89%E5%B0%8D%E5%91%A2+%7C+DC%E6%9C%83%E5%93%A1%E8%A9%A6%E7%9C%8B%E7%AF%87&lang=zh&timestamp=1729584758&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=29482">
     <img src="https://ytcards.demolab.com/?id=TXWS6tJso5s&title=%E3%80%90%E7%95%B0%E7%95%8C%E6%88%B0%E9%AC%A5%E5%B9%BB%E6%83%B3%E3%80%91%EF%BC%88%23004%EF%BC%89%E4%BE%86%E5%88%B0%E4%BD%BF%E5%BE%92%E6%93%85%E9%95%B7%E7%9A%84%E9%A0%98%E5%9F%9F%EF%BC%8C%E7%A9%B6%E7%AB%9F%E8%A9%B2%E5%A6%82%E4%BD%95%E6%87%89%E5%B0%8D%E5%91%A2+%7C+DC%E6%9C%83%E5%93%A1%E8%A9%A6%E7%9C%8B%E7%AF%87&lang=zh&timestamp=1729584758&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=29482" alt="【異界戰鬥幻想】（#004）來到使徒擅長的領域，究竟該如何應對呢 | DC會員試看篇" title="【異界戰鬥幻想】（#004）來到使徒擅長的領域，究竟該如何應對呢 | DC會員試看篇">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=z9etUSxd91Y">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z9etUSxd91Y&title=%E3%80%90%E7%95%B0%E7%95%8C%E6%88%B0%E9%AC%A5%E5%B9%BB%E6%83%B3%E3%80%91%EF%BC%88%23003%EF%BC%89%E4%BD%BF%E5%BE%92%E7%AC%AC%E4%B8%80%E6%88%B0+%E5%95%93%E5%8B%95%EF%BC%81+%7C+DC%E6%9C%83%E5%93%A1%E8%A9%A6%E7%9C%8B%E7%AF%87&lang=zh&timestamp=1729503006&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=29819">
-    <img src="https://ytcards.demolab.com/?id=z9etUSxd91Y&title=%E3%80%90%E7%95%B0%E7%95%8C%E6%88%B0%E9%AC%A5%E5%B9%BB%E6%83%B3%E3%80%91%EF%BC%88%23003%EF%BC%89%E4%BD%BF%E5%BE%92%E7%AC%AC%E4%B8%80%E6%88%B0+%E5%95%93%E5%8B%95%EF%BC%81+%7C+DC%E6%9C%83%E5%93%A1%E8%A9%A6%E7%9C%8B%E7%AF%87&lang=zh&timestamp=1729503006&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=29819" alt="【異界戰鬥幻想】（#003）使徒第一戰 啓動！ | DC會員試看篇" title="【異界戰鬥幻想】（#003）使徒第一戰 啓動！ | DC會員試看篇">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
