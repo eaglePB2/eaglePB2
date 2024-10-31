@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 打日麻](https://www.twitch.tv/videos/2289132814)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 第三阶段 启动！ !translate](https://www.twitch.tv/videos/2283172225)
 - [精选内容：10月活動周](https://www.twitch.tv/videos/2279758346)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 独自一人的耐久四人半庄麻将，让我们看看活动周会撑到几点吧！ !translate](https://www.twitch.tv/videos/2277412178)
 - [精选内容：【異界戰鬥幻想】Part 4](https://www.twitch.tv/videos/2276405354)
-- [精选内容：【異界戰鬥幻想】Part 3](https://www.twitch.tv/videos/2275707670)
 <!-- TWITCH:END -->
 
 
