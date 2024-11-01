@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=Yn6lN7dyJmw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Yn6lN7dyJmw&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23006%EF%BC%89%E8%BF%99%E6%98%AF%E6%B2%A1%E6%9C%89360%E7%9A%84%E7%9B%B4%E6%92%AD+%7C+Lite%E7%89%88&lang=zh&timestamp=1730449061&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25784">
+    <img src="https://ytcards.demolab.com/?id=Yn6lN7dyJmw&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23006%EF%BC%89%E8%BF%99%E6%98%AF%E6%B2%A1%E6%9C%89360%E7%9A%84%E7%9B%B4%E6%92%AD+%7C+Lite%E7%89%88&lang=zh&timestamp=1730449061&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=25784" alt="【乌托邦探险之旅】（#006）这是没有360的直播 | Lite版" title="【乌托邦探险之旅】（#006）这是没有360的直播 | Lite版">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=y52rLLhEHnM">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y52rLLhEHnM&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23005%EF%BC%89%E8%BF%99%E6%98%AF%E6%B2%A1%E6%9C%89360%E7%9A%84%E7%9B%B4%E6%92%AD+%7C+Lite%E7%89%88&lang=zh&timestamp=1730273982&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17697">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=19y0qwV10Z0&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E5%86%92%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%AE%80%E5%8D%95%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88+%7C+Lite+%E7%89%88%E6%9C%AC&lang=zh&timestamp=1729944088&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22949">
     <img src="https://ytcards.demolab.com/?id=19y0qwV10Z0&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E5%86%92%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%AE%80%E5%8D%95%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88+%7C+Lite+%E7%89%88%E6%9C%AC&lang=zh&timestamp=1729944088&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=22949" alt="【乌托邦冒险之旅】（#001）简单替代方案 | Lite 版本" title="【乌托邦冒险之旅】（#001）简单替代方案 | Lite 版本">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=T4bW6tK-CvI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=T4bW6tK-CvI&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E5%86%92%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23001%EF%BC%89%E8%B4%B9%E6%97%B6200%E5%B0%8F%E6%97%B6%E6%B8%B2%E6%9F%93%E7%9A%84%E8%AE%B0%E5%BD%95%E6%A1%A3%E6%A1%88+%7C+360%E7%89%88%E6%9C%AC&lang=zh&timestamp=1729919697&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12360">
-    <img src="https://ytcards.demolab.com/?id=T4bW6tK-CvI&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E5%86%92%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23001%EF%BC%89%E8%B4%B9%E6%97%B6200%E5%B0%8F%E6%97%B6%E6%B8%B2%E6%9F%93%E7%9A%84%E8%AE%B0%E5%BD%95%E6%A1%A3%E6%A1%88+%7C+360%E7%89%88%E6%9C%AC&lang=zh&timestamp=1729919697&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12360" alt="【乌托邦冒险之旅】（#001）费时200小时渲染的记录档案 | 360版本" title="【乌托邦冒险之旅】（#001）费时200小时渲染的记录档案 | 360版本">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
