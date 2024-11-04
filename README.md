@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=ILvNA3zAEq8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ILvNA3zAEq8&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23008%EF%BC%89%E6%AD%A3%E5%BC%8F%E6%94%BB%E7%95%A5Aquamarine%E7%B3%BB%E5%88%97+owob+%7C+Lite%E7%89%88&lang=zh&timestamp=1730716635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7510">
+    <img src="https://ytcards.demolab.com/?id=ILvNA3zAEq8&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23008%EF%BC%89%E6%AD%A3%E5%BC%8F%E6%94%BB%E7%95%A5Aquamarine%E7%B3%BB%E5%88%97+owob+%7C+Lite%E7%89%88&lang=zh&timestamp=1730716635&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7510" alt="【乌托邦探险之旅】（#008）正式攻略Aquamarine系列 owob | Lite版" title="【乌托邦探险之旅】（#008）正式攻略Aquamarine系列 owob | Lite版">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=ABEWFB8PSPA">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ABEWFB8PSPA&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23007%EF%BC%89%E5%88%9D%E6%88%B0%E5%86%B0%E9%9B%AA%E8%BF%B7%E5%AE%AE%E8%88%B9%E9%95%B7%EF%BC%8C%E6%80%8E%E9%BA%BD%E4%B8%80%E4%B8%8B%E5%AD%90%E5%B0%B1%E8%A2%AB%E9%A4%98%E6%9C%88%E7%A7%92%E4%BA%86%EF%BC%88%EF%BC%9F+%7C+Lite%E7%89%88&lang=zh&timestamp=1730563112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7016">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DXl64MTUTTg&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23003%EF%BC%89%E7%83%8F%E6%89%98%E9%82%A6%E6%9C%89%E5%B9%BD%E6%9A%97%E4%B9%8B%E5%9C%B0%EF%BC%8C%E6%87%89%E8%A9%B2%E5%BE%88%E6%AD%A3%E5%B8%B8%E2%80%A6%E2%80%A6%E5%90%A7%EF%BC%9F+%7C+Lite%E7%89%88&lang=zh&timestamp=1730094121&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14381">
     <img src="https://ytcards.demolab.com/?id=DXl64MTUTTg&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23003%EF%BC%89%E7%83%8F%E6%89%98%E9%82%A6%E6%9C%89%E5%B9%BD%E6%9A%97%E4%B9%8B%E5%9C%B0%EF%BC%8C%E6%87%89%E8%A9%B2%E5%BE%88%E6%AD%A3%E5%B8%B8%E2%80%A6%E2%80%A6%E5%90%A7%EF%BC%9F+%7C+Lite%E7%89%88&lang=zh&timestamp=1730094121&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14381" alt="【乌托邦探险之旅】（#003）烏托邦有幽暗之地，應該很正常……吧？ | Lite版" title="【乌托邦探险之旅】（#003）烏托邦有幽暗之地，應該很正常……吧？ | Lite版">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=ABkl6XH8mlI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ABkl6XH8mlI&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%88%9D%E6%AC%A1%E6%8B%9C%E8%A8%AA%EF%BC%8C%E5%97%A1%E5%97%A1%E4%B8%96%E7%95%8C%EF%BC%81+%7C+Lite%E7%89%88&lang=zh&timestamp=1730026213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21556">
-    <img src="https://ytcards.demolab.com/?id=ABkl6XH8mlI&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%88%9D%E6%AC%A1%E6%8B%9C%E8%A8%AA%EF%BC%8C%E5%97%A1%E5%97%A1%E4%B8%96%E7%95%8C%EF%BC%81+%7C+Lite%E7%89%88&lang=zh&timestamp=1730026213&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21556" alt="【乌托邦探险之旅】（#002）初次拜訪，嗡嗡世界！ | Lite版" title="【乌托邦探险之旅】（#002）初次拜訪，嗡嗡世界！ | Lite版">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
