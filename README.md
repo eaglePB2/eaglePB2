@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：林间盃日麻积分赛 —— 10月第四场](https://www.twitch.tv/videos/2294077625)
+- [精选内容：林间盃日麻积分赛 —— 10月第三场](https://www.twitch.tv/videos/2294077345)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 打日麻](https://www.twitch.tv/videos/2289132814)
+- [因爲圖奇一直叫我丟開頭片所以我就丟了](https://www.twitch.tv/videos/2285783018)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 第三阶段 启动！ !translate](https://www.twitch.tv/videos/2283172225)
-- [精选内容：10月活動周](https://www.twitch.tv/videos/2279758346)
-- [精选内容：【異界戰鬥幻想】Part 4](https://www.twitch.tv/videos/2276405354)
-- [精选内容：【異界戰鬥幻想】Part 3](https://www.twitch.tv/videos/2275707670)
 <!-- TWITCH:END -->
 
 
