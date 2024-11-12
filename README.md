@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：夢回盤靈 Part 4](https://www.twitch.tv/videos/2299592725)
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 有人從早上10點刷到現在 還刷不出一把金鑰匙????](https://www.twitch.tv/videos/2299153325)
 - [精选内容：夢回盤靈 Part 3](https://www.twitch.tv/videos/2298465309)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 今天早開 但也會早關的盤子古域](https://www.twitch.tv/videos/2298269901)
 - [精选内容：夢回盤靈 Part 2](https://www.twitch.tv/videos/2298160338)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 可憐的小妖，等級似乎比不上任何人 QAQ](https://www.twitch.tv/videos/2297442267)
-- [精选内容：夢回盤靈 Part 1](https://www.twitch.tv/videos/2297322255)
 <!-- TWITCH:END -->
 
 
