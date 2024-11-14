@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：林间盃日麻积分赛 —— 11月第二场](https://www.twitch.tv/videos/2300876071)
+- [精选内容：夢回盤靈 Part 5](https://www.twitch.tv/videos/2300875838)
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 日麻好燥 = w =](https://www.twitch.tv/videos/2300736716)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ T5弩計劃 開始！ 順帶一提，原來有箭矢收納袋…… 爲什麽我現在才知道啦QAQQQQ](https://www.twitch.tv/videos/2299938468)
 - [精选内容：夢回盤靈 Part 4](https://www.twitch.tv/videos/2299592725)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 有人從早上10點刷到現在 還刷不出一把金鑰匙????](https://www.twitch.tv/videos/2299153325)
-- [精选内容：夢回盤靈 Part 3](https://www.twitch.tv/videos/2298465309)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 今天早開 但也會早關的盤子古域](https://www.twitch.tv/videos/2298269901)
 <!-- TWITCH:END -->
 
 
