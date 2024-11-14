@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=Xrd4PLVWQzc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xrd4PLVWQzc&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%8F%AF%E6%86%90%E7%9A%84%E5%B0%8F%E5%A6%96%EF%BC%8C%E7%AD%89%E7%B4%9A%E4%BC%BC%E4%B9%8E%E6%AF%94%E4%B8%8D%E4%B8%8A%E4%BB%BB%E4%BD%95%E4%BA%BA+QAQ&lang=zh&timestamp=1731543210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28180">
+    <img src="https://ytcards.demolab.com/?id=Xrd4PLVWQzc&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%8F%AF%E6%86%90%E7%9A%84%E5%B0%8F%E5%A6%96%EF%BC%8C%E7%AD%89%E7%B4%9A%E4%BC%BC%E4%B9%8E%E6%AF%94%E4%B8%8D%E4%B8%8A%E4%BB%BB%E4%BD%95%E4%BA%BA+QAQ&lang=zh&timestamp=1731543210&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28180" alt="【夢回盤靈】（#002）可憐的小妖，等級似乎比不上任何人 QAQ" title="【夢回盤靈】（#002）可憐的小妖，等級似乎比不上任何人 QAQ">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=VZcfN2K8HNY">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VZcfN2K8HNY&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23001%EF%BC%89%E8%BA%AB%E7%88%B2%E5%A6%96%E6%97%8F%E7%9A%84%E6%88%91%EF%BC%8C%E4%B8%80%E8%B5%B7%E6%AD%A5%E5%B0%B1%E8%A6%81%E8%A2%AB%E5%85%B6%E4%BB%96%E4%BA%BA%E5%81%9A%E6%88%90%E4%B8%B9%E8%97%A5%E4%BA%86%E5%97%8EQAQ&lang=zh&timestamp=1731330517&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24110">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y52rLLhEHnM&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%88%91%E6%89%93%E9%AA%A8%E5%A6%96%EF%BC%9F%E7%9C%9F%E7%9A%84%E5%81%87%E7%9A%84%EF%BC%9F+%7C+Lite%E7%89%88&lang=zh&timestamp=1730273982&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17697">
     <img src="https://ytcards.demolab.com/?id=y52rLLhEHnM&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%88%91%E6%89%93%E9%AA%A8%E5%A6%96%EF%BC%9F%E7%9C%9F%E7%9A%84%E5%81%87%E7%9A%84%EF%BC%9F+%7C+Lite%E7%89%88&lang=zh&timestamp=1730273982&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17697" alt="【乌托邦探险之旅】（#005）我打骨妖？真的假的？ | Lite版" title="【乌托邦探险之旅】（#005）我打骨妖？真的假的？ | Lite版">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=WjUqLNsnxd4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WjUqLNsnxd4&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23004%EF%BC%89%E5%9C%A8%E7%83%8F%E6%89%98%E9%82%A6%E7%8E%A9%E7%B4%B0%E8%83%9E%E6%B8%B8%E6%88%B2%EF%BC%8C%E9%8C%AF%E9%81%8E%E4%BA%86%E4%BB%80%E9%BA%BD%EF%BC%9F+%7C+Lite%E7%89%88&lang=zh&timestamp=1730184522&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19469">
-    <img src="https://ytcards.demolab.com/?id=WjUqLNsnxd4&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23004%EF%BC%89%E5%9C%A8%E7%83%8F%E6%89%98%E9%82%A6%E7%8E%A9%E7%B4%B0%E8%83%9E%E6%B8%B8%E6%88%B2%EF%BC%8C%E9%8C%AF%E9%81%8E%E4%BA%86%E4%BB%80%E9%BA%BD%EF%BC%9F+%7C+Lite%E7%89%88&lang=zh&timestamp=1730184522&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19469" alt="【乌托邦探险之旅】（#004）在烏托邦玩細胞游戲，錯過了什麽？ | Lite版" title="【乌托邦探险之旅】（#004）在烏托邦玩細胞游戲，錯過了什麽？ | Lite版">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
