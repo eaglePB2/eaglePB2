@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 整套畢業了，接下來就是T6L4弓，大約需要60個銀票和無限的抽獎 = w =](https://www.twitch.tv/videos/2302351409)
 - [精选内容：夢回盤靈 Part 6](https://www.twitch.tv/videos/2301721796)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 鎮妖塔下層 刷錢效率有這麽高？ 我不信我不信（下略350個字](https://www.twitch.tv/videos/2301532402)
 - [精选内容：林间盃日麻积分赛 —— 11月第二场](https://www.twitch.tv/videos/2300876071)
 - [精选内容：夢回盤靈 Part 5](https://www.twitch.tv/videos/2300875838)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 日麻好燥 = w =](https://www.twitch.tv/videos/2300736716)
 <!-- TWITCH:END -->
 
 
