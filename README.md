@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=a8d_dxgmUAI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=a8d_dxgmUAI&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23006%EF%BC%89%E9%8E%AE%E5%A6%96%E5%A1%94%E4%B8%8B%E5%B1%A4+%E5%88%B7%E9%8C%A2%E6%95%88%E7%8E%87%E6%9C%89%E9%80%99%E9%BA%BD%E9%AB%98%EF%BC%9F+%E6%88%91%E4%B8%8D%E4%BF%A1%E6%88%91%E4%B8%8D%E4%BF%A1%EF%BC%88%E4%B8%8B%E7%95%A5350%E5%80%8B%E5%AD%97&lang=zh&timestamp=1731930597&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21017">
+    <img src="https://ytcards.demolab.com/?id=a8d_dxgmUAI&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23006%EF%BC%89%E9%8E%AE%E5%A6%96%E5%A1%94%E4%B8%8B%E5%B1%A4+%E5%88%B7%E9%8C%A2%E6%95%88%E7%8E%87%E6%9C%89%E9%80%99%E9%BA%BD%E9%AB%98%EF%BC%9F+%E6%88%91%E4%B8%8D%E4%BF%A1%E6%88%91%E4%B8%8D%E4%BF%A1%EF%BC%88%E4%B8%8B%E7%95%A5350%E5%80%8B%E5%AD%97&lang=zh&timestamp=1731930597&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21017" alt="【夢回盤靈】（#006）鎮妖塔下層 刷錢效率有這麽高？ 我不信我不信（下略350個字" title="【夢回盤靈】（#006）鎮妖塔下層 刷錢效率有這麽高？ 我不信我不信（下略350個字">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=MEq4QtrM4Lw">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MEq4QtrM4Lw&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23005%EF%BC%89T5%E5%BC%A9%E8%A8%88%E5%8A%83+%E9%96%8B%E5%A7%8B%EF%BC%81+%E9%A0%86%E5%B8%B6%E4%B8%80%E6%8F%90%EF%BC%8C%E5%8E%9F%E4%BE%86%E6%9C%89%E7%AE%AD%E7%9F%A2%E6%94%B6%E7%B4%8D%E8%A2%8B%E2%80%A6%E2%80%A6+%E7%88%B2%E4%BB%80%E9%BA%BD%E6%88%91%E7%8F%BE%E5%9C%A8%E6%89%8D%E7%9F%A5%E9%81%93%E5%95%A6QAQQQQ&lang=zh&timestamp=1731828116&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17582">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VZcfN2K8HNY&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23001%EF%BC%89%E8%BA%AB%E7%88%B2%E5%A6%96%E6%97%8F%E7%9A%84%E6%88%91%EF%BC%8C%E4%B8%80%E8%B5%B7%E6%AD%A5%E5%B0%B1%E8%A6%81%E8%A2%AB%E5%85%B6%E4%BB%96%E4%BA%BA%E5%81%9A%E6%88%90%E4%B8%B9%E8%97%A5%E4%BA%86%E5%97%8EQAQ&lang=zh&timestamp=1731330517&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24110">
     <img src="https://ytcards.demolab.com/?id=VZcfN2K8HNY&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23001%EF%BC%89%E8%BA%AB%E7%88%B2%E5%A6%96%E6%97%8F%E7%9A%84%E6%88%91%EF%BC%8C%E4%B8%80%E8%B5%B7%E6%AD%A5%E5%B0%B1%E8%A6%81%E8%A2%AB%E5%85%B6%E4%BB%96%E4%BA%BA%E5%81%9A%E6%88%90%E4%B8%B9%E8%97%A5%E4%BA%86%E5%97%8EQAQ&lang=zh&timestamp=1731330517&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=24110" alt="【夢回盤靈】（#001）身爲妖族的我，一起步就要被其他人做成丹藥了嗎QAQ" title="【夢回盤靈】（#001）身爲妖族的我，一起步就要被其他人做成丹藥了嗎QAQ">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=ILvNA3zAEq8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ILvNA3zAEq8&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23008%EF%BC%89%E6%AD%A3%E5%BC%8F%E6%94%BB%E7%95%A5Aquamarine%E7%B3%BB%E5%88%97+owob+%7C+Lite%E7%89%88&lang=zh&timestamp=1730716635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7510">
-    <img src="https://ytcards.demolab.com/?id=ILvNA3zAEq8&title=%E3%80%90%E4%B9%8C%E6%89%98%E9%82%A6%E6%8E%A2%E9%99%A9%E4%B9%8B%E6%97%85%E3%80%91%EF%BC%88%23008%EF%BC%89%E6%AD%A3%E5%BC%8F%E6%94%BB%E7%95%A5Aquamarine%E7%B3%BB%E5%88%97+owob+%7C+Lite%E7%89%88&lang=zh&timestamp=1730716635&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7510" alt="【乌托邦探险之旅】（#008）正式攻略Aquamarine系列 owob | Lite版" title="【乌托邦探险之旅】（#008）正式攻略Aquamarine系列 owob | Lite版">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
