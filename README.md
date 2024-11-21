@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=MyR5XnFjxew">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MyR5XnFjxew&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23007%EF%BC%89%E6%AD%B8%E5%81%B6%E4%B8%8A%E4%BB%99%E7%9A%84%E6%B1%BA%E6%88%B0%EF%BC%81%E4%BB%8A%E5%A4%A9%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%8A%E4%BB%96%E7%9A%84SOP%E6%91%B8%E6%B8%85%E6%A5%9A%EF%BC%81&lang=zh&timestamp=1732179506&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23586">
+    <img src="https://ytcards.demolab.com/?id=MyR5XnFjxew&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23007%EF%BC%89%E6%AD%B8%E5%81%B6%E4%B8%8A%E4%BB%99%E7%9A%84%E6%B1%BA%E6%88%B0%EF%BC%81%E4%BB%8A%E5%A4%A9%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%8A%E4%BB%96%E7%9A%84SOP%E6%91%B8%E6%B8%85%E6%A5%9A%EF%BC%81&lang=zh&timestamp=1732179506&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=23586" alt="【夢回盤靈】（#007）歸偶上仙的決戰！今天一定要把他的SOP摸清楚！" title="【夢回盤靈】（#007）歸偶上仙的決戰！今天一定要把他的SOP摸清楚！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=a8d_dxgmUAI">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=a8d_dxgmUAI&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23006%EF%BC%89%E9%8E%AE%E5%A6%96%E5%A1%94%E4%B8%8B%E5%B1%A4+%E5%88%B7%E9%8C%A2%E6%95%88%E7%8E%87%E6%9C%89%E9%80%99%E9%BA%BD%E9%AB%98%EF%BC%9F+%E6%88%91%E4%B8%8D%E4%BF%A1%E6%88%91%E4%B8%8D%E4%BF%A1%EF%BC%88%E4%B8%8B%E7%95%A5350%E5%80%8B%E5%AD%97&lang=zh&timestamp=1731930597&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21017">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xrd4PLVWQzc&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%8F%AF%E6%86%90%E7%9A%84%E5%B0%8F%E5%A6%96%EF%BC%8C%E7%AD%89%E7%B4%9A%E4%BC%BC%E4%B9%8E%E6%AF%94%E4%B8%8D%E4%B8%8A%E4%BB%BB%E4%BD%95%E4%BA%BA+QAQ&lang=zh&timestamp=1731543210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28180">
     <img src="https://ytcards.demolab.com/?id=Xrd4PLVWQzc&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%8F%AF%E6%86%90%E7%9A%84%E5%B0%8F%E5%A6%96%EF%BC%8C%E7%AD%89%E7%B4%9A%E4%BC%BC%E4%B9%8E%E6%AF%94%E4%B8%8D%E4%B8%8A%E4%BB%BB%E4%BD%95%E4%BA%BA+QAQ&lang=zh&timestamp=1731543210&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28180" alt="【夢回盤靈】（#002）可憐的小妖，等級似乎比不上任何人 QAQ" title="【夢回盤靈】（#002）可憐的小妖，等級似乎比不上任何人 QAQ">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=VZcfN2K8HNY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VZcfN2K8HNY&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23001%EF%BC%89%E8%BA%AB%E7%88%B2%E5%A6%96%E6%97%8F%E7%9A%84%E6%88%91%EF%BC%8C%E4%B8%80%E8%B5%B7%E6%AD%A5%E5%B0%B1%E8%A6%81%E8%A2%AB%E5%85%B6%E4%BB%96%E4%BA%BA%E5%81%9A%E6%88%90%E4%B8%B9%E8%97%A5%E4%BA%86%E5%97%8EQAQ&lang=zh&timestamp=1731330517&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24110">
-    <img src="https://ytcards.demolab.com/?id=VZcfN2K8HNY&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23001%EF%BC%89%E8%BA%AB%E7%88%B2%E5%A6%96%E6%97%8F%E7%9A%84%E6%88%91%EF%BC%8C%E4%B8%80%E8%B5%B7%E6%AD%A5%E5%B0%B1%E8%A6%81%E8%A2%AB%E5%85%B6%E4%BB%96%E4%BA%BA%E5%81%9A%E6%88%90%E4%B8%B9%E8%97%A5%E4%BA%86%E5%97%8EQAQ&lang=zh&timestamp=1731330517&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=24110" alt="【夢回盤靈】（#001）身爲妖族的我，一起步就要被其他人做成丹藥了嗎QAQ" title="【夢回盤靈】（#001）身爲妖族的我，一起步就要被其他人做成丹藥了嗎QAQ">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
