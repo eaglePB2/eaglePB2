@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=PK5HFBqjVRw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PK5HFBqjVRw&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23008%EF%BC%89%E4%BB%99%E6%97%8F%E8%BD%89%E7%94%9F%EF%BC%8C%E5%95%93%E5%8B%95%EF%BC%81+%E9%A0%86%E4%BE%BF%E6%AA%A2%E8%A8%8E%E8%B7%91%E9%85%B7%E7%92%B0%E7%AF%80&lang=zh&timestamp=1732264679&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28401">
+    <img src="https://ytcards.demolab.com/?id=PK5HFBqjVRw&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23008%EF%BC%89%E4%BB%99%E6%97%8F%E8%BD%89%E7%94%9F%EF%BC%8C%E5%95%93%E5%8B%95%EF%BC%81+%E9%A0%86%E4%BE%BF%E6%AA%A2%E8%A8%8E%E8%B7%91%E9%85%B7%E7%92%B0%E7%AF%80&lang=zh&timestamp=1732264679&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28401" alt="【夢回盤靈】（#008）仙族轉生，啓動！ 順便檢討跑酷環節" title="【夢回盤靈】（#008）仙族轉生，啓動！ 順便檢討跑酷環節">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=MyR5XnFjxew">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MyR5XnFjxew&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23007%EF%BC%89%E6%AD%B8%E5%81%B6%E4%B8%8A%E4%BB%99%E7%9A%84%E6%B1%BA%E6%88%B0%EF%BC%81%E4%BB%8A%E5%A4%A9%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%8A%E4%BB%96%E7%9A%84SOP%E6%91%B8%E6%B8%85%E6%A5%9A%EF%BC%81&lang=zh&timestamp=1732179506&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23586">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-PK81ZB12rg&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%88%91%E5%BE%88%E6%83%B3%E5%8F%AB%E4%BB%96%E8%B7%91%E9%85%B7%E5%8F%A4%E5%9F%9F%EF%BC%8C%E5%90%8C%E6%99%82%E4%B9%9F%E6%83%B3%E5%8F%AB%E4%BB%96%E7%9B%A4%E5%AD%90%E2%80%A6%E2%80%A6+%E7%AE%97%E4%BA%86+%E5%88%B7%E4%B8%8B%E5%8E%BB%E5%90%A7owo&lang=zh&timestamp=1731654713&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22150">
     <img src="https://ytcards.demolab.com/?id=-PK81ZB12rg&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%88%91%E5%BE%88%E6%83%B3%E5%8F%AB%E4%BB%96%E8%B7%91%E9%85%B7%E5%8F%A4%E5%9F%9F%EF%BC%8C%E5%90%8C%E6%99%82%E4%B9%9F%E6%83%B3%E5%8F%AB%E4%BB%96%E7%9B%A4%E5%AD%90%E2%80%A6%E2%80%A6+%E7%AE%97%E4%BA%86+%E5%88%B7%E4%B8%8B%E5%8E%BB%E5%90%A7owo&lang=zh&timestamp=1731654713&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=22150" alt="【夢回盤靈】（#003）我很想叫他跑酷古域，同時也想叫他盤子…… 算了 刷下去吧owo" title="【夢回盤靈】（#003）我很想叫他跑酷古域，同時也想叫他盤子…… 算了 刷下去吧owo">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=Xrd4PLVWQzc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xrd4PLVWQzc&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%8F%AF%E6%86%90%E7%9A%84%E5%B0%8F%E5%A6%96%EF%BC%8C%E7%AD%89%E7%B4%9A%E4%BC%BC%E4%B9%8E%E6%AF%94%E4%B8%8D%E4%B8%8A%E4%BB%BB%E4%BD%95%E4%BA%BA+QAQ&lang=zh&timestamp=1731543210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28180">
-    <img src="https://ytcards.demolab.com/?id=Xrd4PLVWQzc&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%8F%AF%E6%86%90%E7%9A%84%E5%B0%8F%E5%A6%96%EF%BC%8C%E7%AD%89%E7%B4%9A%E4%BC%BC%E4%B9%8E%E6%AF%94%E4%B8%8D%E4%B8%8A%E4%BB%BB%E4%BD%95%E4%BA%BA+QAQ&lang=zh&timestamp=1731543210&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28180" alt="【夢回盤靈】（#002）可憐的小妖，等級似乎比不上任何人 QAQ" title="【夢回盤靈】（#002）可憐的小妖，等級似乎比不上任何人 QAQ">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
