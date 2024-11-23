@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：林间盃日麻积分赛 —— 11月第三场](https://www.twitch.tv/videos/2308143220)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ （哈欠 這是一個非常安靜的日麻](https://www.twitch.tv/videos/2306509011)
 - [精选内容：夢回盤靈 Part 9](https://www.twitch.tv/videos/2304249019)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 轉生為仙族後的我，開始了跑酷檢討之旅……?](https://www.twitch.tv/videos/2304082763)
 - [精选内容：夢回盤靈 Part 8](https://www.twitch.tv/videos/2304065982)
-- [精选内容：夢回盤靈 Part 7](https://www.twitch.tv/videos/2304065835)
 <!-- TWITCH:END -->
 
 
