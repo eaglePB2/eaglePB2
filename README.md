@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 我是有點後悔入坑這款啦XD](https://www.twitch.tv/videos/2314659273)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 超越時空2 我都要後悔了怎麽辦](https://www.twitch.tv/videos/2313820462)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 林間團體戰 改成聖誕節當天咯~](https://www.twitch.tv/videos/2312284129)
 - [精选内容：林间盃日麻积分赛 —— 11月第三场](https://www.twitch.tv/videos/2308143220)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ （哈欠 這是一個非常安靜的日麻](https://www.twitch.tv/videos/2306509011)
-- [精选内容：夢回盤靈 Part 9](https://www.twitch.tv/videos/2304249019)
 <!-- TWITCH:END -->
 
 
