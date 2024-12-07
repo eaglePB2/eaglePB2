@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 第一顆時間之石，到手！](https://www.twitch.tv/videos/2319632787)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 2024 · 林間盃 三人日麻邀請賽](https://www.twitch.tv/videos/2318005214)
 - [精选内容：穿越時空2 （Part 5）](https://www.twitch.tv/videos/2317531157)
 - [精选内容：穿越時空2 （Part 4）](https://www.twitch.tv/videos/2317530993)
 - [精选内容：穿越時空2 （Part 3）](https://www.twitch.tv/videos/2317530814)
-- [精选内容：穿越時空2 （Part 2）](https://www.twitch.tv/videos/2317530624)
 <!-- TWITCH:END -->
 
 
