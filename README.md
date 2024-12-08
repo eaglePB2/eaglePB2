@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=zaLLFI5YGJk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zaLLFI5YGJk&title=%E3%80%90%E7%A9%BF%E8%B6%8A%E6%99%82%E7%A9%BA+2%E3%80%91%EF%BC%88%23003%EF%BC%89%E5%85%88%E5%86%B2%E6%B5%B7%E5%BA%95%EF%BC%8C%E7%84%B6%E5%BE%8C%E9%A0%86%E4%BE%BF%E5%86%B2%E4%B8%80%E4%B8%8B%E2%80%A6%E2%80%A6%E6%88%B0%E6%95%97%E7%8E%8B%E5%9C%8B%EF%BC%9F&lang=zh&timestamp=1733648374&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21866">
+    <img src="https://ytcards.demolab.com/?id=zaLLFI5YGJk&title=%E3%80%90%E7%A9%BF%E8%B6%8A%E6%99%82%E7%A9%BA+2%E3%80%91%EF%BC%88%23003%EF%BC%89%E5%85%88%E5%86%B2%E6%B5%B7%E5%BA%95%EF%BC%8C%E7%84%B6%E5%BE%8C%E9%A0%86%E4%BE%BF%E5%86%B2%E4%B8%80%E4%B8%8B%E2%80%A6%E2%80%A6%E6%88%B0%E6%95%97%E7%8E%8B%E5%9C%8B%EF%BC%9F&lang=zh&timestamp=1733648374&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21866" alt="【穿越時空 2】（#003）先冲海底，然後順便冲一下……戰敗王國？" title="【穿越時空 2】（#003）先冲海底，然後順便冲一下……戰敗王國？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=-2It9hW1NUE">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-2It9hW1NUE&title=%E3%80%90%E7%A9%BF%E8%B6%8A%E6%99%82%E7%A9%BA+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%9E%97%E9%96%93%E4%B8%80%E8%B7%AF%E4%BB%A5%E4%BE%86%E7%9A%84%E6%96%B9%E6%A1%88%EF%BC%8C%E5%B0%B1%E6%98%AF%E6%94%AF%E7%B6%AB%E5%81%9A%E5%AE%8C%E4%BA%86%E6%89%8D%E9%96%8B%E5%A7%8B%E6%90%9E%E4%B8%BB%E7%B6%AB+awa&lang=zh&timestamp=1733560900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11701">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MyR5XnFjxew&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23007%EF%BC%89%E6%AD%B8%E5%81%B6%E4%B8%8A%E4%BB%99%E7%9A%84%E6%B1%BA%E6%88%B0%EF%BC%81%E4%BB%8A%E5%A4%A9%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%8A%E4%BB%96%E7%9A%84SOP%E6%91%B8%E6%B8%85%E6%A5%9A%EF%BC%81&lang=zh&timestamp=1732179506&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23586">
     <img src="https://ytcards.demolab.com/?id=MyR5XnFjxew&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23007%EF%BC%89%E6%AD%B8%E5%81%B6%E4%B8%8A%E4%BB%99%E7%9A%84%E6%B1%BA%E6%88%B0%EF%BC%81%E4%BB%8A%E5%A4%A9%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%8A%E4%BB%96%E7%9A%84SOP%E6%91%B8%E6%B8%85%E6%A5%9A%EF%BC%81&lang=zh&timestamp=1732179506&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=23586" alt="【夢回盤靈】（#007）歸偶上仙的決戰！今天一定要把他的SOP摸清楚！" title="【夢回盤靈】（#007）歸偶上仙的決戰！今天一定要把他的SOP摸清楚！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=a8d_dxgmUAI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=a8d_dxgmUAI&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23006%EF%BC%89%E9%8E%AE%E5%A6%96%E5%A1%94%E4%B8%8B%E5%B1%A4+%E5%88%B7%E9%8C%A2%E6%95%88%E7%8E%87%E6%9C%89%E9%80%99%E9%BA%BD%E9%AB%98%EF%BC%9F+%E6%88%91%E4%B8%8D%E4%BF%A1%E6%88%91%E4%B8%8D%E4%BF%A1%EF%BC%88%E4%B8%8B%E7%95%A5350%E5%80%8B%E5%AD%97&lang=zh&timestamp=1731930597&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21017">
-    <img src="https://ytcards.demolab.com/?id=a8d_dxgmUAI&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23006%EF%BC%89%E9%8E%AE%E5%A6%96%E5%A1%94%E4%B8%8B%E5%B1%A4+%E5%88%B7%E9%8C%A2%E6%95%88%E7%8E%87%E6%9C%89%E9%80%99%E9%BA%BD%E9%AB%98%EF%BC%9F+%E6%88%91%E4%B8%8D%E4%BF%A1%E6%88%91%E4%B8%8D%E4%BF%A1%EF%BC%88%E4%B8%8B%E7%95%A5350%E5%80%8B%E5%AD%97&lang=zh&timestamp=1731930597&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21017" alt="【夢回盤靈】（#006）鎮妖塔下層 刷錢效率有這麽高？ 我不信我不信（下略350個字" title="【夢回盤靈】（#006）鎮妖塔下層 刷錢效率有這麽高？ 我不信我不信（下略350個字">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
