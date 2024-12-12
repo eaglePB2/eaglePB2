@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=dtdEnCO-GIk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dtdEnCO-GIk&title=%E3%80%90%E7%A9%BF%E8%B6%8A%E6%99%82%E7%A9%BA+2%E3%80%91%EF%BC%88%23005%EF%BC%89%E5%86%B0%E9%9B%AA%E4%B8%96%E7%95%8C+%E5%95%93%E5%8B%95%EF%BC%81+%E7%AC%AC%E4%B8%80%E9%A1%86%E6%99%82%E9%96%93%E4%B9%8B%E7%9F%B3%E7%8D%B2%E5%BE%97%E4%B8%AD%EF%BC%81&lang=zh&timestamp=1733980322&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15931">
+    <img src="https://ytcards.demolab.com/?id=dtdEnCO-GIk&title=%E3%80%90%E7%A9%BF%E8%B6%8A%E6%99%82%E7%A9%BA+2%E3%80%91%EF%BC%88%23005%EF%BC%89%E5%86%B0%E9%9B%AA%E4%B8%96%E7%95%8C+%E5%95%93%E5%8B%95%EF%BC%81+%E7%AC%AC%E4%B8%80%E9%A1%86%E6%99%82%E9%96%93%E4%B9%8B%E7%9F%B3%E7%8D%B2%E5%BE%97%E4%B8%AD%EF%BC%81&lang=zh&timestamp=1733980322&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15931" alt="【穿越時空 2】（#005）冰雪世界 啓動！ 第一顆時間之石獲得中！" title="【穿越時空 2】（#005）冰雪世界 啓動！ 第一顆時間之石獲得中！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=7vqZqMIZvjM">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7vqZqMIZvjM&title=%E3%80%90%E7%A9%BF%E8%B6%8A%E6%99%82%E7%A9%BA+2%E3%80%91%EF%BC%88%23004%EF%BC%89MD%E9%80%99%E8%B3%AD%E5%A0%B4%E4%B8%80%E5%AE%9A%E6%98%AF%E5%81%9A%E5%A3%9E%E4%BA%86%EF%BC%8C%E5%9C%B0%E7%8D%84%E6%94%AF%E7%B6%AB%E5%85%A8%E9%83%A8%E8%A7%A3%E4%B8%80%E8%A7%A3&lang=zh&timestamp=1733741132&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14999">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OQkFmTRP4F0&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23009%EF%BC%89%E7%9C%9F%E7%9B%A4%E5%8F%A4%E6%94%BB%E7%95%A5%E6%88%B0%EF%BC%81%E6%9C%80%E5%BE%8C%E4%B8%80%E5%80%8B%E5%B1%85%E7%84%B6%E6%98%AF%E5%9C%B0%E7%8D%84%E8%B7%91%E9%85%B7%EF%BC%9F&lang=zh&timestamp=1732347852&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15965">
     <img src="https://ytcards.demolab.com/?id=OQkFmTRP4F0&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23009%EF%BC%89%E7%9C%9F%E7%9B%A4%E5%8F%A4%E6%94%BB%E7%95%A5%E6%88%B0%EF%BC%81%E6%9C%80%E5%BE%8C%E4%B8%80%E5%80%8B%E5%B1%85%E7%84%B6%E6%98%AF%E5%9C%B0%E7%8D%84%E8%B7%91%E9%85%B7%EF%BC%9F&lang=zh&timestamp=1732347852&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15965" alt="【夢回盤靈】（#009）真盤古攻略戰！最後一個居然是地獄跑酷？" title="【夢回盤靈】（#009）真盤古攻略戰！最後一個居然是地獄跑酷？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=PK5HFBqjVRw">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PK5HFBqjVRw&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23008%EF%BC%89%E4%BB%99%E6%97%8F%E8%BD%89%E7%94%9F%EF%BC%8C%E5%95%93%E5%8B%95%EF%BC%81+%E9%A0%86%E4%BE%BF%E6%AA%A2%E8%A8%8E%E8%B7%91%E9%85%B7%E7%92%B0%E7%AF%80&lang=zh&timestamp=1732264679&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28401">
-    <img src="https://ytcards.demolab.com/?id=PK5HFBqjVRw&title=%E3%80%90%E5%A4%A2%E5%9B%9E%E7%9B%A4%E9%9D%88%E3%80%91%EF%BC%88%23008%EF%BC%89%E4%BB%99%E6%97%8F%E8%BD%89%E7%94%9F%EF%BC%8C%E5%95%93%E5%8B%95%EF%BC%81+%E9%A0%86%E4%BE%BF%E6%AA%A2%E8%A8%8E%E8%B7%91%E9%85%B7%E7%92%B0%E7%AF%80&lang=zh&timestamp=1732264679&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28401" alt="【夢回盤靈】（#008）仙族轉生，啓動！ 順便檢討跑酷環節" title="【夢回盤靈】（#008）仙族轉生，啓動！ 順便檢討跑酷環節">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
