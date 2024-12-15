@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 倒數一星期内要做完5天的東西 我的天&lpar;?](https://www.twitch.tv/videos/2326467620)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 邀請賽 第二階段 go go](https://www.twitch.tv/videos/2323954037)
 - [精选内容：穿越時空2 （Part 9）](https://www.twitch.tv/videos/2323148869)
 - [精选内容：穿越時空2 （Part 8）](https://www.twitch.tv/videos/2323148774)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 終於 要結束了嗎？](https://www.twitch.tv/videos/2322313850)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 這可能是我第一次感謝這游戲居然有工業這件事](https://www.twitch.tv/videos/2321478405)
 <!-- TWITCH:END -->
 
 
