@@ -33,10 +33,22 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=9stJ0TT7YaE">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9stJ0TT7YaE&title=%E3%80%90%E5%8A%8D%E9%AD%82+%E3%80%8ASoul+S%E3%80%8Eimp%E3%80%8Feeker%E3%80%8B%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B9%AB%E4%B8%80%E6%8A%8A%E5%8A%8D%E5%B0%8B%E6%89%BE%E4%B8%9F%E6%A3%84%E7%9A%84%E4%B8%89%E6%A8%A3%E5%99%A8%E4%BB%B6%EF%BC%8CBoss%E6%88%B0%E5%BE%88%E5%A5%BD%E7%8E%A9%E6%8E%A8%E8%96%A6%E6%8E%A8%E8%96%A6&lang=zh&timestamp=1735068004&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14272">
+    <img src="https://ytcards.demolab.com/?id=9stJ0TT7YaE&title=%E3%80%90%E5%8A%8D%E9%AD%82+%E3%80%8ASoul+S%E3%80%8Eimp%E3%80%8Feeker%E3%80%8B%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B9%AB%E4%B8%80%E6%8A%8A%E5%8A%8D%E5%B0%8B%E6%89%BE%E4%B8%9F%E6%A3%84%E7%9A%84%E4%B8%89%E6%A8%A3%E5%99%A8%E4%BB%B6%EF%BC%8CBoss%E6%88%B0%E5%BE%88%E5%A5%BD%E7%8E%A9%E6%8E%A8%E8%96%A6%E6%8E%A8%E8%96%A6&lang=zh&timestamp=1735068004&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14272" alt="【劍魂 《Soul S『imp』eeker》】（#000）幫一把劍尋找丟棄的三樣器件，Boss戰很好玩推薦推薦" title="【劍魂 《Soul S『imp』eeker》】（#000）幫一把劍尋找丟棄的三樣器件，Boss戰很好玩推薦推薦">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=oBHj0B0iASk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oBHj0B0iASk&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%8B%86%E5%BD%88%E9%81%8A%E6%88%B2%E5%9B%9E%E6%AD%B8%EF%BC%81+%E7%AD%89%E7%AD%89%EF%BC%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E9%80%99%E8%BC%AA%E6%98%AF%E6%88%91%E5%9C%A8%E6%8B%86%E7%82%B8%E5%BD%88%EF%BC%9F+%7C+ft.++%40meteor_DOG&lang=zh&timestamp=1735067836&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=oBHj0B0iASk&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%8B%86%E5%BD%88%E9%81%8A%E6%88%B2%E5%9B%9E%E6%AD%B8%EF%BC%81+%E7%AD%89%E7%AD%89%EF%BC%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E9%80%99%E8%BC%AA%E6%98%AF%E6%88%91%E5%9C%A8%E6%8B%86%E7%82%B8%E5%BD%88%EF%BC%9F+%7C+ft.++%40meteor_DOG&lang=zh&timestamp=1735067836&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【KT&NE】（#005）拆彈遊戲回歸！ 等等，為什麼這輪是我在拆炸彈？ | ft.  @meteor_DOG" title="【KT&NE】（#005）拆彈遊戲回歸！ 等等，為什麼這輪是我在拆炸彈？ | ft.  @meteor_DOG">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=Gyn7csGHWas">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Gyn7csGHWas&title=%E3%80%90Saturn%27s+Orbit%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9C%9F%E6%98%9F%E7%95%8C%E6%9C%80%E5%A4%B1%E6%95%97%E7%9A%84%E5%A3%AB%E5%85%B5%EF%BC%8C%E4%BD%86%E4%BB%96%E5%BE%88%E6%9C%83speedrun&lang=zh&timestamp=1735034173&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=Gyn7csGHWas&title=%E3%80%90Saturn%27s+Orbit%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9C%9F%E6%98%9F%E7%95%8C%E6%9C%80%E5%A4%B1%E6%95%97%E7%9A%84%E5%A3%AB%E5%85%B5%EF%BC%8C%E4%BD%86%E4%BB%96%E5%BE%88%E6%9C%83speedrun&lang=zh&timestamp=1735034173&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Saturn's Orbit】（#000）土星界最失敗的士兵，但他很會speedrun" title="【Saturn's Orbit】（#000）土星界最失敗的士兵，但他很會speedrun">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Gyn7csGHWas&title=%E3%80%90Saturn%27s+Orbit%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9C%9F%E6%98%9F%E7%95%8C%E6%9C%80%E5%A4%B1%E6%95%97%E7%9A%84%E5%A3%AB%E5%85%B5%EF%BC%8C%E4%BD%86%E4%BB%96%E5%BE%88%E6%9C%83speedrun&lang=zh&timestamp=1735052369&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17192">
+    <img src="https://ytcards.demolab.com/?id=Gyn7csGHWas&title=%E3%80%90Saturn%27s+Orbit%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9C%9F%E6%98%9F%E7%95%8C%E6%9C%80%E5%A4%B1%E6%95%97%E7%9A%84%E5%A3%AB%E5%85%B5%EF%BC%8C%E4%BD%86%E4%BB%96%E5%BE%88%E6%9C%83speedrun&lang=zh&timestamp=1735052369&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17192" alt="【Saturn's Orbit】（#000）土星界最失敗的士兵，但他很會speedrun" title="【Saturn's Orbit】（#000）土星界最失敗的士兵，但他很會speedrun">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=t-w4AHVd9BQ">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VxY-jPPgGb8&title=%E3%80%90%E7%A9%BF%E8%B6%8A%E6%99%82%E7%A9%BA+2%E3%80%91%EF%BC%88%23009%EF%BC%89%E6%89%BESelene%E5%A4%8D%E4%BB%87%EF%BC%81+%E5%90%8E%E9%9D%A2%E5%8F%88%E6%9D%A5%E5%9C%B0%E7%8B%B1%E8%B7%91%E9%85%B7%3F%3F%3F&lang=zh&timestamp=1734359958&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25752">
     <img src="https://ytcards.demolab.com/?id=VxY-jPPgGb8&title=%E3%80%90%E7%A9%BF%E8%B6%8A%E6%99%82%E7%A9%BA+2%E3%80%91%EF%BC%88%23009%EF%BC%89%E6%89%BESelene%E5%A4%8D%E4%BB%87%EF%BC%81+%E5%90%8E%E9%9D%A2%E5%8F%88%E6%9D%A5%E5%9C%B0%E7%8B%B1%E8%B7%91%E9%85%B7%3F%3F%3F&lang=zh&timestamp=1734359958&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=25752" alt="【穿越時空 2】（#009）找Selene复仇！ 后面又来地狱跑酷???" title="【穿越時空 2】（#009）找Selene复仇！ 后面又来地狱跑酷???">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=FP5lKk5idy8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FP5lKk5idy8&title=%E3%80%90%E7%A9%BF%E8%B6%8A%E6%99%82%E7%A9%BA+2%E3%80%91%EF%BC%88%23008%EF%BC%89%E5%BE%9E%E9%81%8E%E5%8E%BB%EF%BC%8C%E5%88%B0%E7%8F%BE%E5%9C%A8%EF%BC%8C%E5%86%8D%E5%88%B0%E6%9C%AA%E4%BE%86%E7%9A%84%E6%9C%89%E8%B6%A3%E6%99%82%E7%A9%BA%E8%AC%8E%E9%A1%8C%EF%BC%81&lang=zh&timestamp=1734244709&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20371">
-    <img src="https://ytcards.demolab.com/?id=FP5lKk5idy8&title=%E3%80%90%E7%A9%BF%E8%B6%8A%E6%99%82%E7%A9%BA+2%E3%80%91%EF%BC%88%23008%EF%BC%89%E5%BE%9E%E9%81%8E%E5%8E%BB%EF%BC%8C%E5%88%B0%E7%8F%BE%E5%9C%A8%EF%BC%8C%E5%86%8D%E5%88%B0%E6%9C%AA%E4%BE%86%E7%9A%84%E6%9C%89%E8%B6%A3%E6%99%82%E7%A9%BA%E8%AC%8E%E9%A1%8C%EF%BC%81&lang=zh&timestamp=1734244709&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20371" alt="【穿越時空 2】（#008）從過去，到現在，再到未來的有趣時空謎題！" title="【穿越時空 2】（#008）從過去，到現在，再到未來的有趣時空謎題！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=6EuFPfnB1cA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6EuFPfnB1cA&title=%E3%80%90%E7%A9%BF%E8%B6%8A%E6%99%82%E7%A9%BA+2%E3%80%91%EF%BC%88%23007%EF%BC%89%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0%E6%89%BE%E4%B8%8D%E5%88%B0%E8%B7%AF%E5%9C%A8%E4%BD%95%E6%96%B9%E7%9A%84%E5%A4%A9%E5%A0%82%E4%B9%8B%E6%97%85%EF%BC%81&lang=zh&timestamp=1734168337&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23971">
-    <img src="https://ytcards.demolab.com/?id=6EuFPfnB1cA&title=%E3%80%90%E7%A9%BF%E8%B6%8A%E6%99%82%E7%A9%BA+2%E3%80%91%EF%BC%88%23007%EF%BC%89%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0%E6%89%BE%E4%B8%8D%E5%88%B0%E8%B7%AF%E5%9C%A8%E4%BD%95%E6%96%B9%E7%9A%84%E5%A4%A9%E5%A0%82%E4%B9%8B%E6%97%85%EF%BC%81&lang=zh&timestamp=1734168337&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=23971" alt="【穿越時空 2】（#007）歡迎來到找不到路在何方的天堂之旅！" title="【穿越時空 2】（#007）歡迎來到找不到路在何方的天堂之旅！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
