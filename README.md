@@ -33,10 +33,16 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=p91huXbEHcY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=p91huXbEHcY&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23006%EF%BC%89%E6%8B%86%E5%BD%88%E9%81%8A%E6%88%B2%E5%9B%9E%E6%AD%B8%EF%BC%81+%E7%AD%89%E7%AD%89%EF%BC%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E9%80%99%E8%BC%AA%E6%98%AF%E6%88%91%E5%9C%A8%E6%8B%86%E7%82%B8%E5%BD%88%EF%BC%9F+%7C+ft.+%E2%80%AA%40meteor_DOG&lang=zh&timestamp=1735387227&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=p91huXbEHcY&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23006%EF%BC%89%E6%8B%86%E5%BD%88%E9%81%8A%E6%88%B2%E5%9B%9E%E6%AD%B8%EF%BC%81+%E7%AD%89%E7%AD%89%EF%BC%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E9%80%99%E8%BC%AA%E6%98%AF%E6%88%91%E5%9C%A8%E6%8B%86%E7%82%B8%E5%BD%88%EF%BC%9F+%7C+ft.+%E2%80%AA%40meteor_DOG&lang=zh&timestamp=1735387227&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【KT&NE】（#006）拆彈遊戲回歸！ 等等，為什麼這輪是我在拆炸彈？ | ft. ‪@meteor_DOG" title="【KT&NE】（#006）拆彈遊戲回歸！ 等等，為什麼這輪是我在拆炸彈？ | ft. ‪@meteor_DOG">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=qy_6aElZUCU">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qy_6aElZUCU&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%9C%80%E5%BE%8C%E7%9A%84%E6%82%96%E8%AB%96%EF%BC%8C%E5%8F%88%E6%98%AF%E6%8B%AF%E6%95%91%E5%AE%87%E5%AE%99%EF%BC%81&lang=zh&timestamp=1735276596&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=qy_6aElZUCU&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%9C%80%E5%BE%8C%E7%9A%84%E6%82%96%E8%AB%96%EF%BC%8C%E5%8F%88%E6%98%AF%E6%8B%AF%E6%95%91%E5%AE%87%E5%AE%99%EF%BC%81&lang=zh&timestamp=1735276596&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Final Paradox | 最終悖論】（#001）最後的悖論，又是拯救宇宙！" title="【Final Paradox | 最終悖論】（#001）最後的悖論，又是拯救宇宙！">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qy_6aElZUCU&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%9C%80%E5%BE%8C%E7%9A%84%E6%82%96%E8%AB%96%EF%BC%8C%E5%8F%88%E6%98%AF%E6%8B%AF%E6%95%91%E5%AE%87%E5%AE%99%EF%BC%81&lang=zh&timestamp=1735372903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22582">
+    <img src="https://ytcards.demolab.com/?id=qy_6aElZUCU&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%9C%80%E5%BE%8C%E7%9A%84%E6%82%96%E8%AB%96%EF%BC%8C%E5%8F%88%E6%98%AF%E6%8B%AF%E6%95%91%E5%AE%87%E5%AE%99%EF%BC%81&lang=zh&timestamp=1735372903&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=22582" alt="【Final Paradox | 最終悖論】（#001）最後的悖論，又是拯救宇宙！" title="【Final Paradox | 最終悖論】（#001）最後的悖論，又是拯救宇宙！">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=7b37n9FIpT0">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Gyn7csGHWas&title=%E3%80%90Saturn%27s+Orbit%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9C%9F%E6%98%9F%E7%95%8C%E6%9C%80%E5%A4%B1%E6%95%97%E7%9A%84%E5%A3%AB%E5%85%B5%EF%BC%8C%E4%BD%86%E4%BB%96%E5%BE%88%E6%9C%83speedrun&lang=zh&timestamp=1735052369&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17192">
     <img src="https://ytcards.demolab.com/?id=Gyn7csGHWas&title=%E3%80%90Saturn%27s+Orbit%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9C%9F%E6%98%9F%E7%95%8C%E6%9C%80%E5%A4%B1%E6%95%97%E7%9A%84%E5%A3%AB%E5%85%B5%EF%BC%8C%E4%BD%86%E4%BB%96%E5%BE%88%E6%9C%83speedrun&lang=zh&timestamp=1735052369&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17192" alt="【Saturn's Orbit】（#000）土星界最失敗的士兵，但他很會speedrun" title="【Saturn's Orbit】（#000）土星界最失敗的士兵，但他很會speedrun">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=t-w4AHVd9BQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=t-w4AHVd9BQ&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%8B%86%E5%BD%88%E9%81%8A%E6%88%B2%E5%9B%9E%E6%AD%B8%EF%BC%81+%E7%AD%89%E7%AD%89%EF%BC%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E9%80%99%E8%BC%AA%E6%98%AF%E6%88%91%E5%9C%A8%E6%8B%86%E7%82%B8%E5%BD%88%EF%BC%9F+%7C+ft.++%40meteor_DOG&lang=zh&timestamp=1734877197&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8042">
-    <img src="https://ytcards.demolab.com/?id=t-w4AHVd9BQ&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%8B%86%E5%BD%88%E9%81%8A%E6%88%B2%E5%9B%9E%E6%AD%B8%EF%BC%81+%E7%AD%89%E7%AD%89%EF%BC%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E9%80%99%E8%BC%AA%E6%98%AF%E6%88%91%E5%9C%A8%E6%8B%86%E7%82%B8%E5%BD%88%EF%BC%9F+%7C+ft.++%40meteor_DOG&lang=zh&timestamp=1734877197&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8042" alt="【KT&NE】（#005）拆彈遊戲回歸！ 等等，為什麼這輪是我在拆炸彈？ | ft.  @meteor_DOG" title="【KT&NE】（#005）拆彈遊戲回歸！ 等等，為什麼這輪是我在拆炸彈？ | ft.  @meteor_DOG">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
