@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=4vbTQV5cSBk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4vbTQV5cSBk&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23003%EF%BC%89%E8%B1%AC%E8%B1%ACrush+boss%E6%99%82%E9%96%93%EF%BC%81%E6%99%82%E9%90%98%E8%AC%8E%E9%A1%8C%E5%A5%BD%E5%A5%BD%E7%8E%A9%EF%BC%81%E7%BC%BA%E6%B0%A7%E5%B7%A5%E5%BB%A0%E5%95%93%E5%8B%95%EF%BC%81DANI%E7%86%B1%E8%B6%85%E7%B4%9A%E6%90%9E%EF%BC%81&lang=zh&timestamp=1735538690&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=4vbTQV5cSBk&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23003%EF%BC%89%E8%B1%AC%E8%B1%ACrush+boss%E6%99%82%E9%96%93%EF%BC%81%E6%99%82%E9%90%98%E8%AC%8E%E9%A1%8C%E5%A5%BD%E5%A5%BD%E7%8E%A9%EF%BC%81%E7%BC%BA%E6%B0%A7%E5%B7%A5%E5%BB%A0%E5%95%93%E5%8B%95%EF%BC%81DANI%E7%86%B1%E8%B6%85%E7%B4%9A%E6%90%9E%EF%BC%81&lang=zh&timestamp=1735538690&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Final Paradox | 最終悖論】（#003）豬豬rush boss時間！時鐘謎題好好玩！缺氧工廠啓動！DANI熱超級搞！" title="【Final Paradox | 最終悖論】（#003）豬豬rush boss時間！時鐘謎題好好玩！缺氧工廠啓動！DANI熱超級搞！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=XYccr6gzpEI">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XYccr6gzpEI&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%A3%81%E5%8A%9B%E8%A3%9D%E5%82%99%E5%85%A8%E7%82%B8%EF%BC%81%E6%A0%B8%E9%9B%BB%E5%BB%A0boss%E6%88%B0%EF%BC%81%E5%9B%9E%E5%8E%BB%E7%9B%B4%E6%8E%A5%E8%A2%AB%E5%85%A5%E4%BE%B5%EF%BC%9F&lang=zh&timestamp=1735464907&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16225">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9stJ0TT7YaE&title=%E3%80%90%E5%8A%8D%E9%AD%82+%E3%80%8ASoul+S%E3%80%8Eimp%E3%80%8Feeker%E3%80%8B%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B9%AB%E4%B8%80%E6%8A%8A%E5%8A%8D%E5%B0%8B%E6%89%BE%E4%B8%9F%E6%A3%84%E7%9A%84%E4%B8%89%E6%A8%A3%E5%99%A8%E4%BB%B6%EF%BC%8CBoss%E6%88%B0%E5%BE%88%E5%A5%BD%E7%8E%A9%E6%8E%A8%E8%96%A6%E6%8E%A8%E8%96%A6&lang=zh&timestamp=1735157421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14267">
     <img src="https://ytcards.demolab.com/?id=9stJ0TT7YaE&title=%E3%80%90%E5%8A%8D%E9%AD%82+%E3%80%8ASoul+S%E3%80%8Eimp%E3%80%8Feeker%E3%80%8B%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B9%AB%E4%B8%80%E6%8A%8A%E5%8A%8D%E5%B0%8B%E6%89%BE%E4%B8%9F%E6%A3%84%E7%9A%84%E4%B8%89%E6%A8%A3%E5%99%A8%E4%BB%B6%EF%BC%8CBoss%E6%88%B0%E5%BE%88%E5%A5%BD%E7%8E%A9%E6%8E%A8%E8%96%A6%E6%8E%A8%E8%96%A6&lang=zh&timestamp=1735157421&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14267" alt="【劍魂 《Soul S『imp』eeker》】（#000）幫一把劍尋找丟棄的三樣器件，Boss戰很好玩推薦推薦" title="【劍魂 《Soul S『imp』eeker》】（#000）幫一把劍尋找丟棄的三樣器件，Boss戰很好玩推薦推薦">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=oBHj0B0iASk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oBHj0B0iASk&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%8B%86%E5%BD%88%E9%81%8A%E6%88%B2%E5%9B%9E%E6%AD%B8%EF%BC%81+%E7%AD%89%E7%AD%89%EF%BC%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E9%80%99%E8%BC%AA%E6%98%AF%E6%88%91%E5%9C%A8%E6%8B%86%E7%82%B8%E5%BD%88%EF%BC%9F+%7C+ft.++%40meteor_DOG&lang=zh&timestamp=1735067836&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=oBHj0B0iASk&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%8B%86%E5%BD%88%E9%81%8A%E6%88%B2%E5%9B%9E%E6%AD%B8%EF%BC%81+%E7%AD%89%E7%AD%89%EF%BC%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E9%80%99%E8%BC%AA%E6%98%AF%E6%88%91%E5%9C%A8%E6%8B%86%E7%82%B8%E5%BD%88%EF%BC%9F+%7C+ft.++%40meteor_DOG&lang=zh&timestamp=1735067836&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【KT&NE】（#005）拆彈遊戲回歸！ 等等，為什麼這輪是我在拆炸彈？ | ft.  @meteor_DOG" title="【KT&NE】（#005）拆彈遊戲回歸！ 等等，為什麼這輪是我在拆炸彈？ | ft.  @meteor_DOG">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
