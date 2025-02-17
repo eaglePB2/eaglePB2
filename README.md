@@ -33,6 +33,18 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=8-PRZmGgA0I">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8-PRZmGgA0I&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%85%A8%E6%96%B0%E6%A8%A1%E7%BB%84%E5%8C%85%EF%BC%8C%E5%90%AF%E5%8A%A8%EF%BC%81&lang=zh&timestamp=1739792325&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=8-PRZmGgA0I&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%85%A8%E6%96%B0%E6%A8%A1%E7%BB%84%E5%8C%85%EF%BC%8C%E5%90%AF%E5%8A%A8%EF%BC%81&lang=zh&timestamp=1739792325&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Immersive Fight】（#001）全新模组包，启动！" title="【Immersive Fight】（#001）全新模组包，启动！">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=iV8rfFuPRW0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iV8rfFuPRW0&title=%E3%80%90Behind+the+Frame%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E5%B9%85%E7%95%AB%EF%BC%8C%E4%B8%80%E9%9A%BB%E8%B2%93%EF%BC%8C%E8%88%87%E5%85%A9%E4%BA%BA%E7%9A%84%E9%82%82%E9%80%85%E3%80%82&lang=zh&timestamp=1739767493&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5036">
+    <img src="https://ytcards.demolab.com/?id=iV8rfFuPRW0&title=%E3%80%90Behind+the+Frame%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E5%B9%85%E7%95%AB%EF%BC%8C%E4%B8%80%E9%9A%BB%E8%B2%93%EF%BC%8C%E8%88%87%E5%85%A9%E4%BA%BA%E7%9A%84%E9%82%82%E9%80%85%E3%80%82&lang=zh&timestamp=1739767493&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5036" alt="【Behind the Frame】（#000）這是一幅畫，一隻貓，與兩人的邂逅。" title="【Behind the Frame】（#000）這是一幅畫，一隻貓，與兩人的邂逅。">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=Pl1UE_JeAaI">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Pl1UE_JeAaI&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23004%EF%BC%89%E8%B6%95%E5%9C%A8%E8%B7%A8%E5%B9%B4%E5%89%8D+%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%8A%E9%80%99%E5%9C%B0%E5%9C%96%E6%89%93%E4%BA%86%EF%BC%81&lang=zh&timestamp=1735642050&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28430">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=p91huXbEHcY&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23006%EF%BC%89%E7%9C%8B%E4%BE%86%E6%AF%8F%E6%AC%A1%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%9B%B4%E6%92%AD%E5%B0%B1%E5%8D%A1%E4%BD%8F%E6%98%AF%E5%BE%88%E6%AD%A3%E5%B8%B8%E4%B8%8D%E9%81%8E%E7%9A%84%E4%BA%8B%E6%83%85%E5%91%A2+%7C+ft.+%E2%80%AA%40meteor_DOG&lang=zh&timestamp=1735438610&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5843">
     <img src="https://ytcards.demolab.com/?id=p91huXbEHcY&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23006%EF%BC%89%E7%9C%8B%E4%BE%86%E6%AF%8F%E6%AC%A1%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%9B%B4%E6%92%AD%E5%B0%B1%E5%8D%A1%E4%BD%8F%E6%98%AF%E5%BE%88%E6%AD%A3%E5%B8%B8%E4%B8%8D%E9%81%8E%E7%9A%84%E4%BA%8B%E6%83%85%E5%91%A2+%7C+ft.+%E2%80%AA%40meteor_DOG&lang=zh&timestamp=1735438610&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5843" alt="【KT&NE】（#006）看來每次第二次直播就卡住是很正常不過的事情呢 | ft. ‪@meteor_DOG" title="【KT&NE】（#006）看來每次第二次直播就卡住是很正常不過的事情呢 | ft. ‪@meteor_DOG">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=qy_6aElZUCU">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qy_6aElZUCU&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%9C%80%E5%BE%8C%E7%9A%84%E6%82%96%E8%AB%96%EF%BC%8C%E5%8F%88%E6%98%AF%E6%8B%AF%E6%95%91%E5%AE%87%E5%AE%99%EF%BC%81&lang=zh&timestamp=1735372903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22582">
-    <img src="https://ytcards.demolab.com/?id=qy_6aElZUCU&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%9C%80%E5%BE%8C%E7%9A%84%E6%82%96%E8%AB%96%EF%BC%8C%E5%8F%88%E6%98%AF%E6%8B%AF%E6%95%91%E5%AE%87%E5%AE%99%EF%BC%81&lang=zh&timestamp=1735372903&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=22582" alt="【Final Paradox | 最終悖論】（#001）最後的悖論，又是拯救宇宙！" title="【Final Paradox | 最終悖論】（#001）最後的悖論，又是拯救宇宙！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=7b37n9FIpT0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7b37n9FIpT0&title=%E3%80%90Very+Little+Nightmares+%2F%2F+%E8%BF%B7%E4%BD%A0%E6%A2%A6%E9%AD%87%E3%80%91%EF%BC%88%23000%EF%BC%89Apple+Arcade%E8%B4%8A%E5%8A%A9owo+%E4%BE%86%E7%8E%A9%E4%B8%80%E4%B8%8B%E5%B0%8F%E5%B0%8F%E5%A4%A2%E9%AD%98%E7%9A%84%E5%89%8D%E5%82%B3%E5%90%A7%EF%BC%81&lang=zh&timestamp=1735186786&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8068">
-    <img src="https://ytcards.demolab.com/?id=7b37n9FIpT0&title=%E3%80%90Very+Little+Nightmares+%2F%2F+%E8%BF%B7%E4%BD%A0%E6%A2%A6%E9%AD%87%E3%80%91%EF%BC%88%23000%EF%BC%89Apple+Arcade%E8%B4%8A%E5%8A%A9owo+%E4%BE%86%E7%8E%A9%E4%B8%80%E4%B8%8B%E5%B0%8F%E5%B0%8F%E5%A4%A2%E9%AD%98%E7%9A%84%E5%89%8D%E5%82%B3%E5%90%A7%EF%BC%81&lang=zh&timestamp=1735186786&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8068" alt="【Very Little Nightmares // 迷你梦魇】（#000）Apple Arcade贊助owo 來玩一下小小夢魘的前傳吧！" title="【Very Little Nightmares // 迷你梦魇】（#000）Apple Arcade贊助owo 來玩一下小小夢魘的前傳吧！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
