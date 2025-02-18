@@ -33,16 +33,22 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=tBXAMGMq3Kg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tBXAMGMq3Kg&title=%E3%80%90Doors+-+Paradox%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B9%BB%E5%BD%B1%E4%B9%8B%E9%97%A8%EF%BC%8C%E9%97%A8%E4%B8%AD%E8%A7%A3%E8%B0%9C&lang=zh&timestamp=1739858055&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=tBXAMGMq3Kg&title=%E3%80%90Doors+-+Paradox%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B9%BB%E5%BD%B1%E4%B9%8B%E9%97%A8%EF%BC%8C%E9%97%A8%E4%B8%AD%E8%A7%A3%E8%B0%9C&lang=zh&timestamp=1739858055&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Doors - Paradox】（#000）幻影之门，门中解谜" title="【Doors - Paradox】（#000）幻影之门，门中解谜">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=8-PRZmGgA0I">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8-PRZmGgA0I&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%85%A8%E6%96%B0%E6%A8%A1%E7%BB%84%E5%8C%85%EF%BC%8C%E5%90%AF%E5%8A%A8%EF%BC%81&lang=zh&timestamp=1739792325&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=8-PRZmGgA0I&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%85%A8%E6%96%B0%E6%A8%A1%E7%BB%84%E5%8C%85%EF%BC%8C%E5%90%AF%E5%8A%A8%EF%BC%81&lang=zh&timestamp=1739792325&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Immersive Fight】（#001）全新模组包，启动！" title="【Immersive Fight】（#001）全新模组包，启动！">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8-PRZmGgA0I&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%85%A8%E6%96%B0%E6%A8%A1%E7%BB%84%E5%8C%85%EF%BC%8C%E5%90%AF%E5%8A%A8%EF%BC%81&lang=zh&timestamp=1739822146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=27298">
+    <img src="https://ytcards.demolab.com/?id=8-PRZmGgA0I&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%85%A8%E6%96%B0%E6%A8%A1%E7%BB%84%E5%8C%85%EF%BC%8C%E5%90%AF%E5%8A%A8%EF%BC%81&lang=zh&timestamp=1739822146&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=27298" alt="【Immersive Fight】（#001）全新模组包，启动！" title="【Immersive Fight】（#001）全新模组包，启动！">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=iV8rfFuPRW0">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iV8rfFuPRW0&title=%E3%80%90Behind+the+Frame%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E5%B9%85%E7%95%AB%EF%BC%8C%E4%B8%80%E9%9A%BB%E8%B2%93%EF%BC%8C%E8%88%87%E5%85%A9%E4%BA%BA%E7%9A%84%E9%82%82%E9%80%85%E3%80%82&lang=zh&timestamp=1739767493&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5036">
-    <img src="https://ytcards.demolab.com/?id=iV8rfFuPRW0&title=%E3%80%90Behind+the+Frame%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E5%B9%85%E7%95%AB%EF%BC%8C%E4%B8%80%E9%9A%BB%E8%B2%93%EF%BC%8C%E8%88%87%E5%85%A9%E4%BA%BA%E7%9A%84%E9%82%82%E9%80%85%E3%80%82&lang=zh&timestamp=1739767493&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5036" alt="【Behind the Frame】（#000）這是一幅畫，一隻貓，與兩人的邂逅。" title="【Behind the Frame】（#000）這是一幅畫，一隻貓，與兩人的邂逅。">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iV8rfFuPRW0&title=%E3%80%90Behind+the+Frame%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E5%B9%85%E7%95%AB%EF%BC%8C%E4%B8%80%E9%9A%BB%E8%B2%93%EF%BC%8C%E8%88%87%E5%85%A9%E4%BA%BA%E7%9A%84%E9%82%82%E9%80%85%E3%80%82&lang=zh&timestamp=1739816476&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5035">
+    <img src="https://ytcards.demolab.com/?id=iV8rfFuPRW0&title=%E3%80%90Behind+the+Frame%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E5%B9%85%E7%95%AB%EF%BC%8C%E4%B8%80%E9%9A%BB%E8%B2%93%EF%BC%8C%E8%88%87%E5%85%A9%E4%BA%BA%E7%9A%84%E9%82%82%E9%80%85%E3%80%82&lang=zh&timestamp=1739816476&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5035" alt="【Behind the Frame】（#000）這是一幅畫，一隻貓，與兩人的邂逅。" title="【Behind the Frame】（#000）這是一幅畫，一隻貓，與兩人的邂逅。">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=Pl1UE_JeAaI">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XYccr6gzpEI&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%A3%81%E5%8A%9B%E8%A3%9D%E5%82%99%E5%85%A8%E7%82%B8%EF%BC%81%E6%A0%B8%E9%9B%BB%E5%BB%A0boss%E6%88%B0%EF%BC%81%E5%9B%9E%E5%8E%BB%E7%9B%B4%E6%8E%A5%E8%A2%AB%E5%85%A5%E4%BE%B5%EF%BC%9F&lang=zh&timestamp=1735464907&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16225">
     <img src="https://ytcards.demolab.com/?id=XYccr6gzpEI&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%A3%81%E5%8A%9B%E8%A3%9D%E5%82%99%E5%85%A8%E7%82%B8%EF%BC%81%E6%A0%B8%E9%9B%BB%E5%BB%A0boss%E6%88%B0%EF%BC%81%E5%9B%9E%E5%8E%BB%E7%9B%B4%E6%8E%A5%E8%A2%AB%E5%85%A5%E4%BE%B5%EF%BC%9F&lang=zh&timestamp=1735464907&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16225" alt="【Final Paradox | 最終悖論】（#002）磁力裝備全炸！核電廠boss戰！回去直接被入侵？" title="【Final Paradox | 最終悖論】（#002）磁力裝備全炸！核電廠boss戰！回去直接被入侵？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=p91huXbEHcY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=p91huXbEHcY&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23006%EF%BC%89%E7%9C%8B%E4%BE%86%E6%AF%8F%E6%AC%A1%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%9B%B4%E6%92%AD%E5%B0%B1%E5%8D%A1%E4%BD%8F%E6%98%AF%E5%BE%88%E6%AD%A3%E5%B8%B8%E4%B8%8D%E9%81%8E%E7%9A%84%E4%BA%8B%E6%83%85%E5%91%A2+%7C+ft.+%E2%80%AA%40meteor_DOG&lang=zh&timestamp=1735438610&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5843">
-    <img src="https://ytcards.demolab.com/?id=p91huXbEHcY&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23006%EF%BC%89%E7%9C%8B%E4%BE%86%E6%AF%8F%E6%AC%A1%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%9B%B4%E6%92%AD%E5%B0%B1%E5%8D%A1%E4%BD%8F%E6%98%AF%E5%BE%88%E6%AD%A3%E5%B8%B8%E4%B8%8D%E9%81%8E%E7%9A%84%E4%BA%8B%E6%83%85%E5%91%A2+%7C+ft.+%E2%80%AA%40meteor_DOG&lang=zh&timestamp=1735438610&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5843" alt="【KT&NE】（#006）看來每次第二次直播就卡住是很正常不過的事情呢 | ft. ‪@meteor_DOG" title="【KT&NE】（#006）看來每次第二次直播就卡住是很正常不過的事情呢 | ft. ‪@meteor_DOG">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
