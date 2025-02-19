@@ -35,8 +35,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=tBXAMGMq3Kg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tBXAMGMq3Kg&title=%E3%80%90Doors+-+Paradox%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B9%BB%E5%BD%B1%E4%B9%8B%E9%97%A8%EF%BC%8C%E9%97%A8%E4%B8%AD%E8%A7%A3%E8%B0%9C&lang=zh&timestamp=1739858055&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=tBXAMGMq3Kg&title=%E3%80%90Doors+-+Paradox%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B9%BB%E5%BD%B1%E4%B9%8B%E9%97%A8%EF%BC%8C%E9%97%A8%E4%B8%AD%E8%A7%A3%E8%B0%9C&lang=zh&timestamp=1739858055&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Doors - Paradox】（#000）幻影之门，门中解谜" title="【Doors - Paradox】（#000）幻影之门，门中解谜">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tBXAMGMq3Kg&title=%E3%80%90Doors+-+Paradox%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B9%BB%E5%BD%B1%E4%B9%8B%E9%97%A8%EF%BC%8C%E9%97%A8%E4%B8%AD%E8%A7%A3%E8%B0%9C&lang=zh&timestamp=1739958309&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16658">
+    <img src="https://ytcards.demolab.com/?id=tBXAMGMq3Kg&title=%E3%80%90Doors+-+Paradox%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B9%BB%E5%BD%B1%E4%B9%8B%E9%97%A8%EF%BC%8C%E9%97%A8%E4%B8%AD%E8%A7%A3%E8%B0%9C&lang=zh&timestamp=1739958309&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16658" alt="【Doors - Paradox】（#000）幻影之门，门中解谜" title="【Doors - Paradox】（#000）幻影之门，门中解谜">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=8-PRZmGgA0I">
