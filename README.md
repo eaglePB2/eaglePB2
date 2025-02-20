@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=udyRDkGVdZg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=udyRDkGVdZg&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%85%BB%E8%80%81%E5%8F%AA%E7%8B%BC+%E6%B2%89%E6%B5%B8Boss%E6%94%BB%E7%95%A5%E6%97%B6%E9%97%B4%EF%BC%81+%EF%BC%88%E5%86%85%E5%90%AB%E6%BF%80%E7%83%88%E8%A8%80%E8%AE%BA%EF%BC%89&lang=zh&timestamp=1739990727&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14155">
+    <img src="https://ytcards.demolab.com/?id=udyRDkGVdZg&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%85%BB%E8%80%81%E5%8F%AA%E7%8B%BC+%E6%B2%89%E6%B5%B8Boss%E6%94%BB%E7%95%A5%E6%97%B6%E9%97%B4%EF%BC%81+%EF%BC%88%E5%86%85%E5%90%AB%E6%BF%80%E7%83%88%E8%A8%80%E8%AE%BA%EF%BC%89&lang=zh&timestamp=1739990727&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14155" alt="【Immersive Fight】（#002）养老只狼 沉浸Boss攻略时间！ （内含激烈言论）" title="【Immersive Fight】（#002）养老只狼 沉浸Boss攻略时间！ （内含激烈言论）">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=tBXAMGMq3Kg">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tBXAMGMq3Kg&title=%E3%80%90Doors+-+Paradox%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B9%BB%E5%BD%B1%E4%B9%8B%E9%97%A8%EF%BC%8C%E9%97%A8%E4%B8%AD%E8%A7%A3%E8%B0%9C&lang=zh&timestamp=1739958309&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16658">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4vbTQV5cSBk&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23003%EF%BC%89%E8%B1%AC%E8%B1%ACrush+boss%E6%99%82%E9%96%93%EF%BC%81%E6%99%82%E9%90%98%E8%AC%8E%E9%A1%8C%E5%A5%BD%E5%A5%BD%E7%8E%A9%EF%BC%81%E7%BC%BA%E6%B0%A7%E5%B7%A5%E5%BB%A0%E5%95%93%E5%8B%95%EF%BC%81DANI%E7%86%B1%E8%B6%85%E7%B4%9A%E6%90%9E%EF%BC%81&lang=zh&timestamp=1735564980&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25039">
     <img src="https://ytcards.demolab.com/?id=4vbTQV5cSBk&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23003%EF%BC%89%E8%B1%AC%E8%B1%ACrush+boss%E6%99%82%E9%96%93%EF%BC%81%E6%99%82%E9%90%98%E8%AC%8E%E9%A1%8C%E5%A5%BD%E5%A5%BD%E7%8E%A9%EF%BC%81%E7%BC%BA%E6%B0%A7%E5%B7%A5%E5%BB%A0%E5%95%93%E5%8B%95%EF%BC%81DANI%E7%86%B1%E8%B6%85%E7%B4%9A%E6%90%9E%EF%BC%81&lang=zh&timestamp=1735564980&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=25039" alt="【Final Paradox | 最終悖論】（#003）豬豬rush boss時間！時鐘謎題好好玩！缺氧工廠啓動！DANI熱超級搞！" title="【Final Paradox | 最終悖論】（#003）豬豬rush boss時間！時鐘謎題好好玩！缺氧工廠啓動！DANI熱超級搞！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=XYccr6gzpEI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XYccr6gzpEI&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%A3%81%E5%8A%9B%E8%A3%9D%E5%82%99%E5%85%A8%E7%82%B8%EF%BC%81%E6%A0%B8%E9%9B%BB%E5%BB%A0boss%E6%88%B0%EF%BC%81%E5%9B%9E%E5%8E%BB%E7%9B%B4%E6%8E%A5%E8%A2%AB%E5%85%A5%E4%BE%B5%EF%BC%9F&lang=zh&timestamp=1735464907&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16225">
-    <img src="https://ytcards.demolab.com/?id=XYccr6gzpEI&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%A3%81%E5%8A%9B%E8%A3%9D%E5%82%99%E5%85%A8%E7%82%B8%EF%BC%81%E6%A0%B8%E9%9B%BB%E5%BB%A0boss%E6%88%B0%EF%BC%81%E5%9B%9E%E5%8E%BB%E7%9B%B4%E6%8E%A5%E8%A2%AB%E5%85%A5%E4%BE%B5%EF%BC%9F&lang=zh&timestamp=1735464907&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16225" alt="【Final Paradox | 最終悖論】（#002）磁力裝備全炸！核電廠boss戰！回去直接被入侵？" title="【Final Paradox | 最終悖論】（#002）磁力裝備全炸！核電廠boss戰！回去直接被入侵？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
