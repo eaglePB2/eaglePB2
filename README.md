@@ -33,6 +33,18 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=qOdtmCG58wc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qOdtmCG58wc&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23003%EF%BC%89%E5%89%A9%E4%B8%8B%E7%9A%84boss+%E6%9F%90%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%B8%8A%E4%B9%9F%E6%98%AF%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E6%89%93%E2%80%A6%E2%80%A6&lang=zh&timestamp=1740134340&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=qOdtmCG58wc&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23003%EF%BC%89%E5%89%A9%E4%B8%8B%E7%9A%84boss+%E6%9F%90%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%B8%8A%E4%B9%9F%E6%98%AF%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E6%89%93%E2%80%A6%E2%80%A6&lang=zh&timestamp=1740134340&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Immersive Fight】（#003）剩下的boss 某种程度上也是越来越难打……" title="【Immersive Fight】（#003）剩下的boss 某种程度上也是越来越难打……">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=1YqMWjVEOiQ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1YqMWjVEOiQ&title=%E3%80%90Deponia%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%A4%A7%E5%B9%B4%E9%99%A4%E5%A4%95+%E9%A6%AC%E6%8B%89%E6%9D%BE%E7%B3%BB%E5%88%97%EF%BC%81%EF%BC%88%E9%87%8D%E6%96%B0%E4%B8%8A%E5%82%B3%EF%BC%89&lang=zh&timestamp=1740111966&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42768">
+    <img src="https://ytcards.demolab.com/?id=1YqMWjVEOiQ&title=%E3%80%90Deponia%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%A4%A7%E5%B9%B4%E9%99%A4%E5%A4%95+%E9%A6%AC%E6%8B%89%E6%9D%BE%E7%B3%BB%E5%88%97%EF%BC%81%EF%BC%88%E9%87%8D%E6%96%B0%E4%B8%8A%E5%82%B3%EF%BC%89&lang=zh&timestamp=1740111966&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42768" alt="【Deponia】（#001）大年除夕 馬拉松系列！（重新上傳）" title="【Deponia】（#001）大年除夕 馬拉松系列！（重新上傳）">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=udyRDkGVdZg">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=udyRDkGVdZg&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%85%BB%E8%80%81%E5%8F%AA%E7%8B%BC+%E6%B2%89%E6%B5%B8Boss%E6%94%BB%E7%95%A5%E6%97%B6%E9%97%B4%EF%BC%81+%EF%BC%88%E5%86%85%E5%90%AB%E6%BF%80%E7%83%88%E8%A8%80%E8%AE%BA%EF%BC%89&lang=zh&timestamp=1739990727&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14155">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=iV8rfFuPRW0&title=%E3%80%90Behind+the+Frame%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E5%B9%85%E7%95%AB%EF%BC%8C%E4%B8%80%E9%9A%BB%E8%B2%93%EF%BC%8C%E8%88%87%E5%85%A9%E4%BA%BA%E7%9A%84%E9%82%82%E9%80%85%E3%80%82&lang=zh&timestamp=1739816476&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5035">
     <img src="https://ytcards.demolab.com/?id=iV8rfFuPRW0&title=%E3%80%90Behind+the+Frame%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E5%B9%85%E7%95%AB%EF%BC%8C%E4%B8%80%E9%9A%BB%E8%B2%93%EF%BC%8C%E8%88%87%E5%85%A9%E4%BA%BA%E7%9A%84%E9%82%82%E9%80%85%E3%80%82&lang=zh&timestamp=1739816476&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5035" alt="【Behind the Frame】（#000）這是一幅畫，一隻貓，與兩人的邂逅。" title="【Behind the Frame】（#000）這是一幅畫，一隻貓，與兩人的邂逅。">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=Pl1UE_JeAaI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Pl1UE_JeAaI&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23004%EF%BC%89%E8%B6%95%E5%9C%A8%E8%B7%A8%E5%B9%B4%E5%89%8D+%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%8A%E9%80%99%E5%9C%B0%E5%9C%96%E6%89%93%E4%BA%86%EF%BC%81&lang=zh&timestamp=1735642050&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28430">
-    <img src="https://ytcards.demolab.com/?id=Pl1UE_JeAaI&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23004%EF%BC%89%E8%B6%95%E5%9C%A8%E8%B7%A8%E5%B9%B4%E5%89%8D+%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%8A%E9%80%99%E5%9C%B0%E5%9C%96%E6%89%93%E4%BA%86%EF%BC%81&lang=zh&timestamp=1735642050&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28430" alt="【Final Paradox | 最終悖論】（#004）趕在跨年前 一定要把這地圖打了！" title="【Final Paradox | 最終悖論】（#004）趕在跨年前 一定要把這地圖打了！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=4vbTQV5cSBk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4vbTQV5cSBk&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23003%EF%BC%89%E8%B1%AC%E8%B1%ACrush+boss%E6%99%82%E9%96%93%EF%BC%81%E6%99%82%E9%90%98%E8%AC%8E%E9%A1%8C%E5%A5%BD%E5%A5%BD%E7%8E%A9%EF%BC%81%E7%BC%BA%E6%B0%A7%E5%B7%A5%E5%BB%A0%E5%95%93%E5%8B%95%EF%BC%81DANI%E7%86%B1%E8%B6%85%E7%B4%9A%E6%90%9E%EF%BC%81&lang=zh&timestamp=1735564980&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=25039">
-    <img src="https://ytcards.demolab.com/?id=4vbTQV5cSBk&title=%E3%80%90Final+Paradox+%7C+%E6%9C%80%E7%B5%82%E6%82%96%E8%AB%96%E3%80%91%EF%BC%88%23003%EF%BC%89%E8%B1%AC%E8%B1%ACrush+boss%E6%99%82%E9%96%93%EF%BC%81%E6%99%82%E9%90%98%E8%AC%8E%E9%A1%8C%E5%A5%BD%E5%A5%BD%E7%8E%A9%EF%BC%81%E7%BC%BA%E6%B0%A7%E5%B7%A5%E5%BB%A0%E5%95%93%E5%8B%95%EF%BC%81DANI%E7%86%B1%E8%B6%85%E7%B4%9A%E6%90%9E%EF%BC%81&lang=zh&timestamp=1735564980&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=25039" alt="【Final Paradox | 最終悖論】（#003）豬豬rush boss時間！時鐘謎題好好玩！缺氧工廠啓動！DANI熱超級搞！" title="【Final Paradox | 最終悖論】（#003）豬豬rush boss時間！時鐘謎題好好玩！缺氧工廠啓動！DANI熱超級搞！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
