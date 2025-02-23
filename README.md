@@ -33,6 +33,18 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=tGlxlROds6Y">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tGlxlROds6Y&title=%E3%80%90Chaos+in+Deponia%E3%80%91%EF%BC%88%23003%EF%BC%89%E5%A4%A7%E5%B9%B4%E9%99%A4%E5%A4%95+%E9%A6%AC%E6%8B%89%E6%9D%BE%E7%B3%BB%E5%88%97%EF%BC%81%EF%BC%88%E9%87%8D%E6%96%B0%E4%B8%8A%E5%82%B3%EF%BC%89&lang=zh&timestamp=1740287136&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42799">
+    <img src="https://ytcards.demolab.com/?id=tGlxlROds6Y&title=%E3%80%90Chaos+in+Deponia%E3%80%91%EF%BC%88%23003%EF%BC%89%E5%A4%A7%E5%B9%B4%E9%99%A4%E5%A4%95+%E9%A6%AC%E6%8B%89%E6%9D%BE%E7%B3%BB%E5%88%97%EF%BC%81%EF%BC%88%E9%87%8D%E6%96%B0%E4%B8%8A%E5%82%B3%EF%BC%89&lang=zh&timestamp=1740287136&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42799" alt="【Chaos in Deponia】（#003）大年除夕 馬拉松系列！（重新上傳）" title="【Chaos in Deponia】（#003）大年除夕 馬拉松系列！（重新上傳）">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=4Cr66Z1nqg4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4Cr66Z1nqg4&title=Warframe+%E5%A5%A5%E5%B8%83%E5%B1%B1%E8%B0%B7+%E5%85%A8%E7%AB%99%E7%82%B9%E6%94%BB%E7%95%A5%E8%AE%B0%E5%BD%95&lang=zh&timestamp=1740275748&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1767">
+    <img src="https://ytcards.demolab.com/?id=4Cr66Z1nqg4&title=Warframe+%E5%A5%A5%E5%B8%83%E5%B1%B1%E8%B0%B7+%E5%85%A8%E7%AB%99%E7%82%B9%E6%94%BB%E7%95%A5%E8%AE%B0%E5%BD%95&lang=zh&timestamp=1740275748&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1767" alt="Warframe 奥布山谷 全站点攻略记录" title="Warframe 奥布山谷 全站点攻略记录">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=qOdtmCG58wc">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qOdtmCG58wc&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23003%EF%BC%89%E5%89%A9%E4%B8%8B%E7%9A%84boss+%E6%9F%90%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%B8%8A%E4%B9%9F%E6%98%AF%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E6%89%93%E2%80%A6%E2%80%A6&lang=zh&timestamp=1740215380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13154">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=udyRDkGVdZg&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%85%BB%E8%80%81%E5%8F%AA%E7%8B%BC+%E6%B2%89%E6%B5%B8Boss%E6%94%BB%E7%95%A5%E6%97%B6%E9%97%B4%EF%BC%81+%EF%BC%88%E5%86%85%E5%90%AB%E6%BF%80%E7%83%88%E8%A8%80%E8%AE%BA%EF%BC%89&lang=zh&timestamp=1739990727&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14155">
     <img src="https://ytcards.demolab.com/?id=udyRDkGVdZg&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%85%BB%E8%80%81%E5%8F%AA%E7%8B%BC+%E6%B2%89%E6%B5%B8Boss%E6%94%BB%E7%95%A5%E6%97%B6%E9%97%B4%EF%BC%81+%EF%BC%88%E5%86%85%E5%90%AB%E6%BF%80%E7%83%88%E8%A8%80%E8%AE%BA%EF%BC%89&lang=zh&timestamp=1739990727&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14155" alt="【Immersive Fight】（#002）养老只狼 沉浸Boss攻略时间！ （内含激烈言论）" title="【Immersive Fight】（#002）养老只狼 沉浸Boss攻略时间！ （内含激烈言论）">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=tBXAMGMq3Kg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tBXAMGMq3Kg&title=%E3%80%90Doors+-+Paradox%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B9%BB%E5%BD%B1%E4%B9%8B%E9%97%A8%EF%BC%8C%E9%97%A8%E4%B8%AD%E8%A7%A3%E8%B0%9C&lang=zh&timestamp=1739958309&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16658">
-    <img src="https://ytcards.demolab.com/?id=tBXAMGMq3Kg&title=%E3%80%90Doors+-+Paradox%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B9%BB%E5%BD%B1%E4%B9%8B%E9%97%A8%EF%BC%8C%E9%97%A8%E4%B8%AD%E8%A7%A3%E8%B0%9C&lang=zh&timestamp=1739958309&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16658" alt="【Doors - Paradox】（#000）幻影之门，门中解谜" title="【Doors - Paradox】（#000）幻影之门，门中解谜">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=8-PRZmGgA0I">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8-PRZmGgA0I&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%85%A8%E6%96%B0%E6%A8%A1%E7%BB%84%E5%8C%85%EF%BC%8C%E5%90%AF%E5%8A%A8%EF%BC%81&lang=zh&timestamp=1739822146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=27298">
-    <img src="https://ytcards.demolab.com/?id=8-PRZmGgA0I&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%85%A8%E6%96%B0%E6%A8%A1%E7%BB%84%E5%8C%85%EF%BC%8C%E5%90%AF%E5%8A%A8%EF%BC%81&lang=zh&timestamp=1739822146&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=27298" alt="【Immersive Fight】（#001）全新模组包，启动！" title="【Immersive Fight】（#001）全新模组包，启动！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
