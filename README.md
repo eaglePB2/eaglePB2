@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=gzC80Uu-YpQ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gzC80Uu-YpQ&title=%E3%80%90Muse+Dash%E3%80%91%EF%BC%88%23001%EF%BC%89%E4%BC%91%E9%97%B2%E6%B8%B8%E6%88%8F%E5%A4%A7%E7%A4%BC%E5%8C%85%EF%BC%81%E8%B8%8F%E5%85%A5%E9%9F%B3%E6%B8%B8%E7%9B%B4%E6%92%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%81&lang=zh&timestamp=1740395082&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23114">
+    <img src="https://ytcards.demolab.com/?id=gzC80Uu-YpQ&title=%E3%80%90Muse+Dash%E3%80%91%EF%BC%88%23001%EF%BC%89%E4%BC%91%E9%97%B2%E6%B8%B8%E6%88%8F%E5%A4%A7%E7%A4%BC%E5%8C%85%EF%BC%81%E8%B8%8F%E5%85%A5%E9%9F%B3%E6%B8%B8%E7%9B%B4%E6%92%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%81&lang=zh&timestamp=1740395082&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=23114" alt="【Muse Dash】（#001）休闲游戏大礼包！踏入音游直播的第一步！" title="【Muse Dash】（#001）休闲游戏大礼包！踏入音游直播的第一步！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=tGlxlROds6Y">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tGlxlROds6Y&title=%E3%80%90Chaos+in+Deponia%E3%80%91%EF%BC%88%23003%EF%BC%89%E5%A4%A7%E5%B9%B4%E9%99%A4%E5%A4%95+%E9%A6%AC%E6%8B%89%E6%9D%BE%E7%B3%BB%E5%88%97%EF%BC%81%EF%BC%88%E9%87%8D%E6%96%B0%E4%B8%8A%E5%82%B3%EF%BC%89&lang=zh&timestamp=1740287136&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42799">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1YqMWjVEOiQ&title=%E3%80%90Deponia%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%96%B0%E5%B9%B4%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%8F%B0+OwO%21%EF%BC%88%E9%87%8D%E6%96%B0%E4%B8%8A%E5%82%B3%EF%BC%89&lang=zh&timestamp=1740111966&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42768">
     <img src="https://ytcards.demolab.com/?id=1YqMWjVEOiQ&title=%E3%80%90Deponia%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%96%B0%E5%B9%B4%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%8F%B0+OwO%21%EF%BC%88%E9%87%8D%E6%96%B0%E4%B8%8A%E5%82%B3%EF%BC%89&lang=zh&timestamp=1740111966&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42768" alt="【Deponia】（#001）新年马拉松台 OwO!（重新上傳）" title="【Deponia】（#001）新年马拉松台 OwO!（重新上傳）">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=udyRDkGVdZg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=udyRDkGVdZg&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%85%BB%E8%80%81%E5%8F%AA%E7%8B%BC+%E6%B2%89%E6%B5%B8Boss%E6%94%BB%E7%95%A5%E6%97%B6%E9%97%B4%EF%BC%81+%EF%BC%88%E5%86%85%E5%90%AB%E6%BF%80%E7%83%88%E8%A8%80%E8%AE%BA%EF%BC%89&lang=zh&timestamp=1739990727&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14155">
-    <img src="https://ytcards.demolab.com/?id=udyRDkGVdZg&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%85%BB%E8%80%81%E5%8F%AA%E7%8B%BC+%E6%B2%89%E6%B5%B8Boss%E6%94%BB%E7%95%A5%E6%97%B6%E9%97%B4%EF%BC%81+%EF%BC%88%E5%86%85%E5%90%AB%E6%BF%80%E7%83%88%E8%A8%80%E8%AE%BA%EF%BC%89&lang=zh&timestamp=1739990727&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14155" alt="【Immersive Fight】（#002）养老只狼 沉浸Boss攻略时间！ （内含激烈言论）" title="【Immersive Fight】（#002）养老只狼 沉浸Boss攻略时间！ （内含激烈言论）">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
