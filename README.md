@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=uSgftM7PGUw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uSgftM7PGUw&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%AC%AC%E4%BA%8C%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740639802&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11172">
+    <img src="https://ytcards.demolab.com/?id=uSgftM7PGUw&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%AC%AC%E4%BA%8C%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740639802&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11172" alt="【Gartic Phone】（#002）第二届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#002）第二届 林間盃靈魂繪師決定戰！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=eThlHr15ID4">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eThlHr15ID4&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%AC%AC%E4%B8%80%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740565594&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17341">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qOdtmCG58wc&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23003%EF%BC%89%E5%89%A9%E4%B8%8B%E7%9A%84boss+%E6%9F%90%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%B8%8A%E4%B9%9F%E6%98%AF%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E6%89%93%E2%80%A6%E2%80%A6&lang=zh&timestamp=1740215380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13154">
     <img src="https://ytcards.demolab.com/?id=qOdtmCG58wc&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23003%EF%BC%89%E5%89%A9%E4%B8%8B%E7%9A%84boss+%E6%9F%90%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%B8%8A%E4%B9%9F%E6%98%AF%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E6%89%93%E2%80%A6%E2%80%A6&lang=zh&timestamp=1740215380&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13154" alt="【Immersive Fight】（#003）剩下的boss 某种程度上也是越来越难打……" title="【Immersive Fight】（#003）剩下的boss 某种程度上也是越来越难打……">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=MnhUGAZQIzA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MnhUGAZQIzA&title=%E3%80%90Chaos+in+Deponia%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%B9%B4%E5%88%9D%E4%BA%8C%E7%BB%A7%E7%BB%AD%E9%A9%AC%E6%8B%89%E6%9D%BE+OwO%21%EF%BC%88%E9%87%8D%E6%96%B0%E4%B8%8A%E5%82%B3%EF%BC%89&lang=zh&timestamp=1740197045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42477">
-    <img src="https://ytcards.demolab.com/?id=MnhUGAZQIzA&title=%E3%80%90Chaos+in+Deponia%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%B9%B4%E5%88%9D%E4%BA%8C%E7%BB%A7%E7%BB%AD%E9%A9%AC%E6%8B%89%E6%9D%BE+OwO%21%EF%BC%88%E9%87%8D%E6%96%B0%E4%B8%8A%E5%82%B3%EF%BC%89&lang=zh&timestamp=1740197045&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42477" alt="【Chaos in Deponia】（#002）年初二继续马拉松 OwO!（重新上傳）" title="【Chaos in Deponia】（#002）年初二继续马拉松 OwO!（重新上傳）">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
