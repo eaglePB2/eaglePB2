@@ -33,6 +33,24 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=NuP2ALNqPQk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NuP2ALNqPQk&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23003%EF%BC%89%E7%AC%AC%E4%B8%89%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740718980&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8369">
+    <img src="https://ytcards.demolab.com/?id=NuP2ALNqPQk&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23003%EF%BC%89%E7%AC%AC%E4%B8%89%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740718980&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8369" alt="【Gartic Phone】（#003）第三届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#003）第三届 林間盃靈魂繪師決定戰！">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=Nx8R3fUorlI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Nx8R3fUorlI&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23005%EF%BC%89%E7%AC%AC%E4%BA%94%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740711032&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=Nx8R3fUorlI&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23005%EF%BC%89%E7%AC%AC%E4%BA%94%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740711032&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Gartic Phone】（#005）第五届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#005）第五届 林間盃靈魂繪師決定戰！">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=lxpZQud3dGM">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lxpZQud3dGM&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23004%EF%BC%89%E7%AC%AC%E5%9B%9B%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740710967&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=lxpZQud3dGM&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23004%EF%BC%89%E7%AC%AC%E5%9B%9B%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740710967&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Gartic Phone】（#004）第四届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#004）第四届 林間盃靈魂繪師決定戰！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=uSgftM7PGUw">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uSgftM7PGUw&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%AC%AC%E4%BA%8C%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740639802&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11172">
@@ -49,24 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gzC80Uu-YpQ&title=%E3%80%90Muse+Dash%E3%80%91%EF%BC%88%23001%EF%BC%89%E4%BC%91%E9%97%B2%E6%B8%B8%E6%88%8F%E5%A4%A7%E7%A4%BC%E5%8C%85%EF%BC%81%E8%B8%8F%E5%85%A5%E9%9F%B3%E6%B8%B8%E7%9B%B4%E6%92%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%81&lang=zh&timestamp=1740395082&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23114">
     <img src="https://ytcards.demolab.com/?id=gzC80Uu-YpQ&title=%E3%80%90Muse+Dash%E3%80%91%EF%BC%88%23001%EF%BC%89%E4%BC%91%E9%97%B2%E6%B8%B8%E6%88%8F%E5%A4%A7%E7%A4%BC%E5%8C%85%EF%BC%81%E8%B8%8F%E5%85%A5%E9%9F%B3%E6%B8%B8%E7%9B%B4%E6%92%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%81&lang=zh&timestamp=1740395082&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=23114" alt="【Muse Dash】（#001）休闲游戏大礼包！踏入音游直播的第一步！" title="【Muse Dash】（#001）休闲游戏大礼包！踏入音游直播的第一步！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=tGlxlROds6Y">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tGlxlROds6Y&title=%E3%80%90Goodbye+Deponia%E3%80%91%EF%BC%88%23003%EF%BC%89%E5%A4%A7%E5%B9%B4%E9%99%A4%E5%A4%95+%E9%A6%AC%E6%8B%89%E6%9D%BE%E7%B3%BB%E5%88%97%EF%BC%81%EF%BC%88%E9%87%8D%E6%96%B0%E4%B8%8A%E5%82%B3%EF%BC%89&lang=zh&timestamp=1740287136&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42799">
-    <img src="https://ytcards.demolab.com/?id=tGlxlROds6Y&title=%E3%80%90Goodbye+Deponia%E3%80%91%EF%BC%88%23003%EF%BC%89%E5%A4%A7%E5%B9%B4%E9%99%A4%E5%A4%95+%E9%A6%AC%E6%8B%89%E6%9D%BE%E7%B3%BB%E5%88%97%EF%BC%81%EF%BC%88%E9%87%8D%E6%96%B0%E4%B8%8A%E5%82%B3%EF%BC%89&lang=zh&timestamp=1740287136&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42799" alt="【Goodbye Deponia】（#003）大年除夕 馬拉松系列！（重新上傳）" title="【Goodbye Deponia】（#003）大年除夕 馬拉松系列！（重新上傳）">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=4Cr66Z1nqg4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4Cr66Z1nqg4&title=Warframe+%E5%A5%A5%E5%B8%83%E5%B1%B1%E8%B0%B7+%E5%85%A8%E7%AB%99%E7%82%B9%E6%94%BB%E7%95%A5%E8%AE%B0%E5%BD%95&lang=zh&timestamp=1740275748&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1767">
-    <img src="https://ytcards.demolab.com/?id=4Cr66Z1nqg4&title=Warframe+%E5%A5%A5%E5%B8%83%E5%B1%B1%E8%B0%B7+%E5%85%A8%E7%AB%99%E7%82%B9%E6%94%BB%E7%95%A5%E8%AE%B0%E5%BD%95&lang=zh&timestamp=1740275748&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1767" alt="Warframe 奥布山谷 全站点攻略记录" title="Warframe 奥布山谷 全站点攻略记录">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=qOdtmCG58wc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qOdtmCG58wc&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23003%EF%BC%89%E5%89%A9%E4%B8%8B%E7%9A%84boss+%E6%9F%90%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%B8%8A%E4%B9%9F%E6%98%AF%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E6%89%93%E2%80%A6%E2%80%A6&lang=zh&timestamp=1740215380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13154">
-    <img src="https://ytcards.demolab.com/?id=qOdtmCG58wc&title=%E3%80%90Immersive+Fight%E3%80%91%EF%BC%88%23003%EF%BC%89%E5%89%A9%E4%B8%8B%E7%9A%84boss+%E6%9F%90%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%B8%8A%E4%B9%9F%E6%98%AF%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E6%89%93%E2%80%A6%E2%80%A6&lang=zh&timestamp=1740215380&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13154" alt="【Immersive Fight】（#003）剩下的boss 某种程度上也是越来越难打……" title="【Immersive Fight】（#003）剩下的boss 某种程度上也是越来越难打……">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
