@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=Nx8R3fUorlI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Nx8R3fUorlI&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23005%EF%BC%89%E7%AC%AC%E4%BA%94%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740897593&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8743">
+    <img src="https://ytcards.demolab.com/?id=Nx8R3fUorlI&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23005%EF%BC%89%E7%AC%AC%E4%BA%94%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740897593&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8743" alt="【Gartic Phone】（#005）第五届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#005）第五届 林間盃靈魂繪師決定戰！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=lxpZQud3dGM">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lxpZQud3dGM&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23004%EF%BC%89%E7%AC%AC%E5%9B%9B%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740810842&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11338">
@@ -43,12 +49,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NuP2ALNqPQk&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23003%EF%BC%89%E7%AC%AC%E4%B8%89%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740718980&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8369">
     <img src="https://ytcards.demolab.com/?id=NuP2ALNqPQk&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23003%EF%BC%89%E7%AC%AC%E4%B8%89%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740718980&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8369" alt="【Gartic Phone】（#003）第三届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#003）第三届 林間盃靈魂繪師決定戰！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=Nx8R3fUorlI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Nx8R3fUorlI&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23005%EF%BC%89%E7%AC%AC%E4%BA%94%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740711032&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=Nx8R3fUorlI&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23005%EF%BC%89%E7%AC%AC%E4%BA%94%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740711032&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Gartic Phone】（#005）第五届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#005）第五届 林間盃靈魂繪師決定戰！">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=uSgftM7PGUw">
