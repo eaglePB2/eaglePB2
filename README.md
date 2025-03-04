@@ -33,22 +33,28 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=L7VWW7LlN68">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L7VWW7LlN68&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23007%EF%BC%89%E7%AC%AC%E4%B8%83%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1741066935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11400">
+    <img src="https://ytcards.demolab.com/?id=L7VWW7LlN68&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23007%EF%BC%89%E7%AC%AC%E4%B8%83%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1741066935&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11400" alt="【Gartic Phone】（#007）第七届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#007）第七届 林間盃靈魂繪師決定戰！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=t9OGTAe2-B4">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=t9OGTAe2-B4&title=%E3%80%90Tiny+Echo%E3%80%91%EF%BC%88%23000%EF%BC%8913%E5%B0%81%E9%83%B5%E4%BB%B6%E5%AF%84%E9%80%81%E5%88%B0%E2%80%9C%E7%A5%9E%E6%98%8E%E2%80%9D%E7%9A%84%E6%89%8B%E8%A3%8F%E7%9A%84%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1740993910&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3886">
-    <img src="https://ytcards.demolab.com/?id=t9OGTAe2-B4&title=%E3%80%90Tiny+Echo%E3%80%91%EF%BC%88%23000%EF%BC%8913%E5%B0%81%E9%83%B5%E4%BB%B6%E5%AF%84%E9%80%81%E5%88%B0%E2%80%9C%E7%A5%9E%E6%98%8E%E2%80%9D%E7%9A%84%E6%89%8B%E8%A3%8F%E7%9A%84%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1740993910&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3886" alt="【Tiny Echo】（#000）13封郵件寄送到“神明”的手裏的游戲" title="【Tiny Echo】（#000）13封郵件寄送到“神明”的手裏的游戲">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=t9OGTAe2-B4&title=%E3%80%90Tiny+Echo%E3%80%91%EF%BC%88%23000%EF%BC%8913%E5%B0%81%E9%83%B5%E4%BB%B6%E5%AF%84%E9%80%81%E5%88%B0%E2%80%9C%E7%A5%9E%E6%98%8E%E2%80%9D%E7%9A%84%E6%89%8B%E8%A3%8F%E7%9A%84%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1741041565&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3883">
+    <img src="https://ytcards.demolab.com/?id=t9OGTAe2-B4&title=%E3%80%90Tiny+Echo%E3%80%91%EF%BC%88%23000%EF%BC%8913%E5%B0%81%E9%83%B5%E4%BB%B6%E5%AF%84%E9%80%81%E5%88%B0%E2%80%9C%E7%A5%9E%E6%98%8E%E2%80%9D%E7%9A%84%E6%89%8B%E8%A3%8F%E7%9A%84%E6%B8%B8%E6%88%B2&lang=zh&timestamp=1741041565&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3883" alt="【Tiny Echo】（#000）13封郵件寄送到“神明”的手裏的游戲" title="【Tiny Echo】（#000）13封郵件寄送到“神明”的手裏的游戲">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=ceucGWPshLo">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ceucGWPshLo&title=%E3%80%90is+this+seat+taken%3F%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%9B%96%E7%84%B6%E5%8F%AA%E6%98%AFDemo%E7%89%88+%E4%BD%86%E6%88%91%E5%B0%8D%E5%AE%83%E7%9A%84%E5%AE%8C%E6%95%B4%E7%89%88%E5%85%85%E6%BB%BF%E6%9C%9F%E5%BE%85&lang=zh&timestamp=1740991086&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1191">
-    <img src="https://ytcards.demolab.com/?id=ceucGWPshLo&title=%E3%80%90is+this+seat+taken%3F%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%9B%96%E7%84%B6%E5%8F%AA%E6%98%AFDemo%E7%89%88+%E4%BD%86%E6%88%91%E5%B0%8D%E5%AE%83%E7%9A%84%E5%AE%8C%E6%95%B4%E7%89%88%E5%85%85%E6%BB%BF%E6%9C%9F%E5%BE%85&lang=zh&timestamp=1740991086&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1191" alt="【is this seat taken?】（#001）雖然只是Demo版 但我對它的完整版充滿期待" title="【is this seat taken?】（#001）雖然只是Demo版 但我對它的完整版充滿期待">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ceucGWPshLo&title=%E3%80%90is+this+seat+taken%3F%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%9B%96%E7%84%B6%E5%8F%AA%E6%98%AFDemo%E7%89%88+%E4%BD%86%E6%88%91%E5%B0%8D%E5%AE%83%E7%9A%84%E5%AE%8C%E6%95%B4%E7%89%88%E5%85%85%E6%BB%BF%E6%9C%9F%E5%BE%85&lang=zh&timestamp=1741036786&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1192">
+    <img src="https://ytcards.demolab.com/?id=ceucGWPshLo&title=%E3%80%90is+this+seat+taken%3F%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%9B%96%E7%84%B6%E5%8F%AA%E6%98%AFDemo%E7%89%88+%E4%BD%86%E6%88%91%E5%B0%8D%E5%AE%83%E7%9A%84%E5%AE%8C%E6%95%B4%E7%89%88%E5%85%85%E6%BB%BF%E6%9C%9F%E5%BE%85&lang=zh&timestamp=1741036786&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1192" alt="【is this seat taken?】（#001）雖然只是Demo版 但我對它的完整版充滿期待" title="【is this seat taken?】（#001）雖然只是Demo版 但我對它的完整版充滿期待">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=UxrbTl_2-DU">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UxrbTl_2-DU&title=%E3%80%9020+Small+Mazes%E3%80%91%EF%BC%88%23000%EF%BC%8920%E7%A8%AE%E8%BF%B7%E5%AE%AE%E7%B5%84%E5%90%88%EF%BC%8C%E8%83%BD%E5%A4%9A%E5%BF%AB%E9%80%9A%E9%97%9C%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1740990292&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1454">
-    <img src="https://ytcards.demolab.com/?id=UxrbTl_2-DU&title=%E3%80%9020+Small+Mazes%E3%80%91%EF%BC%88%23000%EF%BC%8920%E7%A8%AE%E8%BF%B7%E5%AE%AE%E7%B5%84%E5%90%88%EF%BC%8C%E8%83%BD%E5%A4%9A%E5%BF%AB%E9%80%9A%E9%97%9C%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1740990292&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1454" alt="【20 Small Mazes】（#000）20種迷宮組合，能多快通關呢？" title="【20 Small Mazes】（#000）20種迷宮組合，能多快通關呢？">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UxrbTl_2-DU&title=%E3%80%9020+Small+Mazes%E3%80%91%EF%BC%88%23000%EF%BC%8920%E7%A8%AE%E8%BF%B7%E5%AE%AE%E7%B5%84%E5%90%88%EF%BC%8C%E8%83%BD%E5%A4%9A%E5%BF%AB%E9%80%9A%E9%97%9C%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1741035489&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1450">
+    <img src="https://ytcards.demolab.com/?id=UxrbTl_2-DU&title=%E3%80%9020+Small+Mazes%E3%80%91%EF%BC%88%23000%EF%BC%8920%E7%A8%AE%E8%BF%B7%E5%AE%AE%E7%B5%84%E5%90%88%EF%BC%8C%E8%83%BD%E5%A4%9A%E5%BF%AB%E9%80%9A%E9%97%9C%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1741035489&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1450" alt="【20 Small Mazes】（#000）20種迷宮組合，能多快通關呢？" title="【20 Small Mazes】（#000）20種迷宮組合，能多快通關呢？">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=j1TRoiUy9SA">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lF2KSYMm1nk&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23013%EF%BC%89%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740968423&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
     <img src="https://ytcards.demolab.com/?id=lF2KSYMm1nk&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23013%EF%BC%89%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740968423&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Gartic Phone】（#013）第十三届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#013）第十三届 林間盃靈魂繪師決定戰！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=N5R8Ujf0AmY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N5R8Ujf0AmY&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23012%EF%BC%89%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740968394&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=N5R8Ujf0AmY&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23012%EF%BC%89%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740968394&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Gartic Phone】（#012）第十二届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#012）第十二届 林間盃靈魂繪師決定戰！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
