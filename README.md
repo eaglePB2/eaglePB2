@@ -33,6 +33,18 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=Mxt4r8jVbkM">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Mxt4r8jVbkM&title=%E3%80%90Friday+The+13th%3A+Killer+Puzzle%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B1%A0%E4%BA%BA%E6%99%82%E9%96%93%E5%B7%B2%E6%8A%B5%E9%81%94%EF%BC%8C%E6%BB%91%E8%A1%8C%E5%B0%8F%E6%B8%B8%E6%88%B2%EF%BC%8C%E8%83%BD%E5%90%A6%E4%B8%80%E5%8F%A3%E6%B0%A3%E9%80%9A%E9%97%9C%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1741251335&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13839">
+    <img src="https://ytcards.demolab.com/?id=Mxt4r8jVbkM&title=%E3%80%90Friday+The+13th%3A+Killer+Puzzle%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B1%A0%E4%BA%BA%E6%99%82%E9%96%93%E5%B7%B2%E6%8A%B5%E9%81%94%EF%BC%8C%E6%BB%91%E8%A1%8C%E5%B0%8F%E6%B8%B8%E6%88%B2%EF%BC%8C%E8%83%BD%E5%90%A6%E4%B8%80%E5%8F%A3%E6%B0%A3%E9%80%9A%E9%97%9C%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1741251335&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13839" alt="【Friday The 13th: Killer Puzzle】（#000）屠人時間已抵達，滑行小游戲，能否一口氣通關呢？" title="【Friday The 13th: Killer Puzzle】（#000）屠人時間已抵達，滑行小游戲，能否一口氣通關呢？">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=ZZX9qT1WD6Y">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZZX9qT1WD6Y&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23009%EF%BC%89%E7%AC%AC%E4%B9%9D%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740968286&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6822">
+    <img src="https://ytcards.demolab.com/?id=ZZX9qT1WD6Y&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23009%EF%BC%89%E7%AC%AC%E4%B9%9D%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740968286&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6822" alt="【Gartic Phone】（#009）第九届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#009）第九届 林間盃靈魂繪師決定戰！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=ocddcntCN3Q">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ocddcntCN3Q&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23008%EF%BC%89%E7%AC%AC%E5%85%AB%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1741163170&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8335">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ceucGWPshLo&title=%E3%80%90is+this+seat+taken%3F%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%9B%96%E7%84%B6%E5%8F%AA%E6%98%AFDemo%E7%89%88+%E4%BD%86%E6%88%91%E5%B0%8D%E5%AE%83%E7%9A%84%E5%AE%8C%E6%95%B4%E7%89%88%E5%85%85%E6%BB%BF%E6%9C%9F%E5%BE%85&lang=zh&timestamp=1741036786&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1192">
     <img src="https://ytcards.demolab.com/?id=ceucGWPshLo&title=%E3%80%90is+this+seat+taken%3F%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%9B%96%E7%84%B6%E5%8F%AA%E6%98%AFDemo%E7%89%88+%E4%BD%86%E6%88%91%E5%B0%8D%E5%AE%83%E7%9A%84%E5%AE%8C%E6%95%B4%E7%89%88%E5%85%85%E6%BB%BF%E6%9C%9F%E5%BE%85&lang=zh&timestamp=1741036786&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1192" alt="【is this seat taken?】（#001）雖然只是Demo版 但我對它的完整版充滿期待" title="【is this seat taken?】（#001）雖然只是Demo版 但我對它的完整版充滿期待">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=UxrbTl_2-DU">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UxrbTl_2-DU&title=%E3%80%9020+Small+Mazes%E3%80%91%EF%BC%88%23000%EF%BC%8920%E7%A8%AE%E8%BF%B7%E5%AE%AE%E7%B5%84%E5%90%88%EF%BC%8C%E8%83%BD%E5%A4%9A%E5%BF%AB%E9%80%9A%E9%97%9C%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1741035489&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1450">
-    <img src="https://ytcards.demolab.com/?id=UxrbTl_2-DU&title=%E3%80%9020+Small+Mazes%E3%80%91%EF%BC%88%23000%EF%BC%8920%E7%A8%AE%E8%BF%B7%E5%AE%AE%E7%B5%84%E5%90%88%EF%BC%8C%E8%83%BD%E5%A4%9A%E5%BF%AB%E9%80%9A%E9%97%9C%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1741035489&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1450" alt="【20 Small Mazes】（#000）20種迷宮組合，能多快通關呢？" title="【20 Small Mazes】（#000）20種迷宮組合，能多快通關呢？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=j1TRoiUy9SA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=j1TRoiUy9SA&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23006%EF%BC%89%E7%AC%AC%E5%85%AD%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740981864&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12863">
-    <img src="https://ytcards.demolab.com/?id=j1TRoiUy9SA&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23006%EF%BC%89%E7%AC%AC%E5%85%AD%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1740981864&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12863" alt="【Gartic Phone】（#006）第六届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#006）第六届 林間盃靈魂繪師決定戰！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
