@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [精选内容：終焉決鬥（2）](https://www.twitch.tv/videos/2400633957)
+- [精选内容：終焉決鬥（1）](https://www.twitch.tv/videos/2400633622)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 這游戲 一口氣打完所有的DLC好了 awa](https://www.twitch.tv/videos/2398386125)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 玩點小游戲證明我還活著（？](https://www.twitch.tv/videos/2397695131)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 玩點小游戲證明我還活著（？](https://www.twitch.tv/videos/2395896833)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 這模組包 挖礦比打怪還快樂](https://www.twitch.tv/videos/2391651743)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 二月份 最后一周日麻积分赛](https://www.twitch.tv/videos/2391569467)
 <!-- TWITCH:END -->
 
 
