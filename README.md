@@ -33,16 +33,22 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=G9_aRKWILjs">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=G9_aRKWILjs&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%B7%B2%E7%B6%93%E5%AE%8C%E5%85%A8%E9%9B%A2%E7%B6%AB%E7%9A%84%E2%80%A6%E2%80%A6%E8%A7%A3%E8%AC%8EMMORPG&lang=zh&timestamp=1742616914&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=G9_aRKWILjs&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%B7%B2%E7%B6%93%E5%AE%8C%E5%85%A8%E9%9B%A2%E7%B6%AB%E7%9A%84%E2%80%A6%E2%80%A6%E8%A7%A3%E8%AC%8EMMORPG&lang=zh&timestamp=1742616914&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Island of Insights】（#001）已經完全離綫的……解謎MMORPG" title="【Island of Insights】（#001）已經完全離綫的……解謎MMORPG">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=ZaGD63ZeCfo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZaGD63ZeCfo&title=%E3%80%90Titanfall+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%BB%8A%E5%A4%A9%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%8F%AF%E4%BB%A5%E5%AE%8C%E7%B5%90%E4%BA%86%E2%80%A6%E2%80%A6%E5%90%A7%EF%BC%9F&lang=zh&timestamp=1742616852&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=ZaGD63ZeCfo&title=%E3%80%90Titanfall+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%BB%8A%E5%A4%A9%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%8F%AF%E4%BB%A5%E5%AE%8C%E7%B5%90%E4%BA%86%E2%80%A6%E2%80%A6%E5%90%A7%EF%BC%9F&lang=zh&timestamp=1742616852&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Titanfall 2】（#002）今天差不多可以完結了……吧？" title="【Titanfall 2】（#002）今天差不多可以完結了……吧？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=QQQxZ3i45PY">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QQQxZ3i45PY&title=%E3%80%90Titanfall+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%BB%8A%E5%A4%A9%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%8F%AF%E4%BB%A5%E5%AE%8C%E7%B5%90%E4%BA%86%E2%80%A6%E2%80%A6%E5%90%A7%EF%BC%9F&lang=zh&timestamp=1742288601&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8367">
     <img src="https://ytcards.demolab.com/?id=QQQxZ3i45PY&title=%E3%80%90Titanfall+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%BB%8A%E5%A4%A9%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%8F%AF%E4%BB%A5%E5%AE%8C%E7%B5%90%E4%BA%86%E2%80%A6%E2%80%A6%E5%90%A7%EF%BC%9F&lang=zh&timestamp=1742288601&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8367" alt="【Titanfall 2】（#002）今天差不多可以完結了……吧？" title="【Titanfall 2】（#002）今天差不多可以完結了……吧？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=ZOs0OOZ7-FE">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZOs0OOZ7-FE&title=%E3%80%90Titanfall+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%BB%8A%E5%A4%A9%E5%8F%AF%E8%83%BD%E5%B0%8F%E6%89%93&lang=zh&timestamp=1742288185&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=ZOs0OOZ7-FE&title=%E3%80%90Titanfall+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%BB%8A%E5%A4%A9%E5%8F%AF%E8%83%BD%E5%B0%8F%E6%89%93&lang=zh&timestamp=1742288185&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Titanfall 2】（#002）今天可能小打" title="【Titanfall 2】（#002）今天可能小打">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=oBHj0B0iASk">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N5R8Ujf0AmY&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23012%EF%BC%89%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1741497917&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9247">
     <img src="https://ytcards.demolab.com/?id=N5R8Ujf0AmY&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23012%EF%BC%89%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1741497917&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9247" alt="【Gartic Phone】（#012）第十二届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#012）第十二届 林間盃靈魂繪師決定戰！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=ufFTN3FEnHU">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ufFTN3FEnHU&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23011%EF%BC%89%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1741423788&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8843">
-    <img src="https://ytcards.demolab.com/?id=ufFTN3FEnHU&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23011%EF%BC%89%E7%AC%AC%E5%8D%81%E4%B8%80%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1741423788&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8843" alt="【Gartic Phone】（#011）第十一届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#011）第十一届 林間盃靈魂繪師決定戰！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
