@@ -33,10 +33,16 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=coYnizovRv8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=coYnizovRv8&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%96%B0%E9%A0%98%E5%9C%B0%E9%96%8B%E5%B1%80%EF%BC%8C%E9%80%99%E6%AC%A1%E5%A4%9A%E4%BA%86%E5%80%8B%E6%8E%A8%E7%AE%B1%E5%AD%90%E6%B8%B8%E6%88%B2OAO&lang=zh&timestamp=1742730275&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=coYnizovRv8&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%96%B0%E9%A0%98%E5%9C%B0%E9%96%8B%E5%B1%80%EF%BC%8C%E9%80%99%E6%AC%A1%E5%A4%9A%E4%BA%86%E5%80%8B%E6%8E%A8%E7%AE%B1%E5%AD%90%E6%B8%B8%E6%88%B2OAO&lang=zh&timestamp=1742730275&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Island of Insights】（#002）新領地開局，這次多了個推箱子游戲OAO" title="【Island of Insights】（#002）新領地開局，這次多了個推箱子游戲OAO">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=G9_aRKWILjs">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=G9_aRKWILjs&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%B7%B2%E7%B6%93%E5%AE%8C%E5%85%A8%E9%9B%A2%E7%B6%AB%E7%9A%84%E2%80%A6%E2%80%A6%E8%A7%A3%E8%AC%8EMMORPG&lang=zh&timestamp=1742616914&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=G9_aRKWILjs&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%B7%B2%E7%B6%93%E5%AE%8C%E5%85%A8%E9%9B%A2%E7%B6%AB%E7%9A%84%E2%80%A6%E2%80%A6%E8%A7%A3%E8%AC%8EMMORPG&lang=zh&timestamp=1742616914&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Island of Insights】（#001）已經完全離綫的……解謎MMORPG" title="【Island of Insights】（#001）已經完全離綫的……解謎MMORPG">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=G9_aRKWILjs&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%B7%B2%E7%B6%93%E5%AE%8C%E5%85%A8%E9%9B%A2%E7%B6%AB%E7%9A%84%E2%80%A6%E2%80%A6%E8%A7%A3%E8%AC%8EMMORPG&lang=zh&timestamp=1742701311&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13308">
+    <img src="https://ytcards.demolab.com/?id=G9_aRKWILjs&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%B7%B2%E7%B6%93%E5%AE%8C%E5%85%A8%E9%9B%A2%E7%B6%AB%E7%9A%84%E2%80%A6%E2%80%A6%E8%A7%A3%E8%AC%8EMMORPG&lang=zh&timestamp=1742701311&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13308" alt="【Island of Insights】（#001）已經完全離綫的……解謎MMORPG" title="【Island of Insights】（#001）已經完全離綫的……解謎MMORPG">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=ZaGD63ZeCfo">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lF2KSYMm1nk&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23013%EF%BC%89%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1741584720&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7624">
     <img src="https://ytcards.demolab.com/?id=lF2KSYMm1nk&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23013%EF%BC%89%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1741584720&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7624" alt="【Gartic Phone】（#013）第十三届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#013）第十三届 林間盃靈魂繪師決定戰！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=N5R8Ujf0AmY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N5R8Ujf0AmY&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23012%EF%BC%89%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1741497917&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9247">
-    <img src="https://ytcards.demolab.com/?id=N5R8Ujf0AmY&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23012%EF%BC%89%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1741497917&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9247" alt="【Gartic Phone】（#012）第十二届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#012）第十二届 林間盃靈魂繪師決定戰！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
