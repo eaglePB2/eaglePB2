@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 聽説網絡修好了？](https://www.twitch.tv/videos/2412150146)
+- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 聽説網絡修好了？](https://www.twitch.tv/videos/2412103235)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 巨人隕落2](https://www.twitch.tv/videos/2408776558)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 巨人隕落2](https://www.twitch.tv/videos/2407934655)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 林間杯 三人日麻積分賽~](https://www.twitch.tv/videos/2403713913)
-- [精选内容：終焉決鬥（2）](https://www.twitch.tv/videos/2400633957)
-- [精选内容：終焉決鬥（1）](https://www.twitch.tv/videos/2400633622)
 <!-- TWITCH:END -->
 
 
