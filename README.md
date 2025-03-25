@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=cOoXReJVY_A">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cOoXReJVY_A&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23003%EF%BC%89%E4%B8%80%E6%97%A5%E4%B8%80%E5%A1%8A%E6%96%B0%E9%A0%98%E5%9C%B0%EF%BC%8C%E9%80%99%E6%AC%A1%E7%9A%84%E7%A7%8B%E9%A2%A8%E9%A0%98%E5%9C%B0%E4%B9%9F%E5%A4%AA%E5%A4%A7%E4%BA%86%E5%90%A7OAO&lang=zh&timestamp=1742899059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18851">
+    <img src="https://ytcards.demolab.com/?id=cOoXReJVY_A&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23003%EF%BC%89%E4%B8%80%E6%97%A5%E4%B8%80%E5%A1%8A%E6%96%B0%E9%A0%98%E5%9C%B0%EF%BC%8C%E9%80%99%E6%AC%A1%E7%9A%84%E7%A7%8B%E9%A2%A8%E9%A0%98%E5%9C%B0%E4%B9%9F%E5%A4%AA%E5%A4%A7%E4%BA%86%E5%90%A7OAO&lang=zh&timestamp=1742899059&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18851" alt="【Island of Insights】（#003）一日一塊新領地，這次的秋風領地也太大了吧OAO" title="【Island of Insights】（#003）一日一塊新領地，這次的秋風領地也太大了吧OAO">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=coYnizovRv8">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=coYnizovRv8&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%96%B0%E9%A0%98%E5%9C%B0%E9%96%8B%E5%B1%80%EF%BC%8C%E9%80%99%E6%AC%A1%E5%A4%9A%E4%BA%86%E5%80%8B%E6%8E%A8%E7%AE%B1%E5%AD%90%E6%B8%B8%E6%88%B2OAO&lang=zh&timestamp=1742741609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9998">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oBHj0B0iASk&title=%E3%80%90Titanfall+2%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%80%99%E6%B8%B8%E6%88%B2+%E7%88%B2%E4%BB%80%E9%BA%BD%E6%88%91%E6%84%9F%E8%A6%BA%E5%A5%BD%E5%83%8F%E5%93%AA%E8%A3%8F%E6%9C%89%E6%89%93%E9%81%8E%EF%BC%9F&lang=zh&timestamp=1742202601&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12200">
     <img src="https://ytcards.demolab.com/?id=oBHj0B0iASk&title=%E3%80%90Titanfall+2%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%80%99%E6%B8%B8%E6%88%B2+%E7%88%B2%E4%BB%80%E9%BA%BD%E6%88%91%E6%84%9F%E8%A6%BA%E5%A5%BD%E5%83%8F%E5%93%AA%E8%A3%8F%E6%9C%89%E6%89%93%E9%81%8E%EF%BC%9F&lang=zh&timestamp=1742202601&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12200" alt="【Titanfall 2】（#001）這游戲 爲什麽我感覺好像哪裏有打過？" title="【Titanfall 2】（#001）這游戲 爲什麽我感覺好像哪裏有打過？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=lF2KSYMm1nk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lF2KSYMm1nk&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23013%EF%BC%89%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1741584720&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7624">
-    <img src="https://ytcards.demolab.com/?id=lF2KSYMm1nk&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23013%EF%BC%89%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1741584720&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7624" alt="【Gartic Phone】（#013）第十三届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#013）第十三届 林間盃靈魂繪師決定戰！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
