@@ -33,6 +33,18 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=qhgzVW9IXwM">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qhgzVW9IXwM&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23014%EF%BC%89%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1743334927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=qhgzVW9IXwM&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23014%EF%BC%89%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1743334927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Gartic Phone】（#014）第十四届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#014）第十四届 林間盃靈魂繪師決定戰！">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=2m5irjS4V48">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2m5irjS4V48&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%8C%87%E9%87%9D%E6%A8%A1%E5%BC%8F%E6%98%AF%E4%BB%80%E9%BA%BD%E9%AC%BC%EF%BC%8C%E6%88%91%E4%BB%A5%E5%89%8D%E7%9A%84PTSD%E8%A6%81%E5%9B%9E%E4%BE%86%E4%BA%86QAQ&lang=zh&timestamp=1743312910&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13401">
+    <img src="https://ytcards.demolab.com/?id=2m5irjS4V48&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%8C%87%E9%87%9D%E6%A8%A1%E5%BC%8F%E6%98%AF%E4%BB%80%E9%BA%BD%E9%AC%BC%EF%BC%8C%E6%88%91%E4%BB%A5%E5%89%8D%E7%9A%84PTSD%E8%A6%81%E5%9B%9E%E4%BE%86%E4%BA%86QAQ&lang=zh&timestamp=1743312910&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13401" alt="【Island of Insights】（#004）指針模式是什麽鬼，我以前的PTSD要回來了QAQ" title="【Island of Insights】（#004）指針模式是什麽鬼，我以前的PTSD要回來了QAQ">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=cOoXReJVY_A">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cOoXReJVY_A&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23003%EF%BC%89%E4%B8%80%E6%97%A5%E4%B8%80%E5%A1%8A%E6%96%B0%E9%A0%98%E5%9C%B0%EF%BC%8C%E9%80%99%E6%AC%A1%E7%9A%84%E7%A7%8B%E9%A2%A8%E9%A0%98%E5%9C%B0%E4%B9%9F%E5%A4%AA%E5%A4%A7%E4%BA%86%E5%90%A7OAO&lang=zh&timestamp=1742899059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18851">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZaGD63ZeCfo&title=%E3%80%90Titanfall+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%BB%8A%E5%A4%A9%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%8F%AF%E4%BB%A5%E5%AE%8C%E7%B5%90%E4%BA%86%E2%80%A6%E2%80%A6%E5%90%A7%EF%BC%9F&lang=zh&timestamp=1742616852&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
     <img src="https://ytcards.demolab.com/?id=ZaGD63ZeCfo&title=%E3%80%90Titanfall+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%BB%8A%E5%A4%A9%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%8F%AF%E4%BB%A5%E5%AE%8C%E7%B5%90%E4%BA%86%E2%80%A6%E2%80%A6%E5%90%A7%EF%BC%9F&lang=zh&timestamp=1742616852&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Titanfall 2】（#002）今天差不多可以完結了……吧？" title="【Titanfall 2】（#002）今天差不多可以完結了……吧？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=QQQxZ3i45PY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QQQxZ3i45PY&title=%E3%80%90Titanfall+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%BB%8A%E5%A4%A9%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%8F%AF%E4%BB%A5%E5%AE%8C%E7%B5%90%E4%BA%86%E2%80%A6%E2%80%A6%E5%90%A7%EF%BC%9F&lang=zh&timestamp=1742288601&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8367">
-    <img src="https://ytcards.demolab.com/?id=QQQxZ3i45PY&title=%E3%80%90Titanfall+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%BB%8A%E5%A4%A9%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%8F%AF%E4%BB%A5%E5%AE%8C%E7%B5%90%E4%BA%86%E2%80%A6%E2%80%A6%E5%90%A7%EF%BC%9F&lang=zh&timestamp=1742288601&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8367" alt="【Titanfall 2】（#002）今天差不多可以完結了……吧？" title="【Titanfall 2】（#002）今天差不多可以完結了……吧？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=oBHj0B0iASk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oBHj0B0iASk&title=%E3%80%90Titanfall+2%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%80%99%E6%B8%B8%E6%88%B2+%E7%88%B2%E4%BB%80%E9%BA%BD%E6%88%91%E6%84%9F%E8%A6%BA%E5%A5%BD%E5%83%8F%E5%93%AA%E8%A3%8F%E6%9C%89%E6%89%93%E9%81%8E%EF%BC%9F&lang=zh&timestamp=1742202601&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12200">
-    <img src="https://ytcards.demolab.com/?id=oBHj0B0iASk&title=%E3%80%90Titanfall+2%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%80%99%E6%B8%B8%E6%88%B2+%E7%88%B2%E4%BB%80%E9%BA%BD%E6%88%91%E6%84%9F%E8%A6%BA%E5%A5%BD%E5%83%8F%E5%93%AA%E8%A3%8F%E6%9C%89%E6%89%93%E9%81%8E%EF%BC%9F&lang=zh&timestamp=1742202601&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12200" alt="【Titanfall 2】（#001）這游戲 爲什麽我感覺好像哪裏有打過？" title="【Titanfall 2】（#001）這游戲 爲什麽我感覺好像哪裏有打過？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
