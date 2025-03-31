@@ -33,10 +33,16 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=TaKIiGYIBTY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TaKIiGYIBTY&title=%E3%80%90%E7%81%BD%E9%9B%A3%E5%85%AC%E9%97%9C%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%9C%B0%E7%8D%84%E5%88%97%E8%BB%8A%E5%9B%9E%E4%BE%86%E5%95%A6%EF%BC%81%E6%9B%B4%E5%A4%9A%E7%B2%BE%E5%BD%A9%E7%88%86%E6%96%99%EF%BC%8C%E5%8D%B3%E5%B0%87%E5%91%88%E7%8F%BE%EF%BC%81%E9%82%84%E6%B2%92%E4%B8%8A%E8%BB%8A%E7%9A%84%E8%B6%95%E5%BF%AB%E4%B8%8A%E8%BB%8A%E5%92%AF%EF%BC%81&lang=zh&timestamp=1743398450&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17902">
+    <img src="https://ytcards.demolab.com/?id=TaKIiGYIBTY&title=%E3%80%90%E7%81%BD%E9%9B%A3%E5%85%AC%E9%97%9C%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%9C%B0%E7%8D%84%E5%88%97%E8%BB%8A%E5%9B%9E%E4%BE%86%E5%95%A6%EF%BC%81%E6%9B%B4%E5%A4%9A%E7%B2%BE%E5%BD%A9%E7%88%86%E6%96%99%EF%BC%8C%E5%8D%B3%E5%B0%87%E5%91%88%E7%8F%BE%EF%BC%81%E9%82%84%E6%B2%92%E4%B8%8A%E8%BB%8A%E7%9A%84%E8%B6%95%E5%BF%AB%E4%B8%8A%E8%BB%8A%E5%92%AF%EF%BC%81&lang=zh&timestamp=1743398450&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17902" alt="【災難公關】（#002）地獄列車回來啦！更多精彩爆料，即將呈現！還沒上車的趕快上車咯！" title="【災難公關】（#002）地獄列車回來啦！更多精彩爆料，即將呈現！還沒上車的趕快上車咯！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=qhgzVW9IXwM">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qhgzVW9IXwM&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23014%EF%BC%89%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1743334927&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=qhgzVW9IXwM&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23014%EF%BC%89%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1743334927&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Gartic Phone】（#014）第十四届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#014）第十四届 林間盃靈魂繪師決定戰！">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qhgzVW9IXwM&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23014%EF%BC%89%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1743346335&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10885">
+    <img src="https://ytcards.demolab.com/?id=qhgzVW9IXwM&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23014%EF%BC%89%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1743346335&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10885" alt="【Gartic Phone】（#014）第十四届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#014）第十四届 林間盃靈魂繪師決定戰！">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=2m5irjS4V48">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=G9_aRKWILjs&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%B7%B2%E7%B6%93%E5%AE%8C%E5%85%A8%E9%9B%A2%E7%B6%AB%E7%9A%84%E2%80%A6%E2%80%A6%E8%A7%A3%E8%AC%8EMMORPG&lang=zh&timestamp=1742701311&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13308">
     <img src="https://ytcards.demolab.com/?id=G9_aRKWILjs&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%B7%B2%E7%B6%93%E5%AE%8C%E5%85%A8%E9%9B%A2%E7%B6%AB%E7%9A%84%E2%80%A6%E2%80%A6%E8%A7%A3%E8%AC%8EMMORPG&lang=zh&timestamp=1742701311&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13308" alt="【Island of Insights】（#001）已經完全離綫的……解謎MMORPG" title="【Island of Insights】（#001）已經完全離綫的……解謎MMORPG">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=ZaGD63ZeCfo">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZaGD63ZeCfo&title=%E3%80%90Titanfall+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%BB%8A%E5%A4%A9%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%8F%AF%E4%BB%A5%E5%AE%8C%E7%B5%90%E4%BA%86%E2%80%A6%E2%80%A6%E5%90%A7%EF%BC%9F&lang=zh&timestamp=1742616852&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=ZaGD63ZeCfo&title=%E3%80%90Titanfall+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E4%BB%8A%E5%A4%A9%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%8F%AF%E4%BB%A5%E5%AE%8C%E7%B5%90%E4%BA%86%E2%80%A6%E2%80%A6%E5%90%A7%EF%BC%9F&lang=zh&timestamp=1742616852&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Titanfall 2】（#002）今天差不多可以完結了……吧？" title="【Titanfall 2】（#002）今天差不多可以完結了……吧？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
