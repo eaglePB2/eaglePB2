@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=4TiU1pcZR7s">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4TiU1pcZR7s&title=%E3%80%90Spirit+of+the+North%E3%80%91%EF%BC%88%23000%EF%BC%89%E7%8B%90%E7%8B%B8%E8%A9%B2%E6%80%8E%E9%BA%BD%E5%8F%AB%E5%91%A2%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1743584870&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16611">
+    <img src="https://ytcards.demolab.com/?id=4TiU1pcZR7s&title=%E3%80%90Spirit+of+the+North%E3%80%91%EF%BC%88%23000%EF%BC%89%E7%8B%90%E7%8B%B8%E8%A9%B2%E6%80%8E%E9%BA%BD%E5%8F%AB%E5%91%A2%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1743584870&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16611" alt="【Spirit of the North】（#000）狐狸該怎麽叫呢……？" title="【Spirit of the North】（#000）狐狸該怎麽叫呢……？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=TaKIiGYIBTY">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TaKIiGYIBTY&title=%E3%80%90%E7%81%BD%E9%9B%A3%E5%85%AC%E9%97%9C%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%9C%B0%E7%8D%84%E5%88%97%E8%BB%8A%E5%9B%9E%E4%BE%86%E5%95%A6%EF%BC%81%E6%9B%B4%E5%A4%9A%E7%B2%BE%E5%BD%A9%E7%88%86%E6%96%99%EF%BC%8C%E5%8D%B3%E5%B0%87%E5%91%88%E7%8F%BE%EF%BC%81%E9%82%84%E6%B2%92%E4%B8%8A%E8%BB%8A%E7%9A%84%E8%B6%95%E5%BF%AB%E4%B8%8A%E8%BB%8A%E5%92%AF%EF%BC%81&lang=zh&timestamp=1743398450&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17902">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=coYnizovRv8&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%96%B0%E9%A0%98%E5%9C%B0%E9%96%8B%E5%B1%80%EF%BC%8C%E9%80%99%E6%AC%A1%E5%A4%9A%E4%BA%86%E5%80%8B%E6%8E%A8%E7%AE%B1%E5%AD%90%E6%B8%B8%E6%88%B2OAO&lang=zh&timestamp=1742741609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9998">
     <img src="https://ytcards.demolab.com/?id=coYnizovRv8&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%96%B0%E9%A0%98%E5%9C%B0%E9%96%8B%E5%B1%80%EF%BC%8C%E9%80%99%E6%AC%A1%E5%A4%9A%E4%BA%86%E5%80%8B%E6%8E%A8%E7%AE%B1%E5%AD%90%E6%B8%B8%E6%88%B2OAO&lang=zh&timestamp=1742741609&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9998" alt="【Island of Insights】（#002）新領地開局，這次多了個推箱子游戲OAO" title="【Island of Insights】（#002）新領地開局，這次多了個推箱子游戲OAO">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=G9_aRKWILjs">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=G9_aRKWILjs&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%B7%B2%E7%B6%93%E5%AE%8C%E5%85%A8%E9%9B%A2%E7%B6%AB%E7%9A%84%E2%80%A6%E2%80%A6%E8%A7%A3%E8%AC%8EMMORPG&lang=zh&timestamp=1742701311&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13308">
-    <img src="https://ytcards.demolab.com/?id=G9_aRKWILjs&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%B7%B2%E7%B6%93%E5%AE%8C%E5%85%A8%E9%9B%A2%E7%B6%AB%E7%9A%84%E2%80%A6%E2%80%A6%E8%A7%A3%E8%AC%8EMMORPG&lang=zh&timestamp=1742701311&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13308" alt="【Island of Insights】（#001）已經完全離綫的……解謎MMORPG" title="【Island of Insights】（#001）已經完全離綫的……解謎MMORPG">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
