@@ -33,6 +33,18 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=DCaGobJ_l-M">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DCaGobJ_l-M&title=%E3%80%90Milthm%E3%80%91%E5%8D%A4%E9%B8%AD%E5%A5%BD~+%E5%90%83~~&lang=zh&timestamp=1743668881&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=418">
+    <img src="https://ytcards.demolab.com/?id=DCaGobJ_l-M&title=%E3%80%90Milthm%E3%80%91%E5%8D%A4%E9%B8%AD%E5%A5%BD~+%E5%90%83~~&lang=zh&timestamp=1743668881&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=418" alt="【Milthm】卤鸭好~ 吃~~" title="【Milthm】卤鸭好~ 吃~~">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=o50ih0y0cg8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o50ih0y0cg8&title=%E3%80%90MCBE+%2F%2F+%E9%BA%A5%E5%A1%8A%E5%9F%BA%E5%B2%A9%E7%89%88%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%9B%BB%E5%BD%B1%E8%81%AF%E5%8B%95%E7%B3%BB%E5%88%97%EF%BC%81%E6%8A%AB%E9%A2%A8%E5%8F%AF%E8%83%BD%E9%82%84%E8%A6%81%E5%85%A9%E5%A4%A9%E5%BE%8C%E6%89%8D%E8%83%BD%E7%8D%B2%E5%BE%97%EF%BC%81&lang=zh&timestamp=1743656682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8621">
+    <img src="https://ytcards.demolab.com/?id=o50ih0y0cg8&title=%E3%80%90MCBE+%2F%2F+%E9%BA%A5%E5%A1%8A%E5%9F%BA%E5%B2%A9%E7%89%88%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%9B%BB%E5%BD%B1%E8%81%AF%E5%8B%95%E7%B3%BB%E5%88%97%EF%BC%81%E6%8A%AB%E9%A2%A8%E5%8F%AF%E8%83%BD%E9%82%84%E8%A6%81%E5%85%A9%E5%A4%A9%E5%BE%8C%E6%89%8D%E8%83%BD%E7%8D%B2%E5%BE%97%EF%BC%81&lang=zh&timestamp=1743656682&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8621" alt="【MCBE // 麥塊基岩版】（#000）電影聯動系列！披風可能還要兩天後才能獲得！" title="【MCBE // 麥塊基岩版】（#000）電影聯動系列！披風可能還要兩天後才能獲得！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=4TiU1pcZR7s">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4TiU1pcZR7s&title=%E3%80%90Spirit+of+the+North%E3%80%91%EF%BC%88%23000%EF%BC%89%E7%8B%90%E7%8B%B8%E8%A9%B2%E6%80%8E%E9%BA%BD%E5%8F%AB%E5%91%A2%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1743584870&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16611">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2m5irjS4V48&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%8C%87%E9%87%9D%E6%A8%A1%E5%BC%8F%E6%98%AF%E4%BB%80%E9%BA%BD%E9%AC%BC%EF%BC%8C%E6%88%91%E4%BB%A5%E5%89%8D%E7%9A%84PTSD%E8%A6%81%E5%9B%9E%E4%BE%86%E4%BA%86QAQ&lang=zh&timestamp=1743312910&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13401">
     <img src="https://ytcards.demolab.com/?id=2m5irjS4V48&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%8C%87%E9%87%9D%E6%A8%A1%E5%BC%8F%E6%98%AF%E4%BB%80%E9%BA%BD%E9%AC%BC%EF%BC%8C%E6%88%91%E4%BB%A5%E5%89%8D%E7%9A%84PTSD%E8%A6%81%E5%9B%9E%E4%BE%86%E4%BA%86QAQ&lang=zh&timestamp=1743312910&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13401" alt="【Island of Insights】（#004）指針模式是什麽鬼，我以前的PTSD要回來了QAQ" title="【Island of Insights】（#004）指針模式是什麽鬼，我以前的PTSD要回來了QAQ">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=cOoXReJVY_A">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cOoXReJVY_A&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23003%EF%BC%89%E4%B8%80%E6%97%A5%E4%B8%80%E5%A1%8A%E6%96%B0%E9%A0%98%E5%9C%B0%EF%BC%8C%E9%80%99%E6%AC%A1%E7%9A%84%E7%A7%8B%E9%A2%A8%E9%A0%98%E5%9C%B0%E4%B9%9F%E5%A4%AA%E5%A4%A7%E4%BA%86%E5%90%A7OAO&lang=zh&timestamp=1742899059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18851">
-    <img src="https://ytcards.demolab.com/?id=cOoXReJVY_A&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23003%EF%BC%89%E4%B8%80%E6%97%A5%E4%B8%80%E5%A1%8A%E6%96%B0%E9%A0%98%E5%9C%B0%EF%BC%8C%E9%80%99%E6%AC%A1%E7%9A%84%E7%A7%8B%E9%A2%A8%E9%A0%98%E5%9C%B0%E4%B9%9F%E5%A4%AA%E5%A4%A7%E4%BA%86%E5%90%A7OAO&lang=zh&timestamp=1742899059&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18851" alt="【Island of Insights】（#003）一日一塊新領地，這次的秋風領地也太大了吧OAO" title="【Island of Insights】（#003）一日一塊新領地，這次的秋風領地也太大了吧OAO">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=coYnizovRv8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=coYnizovRv8&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%96%B0%E9%A0%98%E5%9C%B0%E9%96%8B%E5%B1%80%EF%BC%8C%E9%80%99%E6%AC%A1%E5%A4%9A%E4%BA%86%E5%80%8B%E6%8E%A8%E7%AE%B1%E5%AD%90%E6%B8%B8%E6%88%B2OAO&lang=zh&timestamp=1742741609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9998">
-    <img src="https://ytcards.demolab.com/?id=coYnizovRv8&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%96%B0%E9%A0%98%E5%9C%B0%E9%96%8B%E5%B1%80%EF%BC%8C%E9%80%99%E6%AC%A1%E5%A4%9A%E4%BA%86%E5%80%8B%E6%8E%A8%E7%AE%B1%E5%AD%90%E6%B8%B8%E6%88%B2OAO&lang=zh&timestamp=1742741609&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9998" alt="【Island of Insights】（#002）新領地開局，這次多了個推箱子游戲OAO" title="【Island of Insights】（#002）新領地開局，這次多了個推箱子游戲OAO">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
