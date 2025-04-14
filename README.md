@@ -22,8 +22,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 四月份 林間杯 第一階段三麻](https://www.twitch.tv/videos/2421914896)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 狐狸的叫聲是什麽？那狐仙呢？他會叫出什麽聲？](https://www.twitch.tv/videos/2421738399)
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 只需挂機 就可享受新披風！](https://www.twitch.tv/videos/2421116588)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 灵魂绘师](https://www.twitch.tv/videos/2418439328)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 回到冒险岛！这谜题怎么越来越夸张了](https://www.twitch.tv/videos/2418259856)
+- [精选内容：終焉決鬥（2）](https://www.twitch.tv/videos/2400633957)
+- [精选内容：終焉決鬥（1）](https://www.twitch.tv/videos/2400633622)
 <!-- TWITCH:END -->
 
 
