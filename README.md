@@ -20,10 +20,10 @@ You may come back later, as you wish if this readme.md is updated.   -->
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 21番盃 主台转播](https://www.twitch.tv/videos/2434327435)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 四月份 林間杯 第一階段三麻](https://www.twitch.tv/videos/2421914896)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 狐狸的叫聲是什麽？那狐仙呢？他會叫出什麽聲？](https://www.twitch.tv/videos/2421738399)
 - [精选内容：終焉決鬥（2）](https://www.twitch.tv/videos/2400633957)
 - [精选内容：終焉決鬥（1）](https://www.twitch.tv/videos/2400633622)
+- [精选内容：林间盃日麻积分赛 —— 2月第二场](https://www.twitch.tv/videos/2386162978)
+- [精选内容：林间盃日麻积分赛 —— 2月第一·场](https://www.twitch.tv/videos/2373108854)
 <!-- TWITCH:END -->
 
 
