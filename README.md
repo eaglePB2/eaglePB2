@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=anPqP5NesSA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=anPqP5NesSA&title=%E3%80%90%E6%88%91%E4%B8%8D%E8%83%8C%E9%8D%8B+%7C+Project+Planet%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%9E%97%E9%96%93%E7%94%A9%E9%8D%8B%E6%99%82%E9%96%93%EF%BC%8C%E6%88%91%E5%80%91%E6%98%AF%E8%A6%81%E6%A3%84%E7%BD%AE%E5%9C%B0%E7%90%83%E8%88%87%E4%B8%8D%E9%A1%A7%E4%BA%86%E5%97%8E%EF%BC%9F&lang=zh&timestamp=1746762231&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12556">
+    <img src="https://ytcards.demolab.com/?id=anPqP5NesSA&title=%E3%80%90%E6%88%91%E4%B8%8D%E8%83%8C%E9%8D%8B+%7C+Project+Planet%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%9E%97%E9%96%93%E7%94%A9%E9%8D%8B%E6%99%82%E9%96%93%EF%BC%8C%E6%88%91%E5%80%91%E6%98%AF%E8%A6%81%E6%A3%84%E7%BD%AE%E5%9C%B0%E7%90%83%E8%88%87%E4%B8%8D%E9%A1%A7%E4%BA%86%E5%97%8E%EF%BC%9F&lang=zh&timestamp=1746762231&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12556" alt="【我不背鍋 | Project Planet】（#000）林間甩鍋時間，我們是要棄置地球與不顧了嗎？" title="【我不背鍋 | Project Planet】（#000）林間甩鍋時間，我們是要棄置地球與不顧了嗎？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=DCaGobJ_l-M">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DCaGobJ_l-M&title=%E3%80%90Milthm%E3%80%91%E5%8D%A4%E9%B8%AD%E5%A5%BD~+%E5%90%83~~&lang=zh&timestamp=1743668881&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=418">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qhgzVW9IXwM&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23014%EF%BC%89%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1743346335&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10885">
     <img src="https://ytcards.demolab.com/?id=qhgzVW9IXwM&title=%E3%80%90Gartic+Phone%E3%80%91%EF%BC%88%23014%EF%BC%89%E7%AC%AC%E5%8D%81%E5%9B%9B%E5%B1%8A+%E6%9E%97%E9%96%93%E7%9B%83%E9%9D%88%E9%AD%82%E7%B9%AA%E5%B8%AB%E6%B1%BA%E5%AE%9A%E6%88%B0%EF%BC%81&lang=zh&timestamp=1743346335&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10885" alt="【Gartic Phone】（#014）第十四届 林間盃靈魂繪師決定戰！" title="【Gartic Phone】（#014）第十四届 林間盃靈魂繪師決定戰！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=2m5irjS4V48">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2m5irjS4V48&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%8C%87%E9%87%9D%E6%A8%A1%E5%BC%8F%E6%98%AF%E4%BB%80%E9%BA%BD%E9%AC%BC%EF%BC%8C%E6%88%91%E4%BB%A5%E5%89%8D%E7%9A%84PTSD%E8%A6%81%E5%9B%9E%E4%BE%86%E4%BA%86QAQ&lang=zh&timestamp=1743312910&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13401">
-    <img src="https://ytcards.demolab.com/?id=2m5irjS4V48&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%8C%87%E9%87%9D%E6%A8%A1%E5%BC%8F%E6%98%AF%E4%BB%80%E9%BA%BD%E9%AC%BC%EF%BC%8C%E6%88%91%E4%BB%A5%E5%89%8D%E7%9A%84PTSD%E8%A6%81%E5%9B%9E%E4%BE%86%E4%BA%86QAQ&lang=zh&timestamp=1743312910&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13401" alt="【Island of Insights】（#004）指針模式是什麽鬼，我以前的PTSD要回來了QAQ" title="【Island of Insights】（#004）指針模式是什麽鬼，我以前的PTSD要回來了QAQ">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
