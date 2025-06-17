@@ -20,10 +20,10 @@ You may come back later, as you wish if this readme.md is updated.   -->
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
 - [☾ 宿舍 ⋆ @eaglepb2 生 ☽ [林間盃] 夏季 個人邀請賽 - 半決賽 Day 1 !主播 !賽制 !玩家](https://www.twitch.tv/videos/2476819243)
-- [☾ 宿舍 ⋆ @eaglepb2 生 ☽ 解謎速通，启动！~ 正在找適合的平臺發圖中 （不要IG）](https://www.twitch.tv/videos/2474231182)
 - [精选内容：終焉決鬥（2）](https://www.twitch.tv/videos/2400633957)
 - [精选内容：終焉決鬥（1）](https://www.twitch.tv/videos/2400633622)
 - [精选内容：饥荒 Day 5 #0625](https://www.twitch.tv/videos/1928635454)
+- [精选内容：饥荒 Day 4 #0622](https://www.twitch.tv/videos/1924829900)
 <!-- TWITCH:END -->
 
 
