@@ -33,7 +33,7 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=g83bfTADLiM">
+<a href="https://www.youtube.com/shorts/g83bfTADLiM">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=g83bfTADLiM&title=4%E6%98%9F%E5%87%BA%E8%B2%A8%E7%8E%87%E5%B1%85%E7%84%B6%E6%9C%8910%25%3F%3F%3F+Project+Sekai+3.5+%E5%91%A8%E5%B9%B4+%E5%85%8D%E8%B2%BB70%E6%8A%BD+%E7%B2%BE%E8%8F%AF%E7%AF%87&lang=zh&timestamp=1750046450&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=172">
     <img src="https://ytcards.demolab.com/?id=g83bfTADLiM&title=4%E6%98%9F%E5%87%BA%E8%B2%A8%E7%8E%87%E5%B1%85%E7%84%B6%E6%9C%8910%25%3F%3F%3F+Project+Sekai+3.5+%E5%91%A8%E5%B9%B4+%E5%85%8D%E8%B2%BB70%E6%8A%BD+%E7%B2%BE%E8%8F%AF%E7%AF%87&lang=zh&timestamp=1750046450&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=172" alt="4星出貨率居然有10%??? Project Sekai 3.5 周年 免費70抽 精華篇" title="4星出貨率居然有10%??? Project Sekai 3.5 周年 免費70抽 精華篇">
@@ -45,7 +45,7 @@ You may come back later, as you wish if this readme.md is updated.   -->
     <img src="https://ytcards.demolab.com/?id=wJxigM6y5qY&title=%E3%80%90Agent+A%3A+A+puzzle+in+disguise%E3%80%91%EF%BC%88%23000%EF%BC%89%E7%89%B9%E5%B7%A5%E8%80%81%E9%B9%B0%E4%B8%8A%E7%BA%BF%E4%B8%AD%EF%BC%8C%E5%B8%8C%E6%9C%9B%E8%A7%A3%E8%B0%9C%E6%80%9D%E8%B7%AF%E6%B2%A1%E7%94%9F%E9%94%88&lang=zh&timestamp=1748793915&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13234" alt="【Agent A: A puzzle in disguise】（#000）特工老鹰上线中，希望解谜思路没生锈" title="【Agent A: A puzzle in disguise】（#000）特工老鹰上线中，希望解谜思路没生锈">
   </picture>
 </a>
-<a href="https://www.youtube.com/watch?v=qbCOFztg6h8">
+<a href="https://www.youtube.com/shorts/qbCOFztg6h8">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qbCOFztg6h8&title=Project+Sekai+Gacha+%E9%9A%BE%E6%8A%BD%E5%90%97%EF%BC%9F+%E9%9A%BE%EF%BC%81+%E5%A4%AA%E9%9A%BE%E4%BA%86%EF%BC%81&lang=zh&timestamp=1748087112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=125">
     <img src="https://ytcards.demolab.com/?id=qbCOFztg6h8&title=Project+Sekai+Gacha+%E9%9A%BE%E6%8A%BD%E5%90%97%EF%BC%9F+%E9%9A%BE%EF%BC%81+%E5%A4%AA%E9%9A%BE%E4%BA%86%EF%BC%81&lang=zh&timestamp=1748087112&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=125" alt="Project Sekai Gacha 难抽吗？ 难！ 太难了！" title="Project Sekai Gacha 难抽吗？ 难！ 太难了！">
