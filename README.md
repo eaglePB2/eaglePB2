@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=NLKQXTYG1cA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NLKQXTYG1cA&title=%E3%80%90Project+Sekai%3A+Colorful+Stage%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%A6%82%E6%9E%9C%E6%88%91%E6%B2%A1FC%E5%B0%B1%E6%8A%BD%E4%B8%80%E6%AC%A1gacha&lang=zh&timestamp=1750757300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=NLKQXTYG1cA&title=%E3%80%90Project+Sekai%3A+Colorful+Stage%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%A6%82%E6%9E%9C%E6%88%91%E6%B2%A1FC%E5%B0%B1%E6%8A%BD%E4%B8%80%E6%AC%A1gacha&lang=zh&timestamp=1750757300&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Project Sekai: Colorful Stage】（#001）如果我没FC就抽一次gacha" title="【Project Sekai: Colorful Stage】（#001）如果我没FC就抽一次gacha">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/g83bfTADLiM">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=g83bfTADLiM&title=4%E6%98%9F%E5%87%BA%E8%B2%A8%E7%8E%87%E5%B1%85%E7%84%B6%E6%9C%8910%25%3F%3F%3F+Project+Sekai+3.5+%E5%91%A8%E5%B9%B4+%E5%85%8D%E8%B2%BB70%E6%8A%BD+%E7%B2%BE%E8%8F%AF%E7%AF%87&lang=zh&timestamp=1750046450&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=172">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DCaGobJ_l-M&title=%E3%80%90Milthm%E3%80%91%E5%8D%A4%E9%B8%AD%E5%A5%BD~+%E5%90%83~~&lang=zh&timestamp=1743668881&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=418">
     <img src="https://ytcards.demolab.com/?id=DCaGobJ_l-M&title=%E3%80%90Milthm%E3%80%91%E5%8D%A4%E9%B8%AD%E5%A5%BD~+%E5%90%83~~&lang=zh&timestamp=1743668881&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=418" alt="【Milthm】卤鸭好~ 吃~~" title="【Milthm】卤鸭好~ 吃~~">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=o50ih0y0cg8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o50ih0y0cg8&title=%E3%80%90MCBE+%2F%2F+%E9%BA%A5%E5%A1%8A%E5%9F%BA%E5%B2%A9%E7%89%88%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%9B%BB%E5%BD%B1%E8%81%AF%E5%8B%95%E7%B3%BB%E5%88%97%EF%BC%81%E6%8A%AB%E9%A2%A8%E5%8F%AF%E8%83%BD%E9%82%84%E8%A6%81%E5%85%A9%E5%A4%A9%E5%BE%8C%E6%89%8D%E8%83%BD%E7%8D%B2%E5%BE%97%EF%BC%81&lang=zh&timestamp=1743656682&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8621">
-    <img src="https://ytcards.demolab.com/?id=o50ih0y0cg8&title=%E3%80%90MCBE+%2F%2F+%E9%BA%A5%E5%A1%8A%E5%9F%BA%E5%B2%A9%E7%89%88%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%9B%BB%E5%BD%B1%E8%81%AF%E5%8B%95%E7%B3%BB%E5%88%97%EF%BC%81%E6%8A%AB%E9%A2%A8%E5%8F%AF%E8%83%BD%E9%82%84%E8%A6%81%E5%85%A9%E5%A4%A9%E5%BE%8C%E6%89%8D%E8%83%BD%E7%8D%B2%E5%BE%97%EF%BC%81&lang=zh&timestamp=1743656682&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8621" alt="【MCBE // 麥塊基岩版】（#000）電影聯動系列！披風可能還要兩天後才能獲得！" title="【MCBE // 麥塊基岩版】（#000）電影聯動系列！披風可能還要兩天後才能獲得！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
