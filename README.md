@@ -33,10 +33,22 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=KDKImBaY7ng">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KDKImBaY7ng&title=%E3%80%90Deponia+Doomsday%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%97%B6%E9%9A%94%E4%B8%89%E5%B9%B4%E7%9A%84Deponia+%E6%9C%80%E7%BB%88%E7%AB%A0%E6%88%91%E6%9D%A5%E4%BA%86%EF%BC%81&lang=zh&timestamp=1751199368&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=KDKImBaY7ng&title=%E3%80%90Deponia+Doomsday%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%97%B6%E9%9A%94%E4%B8%89%E5%B9%B4%E7%9A%84Deponia+%E6%9C%80%E7%BB%88%E7%AB%A0%E6%88%91%E6%9D%A5%E4%BA%86%EF%BC%81&lang=zh&timestamp=1751199368&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Deponia Doomsday】（#004）时隔三年的Deponia 最终章我来了！" title="【Deponia Doomsday】（#004）时隔三年的Deponia 最终章我来了！">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=z0ga4WaxBoc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z0ga4WaxBoc&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%97%B6%E9%9A%94%E4%B8%89%E4%B8%AA%E6%9C%88%E7%9A%84%E8%A7%A3%E8%B0%9C%E5%B2%9B+%E6%88%91%E5%9B%9E%E6%9D%A5%E5%95%A6%EF%BC%81&lang=zh&timestamp=1751185484&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16004">
+    <img src="https://ytcards.demolab.com/?id=z0ga4WaxBoc&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%97%B6%E9%9A%94%E4%B8%89%E4%B8%AA%E6%9C%88%E7%9A%84%E8%A7%A3%E8%B0%9C%E5%B2%9B+%E6%88%91%E5%9B%9E%E6%9D%A5%E5%95%A6%EF%BC%81&lang=zh&timestamp=1751185484&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16004" alt="【Island of Insights】（#005）时隔三个月的解谜岛 我回来啦！" title="【Island of Insights】（#005）时隔三个月的解谜岛 我回来啦！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=NLKQXTYG1cA">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NLKQXTYG1cA&title=%E3%80%90Project+Sekai%3A+Colorful+Stage%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%A6%82%E6%9E%9C%E6%88%91%E6%B2%A1FC%E5%B0%B1%E6%8A%BD%E4%B8%80%E6%AC%A1gacha&lang=zh&timestamp=1750757300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=NLKQXTYG1cA&title=%E3%80%90Project+Sekai%3A+Colorful+Stage%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%A6%82%E6%9E%9C%E6%88%91%E6%B2%A1FC%E5%B0%B1%E6%8A%BD%E4%B8%80%E6%AC%A1gacha&lang=zh&timestamp=1750757300&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Project Sekai: Colorful Stage】（#001）如果我没FC就抽一次gacha" title="【Project Sekai: Colorful Stage】（#001）如果我没FC就抽一次gacha">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NLKQXTYG1cA&title=%E3%80%90%E4%B8%96%E7%95%8C%E8%A8%88%E5%8A%83+%C2%B7+%E7%B9%BD%E7%B4%9B%E8%88%9E%E5%8F%B0%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%A6%82%E6%9E%9C%E6%88%91%E6%B2%A1FC%E5%B0%B1%E6%8A%BD%E4%B8%80%E6%AC%A1gacha&lang=zh&timestamp=1751116142&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8233">
+    <img src="https://ytcards.demolab.com/?id=NLKQXTYG1cA&title=%E3%80%90%E4%B8%96%E7%95%8C%E8%A8%88%E5%8A%83+%C2%B7+%E7%B9%BD%E7%B4%9B%E8%88%9E%E5%8F%B0%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%A6%82%E6%9E%9C%E6%88%91%E6%B2%A1FC%E5%B0%B1%E6%8A%BD%E4%B8%80%E6%AC%A1gacha&lang=zh&timestamp=1751116142&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8233" alt="【世界計劃 · 繽紛舞台】（#001）如果我没FC就抽一次gacha" title="【世界計劃 · 繽紛舞台】（#001）如果我没FC就抽一次gacha">
   </picture>
 </a>
 <a href="https://www.youtube.com/shorts/g83bfTADLiM">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qbCOFztg6h8&title=Project+Sekai+Gacha+%E9%9A%BE%E6%8A%BD%E5%90%97%EF%BC%9F+%E9%9A%BE%EF%BC%81+%E5%A4%AA%E9%9A%BE%E4%BA%86%EF%BC%81&lang=zh&timestamp=1748087112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=125">
     <img src="https://ytcards.demolab.com/?id=qbCOFztg6h8&title=Project+Sekai+Gacha+%E9%9A%BE%E6%8A%BD%E5%90%97%EF%BC%9F+%E9%9A%BE%EF%BC%81+%E5%A4%AA%E9%9A%BE%E4%BA%86%EF%BC%81&lang=zh&timestamp=1748087112&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=125" alt="Project Sekai Gacha 难抽吗？ 难！ 太难了！" title="Project Sekai Gacha 难抽吗？ 难！ 太难了！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=anPqP5NesSA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=anPqP5NesSA&title=%E3%80%90%E6%88%91%E4%B8%8D%E8%83%8C%E9%8D%8B+%7C+Project+Planet%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%9E%97%E9%96%93%E7%94%A9%E9%8D%8B%E6%99%82%E9%96%93%EF%BC%8C%E6%88%91%E5%80%91%E6%98%AF%E8%A6%81%E6%A3%84%E7%BD%AE%E5%9C%B0%E7%90%83%E8%88%87%E4%B8%8D%E9%A1%A7%E4%BA%86%E5%97%8E%EF%BC%9F&lang=zh&timestamp=1746762231&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12556">
-    <img src="https://ytcards.demolab.com/?id=anPqP5NesSA&title=%E3%80%90%E6%88%91%E4%B8%8D%E8%83%8C%E9%8D%8B+%7C+Project+Planet%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%9E%97%E9%96%93%E7%94%A9%E9%8D%8B%E6%99%82%E9%96%93%EF%BC%8C%E6%88%91%E5%80%91%E6%98%AF%E8%A6%81%E6%A3%84%E7%BD%AE%E5%9C%B0%E7%90%83%E8%88%87%E4%B8%8D%E9%A1%A7%E4%BA%86%E5%97%8E%EF%BC%9F&lang=zh&timestamp=1746762231&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12556" alt="【我不背鍋 | Project Planet】（#000）林間甩鍋時間，我們是要棄置地球與不顧了嗎？" title="【我不背鍋 | Project Planet】（#000）林間甩鍋時間，我們是要棄置地球與不顧了嗎？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=DCaGobJ_l-M">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DCaGobJ_l-M&title=%E3%80%90Milthm%E3%80%91%E5%8D%A4%E9%B8%AD%E5%A5%BD~+%E5%90%83~~&lang=zh&timestamp=1743668881&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=418">
-    <img src="https://ytcards.demolab.com/?id=DCaGobJ_l-M&title=%E3%80%90Milthm%E3%80%91%E5%8D%A4%E9%B8%AD%E5%A5%BD~+%E5%90%83~~&lang=zh&timestamp=1743668881&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=418" alt="【Milthm】卤鸭好~ 吃~~" title="【Milthm】卤鸭好~ 吃~~">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
