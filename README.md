@@ -35,8 +35,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=KDKImBaY7ng">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KDKImBaY7ng&title=%E3%80%90Deponia+Doomsday%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%97%B6%E9%9A%94%E4%B8%89%E5%B9%B4%E7%9A%84Deponia+%E6%9C%80%E7%BB%88%E7%AB%A0%E6%88%91%E6%9D%A5%E4%BA%86%EF%BC%81&lang=zh&timestamp=1751199368&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=KDKImBaY7ng&title=%E3%80%90Deponia+Doomsday%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%97%B6%E9%9A%94%E4%B8%89%E5%B9%B4%E7%9A%84Deponia+%E6%9C%80%E7%BB%88%E7%AB%A0%E6%88%91%E6%9D%A5%E4%BA%86%EF%BC%81&lang=zh&timestamp=1751199368&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Deponia Doomsday】（#004）时隔三年的Deponia 最终章我来了！" title="【Deponia Doomsday】（#004）时隔三年的Deponia 最终章我来了！">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KDKImBaY7ng&title=%E3%80%90Deponia+Doomsday%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%97%B6%E9%9A%94%E4%B8%89%E5%B9%B4%E7%9A%84Deponia+%E6%9C%80%E7%BB%88%E7%AB%A0%E6%88%91%E6%9D%A5%E4%BA%86%EF%BC%81&lang=zh&timestamp=1751222146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21621">
+    <img src="https://ytcards.demolab.com/?id=KDKImBaY7ng&title=%E3%80%90Deponia+Doomsday%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%97%B6%E9%9A%94%E4%B8%89%E5%B9%B4%E7%9A%84Deponia+%E6%9C%80%E7%BB%88%E7%AB%A0%E6%88%91%E6%9D%A5%E4%BA%86%EF%BC%81&lang=zh&timestamp=1751222146&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21621" alt="【Deponia Doomsday】（#004）时隔三年的Deponia 最终章我来了！" title="【Deponia Doomsday】（#004）时隔三年的Deponia 最终章我来了！">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=z0ga4WaxBoc">
