@@ -33,6 +33,18 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=FqH0L04QDR8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FqH0L04QDR8&title=%E3%80%90Deponia+Doomsday%E3%80%91%EF%BC%88%23005%EF%BC%89%E4%B8%BA%E4%BA%86%E7%BB%9F%E4%B8%80%E6%80%A7+%E6%88%91%E8%80%83%E8%99%91%E8%A6%81%E4%B8%8D%E8%BF%99%E4%B8%AA%E6%92%AD%E5%AE%8C%E7%9B%B4%E6%8E%A5%E5%89%AA%E6%88%90%E5%A4%A7%E9%95%BF%E7%89%87%E7%AE%97%E4%BA%86awa&lang=zh&timestamp=1751367998&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=FqH0L04QDR8&title=%E3%80%90Deponia+Doomsday%E3%80%91%EF%BC%88%23005%EF%BC%89%E4%B8%BA%E4%BA%86%E7%BB%9F%E4%B8%80%E6%80%A7+%E6%88%91%E8%80%83%E8%99%91%E8%A6%81%E4%B8%8D%E8%BF%99%E4%B8%AA%E6%92%AD%E5%AE%8C%E7%9B%B4%E6%8E%A5%E5%89%AA%E6%88%90%E5%A4%A7%E9%95%BF%E7%89%87%E7%AE%97%E4%BA%86awa&lang=zh&timestamp=1751367998&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Deponia Doomsday】（#005）为了统一性 我考虑要不这个播完直接剪成大长片算了awa" title="【Deponia Doomsday】（#005）为了统一性 我考虑要不这个播完直接剪成大长片算了awa">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=VWBfwjrWMMk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VWBfwjrWMMk&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23006%EF%BC%89%E6%8A%8A%E5%89%8D%E9%9D%A2%E7%9A%84%E5%89%AF%E6%9C%AC%E5%85%A8%E6%B8%85%E4%BA%86%EF%BC%8C%E6%8E%A5%E4%B8%8B%E6%9D%A5%E7%BB%A7%E7%BB%AD%E4%B8%9B%E6%9E%97%E5%89%AF%E6%9C%AC~&lang=zh&timestamp=1751352087&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7696">
+    <img src="https://ytcards.demolab.com/?id=VWBfwjrWMMk&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23006%EF%BC%89%E6%8A%8A%E5%89%8D%E9%9D%A2%E7%9A%84%E5%89%AF%E6%9C%AC%E5%85%A8%E6%B8%85%E4%BA%86%EF%BC%8C%E6%8E%A5%E4%B8%8B%E6%9D%A5%E7%BB%A7%E7%BB%AD%E4%B8%9B%E6%9E%97%E5%89%AF%E6%9C%AC~&lang=zh&timestamp=1751352087&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7696" alt="【Island of Insights】（#006）把前面的副本全清了，接下来继续丛林副本~" title="【Island of Insights】（#006）把前面的副本全清了，接下来继续丛林副本~">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=KDKImBaY7ng">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KDKImBaY7ng&title=%E3%80%90Deponia+Doomsday%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%97%B6%E9%9A%94%E4%B8%89%E5%B9%B4%E7%9A%84Deponia+%E6%9C%80%E7%BB%88%E7%AB%A0%E6%88%91%E6%9D%A5%E4%BA%86%EF%BC%81&lang=zh&timestamp=1751222146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21621">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=g83bfTADLiM&title=4%E6%98%9F%E5%87%BA%E8%B2%A8%E7%8E%87%E5%B1%85%E7%84%B6%E6%9C%8910%25%3F%3F%3F+Project+Sekai+3.5+%E5%91%A8%E5%B9%B4+%E5%85%8D%E8%B2%BB70%E6%8A%BD+%E7%B2%BE%E8%8F%AF%E7%AF%87&lang=zh&timestamp=1750046450&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=172">
     <img src="https://ytcards.demolab.com/?id=g83bfTADLiM&title=4%E6%98%9F%E5%87%BA%E8%B2%A8%E7%8E%87%E5%B1%85%E7%84%B6%E6%9C%8910%25%3F%3F%3F+Project+Sekai+3.5+%E5%91%A8%E5%B9%B4+%E5%85%8D%E8%B2%BB70%E6%8A%BD+%E7%B2%BE%E8%8F%AF%E7%AF%87&lang=zh&timestamp=1750046450&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=172" alt="4星出貨率居然有10%??? Project Sekai 3.5 周年 免費70抽 精華篇" title="4星出貨率居然有10%??? Project Sekai 3.5 周年 免費70抽 精華篇">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=wJxigM6y5qY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wJxigM6y5qY&title=%E3%80%90Agent+A%3A+A+puzzle+in+disguise%E3%80%91%EF%BC%88%23000%EF%BC%89%E7%89%B9%E5%B7%A5%E8%80%81%E9%B9%B0%E4%B8%8A%E7%BA%BF%E4%B8%AD%EF%BC%8C%E5%B8%8C%E6%9C%9B%E8%A7%A3%E8%B0%9C%E6%80%9D%E8%B7%AF%E6%B2%A1%E7%94%9F%E9%94%88&lang=zh&timestamp=1748793915&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13234">
-    <img src="https://ytcards.demolab.com/?id=wJxigM6y5qY&title=%E3%80%90Agent+A%3A+A+puzzle+in+disguise%E3%80%91%EF%BC%88%23000%EF%BC%89%E7%89%B9%E5%B7%A5%E8%80%81%E9%B9%B0%E4%B8%8A%E7%BA%BF%E4%B8%AD%EF%BC%8C%E5%B8%8C%E6%9C%9B%E8%A7%A3%E8%B0%9C%E6%80%9D%E8%B7%AF%E6%B2%A1%E7%94%9F%E9%94%88&lang=zh&timestamp=1748793915&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13234" alt="【Agent A: A puzzle in disguise】（#000）特工老鹰上线中，希望解谜思路没生锈" title="【Agent A: A puzzle in disguise】（#000）特工老鹰上线中，希望解谜思路没生锈">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/qbCOFztg6h8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qbCOFztg6h8&title=Project+Sekai+Gacha+%E9%9A%BE%E6%8A%BD%E5%90%97%EF%BC%9F+%E9%9A%BE%EF%BC%81+%E5%A4%AA%E9%9A%BE%E4%BA%86%EF%BC%81&lang=zh&timestamp=1748087112&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=125">
-    <img src="https://ytcards.demolab.com/?id=qbCOFztg6h8&title=Project+Sekai+Gacha+%E9%9A%BE%E6%8A%BD%E5%90%97%EF%BC%9F+%E9%9A%BE%EF%BC%81+%E5%A4%AA%E9%9A%BE%E4%BA%86%EF%BC%81&lang=zh&timestamp=1748087112&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=125" alt="Project Sekai Gacha 难抽吗？ 难！ 太难了！" title="Project Sekai Gacha 难抽吗？ 难！ 太难了！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
