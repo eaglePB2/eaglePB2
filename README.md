@@ -33,10 +33,16 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=T8YvGN-kI9A">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=T8YvGN-kI9A&title=%E3%80%90ibb+%26+obb%E3%80%91%EF%BC%88%23001%EF%BC%89%E8%BF%99%E6%98%AF%E4%B8%80%E6%AC%BE%E6%97%A2%E5%8F%AF%E7%88%B1%E5%8F%88%E7%83%A7%E8%84%91%E7%9A%84%E5%8F%8C%E4%BA%BA%E5%90%88%E4%BD%9C+feat.+%40meteor_DOG&lang=zh&timestamp=1751456002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=T8YvGN-kI9A&title=%E3%80%90ibb+%26+obb%E3%80%91%EF%BC%88%23001%EF%BC%89%E8%BF%99%E6%98%AF%E4%B8%80%E6%AC%BE%E6%97%A2%E5%8F%AF%E7%88%B1%E5%8F%88%E7%83%A7%E8%84%91%E7%9A%84%E5%8F%8C%E4%BA%BA%E5%90%88%E4%BD%9C+feat.+%40meteor_DOG&lang=zh&timestamp=1751456002&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【ibb & obb】（#001）这是一款既可爱又烧脑的双人合作 feat. @meteor_DOG" title="【ibb & obb】（#001）这是一款既可爱又烧脑的双人合作 feat. @meteor_DOG">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=FqH0L04QDR8">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FqH0L04QDR8&title=%E3%80%90Deponia+Doomsday%E3%80%91%EF%BC%88%23005%EF%BC%89%E4%B8%BA%E4%BA%86%E7%BB%9F%E4%B8%80%E6%80%A7+%E6%88%91%E8%80%83%E8%99%91%E8%A6%81%E4%B8%8D%E8%BF%99%E4%B8%AA%E6%92%AD%E5%AE%8C%E7%9B%B4%E6%8E%A5%E5%89%AA%E6%88%90%E5%A4%A7%E9%95%BF%E7%89%87%E7%AE%97%E4%BA%86awa&lang=zh&timestamp=1751367998&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=FqH0L04QDR8&title=%E3%80%90Deponia+Doomsday%E3%80%91%EF%BC%88%23005%EF%BC%89%E4%B8%BA%E4%BA%86%E7%BB%9F%E4%B8%80%E6%80%A7+%E6%88%91%E8%80%83%E8%99%91%E8%A6%81%E4%B8%8D%E8%BF%99%E4%B8%AA%E6%92%AD%E5%AE%8C%E7%9B%B4%E6%8E%A5%E5%89%AA%E6%88%90%E5%A4%A7%E9%95%BF%E7%89%87%E7%AE%97%E4%BA%86awa&lang=zh&timestamp=1751367998&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Deponia Doomsday】（#005）为了统一性 我考虑要不这个播完直接剪成大长片算了awa" title="【Deponia Doomsday】（#005）为了统一性 我考虑要不这个播完直接剪成大长片算了awa">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FqH0L04QDR8&title=%E3%80%90Deponia+Doomsday%E3%80%91%EF%BC%88%23005%EF%BC%89%E4%B8%BA%E4%BA%86%E7%BB%9F%E4%B8%80%E6%80%A7+%E6%88%91%E8%80%83%E8%99%91%E8%A6%81%E4%B8%8D%E8%BF%99%E4%B8%AA%E6%92%AD%E5%AE%8C%E7%9B%B4%E6%8E%A5%E5%89%AA%E6%88%90%E5%A4%A7%E9%95%BF%E7%89%87%E7%AE%97%E4%BA%86awa&lang=zh&timestamp=1751438822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14280">
+    <img src="https://ytcards.demolab.com/?id=FqH0L04QDR8&title=%E3%80%90Deponia+Doomsday%E3%80%91%EF%BC%88%23005%EF%BC%89%E4%B8%BA%E4%BA%86%E7%BB%9F%E4%B8%80%E6%80%A7+%E6%88%91%E8%80%83%E8%99%91%E8%A6%81%E4%B8%8D%E8%BF%99%E4%B8%AA%E6%92%AD%E5%AE%8C%E7%9B%B4%E6%8E%A5%E5%89%AA%E6%88%90%E5%A4%A7%E9%95%BF%E7%89%87%E7%AE%97%E4%BA%86awa&lang=zh&timestamp=1751438822&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14280" alt="【Deponia Doomsday】（#005）为了统一性 我考虑要不这个播完直接剪成大长片算了awa" title="【Deponia Doomsday】（#005）为了统一性 我考虑要不这个播完直接剪成大长片算了awa">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=VWBfwjrWMMk">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NLKQXTYG1cA&title=%E3%80%90%E4%B8%96%E7%95%8C%E8%A8%88%E5%8A%83+%C2%B7+%E7%B9%BD%E7%B4%9B%E8%88%9E%E5%8F%B0%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%A6%82%E6%9E%9C%E6%88%91%E6%B2%A1FC%E5%B0%B1%E6%8A%BD%E4%B8%80%E6%AC%A1gacha&lang=zh&timestamp=1751116142&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8233">
     <img src="https://ytcards.demolab.com/?id=NLKQXTYG1cA&title=%E3%80%90%E4%B8%96%E7%95%8C%E8%A8%88%E5%8A%83+%C2%B7+%E7%B9%BD%E7%B4%9B%E8%88%9E%E5%8F%B0%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%A6%82%E6%9E%9C%E6%88%91%E6%B2%A1FC%E5%B0%B1%E6%8A%BD%E4%B8%80%E6%AC%A1gacha&lang=zh&timestamp=1751116142&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8233" alt="【世界計劃 · 繽紛舞台】（#001）如果我没FC就抽一次gacha" title="【世界計劃 · 繽紛舞台】（#001）如果我没FC就抽一次gacha">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/g83bfTADLiM">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=g83bfTADLiM&title=4%E6%98%9F%E5%87%BA%E8%B2%A8%E7%8E%87%E5%B1%85%E7%84%B6%E6%9C%8910%25%3F%3F%3F+Project+Sekai+3.5+%E5%91%A8%E5%B9%B4+%E5%85%8D%E8%B2%BB70%E6%8A%BD+%E7%B2%BE%E8%8F%AF%E7%AF%87&lang=zh&timestamp=1750046450&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=172">
-    <img src="https://ytcards.demolab.com/?id=g83bfTADLiM&title=4%E6%98%9F%E5%87%BA%E8%B2%A8%E7%8E%87%E5%B1%85%E7%84%B6%E6%9C%8910%25%3F%3F%3F+Project+Sekai+3.5+%E5%91%A8%E5%B9%B4+%E5%85%8D%E8%B2%BB70%E6%8A%BD+%E7%B2%BE%E8%8F%AF%E7%AF%87&lang=zh&timestamp=1750046450&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=172" alt="4星出貨率居然有10%??? Project Sekai 3.5 周年 免費70抽 精華篇" title="4星出貨率居然有10%??? Project Sekai 3.5 周年 免費70抽 精華篇">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
