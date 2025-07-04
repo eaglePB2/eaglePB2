@@ -33,22 +33,28 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=xtBBFYbj8L0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xtBBFYbj8L0&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23007%EF%BC%89%E4%BD%A0%E6%9C%89%E4%B8%80%E5%80%8B%E7%A5%9E%E9%9C%B2%E5%B0%9A%E6%9C%AA%E8%A7%A3%E9%8E%96+%C2%B7+%E8%A3%9C%E5%85%85%E7%AF%87&lang=zh&timestamp=1751628213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=xtBBFYbj8L0&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23007%EF%BC%89%E4%BD%A0%E6%9C%89%E4%B8%80%E5%80%8B%E7%A5%9E%E9%9C%B2%E5%B0%9A%E6%9C%AA%E8%A7%A3%E9%8E%96+%C2%B7+%E8%A3%9C%E5%85%85%E7%AF%87&lang=zh&timestamp=1751628213&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Island of Insights】（#007）你有一個神露尚未解鎖 · 補充篇" title="【Island of Insights】（#007）你有一個神露尚未解鎖 · 補充篇">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=DiB_lnRt338">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DiB_lnRt338&title=%E3%80%90TOEM%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%8B%8D%E7%85%A7%EF%BC%81&lang=zh&timestamp=1751615568&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15786">
+    <img src="https://ytcards.demolab.com/?id=DiB_lnRt338&title=%E3%80%90TOEM%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%8B%8D%E7%85%A7%EF%BC%81&lang=zh&timestamp=1751615568&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15786" alt="【TOEM】（#000）拍照！" title="【TOEM】（#000）拍照！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=dSrTwV3sfMs">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dSrTwV3sfMs&title=%E3%80%90TOEM%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%8B%8D%E7%85%A7%EF%BC%81&lang=zh&timestamp=1751524504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=dSrTwV3sfMs&title=%E3%80%90TOEM%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%8B%8D%E7%85%A7%EF%BC%81&lang=zh&timestamp=1751524504&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【TOEM】（#000）拍照！" title="【TOEM】（#000）拍照！">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dSrTwV3sfMs&title=%E3%80%90ibb+%26+obb%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%BF%99%E6%98%AF%E4%B8%80%E6%AC%BE%E6%97%A2%E5%8F%AF%E7%88%B1%E5%8F%88%E7%83%A7%E8%84%91%E7%9A%84%E5%8F%8C%E4%BA%BA%E5%90%88%E4%BD%9C+feat.++%40meteor_DOG&lang=zh&timestamp=1751599308&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5563">
+    <img src="https://ytcards.demolab.com/?id=dSrTwV3sfMs&title=%E3%80%90ibb+%26+obb%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%BF%99%E6%98%AF%E4%B8%80%E6%AC%BE%E6%97%A2%E5%8F%AF%E7%88%B1%E5%8F%88%E7%83%A7%E8%84%91%E7%9A%84%E5%8F%8C%E4%BA%BA%E5%90%88%E4%BD%9C+feat.++%40meteor_DOG&lang=zh&timestamp=1751599308&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5563" alt="【ibb & obb】（#000）这是一款既可爱又烧脑的双人合作 feat.  @meteor_DOG" title="【ibb & obb】（#000）这是一款既可爱又烧脑的双人合作 feat.  @meteor_DOG">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=rfrzxBCt5sc">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rfrzxBCt5sc&title=%E3%80%90Deponia+Doomsday%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%97%B6%E9%9A%94%E4%B8%89%E5%B9%B4%E7%9A%84Deponia+%E6%9C%80%E7%BB%88%E7%AB%A0%E6%88%91%E6%9D%A5%E4%BA%86%EF%BC%81%EF%BC%88%E9%87%8D%E6%96%B0%E4%B8%8A%E4%BC%A0%EF%BC%89&lang=zh&timestamp=1751514006&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=rfrzxBCt5sc&title=%E3%80%90Deponia+Doomsday%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%97%B6%E9%9A%94%E4%B8%89%E5%B9%B4%E7%9A%84Deponia+%E6%9C%80%E7%BB%88%E7%AB%A0%E6%88%91%E6%9D%A5%E4%BA%86%EF%BC%81%EF%BC%88%E9%87%8D%E6%96%B0%E4%B8%8A%E4%BC%A0%EF%BC%89&lang=zh&timestamp=1751514006&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Deponia Doomsday】（#004）时隔三年的Deponia 最终章我来了！（重新上传）" title="【Deponia Doomsday】（#004）时隔三年的Deponia 最终章我来了！（重新上传）">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=T8YvGN-kI9A">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=T8YvGN-kI9A&title=%E3%80%90ibb+%26+obb%E3%80%91%EF%BC%88%23001%EF%BC%89%E8%BF%99%E6%98%AF%E4%B8%80%E6%AC%BE%E6%97%A2%E5%8F%AF%E7%88%B1%E5%8F%88%E7%83%A7%E8%84%91%E7%9A%84%E5%8F%8C%E4%BA%BA%E5%90%88%E4%BD%9C+feat.+%40meteor_DOG&lang=zh&timestamp=1751475258&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16765">
-    <img src="https://ytcards.demolab.com/?id=T8YvGN-kI9A&title=%E3%80%90ibb+%26+obb%E3%80%91%EF%BC%88%23001%EF%BC%89%E8%BF%99%E6%98%AF%E4%B8%80%E6%AC%BE%E6%97%A2%E5%8F%AF%E7%88%B1%E5%8F%88%E7%83%A7%E8%84%91%E7%9A%84%E5%8F%8C%E4%BA%BA%E5%90%88%E4%BD%9C+feat.+%40meteor_DOG&lang=zh&timestamp=1751475258&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16765" alt="【ibb & obb】（#001）这是一款既可爱又烧脑的双人合作 feat. @meteor_DOG" title="【ibb & obb】（#001）这是一款既可爱又烧脑的双人合作 feat. @meteor_DOG">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rfrzxBCt5sc&title=%E3%80%90Deponia+Doomsday%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%97%B6%E9%9A%94%E4%B8%89%E5%B9%B4%E7%9A%84Deponia+%E6%9C%80%E7%BB%88%E7%AB%A0%E6%88%91%E6%9D%A5%E4%BA%86%EF%BC%81&lang=zh&timestamp=1751552198&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=35788">
+    <img src="https://ytcards.demolab.com/?id=rfrzxBCt5sc&title=%E3%80%90Deponia+Doomsday%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%97%B6%E9%9A%94%E4%B8%89%E5%B9%B4%E7%9A%84Deponia+%E6%9C%80%E7%BB%88%E7%AB%A0%E6%88%91%E6%9D%A5%E4%BA%86%EF%BC%81&lang=zh&timestamp=1751552198&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=35788" alt="【Deponia Doomsday】（#004）时隔三年的Deponia 最终章我来了！" title="【Deponia Doomsday】（#004）时隔三年的Deponia 最终章我来了！">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=VWBfwjrWMMk">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z0ga4WaxBoc&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%97%B6%E9%9A%94%E4%B8%89%E4%B8%AA%E6%9C%88%E7%9A%84%E8%A7%A3%E8%B0%9C%E5%B2%9B+%E6%88%91%E5%9B%9E%E6%9D%A5%E5%95%A6%EF%BC%81&lang=zh&timestamp=1751185484&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16004">
     <img src="https://ytcards.demolab.com/?id=z0ga4WaxBoc&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%97%B6%E9%9A%94%E4%B8%89%E4%B8%AA%E6%9C%88%E7%9A%84%E8%A7%A3%E8%B0%9C%E5%B2%9B+%E6%88%91%E5%9B%9E%E6%9D%A5%E5%95%A6%EF%BC%81&lang=zh&timestamp=1751185484&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16004" alt="【Island of Insights】（#005）时隔三个月的解谜岛 我回来啦！" title="【Island of Insights】（#005）时隔三个月的解谜岛 我回来啦！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=NLKQXTYG1cA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NLKQXTYG1cA&title=%E3%80%90%E4%B8%96%E7%95%8C%E8%A8%88%E5%8A%83+%C2%B7+%E7%B9%BD%E7%B4%9B%E8%88%9E%E5%8F%B0%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%A6%82%E6%9E%9C%E6%88%91%E6%B2%A1FC%E5%B0%B1%E6%8A%BD%E4%B8%80%E6%AC%A1gacha&lang=zh&timestamp=1751116142&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8233">
-    <img src="https://ytcards.demolab.com/?id=NLKQXTYG1cA&title=%E3%80%90%E4%B8%96%E7%95%8C%E8%A8%88%E5%8A%83+%C2%B7+%E7%B9%BD%E7%B4%9B%E8%88%9E%E5%8F%B0%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%A6%82%E6%9E%9C%E6%88%91%E6%B2%A1FC%E5%B0%B1%E6%8A%BD%E4%B8%80%E6%AC%A1gacha&lang=zh&timestamp=1751116142&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8233" alt="【世界計劃 · 繽紛舞台】（#001）如果我没FC就抽一次gacha" title="【世界計劃 · 繽紛舞台】（#001）如果我没FC就抽一次gacha">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
