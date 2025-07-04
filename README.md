@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 短暂休假 ⋆ @eaglepb2 ☽  拍照！](https://www.twitch.tv/videos/2502496254)
+- [☾ 短暂休假 ⋆ @eaglepb2 ☽  拍照！](https://www.twitch.tv/videos/2502428920)
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽  哎哔哔和欧哔哔 feat. @meteor_dog_](https://www.twitch.tv/videos/2501665716)
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽  今天一定要把他打完awa](https://www.twitch.tv/videos/2500827114)
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽  昨日会限解完前面所有谜题，今日开新副本](https://www.twitch.tv/videos/2500617415)
-- [☾ 短暂休假 ⋆ @eaglepb2 ☽  时隔三年的Deponia 最终章我来了！](https://www.twitch.tv/videos/2499066924)
-- [☾ 短暂休假 ⋆ @eaglepb2 ☽  解谜岛 我回来了！](https://www.twitch.tv/videos/2498828659)
 <!-- TWITCH:END -->
 
 
