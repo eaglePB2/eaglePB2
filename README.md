@@ -35,8 +35,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=xtBBFYbj8L0">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xtBBFYbj8L0&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23007%EF%BC%89%E4%BD%A0%E6%9C%89%E4%B8%80%E5%80%8B%E7%A5%9E%E9%9C%B2%E5%B0%9A%E6%9C%AA%E8%A7%A3%E9%8E%96+%C2%B7+%E8%A3%9C%E5%85%85%E7%AF%87&lang=zh&timestamp=1751628213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=xtBBFYbj8L0&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23007%EF%BC%89%E4%BD%A0%E6%9C%89%E4%B8%80%E5%80%8B%E7%A5%9E%E9%9C%B2%E5%B0%9A%E6%9C%AA%E8%A7%A3%E9%8E%96+%C2%B7+%E8%A3%9C%E5%85%85%E7%AF%87&lang=zh&timestamp=1751628213&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Island of Insights】（#007）你有一個神露尚未解鎖 · 補充篇" title="【Island of Insights】（#007）你有一個神露尚未解鎖 · 補充篇">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xtBBFYbj8L0&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23007%EF%BC%89%E4%BD%A0%E6%9C%89%E4%B8%80%E5%80%8B%E7%A5%9E%E9%9C%B2%E5%B0%9A%E6%9C%AA%E8%A7%A3%E9%8E%96+%C2%B7+%E8%A3%9C%E5%85%85%E7%AF%87&lang=zh&timestamp=1751639312&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10330">
+    <img src="https://ytcards.demolab.com/?id=xtBBFYbj8L0&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23007%EF%BC%89%E4%BD%A0%E6%9C%89%E4%B8%80%E5%80%8B%E7%A5%9E%E9%9C%B2%E5%B0%9A%E6%9C%AA%E8%A7%A3%E9%8E%96+%C2%B7+%E8%A3%9C%E5%85%85%E7%AF%87&lang=zh&timestamp=1751639312&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10330" alt="【Island of Insights】（#007）你有一個神露尚未解鎖 · 補充篇" title="【Island of Insights】（#007）你有一個神露尚未解鎖 · 補充篇">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=DiB_lnRt338">
