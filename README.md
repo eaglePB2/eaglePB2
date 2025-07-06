@@ -33,6 +33,24 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=nmrRA1PH9Lw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nmrRA1PH9Lw&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23008%EF%BC%89%E5%87%BA%E8%93%AE%E8%8A%B1%E7%9A%84%E4%BD%9C%E8%80%85%E4%BD%A0%E7%B5%A6%E6%88%91%E5%87%BA%E4%BE%86+%E7%AD%89%E7%AD%89%E7%B5%A6%E4%BD%A0%E7%8D%8E%E5%8B%B5%28X&lang=zh&timestamp=1751804883&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=nmrRA1PH9Lw&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23008%EF%BC%89%E5%87%BA%E8%93%AE%E8%8A%B1%E7%9A%84%E4%BD%9C%E8%80%85%E4%BD%A0%E7%B5%A6%E6%88%91%E5%87%BA%E4%BE%86+%E7%AD%89%E7%AD%89%E7%B5%A6%E4%BD%A0%E7%8D%8E%E5%8B%B5%28X&lang=zh&timestamp=1751804883&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Island of Insights】（#008）出蓮花的作者你給我出來 等等給你獎勵(X" title="【Island of Insights】（#008）出蓮花的作者你給我出來 等等給你獎勵(X">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=y-joH-SzUpg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y-joH-SzUpg&title=%E3%80%90Bento+Blocks%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%88%87%E5%89%B2%E4%BE%BF%E7%95%B6%E7%9A%84%E5%B0%8F%E6%B8%B8%E6%88%B2~&lang=zh&timestamp=1751787245&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=715">
+    <img src="https://ytcards.demolab.com/?id=y-joH-SzUpg&title=%E3%80%90Bento+Blocks%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%88%87%E5%89%B2%E4%BE%BF%E7%95%B6%E7%9A%84%E5%B0%8F%E6%B8%B8%E6%88%B2~&lang=zh&timestamp=1751787245&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=715" alt="【Bento Blocks】（#000）切割便當的小游戲~" title="【Bento Blocks】（#000）切割便當的小游戲~">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=bR4fPkOuCHM">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bR4fPkOuCHM&title=%E3%80%90Last+day+of+June%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%85%AD%E6%9C%88%EF%BC%88%E7%93%8A%EF%BC%89%E6%98%AF%E4%BD%A0%E7%9A%84%E8%AC%8A%E8%A8%80%EF%BC%88%EF%BC%9F&lang=zh&timestamp=1751784600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9552">
+    <img src="https://ytcards.demolab.com/?id=bR4fPkOuCHM&title=%E3%80%90Last+day+of+June%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%85%AD%E6%9C%88%EF%BC%88%E7%93%8A%EF%BC%89%E6%98%AF%E4%BD%A0%E7%9A%84%E8%AC%8A%E8%A8%80%EF%BC%88%EF%BC%9F&lang=zh&timestamp=1751784600&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9552" alt="【Last day of June】（#000）六月（瓊）是你的謊言（？" title="【Last day of June】（#000）六月（瓊）是你的謊言（？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=xtBBFYbj8L0">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xtBBFYbj8L0&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23007%EF%BC%89%E4%BD%A0%E6%9C%89%E4%B8%80%E5%80%8B%E7%A5%9E%E9%9C%B2%E5%B0%9A%E6%9C%AA%E8%A7%A3%E9%8E%96+%C2%B7+%E8%A3%9C%E5%85%85%E7%AF%87&lang=zh&timestamp=1751639312&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10330">
@@ -49,24 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dSrTwV3sfMs&title=%E3%80%90ibb+%26+obb%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%BF%99%E6%98%AF%E4%B8%80%E6%AC%BE%E6%97%A2%E5%8F%AF%E7%88%B1%E5%8F%88%E7%83%A7%E8%84%91%E7%9A%84%E5%8F%8C%E4%BA%BA%E5%90%88%E4%BD%9C+feat.++%40meteor_DOG&lang=zh&timestamp=1751599308&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5563">
     <img src="https://ytcards.demolab.com/?id=dSrTwV3sfMs&title=%E3%80%90ibb+%26+obb%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%BF%99%E6%98%AF%E4%B8%80%E6%AC%BE%E6%97%A2%E5%8F%AF%E7%88%B1%E5%8F%88%E7%83%A7%E8%84%91%E7%9A%84%E5%8F%8C%E4%BA%BA%E5%90%88%E4%BD%9C+feat.++%40meteor_DOG&lang=zh&timestamp=1751599308&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5563" alt="【ibb & obb】（#000）这是一款既可爱又烧脑的双人合作 feat.  @meteor_DOG" title="【ibb & obb】（#000）这是一款既可爱又烧脑的双人合作 feat.  @meteor_DOG">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=rfrzxBCt5sc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rfrzxBCt5sc&title=%E3%80%90Deponia+Doomsday%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%97%B6%E9%9A%94%E4%B8%89%E5%B9%B4%E7%9A%84Deponia+%E6%9C%80%E7%BB%88%E7%AB%A0%E6%88%91%E6%9D%A5%E4%BA%86%EF%BC%81&lang=zh&timestamp=1751552198&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=35788">
-    <img src="https://ytcards.demolab.com/?id=rfrzxBCt5sc&title=%E3%80%90Deponia+Doomsday%E3%80%91%EF%BC%88%23004%EF%BC%89%E6%97%B6%E9%9A%94%E4%B8%89%E5%B9%B4%E7%9A%84Deponia+%E6%9C%80%E7%BB%88%E7%AB%A0%E6%88%91%E6%9D%A5%E4%BA%86%EF%BC%81&lang=zh&timestamp=1751552198&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=35788" alt="【Deponia Doomsday】（#004）时隔三年的Deponia 最终章我来了！" title="【Deponia Doomsday】（#004）时隔三年的Deponia 最终章我来了！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=VWBfwjrWMMk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VWBfwjrWMMk&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23006%EF%BC%89%E6%8A%8A%E5%89%8D%E9%9D%A2%E7%9A%84%E5%89%AF%E6%9C%AC%E5%85%A8%E6%B8%85%E4%BA%86%EF%BC%8C%E6%8E%A5%E4%B8%8B%E6%9D%A5%E7%BB%A7%E7%BB%AD%E4%B8%9B%E6%9E%97%E5%89%AF%E6%9C%AC~&lang=zh&timestamp=1751352087&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7696">
-    <img src="https://ytcards.demolab.com/?id=VWBfwjrWMMk&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23006%EF%BC%89%E6%8A%8A%E5%89%8D%E9%9D%A2%E7%9A%84%E5%89%AF%E6%9C%AC%E5%85%A8%E6%B8%85%E4%BA%86%EF%BC%8C%E6%8E%A5%E4%B8%8B%E6%9D%A5%E7%BB%A7%E7%BB%AD%E4%B8%9B%E6%9E%97%E5%89%AF%E6%9C%AC~&lang=zh&timestamp=1751352087&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7696" alt="【Island of Insights】（#006）把前面的副本全清了，接下来继续丛林副本~" title="【Island of Insights】（#006）把前面的副本全清了，接下来继续丛林副本~">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=z0ga4WaxBoc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z0ga4WaxBoc&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%97%B6%E9%9A%94%E4%B8%89%E4%B8%AA%E6%9C%88%E7%9A%84%E8%A7%A3%E8%B0%9C%E5%B2%9B+%E6%88%91%E5%9B%9E%E6%9D%A5%E5%95%A6%EF%BC%81&lang=zh&timestamp=1751185484&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16004">
-    <img src="https://ytcards.demolab.com/?id=z0ga4WaxBoc&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%97%B6%E9%9A%94%E4%B8%89%E4%B8%AA%E6%9C%88%E7%9A%84%E8%A7%A3%E8%B0%9C%E5%B2%9B+%E6%88%91%E5%9B%9E%E6%9D%A5%E5%95%A6%EF%BC%81&lang=zh&timestamp=1751185484&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16004" alt="【Island of Insights】（#005）时隔三个月的解谜岛 我回来啦！" title="【Island of Insights】（#005）时隔三个月的解谜岛 我回来啦！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
