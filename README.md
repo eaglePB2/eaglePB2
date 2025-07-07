@@ -33,10 +33,16 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=o4XgtPu_WyE">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o4XgtPu_WyE&title=%E3%80%90FEZ%E3%80%91%EF%BC%88%23008%EF%BC%89%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%80%8E%E9%BA%BD%E5%9C%A8%E4%BA%8C%E7%B6%AD%E7%9A%84%E4%B8%96%E7%95%8C%E6%89%8B%E6%90%93%E4%B8%89%E7%B6%AD%E7%A9%BA%E9%96%93~&lang=zh&timestamp=1751891485&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=o4XgtPu_WyE&title=%E3%80%90FEZ%E3%80%91%EF%BC%88%23008%EF%BC%89%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%80%8E%E9%BA%BD%E5%9C%A8%E4%BA%8C%E7%B6%AD%E7%9A%84%E4%B8%96%E7%95%8C%E6%89%8B%E6%90%93%E4%B8%89%E7%B6%AD%E7%A9%BA%E9%96%93~&lang=zh&timestamp=1751891485&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【FEZ】（#008）手把手教你怎麽在二維的世界手搓三維空間~" title="【FEZ】（#008）手把手教你怎麽在二維的世界手搓三維空間~">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=nmrRA1PH9Lw">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nmrRA1PH9Lw&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23008%EF%BC%89%E5%87%BA%E8%93%AE%E8%8A%B1%E7%9A%84%E4%BD%9C%E8%80%85%E4%BD%A0%E7%B5%A6%E6%88%91%E5%87%BA%E4%BE%86+%E7%AD%89%E7%AD%89%E7%B5%A6%E4%BD%A0%E7%8D%8E%E5%8B%B5%28X&lang=zh&timestamp=1751804883&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=nmrRA1PH9Lw&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23008%EF%BC%89%E5%87%BA%E8%93%AE%E8%8A%B1%E7%9A%84%E4%BD%9C%E8%80%85%E4%BD%A0%E7%B5%A6%E6%88%91%E5%87%BA%E4%BE%86+%E7%AD%89%E7%AD%89%E7%B5%A6%E4%BD%A0%E7%8D%8E%E5%8B%B5%28X&lang=zh&timestamp=1751804883&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Island of Insights】（#008）出蓮花的作者你給我出來 等等給你獎勵(X" title="【Island of Insights】（#008）出蓮花的作者你給我出來 等等給你獎勵(X">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nmrRA1PH9Lw&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23008%EF%BC%89%E5%87%BA%E8%93%AE%E8%8A%B1%E7%9A%84%E4%BD%9C%E8%80%85%E4%BD%A0%E7%B5%A6%E6%88%91%E5%87%BA%E4%BE%86+%E7%AD%89%E7%AD%89%E7%B5%A6%E4%BD%A0%E7%8D%8E%E5%8B%B5%28X&lang=zh&timestamp=1751828056&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21903">
+    <img src="https://ytcards.demolab.com/?id=nmrRA1PH9Lw&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23008%EF%BC%89%E5%87%BA%E8%93%AE%E8%8A%B1%E7%9A%84%E4%BD%9C%E8%80%85%E4%BD%A0%E7%B5%A6%E6%88%91%E5%87%BA%E4%BE%86+%E7%AD%89%E7%AD%89%E7%B5%A6%E4%BD%A0%E7%8D%8E%E5%8B%B5%28X&lang=zh&timestamp=1751828056&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21903" alt="【Island of Insights】（#008）出蓮花的作者你給我出來 等等給你獎勵(X" title="【Island of Insights】（#008）出蓮花的作者你給我出來 等等給你獎勵(X">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=y-joH-SzUpg">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DiB_lnRt338&title=%E3%80%90TOEM%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%8B%8D%E7%85%A7%EF%BC%81&lang=zh&timestamp=1751615568&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15786">
     <img src="https://ytcards.demolab.com/?id=DiB_lnRt338&title=%E3%80%90TOEM%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%8B%8D%E7%85%A7%EF%BC%81&lang=zh&timestamp=1751615568&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15786" alt="【TOEM】（#000）拍照！" title="【TOEM】（#000）拍照！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=dSrTwV3sfMs">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dSrTwV3sfMs&title=%E3%80%90ibb+%26+obb%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%BF%99%E6%98%AF%E4%B8%80%E6%AC%BE%E6%97%A2%E5%8F%AF%E7%88%B1%E5%8F%88%E7%83%A7%E8%84%91%E7%9A%84%E5%8F%8C%E4%BA%BA%E5%90%88%E4%BD%9C+feat.++%40meteor_DOG&lang=zh&timestamp=1751599308&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5563">
-    <img src="https://ytcards.demolab.com/?id=dSrTwV3sfMs&title=%E3%80%90ibb+%26+obb%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%BF%99%E6%98%AF%E4%B8%80%E6%AC%BE%E6%97%A2%E5%8F%AF%E7%88%B1%E5%8F%88%E7%83%A7%E8%84%91%E7%9A%84%E5%8F%8C%E4%BA%BA%E5%90%88%E4%BD%9C+feat.++%40meteor_DOG&lang=zh&timestamp=1751599308&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5563" alt="【ibb & obb】（#000）这是一款既可爱又烧脑的双人合作 feat.  @meteor_DOG" title="【ibb & obb】（#000）这是一款既可爱又烧脑的双人合作 feat.  @meteor_DOG">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
