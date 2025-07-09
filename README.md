@@ -33,6 +33,18 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=sBFi89xuAVo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sBFi89xuAVo&title=%E3%80%90Bleap+%E9%97%AA%E9%9F%B3%E8%B7%83%E5%8A%A8%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%BD%A0%E7%9C%8B%E9%81%8E%E6%89%8B%E6%B8%B8%E7%89%88%E7%9A%84%E9%9F%B3%E6%93%8A%E5%97%8E%EF%BC%9F%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%B2%92%E7%9C%8B%E9%81%8E%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%A9%A6%E8%A9%A6%E9%80%99%E6%AC%BE%EF%BC%81&lang=zh&timestamp=1752045014&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2912">
+    <img src="https://ytcards.demolab.com/?id=sBFi89xuAVo&title=%E3%80%90Bleap+%E9%97%AA%E9%9F%B3%E8%B7%83%E5%8A%A8%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%BD%A0%E7%9C%8B%E9%81%8E%E6%89%8B%E6%B8%B8%E7%89%88%E7%9A%84%E9%9F%B3%E6%93%8A%E5%97%8E%EF%BC%9F%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%B2%92%E7%9C%8B%E9%81%8E%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%A9%A6%E8%A9%A6%E9%80%99%E6%AC%BE%EF%BC%81&lang=zh&timestamp=1752045014&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2912" alt="【Bleap 闪音跃动】（#000）你看過手游版的音擊嗎？如果你沒看過，可以試試這款！" title="【Bleap 闪音跃动】（#000）你看過手游版的音擊嗎？如果你沒看過，可以試試這款！">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=6W7XqsQwoR0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6W7XqsQwoR0&title=%C2%AD&lang=zh&timestamp=1752035371&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=169">
+    <img src="https://ytcards.demolab.com/?id=6W7XqsQwoR0&title=%C2%AD&lang=zh&timestamp=1752035371&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=169" alt="­" title="­">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=o4XgtPu_WyE">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o4XgtPu_WyE&title=%E3%80%90FEZ%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%80%8E%E9%BA%BD%E5%9C%A8%E4%BA%8C%E7%B6%AD%E7%9A%84%E4%B8%96%E7%95%8C%E6%89%8B%E6%90%93%E4%B8%89%E7%B6%AD%E7%A9%BA%E9%96%93~&lang=zh&timestamp=1751908968&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15294">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bR4fPkOuCHM&title=%E3%80%90Last+day+of+June%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%85%AD%E6%9C%88%EF%BC%88%E7%93%8A%EF%BC%89%E6%98%AF%E4%BD%A0%E7%9A%84%E8%AC%8A%E8%A8%80%EF%BC%88%EF%BC%9F&lang=zh&timestamp=1751784600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9552">
     <img src="https://ytcards.demolab.com/?id=bR4fPkOuCHM&title=%E3%80%90Last+day+of+June%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%85%AD%E6%9C%88%EF%BC%88%E7%93%8A%EF%BC%89%E6%98%AF%E4%BD%A0%E7%9A%84%E8%AC%8A%E8%A8%80%EF%BC%88%EF%BC%9F&lang=zh&timestamp=1751784600&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9552" alt="【Last day of June】（#000）六月（瓊）是你的謊言（？" title="【Last day of June】（#000）六月（瓊）是你的謊言（？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=xtBBFYbj8L0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xtBBFYbj8L0&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23007%EF%BC%89%E4%BD%A0%E6%9C%89%E4%B8%80%E5%80%8B%E7%A5%9E%E9%9C%B2%E5%B0%9A%E6%9C%AA%E8%A7%A3%E9%8E%96+%C2%B7+%E8%A3%9C%E5%85%85%E7%AF%87&lang=zh&timestamp=1751639312&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10330">
-    <img src="https://ytcards.demolab.com/?id=xtBBFYbj8L0&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23007%EF%BC%89%E4%BD%A0%E6%9C%89%E4%B8%80%E5%80%8B%E7%A5%9E%E9%9C%B2%E5%B0%9A%E6%9C%AA%E8%A7%A3%E9%8E%96+%C2%B7+%E8%A3%9C%E5%85%85%E7%AF%87&lang=zh&timestamp=1751639312&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10330" alt="【Island of Insights】（#007）你有一個神露尚未解鎖 · 補充篇" title="【Island of Insights】（#007）你有一個神露尚未解鎖 · 補充篇">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=DiB_lnRt338">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DiB_lnRt338&title=%E3%80%90TOEM%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%8B%8D%E7%85%A7%EF%BC%81&lang=zh&timestamp=1751615568&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15786">
-    <img src="https://ytcards.demolab.com/?id=DiB_lnRt338&title=%E3%80%90TOEM%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%8B%8D%E7%85%A7%EF%BC%81&lang=zh&timestamp=1751615568&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15786" alt="【TOEM】（#000）拍照！" title="【TOEM】（#000）拍照！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
