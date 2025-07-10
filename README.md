@@ -33,10 +33,16 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=ZaGD63ZeCfo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZaGD63ZeCfo&title=%E3%80%90FEZ%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%B9%BC%E7%BA%8C%E6%89%8B%E6%90%93%E4%B8%89%E6%AC%A1%E5%85%83+awa&lang=zh&timestamp=1742616852&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1187">
+    <img src="https://ytcards.demolab.com/?id=ZaGD63ZeCfo&title=%E3%80%90FEZ%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%B9%BC%E7%BA%8C%E6%89%8B%E6%90%93%E4%B8%89%E6%AC%A1%E5%85%83+awa&lang=zh&timestamp=1742616852&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1187" alt="【FEZ】（#002）繼續手搓三次元 awa" title="【FEZ】（#002）繼續手搓三次元 awa">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=sBFi89xuAVo">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sBFi89xuAVo&title=%E3%80%90Bleap+%E9%97%AA%E9%9F%B3%E8%B7%83%E5%8A%A8%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%BD%A0%E7%9C%8B%E9%81%8E%E6%89%8B%E6%B8%B8%E7%89%88%E7%9A%84%E9%9F%B3%E6%93%8A%E5%97%8E%EF%BC%9F%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%B2%92%E7%9C%8B%E9%81%8E%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%A9%A6%E8%A9%A6%E9%80%99%E6%AC%BE%EF%BC%81&lang=zh&timestamp=1752045014&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2912">
-    <img src="https://ytcards.demolab.com/?id=sBFi89xuAVo&title=%E3%80%90Bleap+%E9%97%AA%E9%9F%B3%E8%B7%83%E5%8A%A8%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%BD%A0%E7%9C%8B%E9%81%8E%E6%89%8B%E6%B8%B8%E7%89%88%E7%9A%84%E9%9F%B3%E6%93%8A%E5%97%8E%EF%BC%9F%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%B2%92%E7%9C%8B%E9%81%8E%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%A9%A6%E8%A9%A6%E9%80%99%E6%AC%BE%EF%BC%81&lang=zh&timestamp=1752045014&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2912" alt="【Bleap 闪音跃动】（#000）你看過手游版的音擊嗎？如果你沒看過，可以試試這款！" title="【Bleap 闪音跃动】（#000）你看過手游版的音擊嗎？如果你沒看過，可以試試這款！">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sBFi89xuAVo&title=%E3%80%90Bleap+%E9%97%AA%E9%9F%B3%E8%B7%83%E5%8A%A8%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%BD%A0%E7%9C%8B%E9%81%8E%E6%89%8B%E6%B8%B8%E7%89%88%E7%9A%84%E9%9F%B3%E6%93%8A%E5%97%8E%EF%BC%9F%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%B2%92%E7%9C%8B%E9%81%8E%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%A9%A6%E8%A9%A6%E9%80%99%E6%AC%BE%EF%BC%81&lang=zh&timestamp=1752093217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2911">
+    <img src="https://ytcards.demolab.com/?id=sBFi89xuAVo&title=%E3%80%90Bleap+%E9%97%AA%E9%9F%B3%E8%B7%83%E5%8A%A8%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%BD%A0%E7%9C%8B%E9%81%8E%E6%89%8B%E6%B8%B8%E7%89%88%E7%9A%84%E9%9F%B3%E6%93%8A%E5%97%8E%EF%BC%9F%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%B2%92%E7%9C%8B%E9%81%8E%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%A9%A6%E8%A9%A6%E9%80%99%E6%AC%BE%EF%BC%81&lang=zh&timestamp=1752093217&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2911" alt="【Bleap 闪音跃动】（#000）你看過手游版的音擊嗎？如果你沒看過，可以試試這款！" title="【Bleap 闪音跃动】（#000）你看過手游版的音擊嗎？如果你沒看過，可以試試這款！">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=6W7XqsQwoR0">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y-joH-SzUpg&title=%E3%80%90Bento+Blocks%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%88%87%E5%89%B2%E4%BE%BF%E7%95%B6%E7%9A%84%E5%B0%8F%E6%B8%B8%E6%88%B2~&lang=zh&timestamp=1751787245&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=715">
     <img src="https://ytcards.demolab.com/?id=y-joH-SzUpg&title=%E3%80%90Bento+Blocks%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%88%87%E5%89%B2%E4%BE%BF%E7%95%B6%E7%9A%84%E5%B0%8F%E6%B8%B8%E6%88%B2~&lang=zh&timestamp=1751787245&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=715" alt="【Bento Blocks】（#000）切割便當的小游戲~" title="【Bento Blocks】（#000）切割便當的小游戲~">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=bR4fPkOuCHM">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bR4fPkOuCHM&title=%E3%80%90Last+day+of+June%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%85%AD%E6%9C%88%EF%BC%88%E7%93%8A%EF%BC%89%E6%98%AF%E4%BD%A0%E7%9A%84%E8%AC%8A%E8%A8%80%EF%BC%88%EF%BC%9F&lang=zh&timestamp=1751784600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9552">
-    <img src="https://ytcards.demolab.com/?id=bR4fPkOuCHM&title=%E3%80%90Last+day+of+June%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%85%AD%E6%9C%88%EF%BC%88%E7%93%8A%EF%BC%89%E6%98%AF%E4%BD%A0%E7%9A%84%E8%AC%8A%E8%A8%80%EF%BC%88%EF%BC%9F&lang=zh&timestamp=1751784600&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9552" alt="【Last day of June】（#000）六月（瓊）是你的謊言（？" title="【Last day of June】（#000）六月（瓊）是你的謊言（？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
