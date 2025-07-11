@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 短暂休假 ⋆ @eaglepb2 ☽  燒腦行動 開始！](https://www.twitch.tv/videos/2508597654)
+- [☾ 短暂休假 ⋆ @eaglepb2 ☽  燒腦行動 開始！](https://www.twitch.tv/videos/2508496157)
+- [☾ 短暂休假 ⋆ @eaglepb2 ☽  燒腦行動 開始！](https://www.twitch.tv/videos/2508490324)
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽  領域展開 二維展開三維！](https://www.twitch.tv/videos/2506015083)
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽  出蓮花對稱的你給我出來，本臺有獎勵&lpar;X](https://www.twitch.tv/videos/2505146065)
-- [☾ 短暂休假 ⋆ @eaglepb2 ☽  冷知識：這款應該要在6月30日開播的](https://www.twitch.tv/videos/2504923699)
-- [☾ 短暂休假 ⋆ @eaglepb2 ☽  拍照！](https://www.twitch.tv/videos/2502496254)
-- [☾ 短暂休假 ⋆ @eaglepb2 ☽  拍照！](https://www.twitch.tv/videos/2502428920)
 <!-- TWITCH:END -->
 
 
