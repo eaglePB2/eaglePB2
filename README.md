@@ -33,10 +33,16 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=ZaGD63ZeCfo">
+<a href="https://www.youtube.com/watch?v=SGH7BbeF1ek">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZaGD63ZeCfo&title=%E3%80%90FEZ%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%B9%BC%E7%BA%8C%E6%89%8B%E6%90%93%E4%B8%89%E6%AC%A1%E5%85%83+awa&lang=zh&timestamp=1742616852&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1187">
-    <img src="https://ytcards.demolab.com/?id=ZaGD63ZeCfo&title=%E3%80%90FEZ%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%B9%BC%E7%BA%8C%E6%89%8B%E6%90%93%E4%B8%89%E6%AC%A1%E5%85%83+awa&lang=zh&timestamp=1742616852&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1187" alt="【FEZ】（#002）繼續手搓三次元 awa" title="【FEZ】（#002）繼續手搓三次元 awa">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SGH7BbeF1ek&title=%E3%80%90Serial+Cleaner+%2F%2F+%E9%80%A3%E7%92%B0%E6%B8%85%E6%BD%94%E5%B7%A5%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9C%A8%E8%A1%80%E8%89%B2%E7%9A%84%E5%9C%B0%E6%9D%BF%E4%B8%8A%E6%91%A9%E6%93%A6+%E6%93%A6%E5%B1%81%E8%82%A1%E6%B8%85%E6%BD%94%E5%B7%A5%E7%AC%AC%E4%B8%80%E4%BA%BA~&lang=zh&timestamp=1752215418&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=SGH7BbeF1ek&title=%E3%80%90Serial+Cleaner+%2F%2F+%E9%80%A3%E7%92%B0%E6%B8%85%E6%BD%94%E5%B7%A5%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9C%A8%E8%A1%80%E8%89%B2%E7%9A%84%E5%9C%B0%E6%9D%BF%E4%B8%8A%E6%91%A9%E6%93%A6+%E6%93%A6%E5%B1%81%E8%82%A1%E6%B8%85%E6%BD%94%E5%B7%A5%E7%AC%AC%E4%B8%80%E4%BA%BA~&lang=zh&timestamp=1752215418&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Serial Cleaner // 連環清潔工】（#000）在血色的地板上摩擦 擦屁股清潔工第一人~" title="【Serial Cleaner // 連環清潔工】（#000）在血色的地板上摩擦 擦屁股清潔工第一人~">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=kqcAUmLKfRQ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kqcAUmLKfRQ&title=%E3%80%90FEZ%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%80%8E%E9%BA%BD%E5%9C%A8%E4%BA%8C%E7%B6%AD%E7%9A%84%E4%B8%96%E7%95%8C%E6%89%8B%E6%90%93%E4%B8%89%E7%B6%AD%E7%A9%BA%E9%96%93~&lang=zh&timestamp=1752192181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31992">
+    <img src="https://ytcards.demolab.com/?id=kqcAUmLKfRQ&title=%E3%80%90FEZ%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%80%8E%E9%BA%BD%E5%9C%A8%E4%BA%8C%E7%B6%AD%E7%9A%84%E4%B8%96%E7%95%8C%E6%89%8B%E6%90%93%E4%B8%89%E7%B6%AD%E7%A9%BA%E9%96%93~&lang=zh&timestamp=1752192181&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31992" alt="【FEZ】（#000）手把手教你怎麽在二維的世界手搓三維空間~" title="【FEZ】（#000）手把手教你怎麽在二維的世界手搓三維空間~">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=sBFi89xuAVo">
@@ -49,12 +55,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6W7XqsQwoR0&title=%C2%AD&lang=zh&timestamp=1752035371&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=169">
     <img src="https://ytcards.demolab.com/?id=6W7XqsQwoR0&title=%C2%AD&lang=zh&timestamp=1752035371&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=169" alt="­" title="­">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=o4XgtPu_WyE">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o4XgtPu_WyE&title=%E3%80%90FEZ%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%80%8E%E9%BA%BD%E5%9C%A8%E4%BA%8C%E7%B6%AD%E7%9A%84%E4%B8%96%E7%95%8C%E6%89%8B%E6%90%93%E4%B8%89%E7%B6%AD%E7%A9%BA%E9%96%93~&lang=zh&timestamp=1751908968&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15294">
-    <img src="https://ytcards.demolab.com/?id=o4XgtPu_WyE&title=%E3%80%90FEZ%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%80%8E%E9%BA%BD%E5%9C%A8%E4%BA%8C%E7%B6%AD%E7%9A%84%E4%B8%96%E7%95%8C%E6%89%8B%E6%90%93%E4%B8%89%E7%B6%AD%E7%A9%BA%E9%96%93~&lang=zh&timestamp=1751908968&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15294" alt="【FEZ】（#001）手把手教你怎麽在二維的世界手搓三維空間~" title="【FEZ】（#001）手把手教你怎麽在二維的世界手搓三維空間~">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=nmrRA1PH9Lw">
