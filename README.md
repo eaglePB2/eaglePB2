@@ -33,10 +33,22 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=Rnz7fJN0X2k">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Rnz7fJN0X2k&title=%E3%80%90Orwell%E3%80%91%EF%BC%88%23000%EF%BC%89OSINT%E5%87%BA%E8%BA%AB%E7%9A%84%E6%88%91%EF%BC%8C%E6%87%89%E5%B0%8D%E9%80%99%E6%B8%B8%E6%88%B2%E6%87%89%E8%A9%B2%E8%BC%95%E8%BC%95%E9%AC%86%E9%AC%86%E7%9A%84%E5%90%A7%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1752320820&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19039">
+    <img src="https://ytcards.demolab.com/?id=Rnz7fJN0X2k&title=%E3%80%90Orwell%E3%80%91%EF%BC%88%23000%EF%BC%89OSINT%E5%87%BA%E8%BA%AB%E7%9A%84%E6%88%91%EF%BC%8C%E6%87%89%E5%B0%8D%E9%80%99%E6%B8%B8%E6%88%B2%E6%87%89%E8%A9%B2%E8%BC%95%E8%BC%95%E9%AC%86%E9%AC%86%E7%9A%84%E5%90%A7%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1752320820&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19039" alt="【Orwell】（#000）OSINT出身的我，應對這游戲應該輕輕鬆鬆的吧……？" title="【Orwell】（#000）OSINT出身的我，應對這游戲應該輕輕鬆鬆的吧……？">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=9SsXHNuwSC0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9SsXHNuwSC0&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23009%EF%BC%89%E9%A3%9B%E7%BF%94%E8%A9%A6%E7%85%89%EF%BC%81%E9%80%99%E9%9A%BB%E8%80%81%E9%B7%B9%E6%87%89%E8%A9%B2%E8%BC%95%E9%AC%86%E9%81%8E%E7%9A%84%E5%90%A7%EF%BC%9F&lang=zh&timestamp=1752309471&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17063">
+    <img src="https://ytcards.demolab.com/?id=9SsXHNuwSC0&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23009%EF%BC%89%E9%A3%9B%E7%BF%94%E8%A9%A6%E7%85%89%EF%BC%81%E9%80%99%E9%9A%BB%E8%80%81%E9%B7%B9%E6%87%89%E8%A9%B2%E8%BC%95%E9%AC%86%E9%81%8E%E7%9A%84%E5%90%A7%EF%BC%9F&lang=zh&timestamp=1752309471&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17063" alt="【Island of Insights】（#009）飛翔試煉！這隻老鷹應該輕鬆過的吧？" title="【Island of Insights】（#009）飛翔試煉！這隻老鷹應該輕鬆過的吧？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=SGH7BbeF1ek">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SGH7BbeF1ek&title=%E3%80%90Serial+Cleaner+%2F%2F+%E9%80%A3%E7%92%B0%E6%B8%85%E6%BD%94%E5%B7%A5%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9C%A8%E8%A1%80%E8%89%B2%E7%9A%84%E5%9C%B0%E6%9D%BF%E4%B8%8A%E6%91%A9%E6%93%A6+%E6%93%A6%E5%B1%81%E8%82%A1%E6%B8%85%E6%BD%94%E5%B7%A5%E7%AC%AC%E4%B8%80%E4%BA%BA~&lang=zh&timestamp=1752215418&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=SGH7BbeF1ek&title=%E3%80%90Serial+Cleaner+%2F%2F+%E9%80%A3%E7%92%B0%E6%B8%85%E6%BD%94%E5%B7%A5%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9C%A8%E8%A1%80%E8%89%B2%E7%9A%84%E5%9C%B0%E6%9D%BF%E4%B8%8A%E6%91%A9%E6%93%A6+%E6%93%A6%E5%B1%81%E8%82%A1%E6%B8%85%E6%BD%94%E5%B7%A5%E7%AC%AC%E4%B8%80%E4%BA%BA~&lang=zh&timestamp=1752215418&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Serial Cleaner // 連環清潔工】（#000）在血色的地板上摩擦 擦屁股清潔工第一人~" title="【Serial Cleaner // 連環清潔工】（#000）在血色的地板上摩擦 擦屁股清潔工第一人~">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SGH7BbeF1ek&title=%E3%80%90Serial+Cleaner+%2F%2F+%E9%80%A3%E7%92%B0%E6%B8%85%E6%BD%94%E5%B7%A5%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9C%A8%E8%A1%80%E8%89%B2%E7%9A%84%E5%9C%B0%E6%9D%BF%E4%B8%8A%E6%91%A9%E6%93%A6+%E6%93%A6%E5%B1%81%E8%82%A1%E6%B8%85%E6%BD%94%E5%B7%A5%E7%AC%AC%E4%B8%80%E4%BA%BA~&lang=zh&timestamp=1752245491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28430">
+    <img src="https://ytcards.demolab.com/?id=SGH7BbeF1ek&title=%E3%80%90Serial+Cleaner+%2F%2F+%E9%80%A3%E7%92%B0%E6%B8%85%E6%BD%94%E5%B7%A5%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9C%A8%E8%A1%80%E8%89%B2%E7%9A%84%E5%9C%B0%E6%9D%BF%E4%B8%8A%E6%91%A9%E6%93%A6+%E6%93%A6%E5%B1%81%E8%82%A1%E6%B8%85%E6%BD%94%E5%B7%A5%E7%AC%AC%E4%B8%80%E4%BA%BA~&lang=zh&timestamp=1752245491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28430" alt="【Serial Cleaner // 連環清潔工】（#000）在血色的地板上摩擦 擦屁股清潔工第一人~" title="【Serial Cleaner // 連環清潔工】（#000）在血色的地板上摩擦 擦屁股清潔工第一人~">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=kqcAUmLKfRQ">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6W7XqsQwoR0&title=%C2%AD&lang=zh&timestamp=1752035371&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=169">
     <img src="https://ytcards.demolab.com/?id=6W7XqsQwoR0&title=%C2%AD&lang=zh&timestamp=1752035371&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=169" alt="­" title="­">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=nmrRA1PH9Lw">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nmrRA1PH9Lw&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23008%EF%BC%89%E5%87%BA%E8%93%AE%E8%8A%B1%E7%9A%84%E4%BD%9C%E8%80%85%E4%BD%A0%E7%B5%A6%E6%88%91%E5%87%BA%E4%BE%86+%E7%AD%89%E7%AD%89%E7%B5%A6%E4%BD%A0%E7%8D%8E%E5%8B%B5%28X&lang=zh&timestamp=1751828056&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21903">
-    <img src="https://ytcards.demolab.com/?id=nmrRA1PH9Lw&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23008%EF%BC%89%E5%87%BA%E8%93%AE%E8%8A%B1%E7%9A%84%E4%BD%9C%E8%80%85%E4%BD%A0%E7%B5%A6%E6%88%91%E5%87%BA%E4%BE%86+%E7%AD%89%E7%AD%89%E7%B5%A6%E4%BD%A0%E7%8D%8E%E5%8B%B5%28X&lang=zh&timestamp=1751828056&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21903" alt="【Island of Insights】（#008）出蓮花的作者你給我出來 等等給你獎勵(X" title="【Island of Insights】（#008）出蓮花的作者你給我出來 等等給你獎勵(X">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=y-joH-SzUpg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y-joH-SzUpg&title=%E3%80%90Bento+Blocks%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%88%87%E5%89%B2%E4%BE%BF%E7%95%B6%E7%9A%84%E5%B0%8F%E6%B8%B8%E6%88%B2~&lang=zh&timestamp=1751787245&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=715">
-    <img src="https://ytcards.demolab.com/?id=y-joH-SzUpg&title=%E3%80%90Bento+Blocks%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%88%87%E5%89%B2%E4%BE%BF%E7%95%B6%E7%9A%84%E5%B0%8F%E6%B8%B8%E6%88%B2~&lang=zh&timestamp=1751787245&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=715" alt="【Bento Blocks】（#000）切割便當的小游戲~" title="【Bento Blocks】（#000）切割便當的小游戲~">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
