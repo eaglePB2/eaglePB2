@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=P9VZAptRgBo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=P9VZAptRgBo&title=%E3%80%90GNOG%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%97%91%E8%97%A5%E5%8D%88%E9%A4%90%E7%9B%92%EF%BC%8C%E9%96%8B%E4%BA%86%E5%B0%B1%E8%83%BD%E5%90%83%E5%8D%81%E5%88%86%E5%93%88%E5%91%B3%E7%9A%84%E5%8D%88%E9%A4%90~&lang=zh&timestamp=1752369830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3796">
+    <img src="https://ytcards.demolab.com/?id=P9VZAptRgBo&title=%E3%80%90GNOG%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%97%91%E8%97%A5%E5%8D%88%E9%A4%90%E7%9B%92%EF%BC%8C%E9%96%8B%E4%BA%86%E5%B0%B1%E8%83%BD%E5%90%83%E5%8D%81%E5%88%86%E5%93%88%E5%91%B3%E7%9A%84%E5%8D%88%E9%A4%90~&lang=zh&timestamp=1752369830&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3796" alt="【GNOG】（#000）嗑藥午餐盒，開了就能吃十分哈味的午餐~" title="【GNOG】（#000）嗑藥午餐盒，開了就能吃十分哈味的午餐~">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=Rnz7fJN0X2k">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Rnz7fJN0X2k&title=%E3%80%90Orwell%E3%80%91%EF%BC%88%23000%EF%BC%89OSINT%E5%87%BA%E8%BA%AB%E7%9A%84%E6%88%91%EF%BC%8C%E6%87%89%E5%B0%8D%E9%80%99%E6%B8%B8%E6%88%B2%E6%87%89%E8%A9%B2%E8%BC%95%E8%BC%95%E9%AC%86%E9%AC%86%E7%9A%84%E5%90%A7%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1752320820&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19039">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sBFi89xuAVo&title=%E3%80%90Bleap+%E9%97%AA%E9%9F%B3%E8%B7%83%E5%8A%A8%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%BD%A0%E7%9C%8B%E9%81%8E%E6%89%8B%E6%B8%B8%E7%89%88%E7%9A%84%E9%9F%B3%E6%93%8A%E5%97%8E%EF%BC%9F%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%B2%92%E7%9C%8B%E9%81%8E%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%A9%A6%E8%A9%A6%E9%80%99%E6%AC%BE%EF%BC%81&lang=zh&timestamp=1752093217&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2911">
     <img src="https://ytcards.demolab.com/?id=sBFi89xuAVo&title=%E3%80%90Bleap+%E9%97%AA%E9%9F%B3%E8%B7%83%E5%8A%A8%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%BD%A0%E7%9C%8B%E9%81%8E%E6%89%8B%E6%B8%B8%E7%89%88%E7%9A%84%E9%9F%B3%E6%93%8A%E5%97%8E%EF%BC%9F%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%B2%92%E7%9C%8B%E9%81%8E%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%A9%A6%E8%A9%A6%E9%80%99%E6%AC%BE%EF%BC%81&lang=zh&timestamp=1752093217&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2911" alt="【Bleap 闪音跃动】（#000）你看過手游版的音擊嗎？如果你沒看過，可以試試這款！" title="【Bleap 闪音跃动】（#000）你看過手游版的音擊嗎？如果你沒看過，可以試試這款！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=6W7XqsQwoR0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6W7XqsQwoR0&title=%C2%AD&lang=zh&timestamp=1752035371&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=169">
-    <img src="https://ytcards.demolab.com/?id=6W7XqsQwoR0&title=%C2%AD&lang=zh&timestamp=1752035371&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=169" alt="­" title="­">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
