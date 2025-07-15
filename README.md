@@ -33,10 +33,16 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=ZBeLxzzCzKU">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZBeLxzzCzKU&title=%E3%80%90Titanfall+2%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%99%E6%B8%B8%E6%88%B2+%E7%88%B2%E4%BB%80%E9%BA%BD%E6%88%91%E6%84%9F%E8%A6%BA%E5%A5%BD%E5%83%8F%E5%93%AA%E8%A3%8F%E6%9C%89%E6%89%93%E9%81%8E%EF%BC%9F&lang=zh&timestamp=1752560488&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20421">
+    <img src="https://ytcards.demolab.com/?id=ZBeLxzzCzKU&title=%E3%80%90Titanfall+2%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%99%E6%B8%B8%E6%88%B2+%E7%88%B2%E4%BB%80%E9%BA%BD%E6%88%91%E6%84%9F%E8%A6%BA%E5%A5%BD%E5%83%8F%E5%93%AA%E8%A3%8F%E6%9C%89%E6%89%93%E9%81%8E%EF%BC%9F&lang=zh&timestamp=1752560488&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20421" alt="【Titanfall 2】（#000）這游戲 爲什麽我感覺好像哪裏有打過？" title="【Titanfall 2】（#000）這游戲 爲什麽我感覺好像哪裏有打過？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=6VEQbQUsv8U">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6VEQbQUsv8U&title=%E3%80%90Control%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%88%91%E5%B0%B1%E8%A6%81%E6%8E%A7+%E6%8E%A7%E5%88%B0%E4%BD%A0%E4%B8%8D%E8%A6%81%E4%B8%8D%E8%A6%81%E7%9A%84~&lang=zh&timestamp=1752468123&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=6VEQbQUsv8U&title=%E3%80%90Control%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%88%91%E5%B0%B1%E8%A6%81%E6%8E%A7+%E6%8E%A7%E5%88%B0%E4%BD%A0%E4%B8%8D%E8%A6%81%E4%B8%8D%E8%A6%81%E7%9A%84~&lang=zh&timestamp=1752468123&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Control】（#000）我就要控 控到你不要不要的~" title="【Control】（#000）我就要控 控到你不要不要的~">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6VEQbQUsv8U&title=%E3%80%90Control%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%88%91%E5%B0%B1%E8%A6%81%E6%8E%A7+%E6%8E%A7%E5%88%B0%E4%BD%A0%E4%B8%8D%E8%A6%81%E4%B8%8D%E8%A6%81%E7%9A%84~&lang=zh&timestamp=1752510236&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=39091">
+    <img src="https://ytcards.demolab.com/?id=6VEQbQUsv8U&title=%E3%80%90Control%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%88%91%E5%B0%B1%E8%A6%81%E6%8E%A7+%E6%8E%A7%E5%88%B0%E4%BD%A0%E4%B8%8D%E8%A6%81%E4%B8%8D%E8%A6%81%E7%9A%84~&lang=zh&timestamp=1752510236&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=39091" alt="【Control】（#000）我就要控 控到你不要不要的~" title="【Control】（#000）我就要控 控到你不要不要的~">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=P9VZAptRgBo">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SGH7BbeF1ek&title=%E3%80%90Serial+Cleaner+%2F%2F+%E9%80%A3%E7%92%B0%E6%B8%85%E6%BD%94%E5%B7%A5%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9C%A8%E8%A1%80%E8%89%B2%E7%9A%84%E5%9C%B0%E6%9D%BF%E4%B8%8A%E6%91%A9%E6%93%A6+%E6%93%A6%E5%B1%81%E8%82%A1%E6%B8%85%E6%BD%94%E5%B7%A5%E7%AC%AC%E4%B8%80%E4%BA%BA~&lang=zh&timestamp=1752245491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28430">
     <img src="https://ytcards.demolab.com/?id=SGH7BbeF1ek&title=%E3%80%90Serial+Cleaner+%2F%2F+%E9%80%A3%E7%92%B0%E6%B8%85%E6%BD%94%E5%B7%A5%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9C%A8%E8%A1%80%E8%89%B2%E7%9A%84%E5%9C%B0%E6%9D%BF%E4%B8%8A%E6%91%A9%E6%93%A6+%E6%93%A6%E5%B1%81%E8%82%A1%E6%B8%85%E6%BD%94%E5%B7%A5%E7%AC%AC%E4%B8%80%E4%BA%BA~&lang=zh&timestamp=1752245491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28430" alt="【Serial Cleaner // 連環清潔工】（#000）在血色的地板上摩擦 擦屁股清潔工第一人~" title="【Serial Cleaner // 連環清潔工】（#000）在血色的地板上摩擦 擦屁股清潔工第一人~">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=kqcAUmLKfRQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kqcAUmLKfRQ&title=%E3%80%90FEZ%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%80%8E%E9%BA%BD%E5%9C%A8%E4%BA%8C%E7%B6%AD%E7%9A%84%E4%B8%96%E7%95%8C%E6%89%8B%E6%90%93%E4%B8%89%E7%B6%AD%E7%A9%BA%E9%96%93~&lang=zh&timestamp=1752192181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31992">
-    <img src="https://ytcards.demolab.com/?id=kqcAUmLKfRQ&title=%E3%80%90FEZ%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%80%8E%E9%BA%BD%E5%9C%A8%E4%BA%8C%E7%B6%AD%E7%9A%84%E4%B8%96%E7%95%8C%E6%89%8B%E6%90%93%E4%B8%89%E7%B6%AD%E7%A9%BA%E9%96%93~&lang=zh&timestamp=1752192181&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31992" alt="【FEZ】（#000）手把手教你怎麽在二維的世界手搓三維空間~" title="【FEZ】（#000）手把手教你怎麽在二維的世界手搓三維空間~">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
