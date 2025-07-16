@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 短暂休假 ⋆ @eaglepb2 ☽  四種房間，一口氣打完](https://www.twitch.tv/videos/2513013280)
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽  2K直播測試！各位看得到2K了嗎？](https://www.twitch.tv/videos/2510454941)
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽  2K直播測試！各位看得到2K了嗎？](https://www.twitch.tv/videos/2510411569)
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽  燒腦行動 開始！](https://www.twitch.tv/videos/2508597654)
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽  燒腦行動 開始！](https://www.twitch.tv/videos/2508496157)
-- [☾ 短暂休假 ⋆ @eaglepb2 ☽  燒腦行動 開始！](https://www.twitch.tv/videos/2508490324)
 <!-- TWITCH:END -->
 
 
