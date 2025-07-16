@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=lLTLPV-9sGg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lLTLPV-9sGg&title=%E3%80%90Road+96+%2F%2F+96%E8%99%9F%E5%85%AC%E8%B7%AF%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E5%BC%B5%EF%BC%8C%E6%94%B9%E8%AE%8A%E6%94%BF%E6%B2%BB%E5%8B%95%E8%95%A9%E7%9A%84%E5%8D%A1%E3%80%82&lang=zh&timestamp=1752654373&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21731">
+    <img src="https://ytcards.demolab.com/?id=lLTLPV-9sGg&title=%E3%80%90Road+96+%2F%2F+96%E8%99%9F%E5%85%AC%E8%B7%AF%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E5%BC%B5%EF%BC%8C%E6%94%B9%E8%AE%8A%E6%94%BF%E6%B2%BB%E5%8B%95%E8%95%A9%E7%9A%84%E5%8D%A1%E3%80%82&lang=zh&timestamp=1752654373&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21731" alt="【Road 96 // 96號公路】（#000）這是一張，改變政治動蕩的卡。" title="【Road 96 // 96號公路】（#000）這是一張，改變政治動蕩的卡。">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=ZBeLxzzCzKU">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZBeLxzzCzKU&title=%E3%80%90Titanfall+2%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%99%E6%B8%B8%E6%88%B2+%E7%88%B2%E4%BB%80%E9%BA%BD%E6%88%91%E6%84%9F%E8%A6%BA%E5%A5%BD%E5%83%8F%E5%93%AA%E8%A3%8F%E6%9C%89%E6%89%93%E9%81%8E%EF%BC%9F&lang=zh&timestamp=1752560488&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20421">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9SsXHNuwSC0&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23009%EF%BC%89%E9%A3%9B%E7%BF%94%E8%A9%A6%E7%85%89%EF%BC%81%E9%80%99%E9%9A%BB%E8%80%81%E9%B7%B9%E6%87%89%E8%A9%B2%E8%BC%95%E9%AC%86%E9%81%8E%E7%9A%84%E5%90%A7%EF%BC%9F&lang=zh&timestamp=1752309471&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17063">
     <img src="https://ytcards.demolab.com/?id=9SsXHNuwSC0&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23009%EF%BC%89%E9%A3%9B%E7%BF%94%E8%A9%A6%E7%85%89%EF%BC%81%E9%80%99%E9%9A%BB%E8%80%81%E9%B7%B9%E6%87%89%E8%A9%B2%E8%BC%95%E9%AC%86%E9%81%8E%E7%9A%84%E5%90%A7%EF%BC%9F&lang=zh&timestamp=1752309471&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17063" alt="【Island of Insights】（#009）飛翔試煉！這隻老鷹應該輕鬆過的吧？" title="【Island of Insights】（#009）飛翔試煉！這隻老鷹應該輕鬆過的吧？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=SGH7BbeF1ek">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SGH7BbeF1ek&title=%E3%80%90Serial+Cleaner+%2F%2F+%E9%80%A3%E7%92%B0%E6%B8%85%E6%BD%94%E5%B7%A5%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9C%A8%E8%A1%80%E8%89%B2%E7%9A%84%E5%9C%B0%E6%9D%BF%E4%B8%8A%E6%91%A9%E6%93%A6+%E6%93%A6%E5%B1%81%E8%82%A1%E6%B8%85%E6%BD%94%E5%B7%A5%E7%AC%AC%E4%B8%80%E4%BA%BA~&lang=zh&timestamp=1752245491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28430">
-    <img src="https://ytcards.demolab.com/?id=SGH7BbeF1ek&title=%E3%80%90Serial+Cleaner+%2F%2F+%E9%80%A3%E7%92%B0%E6%B8%85%E6%BD%94%E5%B7%A5%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9C%A8%E8%A1%80%E8%89%B2%E7%9A%84%E5%9C%B0%E6%9D%BF%E4%B8%8A%E6%91%A9%E6%93%A6+%E6%93%A6%E5%B1%81%E8%82%A1%E6%B8%85%E6%BD%94%E5%B7%A5%E7%AC%AC%E4%B8%80%E4%BA%BA~&lang=zh&timestamp=1752245491&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28430" alt="【Serial Cleaner // 連環清潔工】（#000）在血色的地板上摩擦 擦屁股清潔工第一人~" title="【Serial Cleaner // 連環清潔工】（#000）在血色的地板上摩擦 擦屁股清潔工第一人~">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
