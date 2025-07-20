@@ -33,6 +33,18 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=awWjeY_o88s">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=awWjeY_o88s&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23011%EF%BC%89%E6%88%B0%E8%A1%93%E5%A5%A7%E7%A7%98%EF%BC%8121%E5%80%8B%E5%BD%A9%E8%9B%8B%E7%A7%98%E5%AF%86%EF%BC%8C%E4%B8%80%E6%AC%A1%E9%81%8E%E8%A7%A3%E6%B1%BA%E6%8E%89%EF%BC%81&lang=zh&timestamp=1753001544&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9004">
+    <img src="https://ytcards.demolab.com/?id=awWjeY_o88s&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23011%EF%BC%89%E6%88%B0%E8%A1%93%E5%A5%A7%E7%A7%98%EF%BC%8121%E5%80%8B%E5%BD%A9%E8%9B%8B%E7%A7%98%E5%AF%86%EF%BC%8C%E4%B8%80%E6%AC%A1%E9%81%8E%E8%A7%A3%E6%B1%BA%E6%8E%89%EF%BC%81&lang=zh&timestamp=1753001544&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9004" alt="【Island of Insights】（#011）戰術奧秘！21個彩蛋秘密，一次過解決掉！" title="【Island of Insights】（#011）戰術奧秘！21個彩蛋秘密，一次過解決掉！">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=faJP66tnwG4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=faJP66tnwG4&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23010%EF%BC%89%E6%9C%80%E9%AB%98%E8%A7%80%E9%BB%9E%EF%BC%81%E8%81%BD%E5%8A%9B%E8%88%87%E8%A7%80%E9%BB%9E%E7%9A%84%E6%A5%B5%E9%99%90%E6%8C%91%E6%88%B0%EF%BC%81&lang=zh&timestamp=1752992318&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13624">
+    <img src="https://ytcards.demolab.com/?id=faJP66tnwG4&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23010%EF%BC%89%E6%9C%80%E9%AB%98%E8%A7%80%E9%BB%9E%EF%BC%81%E8%81%BD%E5%8A%9B%E8%88%87%E8%A7%80%E9%BB%9E%E7%9A%84%E6%A5%B5%E9%99%90%E6%8C%91%E6%88%B0%EF%BC%81&lang=zh&timestamp=1752992318&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13624" alt="【Island of Insights】（#010）最高觀點！聽力與觀點的極限挑戰！" title="【Island of Insights】（#010）最高觀點！聽力與觀點的極限挑戰！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=3aOLDtmwb20">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3aOLDtmwb20&title=%E3%80%90The+Room%3A+Old+Sins%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%AF%86%E5%AE%A4%E7%B3%BB%E5%88%97%E5%9B%9B%E9%83%A8%E6%9B%B2%EF%BC%8C%E6%AD%A4%E7%88%B2%E7%AC%AC%E5%9B%9B%E6%9B%B2&lang=zh&timestamp=1752900487&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10058">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W5XHJOIyjc0&title=%E3%80%90The+Room+2%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%AF%86%E5%AE%A4%E7%B3%BB%E5%88%97%E5%9B%9B%E9%83%A8%E6%9B%B2%EF%BC%8C%E6%AD%A4%E7%88%B2%E7%AC%AC%E4%BA%8C%E6%9B%B2&lang=zh&timestamp=1752849158&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7787">
     <img src="https://ytcards.demolab.com/?id=W5XHJOIyjc0&title=%E3%80%90The+Room+2%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%AF%86%E5%AE%A4%E7%B3%BB%E5%88%97%E5%9B%9B%E9%83%A8%E6%9B%B2%EF%BC%8C%E6%AD%A4%E7%88%B2%E7%AC%AC%E4%BA%8C%E6%9B%B2&lang=zh&timestamp=1752849158&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7787" alt="【The Room 2】（#000）密室系列四部曲，此爲第二曲" title="【The Room 2】（#000）密室系列四部曲，此爲第二曲">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=cRGLl2U3hsw">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cRGLl2U3hsw&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%8B%86%E5%BD%88%E9%81%8A%E6%88%B2%E5%9B%9E%E6%AD%B8%EF%BC%81+%E7%AD%89%E7%AD%89%EF%BC%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E9%80%99%E8%BC%AA%E6%98%AF%E6%88%91%E5%9C%A8%E6%8B%86%E7%82%B8%E5%BD%88%EF%BC%9F+%7C+ft.++%40meteor_DOG&lang=zh&timestamp=1752833858&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=cRGLl2U3hsw&title=%E3%80%90KT%26NE%E3%80%91%EF%BC%88%23005%EF%BC%89%E6%8B%86%E5%BD%88%E9%81%8A%E6%88%B2%E5%9B%9E%E6%AD%B8%EF%BC%81+%E7%AD%89%E7%AD%89%EF%BC%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E9%80%99%E8%BC%AA%E6%98%AF%E6%88%91%E5%9C%A8%E6%8B%86%E7%82%B8%E5%BD%88%EF%BC%9F+%7C+ft.++%40meteor_DOG&lang=zh&timestamp=1752833858&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【KT&NE】（#005）拆彈遊戲回歸！ 等等，為什麼這輪是我在拆炸彈？ | ft.  @meteor_DOG" title="【KT&NE】（#005）拆彈遊戲回歸！ 等等，為什麼這輪是我在拆炸彈？ | ft.  @meteor_DOG">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=lLTLPV-9sGg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lLTLPV-9sGg&title=%E3%80%90Road+96+%2F%2F+96%E8%99%9F%E5%85%AC%E8%B7%AF%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E5%BC%B5%EF%BC%8C%E6%94%B9%E8%AE%8A%E6%94%BF%E6%B2%BB%E5%8B%95%E8%95%A9%E7%9A%84%E5%8D%A1%E3%80%82&lang=zh&timestamp=1752654373&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21731">
-    <img src="https://ytcards.demolab.com/?id=lLTLPV-9sGg&title=%E3%80%90Road+96+%2F%2F+96%E8%99%9F%E5%85%AC%E8%B7%AF%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E5%BC%B5%EF%BC%8C%E6%94%B9%E8%AE%8A%E6%94%BF%E6%B2%BB%E5%8B%95%E8%95%A9%E7%9A%84%E5%8D%A1%E3%80%82&lang=zh&timestamp=1752654373&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21731" alt="【Road 96 // 96號公路】（#000）這是一張，改變政治動蕩的卡。" title="【Road 96 // 96號公路】（#000）這是一張，改變政治動蕩的卡。">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
