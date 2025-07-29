@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=ESbmX-fhsZI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ESbmX-fhsZI&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23012%EF%BC%89%E5%A5%87%E6%80%9D%E7%BE%A4%E5%B3%B6%E9%A6%AC%E6%8B%89%E6%9D%BE%EF%BC%81%E5%85%A8%E5%B3%B6%E5%B6%BC%E6%B7%B7%E5%90%88%E5%BC%8F%E7%9A%84%E9%AB%98%E5%BC%BA%E5%BA%A6%E8%AC%8E%E9%A1%8C+OAO&lang=zh&timestamp=1753774746&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23927">
+    <img src="https://ytcards.demolab.com/?id=ESbmX-fhsZI&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23012%EF%BC%89%E5%A5%87%E6%80%9D%E7%BE%A4%E5%B3%B6%E9%A6%AC%E6%8B%89%E6%9D%BE%EF%BC%81%E5%85%A8%E5%B3%B6%E5%B6%BC%E6%B7%B7%E5%90%88%E5%BC%8F%E7%9A%84%E9%AB%98%E5%BC%BA%E5%BA%A6%E8%AC%8E%E9%A1%8C+OAO&lang=zh&timestamp=1753774746&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=23927" alt="【Island of Insights】（#012）奇思群島馬拉松！全島嶼混合式的高强度謎題 OAO" title="【Island of Insights】（#012）奇思群島馬拉松！全島嶼混合式的高强度謎題 OAO">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=awWjeY_o88s">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=awWjeY_o88s&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23011%EF%BC%89%E6%88%B0%E8%A1%93%E5%A5%A7%E7%A7%98%EF%BC%8121%E5%80%8B%E5%BD%A9%E8%9B%8B%E7%A7%98%E5%AF%86%EF%BC%8C%E4%B8%80%E6%AC%A1%E9%81%8E%E8%A7%A3%E6%B1%BA%E6%8E%89%EF%BC%81&lang=zh&timestamp=1753001544&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9004">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qxdsxjnkcYM&title=%E3%80%90The+Room+3%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%AF%86%E5%AE%A4%E7%B3%BB%E5%88%97%E5%9B%9B%E9%83%A8%E6%9B%B2%EF%BC%8C%E6%AD%A4%E7%88%B2%E7%AC%AC%E4%B8%89%E6%9B%B2&lang=zh&timestamp=1752863504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14065">
     <img src="https://ytcards.demolab.com/?id=qxdsxjnkcYM&title=%E3%80%90The+Room+3%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%AF%86%E5%AE%A4%E7%B3%BB%E5%88%97%E5%9B%9B%E9%83%A8%E6%9B%B2%EF%BC%8C%E6%AD%A4%E7%88%B2%E7%AC%AC%E4%B8%89%E6%9B%B2&lang=zh&timestamp=1752863504&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14065" alt="【The Room 3】（#000）密室系列四部曲，此爲第三曲" title="【The Room 3】（#000）密室系列四部曲，此爲第三曲">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=W5XHJOIyjc0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W5XHJOIyjc0&title=%E3%80%90The+Room+2%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%AF%86%E5%AE%A4%E7%B3%BB%E5%88%97%E5%9B%9B%E9%83%A8%E6%9B%B2%EF%BC%8C%E6%AD%A4%E7%88%B2%E7%AC%AC%E4%BA%8C%E6%9B%B2&lang=zh&timestamp=1752849158&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7787">
-    <img src="https://ytcards.demolab.com/?id=W5XHJOIyjc0&title=%E3%80%90The+Room+2%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%AF%86%E5%AE%A4%E7%B3%BB%E5%88%97%E5%9B%9B%E9%83%A8%E6%9B%B2%EF%BC%8C%E6%AD%A4%E7%88%B2%E7%AC%AC%E4%BA%8C%E6%9B%B2&lang=zh&timestamp=1752849158&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7787" alt="【The Room 2】（#000）密室系列四部曲，此爲第二曲" title="【The Room 2】（#000）密室系列四部曲，此爲第二曲">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
