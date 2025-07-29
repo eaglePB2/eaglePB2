@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 短暂休假 ⋆ @eaglepb2 ☽  奇思妙想群島！12點前能不能全通關？](https://www.twitch.tv/videos/2524590864)
 - [Plazma League S7 - Round 2 - Ace Minions vs Resolute](https://www.twitch.tv/videos/2516845869)
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽  最高觀點！屋脊中的屋脊！](https://www.twitch.tv/videos/2516618183)
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽  最高觀點！屋脊中的屋脊！](https://www.twitch.tv/videos/2516503368)
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽  來都來了，那也只好把剩下的房間全打了](https://www.twitch.tv/videos/2515476863)
-- [☾ 短暂休假 ⋆ @eaglepb2 ☽  四種房間，一口氣打完](https://www.twitch.tv/videos/2513013280)
 <!-- TWITCH:END -->
 
 
