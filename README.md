@@ -33,6 +33,18 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=4NqXbaLgpv4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4NqXbaLgpv4&title=%E3%80%90%E5%8D%83%E9%9F%B3%E9%9B%85%E9%9B%86%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%B8%80%E5%8F%A3%E6%B0%A3%E6%8A%8A%E3%80%8A%E5%8E%9F%E7%A5%9E%E3%80%8B%E6%89%80%E6%9C%89%E7%9A%84%E9%9F%B3%E6%B8%B8%E6%89%93%E5%AE%8C%EF%BC%81&lang=zh&timestamp=1754072174&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=4NqXbaLgpv4&title=%E3%80%90%E5%8D%83%E9%9F%B3%E9%9B%85%E9%9B%86%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%B8%80%E5%8F%A3%E6%B0%A3%E6%8A%8A%E3%80%8A%E5%8E%9F%E7%A5%9E%E3%80%8B%E6%89%80%E6%9C%89%E7%9A%84%E9%9F%B3%E6%B8%B8%E6%89%93%E5%AE%8C%EF%BC%81&lang=zh&timestamp=1754072174&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【千音雅集】（#000）一口氣把《原神》所有的音游打完！" title="【千音雅集】（#000）一口氣把《原神》所有的音游打完！">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=cOQKoun1h-k">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cOQKoun1h-k&title=%E3%80%90%E6%B3%95%E5%A4%96%E6%A2%9F%E9%9B%84%EF%BC%9A%E6%BB%BE%E7%9F%B3%E5%9F%8E%E3%80%91%EF%BC%88%23001%EF%BC%89%E8%81%BD%E8%AA%AC%E4%BD%A0%E6%98%AF%E7%B0%A1%E5%96%AE%E7%89%88PayDay+2%EF%BC%9F+%7C+ft.+%40V_HanasakiAyame++%E3%80%81%E6%99%AE%E7%BE%85&lang=zh&timestamp=1754071678&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=cOQKoun1h-k&title=%E3%80%90%E6%B3%95%E5%A4%96%E6%A2%9F%E9%9B%84%EF%BC%9A%E6%BB%BE%E7%9F%B3%E5%9F%8E%E3%80%91%EF%BC%88%23001%EF%BC%89%E8%81%BD%E8%AA%AC%E4%BD%A0%E6%98%AF%E7%B0%A1%E5%96%AE%E7%89%88PayDay+2%EF%BC%9F+%7C+ft.+%40V_HanasakiAyame++%E3%80%81%E6%99%AE%E7%BE%85&lang=zh&timestamp=1754071678&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【法外梟雄：滾石城】（#001）聽説你是簡單版PayDay 2？ | ft. @V_HanasakiAyame  、普羅" title="【法外梟雄：滾石城】（#001）聽説你是簡單版PayDay 2？ | ft. @V_HanasakiAyame  、普羅">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=ESbmX-fhsZI">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ESbmX-fhsZI&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23012%EF%BC%89%E5%A5%87%E6%80%9D%E7%BE%A4%E5%B3%B6%E9%A6%AC%E6%8B%89%E6%9D%BE%EF%BC%81%E5%85%A8%E5%B3%B6%E5%B6%BC%E6%B7%B7%E5%90%88%E5%BC%8F%E7%9A%84%E9%AB%98%E5%BC%BA%E5%BA%A6%E8%AC%8E%E9%A1%8C+OAO&lang=zh&timestamp=1753774746&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23927">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3aOLDtmwb20&title=%E3%80%90The+Room%3A+Old+Sins%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%AF%86%E5%AE%A4%E7%B3%BB%E5%88%97%E5%9B%9B%E9%83%A8%E6%9B%B2%EF%BC%8C%E6%AD%A4%E7%88%B2%E7%AC%AC%E5%9B%9B%E6%9B%B2&lang=zh&timestamp=1752900487&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10058">
     <img src="https://ytcards.demolab.com/?id=3aOLDtmwb20&title=%E3%80%90The+Room%3A+Old+Sins%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%AF%86%E5%AE%A4%E7%B3%BB%E5%88%97%E5%9B%9B%E9%83%A8%E6%9B%B2%EF%BC%8C%E6%AD%A4%E7%88%B2%E7%AC%AC%E5%9B%9B%E6%9B%B2&lang=zh&timestamp=1752900487&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10058" alt="【The Room: Old Sins】（#000）密室系列四部曲，此爲第四曲" title="【The Room: Old Sins】（#000）密室系列四部曲，此爲第四曲">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=80u50PqcXNA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=80u50PqcXNA&title=%E3%80%90The+Room%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%AF%86%E5%AE%A4%E7%B3%BB%E5%88%97%E5%9B%9B%E9%83%A8%E6%9B%B2%EF%BC%8C%E6%AD%A4%E7%88%B2%E7%AC%AC%E4%B8%80%E6%9B%B2&lang=zh&timestamp=1752883932&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6745">
-    <img src="https://ytcards.demolab.com/?id=80u50PqcXNA&title=%E3%80%90The+Room%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%AF%86%E5%AE%A4%E7%B3%BB%E5%88%97%E5%9B%9B%E9%83%A8%E6%9B%B2%EF%BC%8C%E6%AD%A4%E7%88%B2%E7%AC%AC%E4%B8%80%E6%9B%B2&lang=zh&timestamp=1752883932&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6745" alt="【The Room】（#000）密室系列四部曲，此爲第一曲" title="【The Room】（#000）密室系列四部曲，此爲第一曲">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=qxdsxjnkcYM">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qxdsxjnkcYM&title=%E3%80%90The+Room+3%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%AF%86%E5%AE%A4%E7%B3%BB%E5%88%97%E5%9B%9B%E9%83%A8%E6%9B%B2%EF%BC%8C%E6%AD%A4%E7%88%B2%E7%AC%AC%E4%B8%89%E6%9B%B2&lang=zh&timestamp=1752863504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14065">
-    <img src="https://ytcards.demolab.com/?id=qxdsxjnkcYM&title=%E3%80%90The+Room+3%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%AF%86%E5%AE%A4%E7%B3%BB%E5%88%97%E5%9B%9B%E9%83%A8%E6%9B%B2%EF%BC%8C%E6%AD%A4%E7%88%B2%E7%AC%AC%E4%B8%89%E6%9B%B2&lang=zh&timestamp=1752863504&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14065" alt="【The Room 3】（#000）密室系列四部曲，此爲第三曲" title="【The Room 3】（#000）密室系列四部曲，此爲第三曲">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
