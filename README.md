@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [Plazma League Season 6 - Round 4 - 300 vs Mujahideens](https://www.twitch.tv/videos/2530243875)
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽  重出江湖，前往滾石城繼續偷東西啦！ ft. @v_hanasakiayame](https://www.twitch.tv/videos/2529067682)
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽  奇思妙想群島！12點前能不能全通關？](https://www.twitch.tv/videos/2524590864)
-- [Plazma League S7 - Round 2 - Ace Minions vs Resolute](https://www.twitch.tv/videos/2516845869)
-- [☾ 短暂休假 ⋆ @eaglepb2 ☽  最高觀點！屋脊中的屋脊！](https://www.twitch.tv/videos/2516618183)
-- [☾ 短暂休假 ⋆ @eaglepb2 ☽  最高觀點！屋脊中的屋脊！](https://www.twitch.tv/videos/2516503368)
+- [精选内容：終焉決鬥（2）](https://www.twitch.tv/videos/2400633957)
+- [精选内容：終焉決鬥（1）](https://www.twitch.tv/videos/2400633622)
 <!-- TWITCH:END -->
 
 
