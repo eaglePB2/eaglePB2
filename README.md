@@ -23,7 +23,7 @@ You may come back later, as you wish if this readme.md is updated.   -->
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽  最後的金字塔，管你上中下今天就是大結局 OAO!](https://www.twitch.tv/videos/2532577788)
 - [Plazma League Season 6 - Round 4 - 300 vs Mujahideens](https://www.twitch.tv/videos/2530243875)
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽  重出江湖，前往滾石城繼續偷東西啦！ ft. @v_hanasakiayame](https://www.twitch.tv/videos/2529067682)
-- [☾ 短暂休假 ⋆ @eaglepb2 ☽  奇思妙想群島！12點前能不能全通關？](https://www.twitch.tv/videos/2524590864)
+- [精选内容：終焉決鬥（2）](https://www.twitch.tv/videos/2400633957)
 <!-- TWITCH:END -->
 
 
