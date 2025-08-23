@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
-- [☾ 短暂休假 ⋆ @eaglepb2 ☽  先測評PB2地圖，等等解謎島衝刺](https://www.twitch.tv/videos/2533459007)
 - [精选内容：終焉決鬥（2）](https://www.twitch.tv/videos/2400633957)
 - [精选内容：終焉決鬥（1）](https://www.twitch.tv/videos/2400633622)
 - [精选内容：饥荒 Day 5 #0625](https://www.twitch.tv/videos/1928635454)
 - [精选内容：饥荒 Day 4 #0622](https://www.twitch.tv/videos/1924829900)
+- [精选内容：饥荒 Day 3 #0620](https://www.twitch.tv/videos/1921769687)
 <!-- TWITCH:END -->
 
 
