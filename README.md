@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=YViCeLZOCw8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YViCeLZOCw8&title=%E3%80%90Kalpa+%E6%8C%91%E6%88%B0%E3%80%91%EF%BC%88%23002%EF%BC%89Lunatic+Mode+%E9%A6%AC%E6%8B%89%E6%9D%BE%EF%BC%81%E5%A6%82%E6%9E%9C%E7%82%B8%E4%BA%86%E5%B0%B1%E9%97%9C%E5%8F%B0&lang=zh&timestamp=1756636462&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11340">
+    <img src="https://ytcards.demolab.com/?id=YViCeLZOCw8&title=%E3%80%90Kalpa+%E6%8C%91%E6%88%B0%E3%80%91%EF%BC%88%23002%EF%BC%89Lunatic+Mode+%E9%A6%AC%E6%8B%89%E6%9D%BE%EF%BC%81%E5%A6%82%E6%9E%9C%E7%82%B8%E4%BA%86%E5%B0%B1%E9%97%9C%E5%8F%B0&lang=zh&timestamp=1756636462&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11340" alt="【Kalpa 挑戰】（#002）Lunatic Mode 馬拉松！如果炸了就關台" title="【Kalpa 挑戰】（#002）Lunatic Mode 馬拉松！如果炸了就關台">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=2POf6UDWvWk">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2POf6UDWvWk&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23013%EF%BC%89%E6%9C%80%E5%BE%8C%E7%9A%84%E9%87%91%E5%AD%97%E5%A1%94%EF%BC%81%E8%A7%A3%E8%AC%8E%E5%B3%B6%EF%BC%8C%E6%88%91%E5%BF%AB%E8%A7%A3%E6%B1%BA%E4%BD%A0%E4%BA%86%EF%BC%81&lang=zh&timestamp=1754635164&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24601">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ESbmX-fhsZI&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23012%EF%BC%89%E5%A5%87%E6%80%9D%E7%BE%A4%E5%B3%B6%E9%A6%AC%E6%8B%89%E6%9D%BE%EF%BC%81%E5%85%A8%E5%B3%B6%E5%B6%BC%E6%B7%B7%E5%90%88%E5%BC%8F%E7%9A%84%E9%AB%98%E5%BC%BA%E5%BA%A6%E8%AC%8E%E9%A1%8C+OAO&lang=zh&timestamp=1753774746&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23927">
     <img src="https://ytcards.demolab.com/?id=ESbmX-fhsZI&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23012%EF%BC%89%E5%A5%87%E6%80%9D%E7%BE%A4%E5%B3%B6%E9%A6%AC%E6%8B%89%E6%9D%BE%EF%BC%81%E5%85%A8%E5%B3%B6%E5%B6%BC%E6%B7%B7%E5%90%88%E5%BC%8F%E7%9A%84%E9%AB%98%E5%BC%BA%E5%BA%A6%E8%AC%8E%E9%A1%8C+OAO&lang=zh&timestamp=1753774746&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=23927" alt="【Island of Insights】（#012）奇思群島馬拉松！全島嶼混合式的高强度謎題 OAO" title="【Island of Insights】（#012）奇思群島馬拉松！全島嶼混合式的高强度謎題 OAO">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=awWjeY_o88s">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=awWjeY_o88s&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23011%EF%BC%89%E6%88%B0%E8%A1%93%E5%A5%A7%E7%A7%98%EF%BC%8121%E5%80%8B%E5%BD%A9%E8%9B%8B%E7%A7%98%E5%AF%86%EF%BC%8C%E4%B8%80%E6%AC%A1%E9%81%8E%E8%A7%A3%E6%B1%BA%E6%8E%89%EF%BC%81&lang=zh&timestamp=1753001544&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9004">
-    <img src="https://ytcards.demolab.com/?id=awWjeY_o88s&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23011%EF%BC%89%E6%88%B0%E8%A1%93%E5%A5%A7%E7%A7%98%EF%BC%8121%E5%80%8B%E5%BD%A9%E8%9B%8B%E7%A7%98%E5%AF%86%EF%BC%8C%E4%B8%80%E6%AC%A1%E9%81%8E%E8%A7%A3%E6%B1%BA%E6%8E%89%EF%BC%81&lang=zh&timestamp=1753001544&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=9004" alt="【Island of Insights】（#011）戰術奧秘！21個彩蛋秘密，一次過解決掉！" title="【Island of Insights】（#011）戰術奧秘！21個彩蛋秘密，一次過解決掉！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
