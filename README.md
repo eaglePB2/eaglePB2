@@ -33,10 +33,16 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=Z3JzBPDwRYs">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Z3JzBPDwRYs&title=%E3%80%90Kalpa+%C2%B7+Lana%E3%81%AE%E6%8C%91%E6%88%B0%E3%80%91%EF%BC%88%23001%EF%BC%89+Lana%E9%9F%B3%E4%B9%90%E9%9B%86%E9%A9%AC%E6%8B%89%E6%9D%BE+%C2%B7+%E6%8B%87%E6%8C%87%E7%B3%BB%E5%88%97&lang=zh&timestamp=1756785398&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4427">
+    <img src="https://ytcards.demolab.com/?id=Z3JzBPDwRYs&title=%E3%80%90Kalpa+%C2%B7+Lana%E3%81%AE%E6%8C%91%E6%88%B0%E3%80%91%EF%BC%88%23001%EF%BC%89+Lana%E9%9F%B3%E4%B9%90%E9%9B%86%E9%A9%AC%E6%8B%89%E6%9D%BE+%C2%B7+%E6%8B%87%E6%8C%87%E7%B3%BB%E5%88%97&lang=zh&timestamp=1756785398&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4427" alt="【Kalpa · Lanaの挑戰】（#001） Lana音乐集马拉松 · 拇指系列" title="【Kalpa · Lanaの挑戰】（#001） Lana音乐集马拉松 · 拇指系列">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=YViCeLZOCw8">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YViCeLZOCw8&title=%E3%80%90Kalpa+%E6%8C%91%E6%88%B0%E3%80%91%EF%BC%88%23002%EF%BC%89Lunatic+Mode+%E9%A6%AC%E6%8B%89%E6%9D%BE%EF%BC%81%E5%A6%82%E6%9E%9C%E7%82%B8%E4%BA%86%E5%B0%B1%E9%97%9C%E5%8F%B0&lang=zh&timestamp=1756636462&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11340">
-    <img src="https://ytcards.demolab.com/?id=YViCeLZOCw8&title=%E3%80%90Kalpa+%E6%8C%91%E6%88%B0%E3%80%91%EF%BC%88%23002%EF%BC%89Lunatic+Mode+%E9%A6%AC%E6%8B%89%E6%9D%BE%EF%BC%81%E5%A6%82%E6%9E%9C%E7%82%B8%E4%BA%86%E5%B0%B1%E9%97%9C%E5%8F%B0&lang=zh&timestamp=1756636462&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11340" alt="【Kalpa 挑戰】（#002）Lunatic Mode 馬拉松！如果炸了就關台" title="【Kalpa 挑戰】（#002）Lunatic Mode 馬拉松！如果炸了就關台">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YViCeLZOCw8&title=%E3%80%90Kalpa+%C2%B7+Sylvia%E3%81%AE%E6%8C%91%E6%88%B0%E3%80%91%EF%BC%88%23002%EF%BC%89Lunatic+Mode+%E9%A6%AC%E6%8B%89%E6%9D%BE%EF%BC%81%E5%A6%82%E6%9E%9C%E7%82%B8%E4%BA%86%E5%B0%B1%E9%97%9C%E5%8F%B0&lang=zh&timestamp=1756636462&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11340">
+    <img src="https://ytcards.demolab.com/?id=YViCeLZOCw8&title=%E3%80%90Kalpa+%C2%B7+Sylvia%E3%81%AE%E6%8C%91%E6%88%B0%E3%80%91%EF%BC%88%23002%EF%BC%89Lunatic+Mode+%E9%A6%AC%E6%8B%89%E6%9D%BE%EF%BC%81%E5%A6%82%E6%9E%9C%E7%82%B8%E4%BA%86%E5%B0%B1%E9%97%9C%E5%8F%B0&lang=zh&timestamp=1756636462&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11340" alt="【Kalpa · Sylviaの挑戰】（#002）Lunatic Mode 馬拉松！如果炸了就關台" title="【Kalpa · Sylviaの挑戰】（#002）Lunatic Mode 馬拉松！如果炸了就關台">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=2POf6UDWvWk">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TPtbq56ctYg&title=%E3%80%90%E6%B3%95%E5%A4%96%E6%A2%9F%E9%9B%84%EF%BC%9A%E6%BB%BE%E7%9F%B3%E5%9F%8E%E3%80%91%EF%BC%88%23001%EF%BC%89%E8%81%BD%E8%AA%AC%E4%BD%A0%E6%98%AF%E7%B0%A1%E5%96%AE%E7%89%88PayDay+2%EF%BC%9F+%7C+ft.+%40V_HanasakiAyame++%E3%80%81%E6%99%AE%E7%BE%85&lang=zh&timestamp=1754198765&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15441">
     <img src="https://ytcards.demolab.com/?id=TPtbq56ctYg&title=%E3%80%90%E6%B3%95%E5%A4%96%E6%A2%9F%E9%9B%84%EF%BC%9A%E6%BB%BE%E7%9F%B3%E5%9F%8E%E3%80%91%EF%BC%88%23001%EF%BC%89%E8%81%BD%E8%AA%AC%E4%BD%A0%E6%98%AF%E7%B0%A1%E5%96%AE%E7%89%88PayDay+2%EF%BC%9F+%7C+ft.+%40V_HanasakiAyame++%E3%80%81%E6%99%AE%E7%BE%85&lang=zh&timestamp=1754198765&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15441" alt="【法外梟雄：滾石城】（#001）聽説你是簡單版PayDay 2？ | ft. @V_HanasakiAyame  、普羅" title="【法外梟雄：滾石城】（#001）聽説你是簡單版PayDay 2？ | ft. @V_HanasakiAyame  、普羅">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=ESbmX-fhsZI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ESbmX-fhsZI&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23012%EF%BC%89%E5%A5%87%E6%80%9D%E7%BE%A4%E5%B3%B6%E9%A6%AC%E6%8B%89%E6%9D%BE%EF%BC%81%E5%85%A8%E5%B3%B6%E5%B6%BC%E6%B7%B7%E5%90%88%E5%BC%8F%E7%9A%84%E9%AB%98%E5%BC%BA%E5%BA%A6%E8%AC%8E%E9%A1%8C+OAO&lang=zh&timestamp=1753774746&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23927">
-    <img src="https://ytcards.demolab.com/?id=ESbmX-fhsZI&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23012%EF%BC%89%E5%A5%87%E6%80%9D%E7%BE%A4%E5%B3%B6%E9%A6%AC%E6%8B%89%E6%9D%BE%EF%BC%81%E5%85%A8%E5%B3%B6%E5%B6%BC%E6%B7%B7%E5%90%88%E5%BC%8F%E7%9A%84%E9%AB%98%E5%BC%BA%E5%BA%A6%E8%AC%8E%E9%A1%8C+OAO&lang=zh&timestamp=1753774746&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=23927" alt="【Island of Insights】（#012）奇思群島馬拉松！全島嶼混合式的高强度謎題 OAO" title="【Island of Insights】（#012）奇思群島馬拉松！全島嶼混合式的高强度謎題 OAO">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
