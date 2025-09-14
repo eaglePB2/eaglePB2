@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=sfn9jfKVvpQ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sfn9jfKVvpQ&title=%E3%80%90%E6%B3%95%E5%A4%96%E6%A2%9F%E9%9B%84%EF%BC%9A%E6%BB%BE%E7%9F%B3%E5%9F%8E%E3%80%91%EF%BC%88%23002%EF%BC%89%E9%83%BD%E5%B8%82%E4%BC%A0%E8%AF%B4%E5%89%A7%E6%83%85%E6%A8%A1%E5%BC%8F+%E9%80%9F%E9%80%9A%EF%BC%81%EF%BC%88%E5%8C%85%E5%90%ABDLC%EF%BC%81%EF%BC%89&lang=zh&timestamp=1757843841&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=sfn9jfKVvpQ&title=%E3%80%90%E6%B3%95%E5%A4%96%E6%A2%9F%E9%9B%84%EF%BC%9A%E6%BB%BE%E7%9F%B3%E5%9F%8E%E3%80%91%EF%BC%88%23002%EF%BC%89%E9%83%BD%E5%B8%82%E4%BC%A0%E8%AF%B4%E5%89%A7%E6%83%85%E6%A8%A1%E5%BC%8F+%E9%80%9F%E9%80%9A%EF%BC%81%EF%BC%88%E5%8C%85%E5%90%ABDLC%EF%BC%81%EF%BC%89&lang=zh&timestamp=1757843841&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【法外梟雄：滾石城】（#002）都市传说剧情模式 速通！（包含DLC！）" title="【法外梟雄：滾石城】（#002）都市传说剧情模式 速通！（包含DLC！）">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=Z3JzBPDwRYs">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Z3JzBPDwRYs&title=%E3%80%90Kalpa+%C2%B7+Lana%E3%81%AE%E6%8C%91%E6%88%B0%E3%80%91%EF%BC%88%23001%EF%BC%89+Lana%E9%9F%B3%E4%B9%90%E9%9B%86%E9%A9%AC%E6%8B%89%E6%9D%BE+%C2%B7+%E6%8B%87%E6%8C%87%E7%B3%BB%E5%88%97&lang=zh&timestamp=1756836380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4432">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4NqXbaLgpv4&title=%E3%80%90%E5%8D%83%E9%9F%B3%E9%9B%85%E9%9B%86%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%B8%80%E5%8F%A3%E6%B0%A3%E6%8A%8A%E3%80%8A%E5%8E%9F%E7%A5%9E%E3%80%8B%E6%89%80%E6%9C%89%E7%9A%84%E9%9F%B3%E6%B8%B8%E6%89%93%E5%AE%8C%EF%BC%81&lang=zh&timestamp=1754209865&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10235">
     <img src="https://ytcards.demolab.com/?id=4NqXbaLgpv4&title=%E3%80%90%E5%8D%83%E9%9F%B3%E9%9B%85%E9%9B%86%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%B8%80%E5%8F%A3%E6%B0%A3%E6%8A%8A%E3%80%8A%E5%8E%9F%E7%A5%9E%E3%80%8B%E6%89%80%E6%9C%89%E7%9A%84%E9%9F%B3%E6%B8%B8%E6%89%93%E5%AE%8C%EF%BC%81&lang=zh&timestamp=1754209865&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10235" alt="【千音雅集】（#000）一口氣把《原神》所有的音游打完！" title="【千音雅集】（#000）一口氣把《原神》所有的音游打完！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=TPtbq56ctYg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TPtbq56ctYg&title=%E3%80%90%E6%B3%95%E5%A4%96%E6%A2%9F%E9%9B%84%EF%BC%9A%E6%BB%BE%E7%9F%B3%E5%9F%8E%E3%80%91%EF%BC%88%23001%EF%BC%89%E8%81%BD%E8%AA%AC%E4%BD%A0%E6%98%AF%E7%B0%A1%E5%96%AE%E7%89%88PayDay+2%EF%BC%9F+%7C+ft.+%40V_HanasakiAyame++%E3%80%81%E6%99%AE%E7%BE%85&lang=zh&timestamp=1754198765&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15441">
-    <img src="https://ytcards.demolab.com/?id=TPtbq56ctYg&title=%E3%80%90%E6%B3%95%E5%A4%96%E6%A2%9F%E9%9B%84%EF%BC%9A%E6%BB%BE%E7%9F%B3%E5%9F%8E%E3%80%91%EF%BC%88%23001%EF%BC%89%E8%81%BD%E8%AA%AC%E4%BD%A0%E6%98%AF%E7%B0%A1%E5%96%AE%E7%89%88PayDay+2%EF%BC%9F+%7C+ft.+%40V_HanasakiAyame++%E3%80%81%E6%99%AE%E7%BE%85&lang=zh&timestamp=1754198765&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15441" alt="【法外梟雄：滾石城】（#001）聽説你是簡單版PayDay 2？ | ft. @V_HanasakiAyame  、普羅" title="【法外梟雄：滾石城】（#001）聽説你是簡單版PayDay 2？ | ft. @V_HanasakiAyame  、普羅">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
