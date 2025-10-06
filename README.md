@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=hdvNa-WBnjg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hdvNa-WBnjg&title=%E3%80%90ARC-AGI%E3%80%91%EF%BC%88%23001%EF%BC%89+Public+Training+Set+1+-+Easy+%7C+%E8%B7%9F%E8%A7%A3%E8%AC%8E%E5%B3%B6%E7%9A%84%E6%89%BE%E8%A6%8F%E5%BE%8B%E6%B8%B8%E6%88%B2%E5%B7%AE%E4%B8%8D%E5%A4%9A%E4%B8%80%E6%A8%A3%E6%AC%B8~&lang=zh&timestamp=1759743066&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=hdvNa-WBnjg&title=%E3%80%90ARC-AGI%E3%80%91%EF%BC%88%23001%EF%BC%89+Public+Training+Set+1+-+Easy+%7C+%E8%B7%9F%E8%A7%A3%E8%AC%8E%E5%B3%B6%E7%9A%84%E6%89%BE%E8%A6%8F%E5%BE%8B%E6%B8%B8%E6%88%B2%E5%B7%AE%E4%B8%8D%E5%A4%9A%E4%B8%80%E6%A8%A3%E6%AC%B8~&lang=zh&timestamp=1759743066&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【ARC-AGI】（#001） Public Training Set 1 - Easy | 跟解謎島的找規律游戲差不多一樣欸~" title="【ARC-AGI】（#001） Public Training Set 1 - Easy | 跟解謎島的找規律游戲差不多一樣欸~">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=adG5j4fObas">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=adG5j4fObas&title=%E3%80%90VOEZ%E3%80%91%EF%BC%88%23001%EF%BC%89+%E5%85%A8%E5%8D%95%E6%9B%B2%E9%99%90%E5%85%8D%EF%BC%81%E9%82%A3%E6%88%91%E4%BB%AC%E6%9D%A5%E2%80%A6%E2%80%A6+%E5%85%A8%E6%9B%B2%E7%9B%AE%E9%A9%AC%E6%8B%89%E6%9D%BE%EF%BC%9F&lang=zh&timestamp=1758006205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=27027">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YViCeLZOCw8&title=%E3%80%90Kalpa+%C2%B7+Sylvia%E3%81%AE%E6%8C%91%E6%88%B0%E3%80%91%EF%BC%88%23002%EF%BC%89Lunatic+Mode+%E9%A6%AC%E6%8B%89%E6%9D%BE%EF%BC%81%E5%A6%82%E6%9E%9C%E7%82%B8%E4%BA%86%E5%B0%B1%E9%97%9C%E5%8F%B0&lang=zh&timestamp=1756636462&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11340">
     <img src="https://ytcards.demolab.com/?id=YViCeLZOCw8&title=%E3%80%90Kalpa+%C2%B7+Sylvia%E3%81%AE%E6%8C%91%E6%88%B0%E3%80%91%EF%BC%88%23002%EF%BC%89Lunatic+Mode+%E9%A6%AC%E6%8B%89%E6%9D%BE%EF%BC%81%E5%A6%82%E6%9E%9C%E7%82%B8%E4%BA%86%E5%B0%B1%E9%97%9C%E5%8F%B0&lang=zh&timestamp=1756636462&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11340" alt="【Kalpa · Sylviaの挑戰】（#002）Lunatic Mode 馬拉松！如果炸了就關台" title="【Kalpa · Sylviaの挑戰】（#002）Lunatic Mode 馬拉松！如果炸了就關台">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=2POf6UDWvWk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2POf6UDWvWk&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23013%EF%BC%89%E6%9C%80%E5%BE%8C%E7%9A%84%E9%87%91%E5%AD%97%E5%A1%94%EF%BC%81%E8%A7%A3%E8%AC%8E%E5%B3%B6%EF%BC%8C%E6%88%91%E5%BF%AB%E8%A7%A3%E6%B1%BA%E4%BD%A0%E4%BA%86%EF%BC%81&lang=zh&timestamp=1754635164&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24601">
-    <img src="https://ytcards.demolab.com/?id=2POf6UDWvWk&title=%E3%80%90Island+of+Insights%E3%80%91%EF%BC%88%23013%EF%BC%89%E6%9C%80%E5%BE%8C%E7%9A%84%E9%87%91%E5%AD%97%E5%A1%94%EF%BC%81%E8%A7%A3%E8%AC%8E%E5%B3%B6%EF%BC%8C%E6%88%91%E5%BF%AB%E8%A7%A3%E6%B1%BA%E4%BD%A0%E4%BA%86%EF%BC%81&lang=zh&timestamp=1754635164&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=24601" alt="【Island of Insights】（#013）最後的金字塔！解謎島，我快解決你了！" title="【Island of Insights】（#013）最後的金字塔！解謎島，我快解決你了！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
