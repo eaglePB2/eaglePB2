@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=pQQ8E907Ghs">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pQQ8E907Ghs&title=%E3%80%90Plazma+Burst+3%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B0%81%E6%B8%AC%E7%89%88+%E2%80%94%E2%80%94+%E6%9C%80%E9%97%9C%E5%BF%83%E7%9A%84%E5%9C%B0%E5%9C%96%E7%B7%A8%E8%BC%AF%E5%99%A8%E5%A4%A7%E6%94%B9%EF%BC%9F%E6%89%80%E6%9C%89%E6%9D%B1%E8%A5%BF%E5%B9%BE%E4%B9%8E%E9%83%BD%E8%A6%81%E7%A0%8D%E6%8E%89%E9%87%8D%E7%B7%B4%EF%BC%9FPB3+%E5%9C%B0%E5%9C%96%E7%B7%A8%E8%BC%AF%E6%89%8B%E5%86%8A%E6%80%8E%E9%BA%BD%E5%AF%AB%EF%BC%9F&lang=zh&timestamp=1762065325&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8631">
+    <img src="https://ytcards.demolab.com/?id=pQQ8E907Ghs&title=%E3%80%90Plazma+Burst+3%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B0%81%E6%B8%AC%E7%89%88+%E2%80%94%E2%80%94+%E6%9C%80%E9%97%9C%E5%BF%83%E7%9A%84%E5%9C%B0%E5%9C%96%E7%B7%A8%E8%BC%AF%E5%99%A8%E5%A4%A7%E6%94%B9%EF%BC%9F%E6%89%80%E6%9C%89%E6%9D%B1%E8%A5%BF%E5%B9%BE%E4%B9%8E%E9%83%BD%E8%A6%81%E7%A0%8D%E6%8E%89%E9%87%8D%E7%B7%B4%EF%BC%9FPB3+%E5%9C%B0%E5%9C%96%E7%B7%A8%E8%BC%AF%E6%89%8B%E5%86%8A%E6%80%8E%E9%BA%BD%E5%AF%AB%EF%BC%9F&lang=zh&timestamp=1762065325&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8631" alt="【Plazma Burst 3】（#000）封測版 —— 最關心的地圖編輯器大改？所有東西幾乎都要砍掉重練？PB3 地圖編輯手冊怎麽寫？" title="【Plazma Burst 3】（#000）封測版 —— 最關心的地圖編輯器大改？所有東西幾乎都要砍掉重練？PB3 地圖編輯手冊怎麽寫？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/mKrbd2NgDwU">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mKrbd2NgDwU&title=%E5%86%8D%E4%B8%8D%E5%BC%80%E5%BC%95%E5%AF%BC%E6%A8%A1%E5%BC%8F%E8%AF%95%E8%AF%95%E5%95%8A%EF%BC%9F&lang=zh&timestamp=1761751229&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Z3JzBPDwRYs&title=%E3%80%90Kalpa+%C2%B7+Lana%E3%81%AE%E6%8C%91%E6%88%B0%E3%80%91%EF%BC%88%23001%EF%BC%89+Lana%E9%9F%B3%E4%B9%90%E9%9B%86%E9%A9%AC%E6%8B%89%E6%9D%BE+%C2%B7+%E6%8B%87%E6%8C%87%E7%B3%BB%E5%88%97&lang=zh&timestamp=1756836380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4432">
     <img src="https://ytcards.demolab.com/?id=Z3JzBPDwRYs&title=%E3%80%90Kalpa+%C2%B7+Lana%E3%81%AE%E6%8C%91%E6%88%B0%E3%80%91%EF%BC%88%23001%EF%BC%89+Lana%E9%9F%B3%E4%B9%90%E9%9B%86%E9%A9%AC%E6%8B%89%E6%9D%BE+%C2%B7+%E6%8B%87%E6%8C%87%E7%B3%BB%E5%88%97&lang=zh&timestamp=1756836380&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4432" alt="【Kalpa · Lanaの挑戰】（#001） Lana音乐集马拉松 · 拇指系列" title="【Kalpa · Lanaの挑戰】（#001） Lana音乐集马拉松 · 拇指系列">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=YViCeLZOCw8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YViCeLZOCw8&title=%E3%80%90Kalpa+%C2%B7+Sylvia%E3%81%AE%E6%8C%91%E6%88%B0%E3%80%91%EF%BC%88%23002%EF%BC%89Lunatic+Mode+%E9%A6%AC%E6%8B%89%E6%9D%BE%EF%BC%81%E5%A6%82%E6%9E%9C%E7%82%B8%E4%BA%86%E5%B0%B1%E9%97%9C%E5%8F%B0&lang=zh&timestamp=1756636462&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11340">
-    <img src="https://ytcards.demolab.com/?id=YViCeLZOCw8&title=%E3%80%90Kalpa+%C2%B7+Sylvia%E3%81%AE%E6%8C%91%E6%88%B0%E3%80%91%EF%BC%88%23002%EF%BC%89Lunatic+Mode+%E9%A6%AC%E6%8B%89%E6%9D%BE%EF%BC%81%E5%A6%82%E6%9E%9C%E7%82%B8%E4%BA%86%E5%B0%B1%E9%97%9C%E5%8F%B0&lang=zh&timestamp=1756636462&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11340" alt="【Kalpa · Sylviaの挑戰】（#002）Lunatic Mode 馬拉松！如果炸了就關台" title="【Kalpa · Sylviaの挑戰】（#002）Lunatic Mode 馬拉松！如果炸了就關台">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
