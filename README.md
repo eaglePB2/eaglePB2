@@ -21,9 +21,9 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- TWITCH:START -->
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽ Plazma Burst 3 封測！](https://www.twitch.tv/videos/2606748456)
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽ Plazma Burst 3 封測！](https://www.twitch.tv/videos/2606743286)
-- [☾ 短暂休假 ⋆ @eaglepb2 ☽ 本月也許可能最後一次開臺中](https://www.twitch.tv/videos/2597536988)
 - [精选内容：終焉決鬥（2）](https://www.twitch.tv/videos/2400633957)
 - [精选内容：終焉決鬥（1）](https://www.twitch.tv/videos/2400633622)
+- [精选内容：饥荒 Day 5 #0625](https://www.twitch.tv/videos/1928635454)
 <!-- TWITCH:END -->
 
 
