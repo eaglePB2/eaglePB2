@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=Da7r8gahYqw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Da7r8gahYqw&title=%E3%80%90%E6%B0%B8%E5%AE%89%E6%BA%AB%E6%B3%89%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%81%BD%E8%AA%AC%E6%9C%89%E9%8C%A2%E5%8F%AF%E4%BB%A5%E6%8B%BF%EF%BC%9F%E5%93%AA%E8%A3%8F%E5%8F%AF%E4%BB%A5%E5%A0%B1%E5%90%8D%EF%BC%9F&lang=zh&timestamp=1766225093&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6404">
+    <img src="https://ytcards.demolab.com/?id=Da7r8gahYqw&title=%E3%80%90%E6%B0%B8%E5%AE%89%E6%BA%AB%E6%B3%89%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%81%BD%E8%AA%AC%E6%9C%89%E9%8C%A2%E5%8F%AF%E4%BB%A5%E6%8B%BF%EF%BC%9F%E5%93%AA%E8%A3%8F%E5%8F%AF%E4%BB%A5%E5%A0%B1%E5%90%8D%EF%BC%9F&lang=zh&timestamp=1766225093&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6404" alt="【永安溫泉度假酒店】（#000）聽説有錢可以拿？哪裏可以報名？" title="【永安溫泉度假酒店】（#000）聽説有錢可以拿？哪裏可以報名？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=pQQ8E907Ghs">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pQQ8E907Ghs&title=%E3%80%90Plazma+Burst+3%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B0%81%E6%B8%AC%E7%89%88+%E2%80%94%E2%80%94+%E6%9C%80%E9%97%9C%E5%BF%83%E7%9A%84%E5%9C%B0%E5%9C%96%E7%B7%A8%E8%BC%AF%E5%99%A8%E5%A4%A7%E6%94%B9%EF%BC%9F%E6%89%80%E6%9C%89%E6%9D%B1%E8%A5%BF%E5%B9%BE%E4%B9%8E%E9%83%BD%E8%A6%81%E7%A0%8D%E6%8E%89%E9%87%8D%E7%B7%B4%EF%BC%9FPB3+%E5%9C%B0%E5%9C%96%E7%B7%A8%E8%BC%AF%E6%89%8B%E5%86%8A%E6%80%8E%E9%BA%BD%E5%AF%AB%EF%BC%9F&lang=zh&timestamp=1762065325&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8631">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sfn9jfKVvpQ&title=%E3%80%90%E6%B3%95%E5%A4%96%E6%A2%9F%E9%9B%84%EF%BC%9A%E6%BB%BE%E7%9F%B3%E5%9F%8E%E3%80%91%EF%BC%88%23002%EF%BC%89%E9%83%BD%E5%B8%82%E4%BC%A0%E8%AF%B4%E5%89%A7%E6%83%85%E6%A8%A1%E5%BC%8F+%E9%80%9F%E9%80%9A%EF%BC%81%EF%BC%88%E5%8C%85%E5%90%ABDLC%EF%BC%81%EF%BC%89&lang=zh&timestamp=1757873077&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21003">
     <img src="https://ytcards.demolab.com/?id=sfn9jfKVvpQ&title=%E3%80%90%E6%B3%95%E5%A4%96%E6%A2%9F%E9%9B%84%EF%BC%9A%E6%BB%BE%E7%9F%B3%E5%9F%8E%E3%80%91%EF%BC%88%23002%EF%BC%89%E9%83%BD%E5%B8%82%E4%BC%A0%E8%AF%B4%E5%89%A7%E6%83%85%E6%A8%A1%E5%BC%8F+%E9%80%9F%E9%80%9A%EF%BC%81%EF%BC%88%E5%8C%85%E5%90%ABDLC%EF%BC%81%EF%BC%89&lang=zh&timestamp=1757873077&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21003" alt="【法外梟雄：滾石城】（#002）都市传说剧情模式 速通！（包含DLC！）" title="【法外梟雄：滾石城】（#002）都市传说剧情模式 速通！（包含DLC！）">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=Z3JzBPDwRYs">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Z3JzBPDwRYs&title=%E3%80%90Kalpa+%C2%B7+Lana%E3%81%AE%E6%8C%91%E6%88%B0%E3%80%91%EF%BC%88%23001%EF%BC%89+Lana%E9%9F%B3%E4%B9%90%E9%9B%86%E9%A9%AC%E6%8B%89%E6%9D%BE+%C2%B7+%E6%8B%87%E6%8C%87%E7%B3%BB%E5%88%97&lang=zh&timestamp=1756836380&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4432">
-    <img src="https://ytcards.demolab.com/?id=Z3JzBPDwRYs&title=%E3%80%90Kalpa+%C2%B7+Lana%E3%81%AE%E6%8C%91%E6%88%B0%E3%80%91%EF%BC%88%23001%EF%BC%89+Lana%E9%9F%B3%E4%B9%90%E9%9B%86%E9%A9%AC%E6%8B%89%E6%9D%BE+%C2%B7+%E6%8B%87%E6%8C%87%E7%B3%BB%E5%88%97&lang=zh&timestamp=1756836380&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4432" alt="【Kalpa · Lanaの挑戰】（#001） Lana音乐集马拉松 · 拇指系列" title="【Kalpa · Lanaの挑戰】（#001） Lana音乐集马拉松 · 拇指系列">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
