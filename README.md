@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/shorts/GOPXt1LqrLs">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GOPXt1LqrLs&title=%E7%84%A1+%E9%99%90+%E6%9C%88+%E8%AE%80+%F0%9F%8C%99+%E5%BE%AA%E7%92%B01p%E8%87%AA%E6%91%B8%E6%99%82%E5%88%BB%EF%BC%81&lang=zh&timestamp=1766746834&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50">
+    <img src="https://ytcards.demolab.com/?id=GOPXt1LqrLs&title=%E7%84%A1+%E9%99%90+%E6%9C%88+%E8%AE%80+%F0%9F%8C%99+%E5%BE%AA%E7%92%B01p%E8%87%AA%E6%91%B8%E6%99%82%E5%88%BB%EF%BC%81&lang=zh&timestamp=1766746834&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=50" alt="無 限 月 讀 🌙 循環1p自摸時刻！" title="無 限 月 讀 🌙 循環1p自摸時刻！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=Da7r8gahYqw">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Da7r8gahYqw&title=%E3%80%90%E6%B0%B8%E5%AE%89%E6%BA%AB%E6%B3%89%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%81%BD%E8%AA%AC%E6%9C%89%E9%8C%A2%E5%8F%AF%E4%BB%A5%E6%8B%BF%EF%BC%9F%E5%93%AA%E8%A3%8F%E5%8F%AF%E4%BB%A5%E5%A0%B1%E5%90%8D%EF%BC%9F&lang=zh&timestamp=1766275689&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6397">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4fr-y97u3N0&title=%E3%80%90THE+CORRIDOR%E3%80%91%EF%BC%88%23000%EF%BC%89+%E4%B8%80%E4%B8%AA%E8%B5%B0%E5%BB%8A%EF%BC%8C%E4%B8%80%E6%89%87%E9%97%A8%EF%BC%8C%E4%B8%80%E9%A2%97%E6%8C%89%E9%92%AE%E3%80%82%E8%BF%99%E6%B8%B8%E6%88%8F%E5%B0%B1%E8%BF%99%E6%A0%B7%EF%BC%9F&lang=zh&timestamp=1757947940&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2219">
     <img src="https://ytcards.demolab.com/?id=4fr-y97u3N0&title=%E3%80%90THE+CORRIDOR%E3%80%91%EF%BC%88%23000%EF%BC%89+%E4%B8%80%E4%B8%AA%E8%B5%B0%E5%BB%8A%EF%BC%8C%E4%B8%80%E6%89%87%E9%97%A8%EF%BC%8C%E4%B8%80%E9%A2%97%E6%8C%89%E9%92%AE%E3%80%82%E8%BF%99%E6%B8%B8%E6%88%8F%E5%B0%B1%E8%BF%99%E6%A0%B7%EF%BC%9F&lang=zh&timestamp=1757947940&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2219" alt="【THE CORRIDOR】（#000） 一个走廊，一扇门，一颗按钮。这游戏就这样？" title="【THE CORRIDOR】（#000） 一个走廊，一扇门，一颗按钮。这游戏就这样？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=sfn9jfKVvpQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sfn9jfKVvpQ&title=%E3%80%90%E6%B3%95%E5%A4%96%E6%A2%9F%E9%9B%84%EF%BC%9A%E6%BB%BE%E7%9F%B3%E5%9F%8E%E3%80%91%EF%BC%88%23002%EF%BC%89%E9%83%BD%E5%B8%82%E4%BC%A0%E8%AF%B4%E5%89%A7%E6%83%85%E6%A8%A1%E5%BC%8F+%E9%80%9F%E9%80%9A%EF%BC%81%EF%BC%88%E5%8C%85%E5%90%ABDLC%EF%BC%81%EF%BC%89&lang=zh&timestamp=1757873077&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21003">
-    <img src="https://ytcards.demolab.com/?id=sfn9jfKVvpQ&title=%E3%80%90%E6%B3%95%E5%A4%96%E6%A2%9F%E9%9B%84%EF%BC%9A%E6%BB%BE%E7%9F%B3%E5%9F%8E%E3%80%91%EF%BC%88%23002%EF%BC%89%E9%83%BD%E5%B8%82%E4%BC%A0%E8%AF%B4%E5%89%A7%E6%83%85%E6%A8%A1%E5%BC%8F+%E9%80%9F%E9%80%9A%EF%BC%81%EF%BC%88%E5%8C%85%E5%90%ABDLC%EF%BC%81%EF%BC%89&lang=zh&timestamp=1757873077&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21003" alt="【法外梟雄：滾石城】（#002）都市传说剧情模式 速通！（包含DLC！）" title="【法外梟雄：滾石城】（#002）都市传说剧情模式 速通！（包含DLC！）">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
