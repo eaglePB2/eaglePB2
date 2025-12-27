@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=1glM_NyFl1s">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1glM_NyFl1s&title=%E3%80%90Mahjong+Soul%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9B%9B%E9%BA%BB%E7%9B%83+%C2%B7+%E8%80%90%E5%8A%9B%E6%B4%BB%E5%8B%95%E8%B3%BD&lang=zh&timestamp=1766816838&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=1glM_NyFl1s&title=%E3%80%90Mahjong+Soul%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9B%9B%E9%BA%BB%E7%9B%83+%C2%B7+%E8%80%90%E5%8A%9B%E6%B4%BB%E5%8B%95%E8%B3%BD&lang=zh&timestamp=1766816838&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Mahjong Soul】（#000）四麻盃 · 耐力活動賽" title="【Mahjong Soul】（#000）四麻盃 · 耐力活動賽">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/GOPXt1LqrLs">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GOPXt1LqrLs&title=%E7%84%A1+%E9%99%90+%E6%9C%88+%E8%AE%80+%F0%9F%8C%99+%E5%BE%AA%E7%92%B01p%E8%87%AA%E6%91%B8%E6%99%82%E5%88%BB%EF%BC%81&lang=zh&timestamp=1766746834&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hdvNa-WBnjg&title=%E3%80%90ARC-AGI%E3%80%91%EF%BC%88%23001%EF%BC%89+Public+Training+Set+1+-+Easy+%7C+%E8%B7%9F%E8%A7%A3%E8%AC%8E%E5%B3%B6%E7%9A%84%E6%89%BE%E8%A6%8F%E5%BE%8B%E6%B8%B8%E6%88%B2%E5%B7%AE%E4%B8%8D%E5%A4%9A%E4%B8%80%E6%A8%A3%E6%AC%B8~&lang=zh&timestamp=1759759334&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15300">
     <img src="https://ytcards.demolab.com/?id=hdvNa-WBnjg&title=%E3%80%90ARC-AGI%E3%80%91%EF%BC%88%23001%EF%BC%89+Public+Training+Set+1+-+Easy+%7C+%E8%B7%9F%E8%A7%A3%E8%AC%8E%E5%B3%B6%E7%9A%84%E6%89%BE%E8%A6%8F%E5%BE%8B%E6%B8%B8%E6%88%B2%E5%B7%AE%E4%B8%8D%E5%A4%9A%E4%B8%80%E6%A8%A3%E6%AC%B8~&lang=zh&timestamp=1759759334&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15300" alt="【ARC-AGI】（#001） Public Training Set 1 - Easy | 跟解謎島的找規律游戲差不多一樣欸~" title="【ARC-AGI】（#001） Public Training Set 1 - Easy | 跟解謎島的找規律游戲差不多一樣欸~">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=4fr-y97u3N0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4fr-y97u3N0&title=%E3%80%90THE+CORRIDOR%E3%80%91%EF%BC%88%23000%EF%BC%89+%E4%B8%80%E4%B8%AA%E8%B5%B0%E5%BB%8A%EF%BC%8C%E4%B8%80%E6%89%87%E9%97%A8%EF%BC%8C%E4%B8%80%E9%A2%97%E6%8C%89%E9%92%AE%E3%80%82%E8%BF%99%E6%B8%B8%E6%88%8F%E5%B0%B1%E8%BF%99%E6%A0%B7%EF%BC%9F&lang=zh&timestamp=1757947940&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2219">
-    <img src="https://ytcards.demolab.com/?id=4fr-y97u3N0&title=%E3%80%90THE+CORRIDOR%E3%80%91%EF%BC%88%23000%EF%BC%89+%E4%B8%80%E4%B8%AA%E8%B5%B0%E5%BB%8A%EF%BC%8C%E4%B8%80%E6%89%87%E9%97%A8%EF%BC%8C%E4%B8%80%E9%A2%97%E6%8C%89%E9%92%AE%E3%80%82%E8%BF%99%E6%B8%B8%E6%88%8F%E5%B0%B1%E8%BF%99%E6%A0%B7%EF%BC%9F&lang=zh&timestamp=1757947940&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2219" alt="【THE CORRIDOR】（#000） 一个走廊，一扇门，一颗按钮。这游戏就这样？" title="【THE CORRIDOR】（#000） 一个走廊，一扇门，一颗按钮。这游戏就这样？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
