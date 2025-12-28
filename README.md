@@ -35,8 +35,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=1glM_NyFl1s">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1glM_NyFl1s&title=%E3%80%90Mahjong+Soul%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9B%9B%E9%BA%BB%E7%9B%83+%C2%B7+%E8%80%90%E5%8A%9B%E6%B4%BB%E5%8B%95%E8%B3%BD&lang=zh&timestamp=1766816838&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=1glM_NyFl1s&title=%E3%80%90Mahjong+Soul%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9B%9B%E9%BA%BB%E7%9B%83+%C2%B7+%E8%80%90%E5%8A%9B%E6%B4%BB%E5%8B%95%E8%B3%BD&lang=zh&timestamp=1766816838&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Mahjong Soul】（#000）四麻盃 · 耐力活動賽" title="【Mahjong Soul】（#000）四麻盃 · 耐力活動賽">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1glM_NyFl1s&title=%E3%80%90Mahjong+Soul%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9B%9B%E9%BA%BB%E7%9B%83+%C2%B7+%E8%80%90%E5%8A%9B%E6%B4%BB%E5%8B%95%E8%B3%BD&lang=zh&timestamp=1766841389&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23046">
+    <img src="https://ytcards.demolab.com/?id=1glM_NyFl1s&title=%E3%80%90Mahjong+Soul%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9B%9B%E9%BA%BB%E7%9B%83+%C2%B7+%E8%80%90%E5%8A%9B%E6%B4%BB%E5%8B%95%E8%B3%BD&lang=zh&timestamp=1766841389&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=23046" alt="【Mahjong Soul】（#000）四麻盃 · 耐力活動賽" title="【Mahjong Soul】（#000）四麻盃 · 耐力活動賽">
   </picture>
 </a>
 <a href="https://www.youtube.com/shorts/GOPXt1LqrLs">
