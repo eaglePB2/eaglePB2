@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=0AQo4uUWrv8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0AQo4uUWrv8&title=%E3%80%90We+were+here+Together%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%99%9F%E7%A8%B1%E8%80%97%E6%99%82%E6%9C%80%E9%95%B7%E7%9A%84we+were+here%E7%B3%BB%E5%88%97%E7%AB%A0%E7%AF%80%EF%BC%8C%E5%BE%9E%E5%89%8D%E7%86%9F%E6%82%89%E7%9A%84%E6%90%AD%E6%AA%94%E7%B5%84%E5%90%88%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E8%BC%95%E9%AC%86%E7%A7%92%E6%AE%BA%E5%91%A2%EF%BC%9F+ft.+%40mingixuyuki&lang=zh&timestamp=1767011146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=0AQo4uUWrv8&title=%E3%80%90We+were+here+Together%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%99%9F%E7%A8%B1%E8%80%97%E6%99%82%E6%9C%80%E9%95%B7%E7%9A%84we+were+here%E7%B3%BB%E5%88%97%E7%AB%A0%E7%AF%80%EF%BC%8C%E5%BE%9E%E5%89%8D%E7%86%9F%E6%82%89%E7%9A%84%E6%90%AD%E6%AA%94%E7%B5%84%E5%90%88%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E8%BC%95%E9%AC%86%E7%A7%92%E6%AE%BA%E5%91%A2%EF%BC%9F+ft.+%40mingixuyuki&lang=zh&timestamp=1767011146&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【We were here Together】（#000）號稱耗時最長的we were here系列章節，從前熟悉的搭檔組合是否可以輕鬆秒殺呢？ ft. @mingixuyuki" title="【We were here Together】（#000）號稱耗時最長的we were here系列章節，從前熟悉的搭檔組合是否可以輕鬆秒殺呢？ ft. @mingixuyuki">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=1glM_NyFl1s">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1glM_NyFl1s&title=%E3%80%90Mahjong+Soul%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9B%9B%E9%BA%BB%E7%9B%83+%C2%B7+%E8%80%90%E5%8A%9B%E6%B4%BB%E5%8B%95%E8%B3%BD&lang=zh&timestamp=1766841389&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23046">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mKrbd2NgDwU&title=%E5%86%8D%E4%B8%8D%E5%BC%80%E5%BC%95%E5%AF%BC%E6%A8%A1%E5%BC%8F%E8%AF%95%E8%AF%95%E5%95%8A%EF%BC%9F&lang=zh&timestamp=1761751229&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13">
     <img src="https://ytcards.demolab.com/?id=mKrbd2NgDwU&title=%E5%86%8D%E4%B8%8D%E5%BC%80%E5%BC%95%E5%AF%BC%E6%A8%A1%E5%BC%8F%E8%AF%95%E8%AF%95%E5%95%8A%EF%BC%9F&lang=zh&timestamp=1761751229&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13" alt="再不开引导模式试试啊？" title="再不开引导模式试试啊？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=hdvNa-WBnjg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hdvNa-WBnjg&title=%E3%80%90ARC-AGI%E3%80%91%EF%BC%88%23001%EF%BC%89+Public+Training+Set+1+-+Easy+%7C+%E8%B7%9F%E8%A7%A3%E8%AC%8E%E5%B3%B6%E7%9A%84%E6%89%BE%E8%A6%8F%E5%BE%8B%E6%B8%B8%E6%88%B2%E5%B7%AE%E4%B8%8D%E5%A4%9A%E4%B8%80%E6%A8%A3%E6%AC%B8~&lang=zh&timestamp=1759759334&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15300">
-    <img src="https://ytcards.demolab.com/?id=hdvNa-WBnjg&title=%E3%80%90ARC-AGI%E3%80%91%EF%BC%88%23001%EF%BC%89+Public+Training+Set+1+-+Easy+%7C+%E8%B7%9F%E8%A7%A3%E8%AC%8E%E5%B3%B6%E7%9A%84%E6%89%BE%E8%A6%8F%E5%BE%8B%E6%B8%B8%E6%88%B2%E5%B7%AE%E4%B8%8D%E5%A4%9A%E4%B8%80%E6%A8%A3%E6%AC%B8~&lang=zh&timestamp=1759759334&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15300" alt="【ARC-AGI】（#001） Public Training Set 1 - Easy | 跟解謎島的找規律游戲差不多一樣欸~" title="【ARC-AGI】（#001） Public Training Set 1 - Easy | 跟解謎島的找規律游戲差不多一樣欸~">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
