@@ -33,22 +33,28 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=0AQo4uUWrv8">
+<a href="https://www.youtube.com/shorts/GwrPcXMNz0g">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0AQo4uUWrv8&title=%E3%80%90We+were+here+Together%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%99%9F%E7%A8%B1%E8%80%97%E6%99%82%E6%9C%80%E9%95%B7%E7%9A%84we+were+here%E7%B3%BB%E5%88%97%E7%AB%A0%E7%AF%80%EF%BC%8C%E5%BE%9E%E5%89%8D%E7%86%9F%E6%82%89%E7%9A%84%E6%90%AD%E6%AA%94%E7%B5%84%E5%90%88%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E8%BC%95%E9%AC%86%E7%A7%92%E6%AE%BA%E5%91%A2%EF%BC%9F+ft.+%40mingixuyuki&lang=zh&timestamp=1767011146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=0AQo4uUWrv8&title=%E3%80%90We+were+here+Together%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%99%9F%E7%A8%B1%E8%80%97%E6%99%82%E6%9C%80%E9%95%B7%E7%9A%84we+were+here%E7%B3%BB%E5%88%97%E7%AB%A0%E7%AF%80%EF%BC%8C%E5%BE%9E%E5%89%8D%E7%86%9F%E6%82%89%E7%9A%84%E6%90%AD%E6%AA%94%E7%B5%84%E5%90%88%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E8%BC%95%E9%AC%86%E7%A7%92%E6%AE%BA%E5%91%A2%EF%BC%9F+ft.+%40mingixuyuki&lang=zh&timestamp=1767011146&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【We were here Together】（#000）號稱耗時最長的we were here系列章節，從前熟悉的搭檔組合是否可以輕鬆秒殺呢？ ft. @mingixuyuki" title="【We were here Together】（#000）號稱耗時最長的we were here系列章節，從前熟悉的搭檔組合是否可以輕鬆秒殺呢？ ft. @mingixuyuki">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GwrPcXMNz0g&title=%E7%9B%B4%E6%92%AD%E5%88%B0%E4%B8%80%E5%8D%8A+%E7%86%92%E5%B9%95%E5%85%88%E7%86%84%E6%BB%85%E4%BA%86+QAQ&lang=zh&timestamp=1767079079&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=67">
+    <img src="https://ytcards.demolab.com/?id=GwrPcXMNz0g&title=%E7%9B%B4%E6%92%AD%E5%88%B0%E4%B8%80%E5%8D%8A+%E7%86%92%E5%B9%95%E5%85%88%E7%86%84%E6%BB%85%E4%BA%86+QAQ&lang=zh&timestamp=1767079079&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=67" alt="直播到一半 熒幕先熄滅了 QAQ" title="直播到一半 熒幕先熄滅了 QAQ">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=reghLWpYRyo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=reghLWpYRyo&title=%E3%80%90We+were+here+Together%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%99%9F%E7%A8%B1%E6%9C%80%E9%95%B7%E7%9A%84%E8%A7%A3%E8%AC%8E%E6%B8%B8%E6%88%B2%EF%BC%8C%E5%BE%9E%E5%89%8D%E7%86%9F%E6%82%89%E7%9A%84%E6%90%AD%E6%AA%94%E7%B5%84%E5%90%88%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E8%BC%95%E9%AC%86%E7%A7%92%E6%AE%BA%E5%91%A2%EF%BC%9F+ft.+%40mingixu_yuki&lang=zh&timestamp=1767061665&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13660">
+    <img src="https://ytcards.demolab.com/?id=reghLWpYRyo&title=%E3%80%90We+were+here+Together%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%99%9F%E7%A8%B1%E6%9C%80%E9%95%B7%E7%9A%84%E8%A7%A3%E8%AC%8E%E6%B8%B8%E6%88%B2%EF%BC%8C%E5%BE%9E%E5%89%8D%E7%86%9F%E6%82%89%E7%9A%84%E6%90%AD%E6%AA%94%E7%B5%84%E5%90%88%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E8%BC%95%E9%AC%86%E7%A7%92%E6%AE%BA%E5%91%A2%EF%BC%9F+ft.+%40mingixu_yuki&lang=zh&timestamp=1767061665&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13660" alt="【We were here Together】（#000）號稱最長的解謎游戲，從前熟悉的搭檔組合是否可以輕鬆秒殺呢？ ft. @mingixu_yuki" title="【We were here Together】（#000）號稱最長的解謎游戲，從前熟悉的搭檔組合是否可以輕鬆秒殺呢？ ft. @mingixu_yuki">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/CJ7T3noU58g">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CJ7T3noU58g&title=%E7%84%A1+%E9%99%90+%E6%9C%88+%E8%AE%80+%F0%9F%8C%99+%E5%BE%AA%E7%92%B01p%E8%87%AA%E6%91%B8%E6%99%82%E5%88%BB%EF%BC%81&lang=zh&timestamp=1767012444&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50">
+    <img src="https://ytcards.demolab.com/?id=CJ7T3noU58g&title=%E7%84%A1+%E9%99%90+%E6%9C%88+%E8%AE%80+%F0%9F%8C%99+%E5%BE%AA%E7%92%B01p%E8%87%AA%E6%91%B8%E6%99%82%E5%88%BB%EF%BC%81&lang=zh&timestamp=1767012444&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=50" alt="無 限 月 讀 🌙 循環1p自摸時刻！" title="無 限 月 讀 🌙 循環1p自摸時刻！">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=1glM_NyFl1s">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1glM_NyFl1s&title=%E3%80%90Mahjong+Soul%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9B%9B%E9%BA%BB%E7%9B%83+%C2%B7+%E8%80%90%E5%8A%9B%E6%B4%BB%E5%8B%95%E8%B3%BD&lang=zh&timestamp=1766841389&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23046">
     <img src="https://ytcards.demolab.com/?id=1glM_NyFl1s&title=%E3%80%90Mahjong+Soul%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9B%9B%E9%BA%BB%E7%9B%83+%C2%B7+%E8%80%90%E5%8A%9B%E6%B4%BB%E5%8B%95%E8%B3%BD&lang=zh&timestamp=1766841389&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=23046" alt="【Mahjong Soul】（#000）四麻盃 · 耐力活動賽" title="【Mahjong Soul】（#000）四麻盃 · 耐力活動賽">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/GOPXt1LqrLs">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GOPXt1LqrLs&title=%E7%84%A1+%E9%99%90+%E6%9C%88+%E8%AE%80+%F0%9F%8C%99+%E5%BE%AA%E7%92%B01p%E8%87%AA%E6%91%B8%E6%99%82%E5%88%BB%EF%BC%81&lang=zh&timestamp=1766746834&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50">
-    <img src="https://ytcards.demolab.com/?id=GOPXt1LqrLs&title=%E7%84%A1+%E9%99%90+%E6%9C%88+%E8%AE%80+%F0%9F%8C%99+%E5%BE%AA%E7%92%B01p%E8%87%AA%E6%91%B8%E6%99%82%E5%88%BB%EF%BC%81&lang=zh&timestamp=1766746834&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=50" alt="無 限 月 讀 🌙 循環1p自摸時刻！" title="無 限 月 讀 🌙 循環1p自摸時刻！">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=Da7r8gahYqw">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pQQ8E907Ghs&title=%E3%80%90Plazma+Burst+3%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B0%81%E6%B8%AC%E7%89%88+%E2%80%94%E2%80%94+%E6%9C%80%E9%97%9C%E5%BF%83%E7%9A%84%E5%9C%B0%E5%9C%96%E7%B7%A8%E8%BC%AF%E5%99%A8%E5%A4%A7%E6%94%B9%EF%BC%9F%E6%89%80%E6%9C%89%E6%9D%B1%E8%A5%BF%E5%B9%BE%E4%B9%8E%E9%83%BD%E8%A6%81%E7%A0%8D%E6%8E%89%E9%87%8D%E7%B7%B4%EF%BC%9FPB3+%E5%9C%B0%E5%9C%96%E7%B7%A8%E8%BC%AF%E6%89%8B%E5%86%8A%E6%80%8E%E9%BA%BD%E5%AF%AB%EF%BC%9F&lang=zh&timestamp=1762065325&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8631">
     <img src="https://ytcards.demolab.com/?id=pQQ8E907Ghs&title=%E3%80%90Plazma+Burst+3%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B0%81%E6%B8%AC%E7%89%88+%E2%80%94%E2%80%94+%E6%9C%80%E9%97%9C%E5%BF%83%E7%9A%84%E5%9C%B0%E5%9C%96%E7%B7%A8%E8%BC%AF%E5%99%A8%E5%A4%A7%E6%94%B9%EF%BC%9F%E6%89%80%E6%9C%89%E6%9D%B1%E8%A5%BF%E5%B9%BE%E4%B9%8E%E9%83%BD%E8%A6%81%E7%A0%8D%E6%8E%89%E9%87%8D%E7%B7%B4%EF%BC%9FPB3+%E5%9C%B0%E5%9C%96%E7%B7%A8%E8%BC%AF%E6%89%8B%E5%86%8A%E6%80%8E%E9%BA%BD%E5%AF%AB%EF%BC%9F&lang=zh&timestamp=1762065325&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8631" alt="【Plazma Burst 3】（#000）封測版 —— 最關心的地圖編輯器大改？所有東西幾乎都要砍掉重練？PB3 地圖編輯手冊怎麽寫？" title="【Plazma Burst 3】（#000）封測版 —— 最關心的地圖編輯器大改？所有東西幾乎都要砍掉重練？PB3 地圖編輯手冊怎麽寫？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/mKrbd2NgDwU">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mKrbd2NgDwU&title=%E5%86%8D%E4%B8%8D%E5%BC%80%E5%BC%95%E5%AF%BC%E6%A8%A1%E5%BC%8F%E8%AF%95%E8%AF%95%E5%95%8A%EF%BC%9F&lang=zh&timestamp=1761751229&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13">
-    <img src="https://ytcards.demolab.com/?id=mKrbd2NgDwU&title=%E5%86%8D%E4%B8%8D%E5%BC%80%E5%BC%95%E5%AF%BC%E6%A8%A1%E5%BC%8F%E8%AF%95%E8%AF%95%E5%95%8A%EF%BC%9F&lang=zh&timestamp=1761751229&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13" alt="再不开引导模式试试啊？" title="再不开引导模式试试啊？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
