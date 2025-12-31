@@ -33,16 +33,16 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=AtcfFVzVfME">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AtcfFVzVfME&title=%E3%80%90We+were+here+Together%E3%80%91%EF%BC%88%23000%EF%BC%89We+were+here+%E7%B3%BB%E5%88%97%E6%9C%80%E9%95%B7%E4%BD%9C%EF%BC%8C%E5%BE%9E%E5%89%8D%E7%86%9F%E6%82%89%E7%9A%84%E6%90%AD%E6%AA%94%E7%B5%84%E5%90%88%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E8%BC%95%E9%AC%86%E7%A7%92%E6%AE%BA%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1767159640&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13660">
+    <img src="https://ytcards.demolab.com/?id=AtcfFVzVfME&title=%E3%80%90We+were+here+Together%E3%80%91%EF%BC%88%23000%EF%BC%89We+were+here+%E7%B3%BB%E5%88%97%E6%9C%80%E9%95%B7%E4%BD%9C%EF%BC%8C%E5%BE%9E%E5%89%8D%E7%86%9F%E6%82%89%E7%9A%84%E6%90%AD%E6%AA%94%E7%B5%84%E5%90%88%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E8%BC%95%E9%AC%86%E7%A7%92%E6%AE%BA%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1767159640&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13660" alt="【We were here Together】（#000）We were here 系列最長作，從前熟悉的搭檔組合是否可以輕鬆秒殺呢？" title="【We were here Together】（#000）We were here 系列最長作，從前熟悉的搭檔組合是否可以輕鬆秒殺呢？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/GwrPcXMNz0g">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GwrPcXMNz0g&title=%E7%9B%B4%E6%92%AD%E5%88%B0%E4%B8%80%E5%8D%8A+%E7%86%92%E5%B9%95%E5%85%88%E7%86%84%E6%BB%85%E4%BA%86+QAQ&lang=zh&timestamp=1767079079&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=67">
     <img src="https://ytcards.demolab.com/?id=GwrPcXMNz0g&title=%E7%9B%B4%E6%92%AD%E5%88%B0%E4%B8%80%E5%8D%8A+%E7%86%92%E5%B9%95%E5%85%88%E7%86%84%E6%BB%85%E4%BA%86+QAQ&lang=zh&timestamp=1767079079&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=67" alt="直播到一半 熒幕先熄滅了 QAQ" title="直播到一半 熒幕先熄滅了 QAQ">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=reghLWpYRyo">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=reghLWpYRyo&title=%E3%80%90We+were+here+Together%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%99%9F%E7%A8%B1%E6%9C%80%E9%95%B7%E7%9A%84%E8%A7%A3%E8%AC%8E%E6%B8%B8%E6%88%B2%EF%BC%8C%E5%BE%9E%E5%89%8D%E7%86%9F%E6%82%89%E7%9A%84%E6%90%AD%E6%AA%94%E7%B5%84%E5%90%88%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E8%BC%95%E9%AC%86%E7%A7%92%E6%AE%BA%E5%91%A2%EF%BC%9F+ft.+%40mingixu_yuki&lang=zh&timestamp=1767061665&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13660">
-    <img src="https://ytcards.demolab.com/?id=reghLWpYRyo&title=%E3%80%90We+were+here+Together%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%99%9F%E7%A8%B1%E6%9C%80%E9%95%B7%E7%9A%84%E8%A7%A3%E8%AC%8E%E6%B8%B8%E6%88%B2%EF%BC%8C%E5%BE%9E%E5%89%8D%E7%86%9F%E6%82%89%E7%9A%84%E6%90%AD%E6%AA%94%E7%B5%84%E5%90%88%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E8%BC%95%E9%AC%86%E7%A7%92%E6%AE%BA%E5%91%A2%EF%BC%9F+ft.+%40mingixu_yuki&lang=zh&timestamp=1767061665&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13660" alt="【We were here Together】（#000）號稱最長的解謎游戲，從前熟悉的搭檔組合是否可以輕鬆秒殺呢？ ft. @mingixu_yuki" title="【We were here Together】（#000）號稱最長的解謎游戲，從前熟悉的搭檔組合是否可以輕鬆秒殺呢？ ft. @mingixu_yuki">
   </picture>
 </a>
 <a href="https://www.youtube.com/shorts/CJ7T3noU58g">
