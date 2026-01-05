@@ -33,10 +33,22 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=lNEFtfK3uxQ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lNEFtfK3uxQ&title=%E3%80%90Pummel+Party%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%85%85%E6%BB%BF%E6%BA%AB%E8%85%A5%EF%BC%8C%E9%97%94%E5%AE%B6%E8%A7%80%E8%B3%9E%E7%9A%84%E7%91%AA%E5%88%A9%E6%AD%90%E8%BF%B7%E4%BD%A0%E6%B8%B8%E6%88%B2+%7C+ft.+%E5%BE%88%E5%A4%9A%E4%BA%BA&lang=zh&timestamp=1767607934&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10823">
+    <img src="https://ytcards.demolab.com/?id=lNEFtfK3uxQ&title=%E3%80%90Pummel+Party%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%85%85%E6%BB%BF%E6%BA%AB%E8%85%A5%EF%BC%8C%E9%97%94%E5%AE%B6%E8%A7%80%E8%B3%9E%E7%9A%84%E7%91%AA%E5%88%A9%E6%AD%90%E8%BF%B7%E4%BD%A0%E6%B8%B8%E6%88%B2+%7C+ft.+%E5%BE%88%E5%A4%9A%E4%BA%BA&lang=zh&timestamp=1767607934&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10823" alt="【Pummel Party】（#002）充滿溫腥，闔家觀賞的瑪利歐迷你游戲 | ft. 很多人" title="【Pummel Party】（#002）充滿溫腥，闔家觀賞的瑪利歐迷你游戲 | ft. 很多人">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=HN79Aa0eHb8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HN79Aa0eHb8&title=%E3%80%90%E8%BF%99%E6%98%AF%E8%B0%90%E9%9F%B3%E6%A2%97%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%BA%9F%E5%88%B0%E7%AC%91%E7%9A%84%E8%B0%90%E9%9F%B3%E6%A2%97%EF%BC%8C%E4%BD%A0%E4%BC%9A%E5%A4%9A%E5%B0%91%E9%A2%98%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1767595618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8625">
+    <img src="https://ytcards.demolab.com/?id=HN79Aa0eHb8&title=%E3%80%90%E8%BF%99%E6%98%AF%E8%B0%90%E9%9F%B3%E6%A2%97%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%BA%9F%E5%88%B0%E7%AC%91%E7%9A%84%E8%B0%90%E9%9F%B3%E6%A2%97%EF%BC%8C%E4%BD%A0%E4%BC%9A%E5%A4%9A%E5%B0%91%E9%A2%98%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1767595618&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8625" alt="【这是谐音梗】（#000）废到笑的谐音梗，你会多少题呢？" title="【这是谐音梗】（#000）废到笑的谐音梗，你会多少题呢？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=6gs1xgZaU2M">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6gs1xgZaU2M&title=%E3%80%90Pummel+Party%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E6%AC%BE%E9%81%A9%E5%90%88%E5%A4%9AP%E7%9A%84%E7%A4%BE%E4%BA%A4%E6%B8%B8%E6%88%B2%EF%BC%8C%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B8%8D%E5%BC%84%E6%AD%BB%E5%B0%8D%E6%96%B9%EF%BC%8C%E5%B0%8D%E6%96%B9%E5%B0%B1%E6%9C%83%E5%BC%84%E6%AD%BB%E4%BD%A0+awa+%7C+ft.+%E5%BE%88%E5%A4%9A%E4%BA%BA&lang=zh&timestamp=1767507975&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13740">
-    <img src="https://ytcards.demolab.com/?id=6gs1xgZaU2M&title=%E3%80%90Pummel+Party%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E6%AC%BE%E9%81%A9%E5%90%88%E5%A4%9AP%E7%9A%84%E7%A4%BE%E4%BA%A4%E6%B8%B8%E6%88%B2%EF%BC%8C%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B8%8D%E5%BC%84%E6%AD%BB%E5%B0%8D%E6%96%B9%EF%BC%8C%E5%B0%8D%E6%96%B9%E5%B0%B1%E6%9C%83%E5%BC%84%E6%AD%BB%E4%BD%A0+awa+%7C+ft.+%E5%BE%88%E5%A4%9A%E4%BA%BA&lang=zh&timestamp=1767507975&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13740" alt="【Pummel Party】（#000）這是一款適合多P的社交游戲，如果你不弄死對方，對方就會弄死你 awa | ft. 很多人" title="【Pummel Party】（#000）這是一款適合多P的社交游戲，如果你不弄死對方，對方就會弄死你 awa | ft. 很多人">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6gs1xgZaU2M&title=%E3%80%90Pummel+Party%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E6%AC%BE%E9%81%A9%E5%90%88%E5%A4%9AP%E7%9A%84%E7%A4%BE%E4%BA%A4%E6%B8%B8%E6%88%B2%EF%BC%8C%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B8%8D%E5%BC%84%E6%AD%BB%E5%B0%8D%E6%96%B9%EF%BC%8C%E5%B0%8D%E6%96%B9%E5%B0%B1%E6%9C%83%E5%BC%84%E6%AD%BB%E4%BD%A0+awa+%7C+ft.+%E5%BE%88%E5%A4%9A%E4%BA%BA&lang=zh&timestamp=1767507975&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13740">
+    <img src="https://ytcards.demolab.com/?id=6gs1xgZaU2M&title=%E3%80%90Pummel+Party%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E6%AC%BE%E9%81%A9%E5%90%88%E5%A4%9AP%E7%9A%84%E7%A4%BE%E4%BA%A4%E6%B8%B8%E6%88%B2%EF%BC%8C%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B8%8D%E5%BC%84%E6%AD%BB%E5%B0%8D%E6%96%B9%EF%BC%8C%E5%B0%8D%E6%96%B9%E5%B0%B1%E6%9C%83%E5%BC%84%E6%AD%BB%E4%BD%A0+awa+%7C+ft.+%E5%BE%88%E5%A4%9A%E4%BA%BA&lang=zh&timestamp=1767507975&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13740" alt="【Pummel Party】（#001）這是一款適合多P的社交游戲，如果你不弄死對方，對方就會弄死你 awa | ft. 很多人" title="【Pummel Party】（#001）這是一款適合多P的社交游戲，如果你不弄死對方，對方就會弄死你 awa | ft. 很多人">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=_q8SexNWbjU">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GwrPcXMNz0g&title=%E7%9B%B4%E6%92%AD%E5%88%B0%E4%B8%80%E5%8D%8A+%E7%86%92%E5%B9%95%E5%85%88%E7%86%84%E6%BB%85%E4%BA%86+QAQ&lang=zh&timestamp=1767079079&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=67">
     <img src="https://ytcards.demolab.com/?id=GwrPcXMNz0g&title=%E7%9B%B4%E6%92%AD%E5%88%B0%E4%B8%80%E5%8D%8A+%E7%86%92%E5%B9%95%E5%85%88%E7%86%84%E6%BB%85%E4%BA%86+QAQ&lang=zh&timestamp=1767079079&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=67" alt="直播到一半 熒幕先熄滅了 QAQ" title="直播到一半 熒幕先熄滅了 QAQ">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/CJ7T3noU58g">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CJ7T3noU58g&title=%E7%84%A1+%E9%99%90+%E6%9C%88+%E8%AE%80+%F0%9F%8C%99+%E5%BE%AA%E7%92%B01p%E8%87%AA%E6%91%B8%E6%99%82%E5%88%BB%EF%BC%81&lang=zh&timestamp=1767012444&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50">
-    <img src="https://ytcards.demolab.com/?id=CJ7T3noU58g&title=%E7%84%A1+%E9%99%90+%E6%9C%88+%E8%AE%80+%F0%9F%8C%99+%E5%BE%AA%E7%92%B01p%E8%87%AA%E6%91%B8%E6%99%82%E5%88%BB%EF%BC%81&lang=zh&timestamp=1767012444&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=50" alt="無 限 月 讀 🌙 循環1p自摸時刻！" title="無 限 月 讀 🌙 循環1p自摸時刻！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=1glM_NyFl1s">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1glM_NyFl1s&title=%E3%80%90Mahjong+Soul%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9B%9B%E9%BA%BB%E7%9B%83+%C2%B7+%E8%80%90%E5%8A%9B%E6%B4%BB%E5%8B%95%E8%B3%BD&lang=zh&timestamp=1766841389&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23046">
-    <img src="https://ytcards.demolab.com/?id=1glM_NyFl1s&title=%E3%80%90Mahjong+Soul%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%9B%9B%E9%BA%BB%E7%9B%83+%C2%B7+%E8%80%90%E5%8A%9B%E6%B4%BB%E5%8B%95%E8%B3%BD&lang=zh&timestamp=1766841389&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=23046" alt="【Mahjong Soul】（#000）四麻盃 · 耐力活動賽" title="【Mahjong Soul】（#000）四麻盃 · 耐力活動賽">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
