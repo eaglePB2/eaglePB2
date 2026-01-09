@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 短暂休假 ⋆ @eaglepb2 ☽ Liminality 音游测试](https://www.twitch.tv/videos/2663950868)
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽ 先玩小游戏，等等pummel party](https://www.twitch.tv/videos/2659122864)
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽ We were here together ft. @mingixu_yuki | We were here 第三棒](https://www.twitch.tv/videos/2655028028)
 - [精选内容：終焉決鬥（2）](https://www.twitch.tv/videos/2400633957)
 - [精选内容：終焉決鬥（1）](https://www.twitch.tv/videos/2400633622)
-- [精选内容：饥荒 Day 5 #0625](https://www.twitch.tv/videos/1928635454)
 <!-- TWITCH:END -->
 
 
