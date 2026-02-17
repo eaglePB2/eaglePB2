@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=nu6kTqtAD0k">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nu6kTqtAD0k&title=%E3%80%90ARC-AGI%E3%80%91%EF%BC%88%23002%EF%BC%89+Public+Training+Set+1+-+Hard+%7C+%E7%A8%8D%E5%BE%AE%E5%88%B7%E4%B8%80%E4%B8%8B%E5%AD%98%E5%9C%A8%E6%84%9F+owob&lang=zh&timestamp=1771299154&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4652">
+    <img src="https://ytcards.demolab.com/?id=nu6kTqtAD0k&title=%E3%80%90ARC-AGI%E3%80%91%EF%BC%88%23002%EF%BC%89+Public+Training+Set+1+-+Hard+%7C+%E7%A8%8D%E5%BE%AE%E5%88%B7%E4%B8%80%E4%B8%8B%E5%AD%98%E5%9C%A8%E6%84%9F+owob&lang=zh&timestamp=1771299154&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4652" alt="【ARC-AGI】（#002） Public Training Set 1 - Hard | 稍微刷一下存在感 owob" title="【ARC-AGI】（#002） Public Training Set 1 - Hard | 稍微刷一下存在感 owob">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=lNEFtfK3uxQ">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lNEFtfK3uxQ&title=%E3%80%90Pummel+Party%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%85%85%E6%BB%BF%E6%BA%AB%E8%85%A5%EF%BC%8C%E9%97%94%E5%AE%B6%E8%A7%80%E8%B3%9E%E7%9A%84%E7%91%AA%E5%88%A9%E6%AD%90%E8%BF%B7%E4%BD%A0%E6%B8%B8%E6%88%B2+%7C+ft.+%E5%BE%88%E5%A4%9A%E4%BA%BA&lang=zh&timestamp=1767607934&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10823">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AtcfFVzVfME&title=%E3%80%90We+were+here+Together%E3%80%91%EF%BC%88%23000%EF%BC%89We+were+here+%E7%B3%BB%E5%88%97%E6%9C%80%E9%95%B7%E4%BD%9C%EF%BC%8C%E5%BE%9E%E5%89%8D%E7%86%9F%E6%82%89%E7%9A%84%E6%90%AD%E6%AA%94%E7%B5%84%E5%90%88%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E8%BC%95%E9%AC%86%E7%A7%92%E6%AE%BA%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1767159640&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13660">
     <img src="https://ytcards.demolab.com/?id=AtcfFVzVfME&title=%E3%80%90We+were+here+Together%E3%80%91%EF%BC%88%23000%EF%BC%89We+were+here+%E7%B3%BB%E5%88%97%E6%9C%80%E9%95%B7%E4%BD%9C%EF%BC%8C%E5%BE%9E%E5%89%8D%E7%86%9F%E6%82%89%E7%9A%84%E6%90%AD%E6%AA%94%E7%B5%84%E5%90%88%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E8%BC%95%E9%AC%86%E7%A7%92%E6%AE%BA%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1767159640&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13660" alt="【We were here Together】（#000）We were here 系列最長作，從前熟悉的搭檔組合是否可以輕鬆秒殺呢？" title="【We were here Together】（#000）We were here 系列最長作，從前熟悉的搭檔組合是否可以輕鬆秒殺呢？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/GwrPcXMNz0g">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GwrPcXMNz0g&title=%E7%9B%B4%E6%92%AD%E5%88%B0%E4%B8%80%E5%8D%8A+%E7%86%92%E5%B9%95%E5%85%88%E7%86%84%E6%BB%85%E4%BA%86+QAQ&lang=zh&timestamp=1767079079&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=67">
-    <img src="https://ytcards.demolab.com/?id=GwrPcXMNz0g&title=%E7%9B%B4%E6%92%AD%E5%88%B0%E4%B8%80%E5%8D%8A+%E7%86%92%E5%B9%95%E5%85%88%E7%86%84%E6%BB%85%E4%BA%86+QAQ&lang=zh&timestamp=1767079079&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=67" alt="直播到一半 熒幕先熄滅了 QAQ" title="直播到一半 熒幕先熄滅了 QAQ">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
