@@ -35,8 +35,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=nu6kTqtAD0k">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nu6kTqtAD0k&title=%E3%80%90ARC-AGI%E3%80%91%EF%BC%88%23002%EF%BC%89+Public+Training+Set+1+-+Hard+%7C+%E7%A8%8D%E5%BE%AE%E5%88%B7%E4%B8%80%E4%B8%8B%E5%AD%98%E5%9C%A8%E6%84%9F+owob&lang=zh&timestamp=1771299154&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4652">
-    <img src="https://ytcards.demolab.com/?id=nu6kTqtAD0k&title=%E3%80%90ARC-AGI%E3%80%91%EF%BC%88%23002%EF%BC%89+Public+Training+Set+1+-+Hard+%7C+%E7%A8%8D%E5%BE%AE%E5%88%B7%E4%B8%80%E4%B8%8B%E5%AD%98%E5%9C%A8%E6%84%9F+owob&lang=zh&timestamp=1771299154&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4652" alt="【ARC-AGI】（#002） Public Training Set 1 - Hard | 稍微刷一下存在感 owob" title="【ARC-AGI】（#002） Public Training Set 1 - Hard | 稍微刷一下存在感 owob">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nu6kTqtAD0k&title=%E3%80%90ARC-AGI%E3%80%91%EF%BC%88%23002%EF%BC%89+Public+Training+Set+1+-+Hard+%7C+%E7%A8%8D%E5%BE%AE%E5%88%B7%E4%B8%80%E4%B8%8B%E5%AD%98%E5%9C%A8%E6%84%9F+owob&lang=zh&timestamp=1771348156&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4658">
+    <img src="https://ytcards.demolab.com/?id=nu6kTqtAD0k&title=%E3%80%90ARC-AGI%E3%80%91%EF%BC%88%23002%EF%BC%89+Public+Training+Set+1+-+Hard+%7C+%E7%A8%8D%E5%BE%AE%E5%88%B7%E4%B8%80%E4%B8%8B%E5%AD%98%E5%9C%A8%E6%84%9F+owob&lang=zh&timestamp=1771348156&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4658" alt="【ARC-AGI】（#002） Public Training Set 1 - Hard | 稍微刷一下存在感 owob" title="【ARC-AGI】（#002） Public Training Set 1 - Hard | 稍微刷一下存在感 owob">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=lNEFtfK3uxQ">
