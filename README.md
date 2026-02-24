@@ -33,10 +33,16 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=HShvGgcnLeA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HShvGgcnLeA&title=%E3%80%90Vultures+-+SoD%E3%80%91%EF%BC%88%23000%EF%BC%89+%E5%8F%88%E6%98%AF%E4%B8%80%E6%AC%BE%E9%9C%80%E8%A6%81%E7%9C%81%E5%AD%90%E5%BD%88%E7%9A%84%E4%B8%80%E5%A4%A9owo&lang=zh&timestamp=1771935372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=HShvGgcnLeA&title=%E3%80%90Vultures+-+SoD%E3%80%91%EF%BC%88%23000%EF%BC%89+%E5%8F%88%E6%98%AF%E4%B8%80%E6%AC%BE%E9%9C%80%E8%A6%81%E7%9C%81%E5%AD%90%E5%BD%88%E7%9A%84%E4%B8%80%E5%A4%A9owo&lang=zh&timestamp=1771935372&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Vultures - SoD】（#000） 又是一款需要省子彈的一天owo" title="【Vultures - SoD】（#000） 又是一款需要省子彈的一天owo">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=EYW9zAljAYA">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EYW9zAljAYA&title=%E3%80%90%E7%81%BD%E9%9B%A3%E5%85%AC%E9%97%9C%2B%E3%80%91%EF%BC%88%23003%EF%BC%89%E8%87%AA%E8%A8%82%E6%9E%97%E9%96%93%E5%8D%A1%E5%8C%85%E4%BE%86%E8%87%A8%EF%BC%81%E7%81%BD%E9%9B%A3%E7%A8%8B%E5%BA%A6%E6%9B%B4%E8%B2%BC%E8%BF%91%E6%88%90%E9%83%BD%E7%AD%89%E7%B4%9A%EF%BC%8C%E7%A9%B6%E7%AB%9F%E8%AA%B0%E8%83%BD%E5%BF%8D%E5%88%B0%E6%9C%80%E5%BE%8C%EF%BC%9F&lang=zh&timestamp=1771832495&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7122">
-    <img src="https://ytcards.demolab.com/?id=EYW9zAljAYA&title=%E3%80%90%E7%81%BD%E9%9B%A3%E5%85%AC%E9%97%9C%2B%E3%80%91%EF%BC%88%23003%EF%BC%89%E8%87%AA%E8%A8%82%E6%9E%97%E9%96%93%E5%8D%A1%E5%8C%85%E4%BE%86%E8%87%A8%EF%BC%81%E7%81%BD%E9%9B%A3%E7%A8%8B%E5%BA%A6%E6%9B%B4%E8%B2%BC%E8%BF%91%E6%88%90%E9%83%BD%E7%AD%89%E7%B4%9A%EF%BC%8C%E7%A9%B6%E7%AB%9F%E8%AA%B0%E8%83%BD%E5%BF%8D%E5%88%B0%E6%9C%80%E5%BE%8C%EF%BC%9F&lang=zh&timestamp=1771832495&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7122" alt="【災難公關+】（#003）自訂林間卡包來臨！災難程度更貼近成都等級，究竟誰能忍到最後？" title="【災難公關+】（#003）自訂林間卡包來臨！災難程度更貼近成都等級，究竟誰能忍到最後？">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EYW9zAljAYA&title=%E3%80%90%E7%81%BD%E9%9B%A3%E5%85%AC%E9%97%9C%2B%E3%80%91%EF%BC%88%23003%EF%BC%89%E8%87%AA%E8%A8%82%E6%9E%97%E9%96%93%E5%8D%A1%E5%8C%85%E4%BE%86%E8%87%A8%EF%BC%81%E7%81%BD%E9%9B%A3%E7%A8%8B%E5%BA%A6%E6%9B%B4%E8%B2%BC%E8%BF%91%E6%88%90%E9%83%BD%E7%AD%89%E7%B4%9A%EF%BC%8C%E7%A9%B6%E7%AB%9F%E8%AA%B0%E8%83%BD%E5%BF%8D%E5%88%B0%E6%9C%80%E5%BE%8C%EF%BC%9F&lang=zh&timestamp=1771883252&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7108">
+    <img src="https://ytcards.demolab.com/?id=EYW9zAljAYA&title=%E3%80%90%E7%81%BD%E9%9B%A3%E5%85%AC%E9%97%9C%2B%E3%80%91%EF%BC%88%23003%EF%BC%89%E8%87%AA%E8%A8%82%E6%9E%97%E9%96%93%E5%8D%A1%E5%8C%85%E4%BE%86%E8%87%A8%EF%BC%81%E7%81%BD%E9%9B%A3%E7%A8%8B%E5%BA%A6%E6%9B%B4%E8%B2%BC%E8%BF%91%E6%88%90%E9%83%BD%E7%AD%89%E7%B4%9A%EF%BC%8C%E7%A9%B6%E7%AB%9F%E8%AA%B0%E8%83%BD%E5%BF%8D%E5%88%B0%E6%9C%80%E5%BE%8C%EF%BC%9F&lang=zh&timestamp=1771883252&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7108" alt="【災難公關+】（#003）自訂林間卡包來臨！災難程度更貼近成都等級，究竟誰能忍到最後？" title="【災難公關+】（#003）自訂林間卡包來臨！災難程度更貼近成都等級，究竟誰能忍到最後？">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=nu6kTqtAD0k">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6gs1xgZaU2M&title=%E3%80%90Pummel+Party%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E6%AC%BE%E9%81%A9%E5%90%88%E5%A4%9AP%E7%9A%84%E7%A4%BE%E4%BA%A4%E6%B8%B8%E6%88%B2%EF%BC%8C%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B8%8D%E5%BC%84%E6%AD%BB%E5%B0%8D%E6%96%B9%EF%BC%8C%E5%B0%8D%E6%96%B9%E5%B0%B1%E6%9C%83%E5%BC%84%E6%AD%BB%E4%BD%A0+awa+%7C+ft.+%E5%BE%88%E5%A4%9A%E4%BA%BA&lang=zh&timestamp=1767507975&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13740">
     <img src="https://ytcards.demolab.com/?id=6gs1xgZaU2M&title=%E3%80%90Pummel+Party%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E6%AC%BE%E9%81%A9%E5%90%88%E5%A4%9AP%E7%9A%84%E7%A4%BE%E4%BA%A4%E6%B8%B8%E6%88%B2%EF%BC%8C%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B8%8D%E5%BC%84%E6%AD%BB%E5%B0%8D%E6%96%B9%EF%BC%8C%E5%B0%8D%E6%96%B9%E5%B0%B1%E6%9C%83%E5%BC%84%E6%AD%BB%E4%BD%A0+awa+%7C+ft.+%E5%BE%88%E5%A4%9A%E4%BA%BA&lang=zh&timestamp=1767507975&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13740" alt="【Pummel Party】（#001）這是一款適合多P的社交游戲，如果你不弄死對方，對方就會弄死你 awa | ft. 很多人" title="【Pummel Party】（#001）這是一款適合多P的社交游戲，如果你不弄死對方，對方就會弄死你 awa | ft. 很多人">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=_q8SexNWbjU">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_q8SexNWbjU&title=%E3%80%90Pummel+Party%E3%80%91%EF%BC%88%23000%EF%BC%89xxxxxx+%7C+ft.+%E5%BE%88%E5%A4%9A%E4%BA%BA&lang=zh&timestamp=1767465488&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=_q8SexNWbjU&title=%E3%80%90Pummel+Party%E3%80%91%EF%BC%88%23000%EF%BC%89xxxxxx+%7C+ft.+%E5%BE%88%E5%A4%9A%E4%BA%BA&lang=zh&timestamp=1767465488&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Pummel Party】（#000）xxxxxx | ft. 很多人" title="【Pummel Party】（#000）xxxxxx | ft. 很多人">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
