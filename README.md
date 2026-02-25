@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 短暂休假 ⋆ @eaglepb2 ☽ 一款结合了恶灵古堡的秘诀 + Xcom 的集合体 Demo 游戏](https://www.twitch.tv/videos/2706301282)
 - [☾ 短暂休假 ⋆ @eaglepb2 ☽ 災難公關+ 第二代出來了！ 自定義卡包加入地獄列車，各位好好加餐！](https://www.twitch.tv/videos/2705387781)
 - [精选内容：終焉決鬥（2）](https://www.twitch.tv/videos/2400633957)
 - [精选内容：終焉決鬥（1）](https://www.twitch.tv/videos/2400633622)
 - [精选内容：饥荒 Day 5 #0625](https://www.twitch.tv/videos/1928635454)
-- [精选内容：饥荒 Day 4 #0622](https://www.twitch.tv/videos/1924829900)
 <!-- TWITCH:END -->
 
 
