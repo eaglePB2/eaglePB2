@@ -35,8 +35,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=HShvGgcnLeA">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HShvGgcnLeA&title=%E3%80%90Vultures+-+SoD%E3%80%91%EF%BC%88%23000%EF%BC%89+%E5%8F%88%E6%98%AF%E4%B8%80%E6%AC%BE%E9%9C%80%E8%A6%81%E7%9C%81%E5%AD%90%E5%BD%88%E7%9A%84%E4%B8%80%E5%A4%A9owo&lang=zh&timestamp=1771935372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=HShvGgcnLeA&title=%E3%80%90Vultures+-+SoD%E3%80%91%EF%BC%88%23000%EF%BC%89+%E5%8F%88%E6%98%AF%E4%B8%80%E6%AC%BE%E9%9C%80%E8%A6%81%E7%9C%81%E5%AD%90%E5%BD%88%E7%9A%84%E4%B8%80%E5%A4%A9owo&lang=zh&timestamp=1771935372&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Vultures - SoD】（#000） 又是一款需要省子彈的一天owo" title="【Vultures - SoD】（#000） 又是一款需要省子彈的一天owo">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HShvGgcnLeA&title=%E3%80%90Vultures+-+SoD%E3%80%91%EF%BC%88%23000%EF%BC%89+%E5%8F%88%E6%98%AF%E4%B8%80%E6%AC%BE%E9%9C%80%E8%A6%81%E7%9C%81%E5%AD%90%E5%BD%88%E7%9A%84%E4%B8%80%E5%A4%A9owo&lang=zh&timestamp=1771983031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3890">
+    <img src="https://ytcards.demolab.com/?id=HShvGgcnLeA&title=%E3%80%90Vultures+-+SoD%E3%80%91%EF%BC%88%23000%EF%BC%89+%E5%8F%88%E6%98%AF%E4%B8%80%E6%AC%BE%E9%9C%80%E8%A6%81%E7%9C%81%E5%AD%90%E5%BD%88%E7%9A%84%E4%B8%80%E5%A4%A9owo&lang=zh&timestamp=1771983031&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3890" alt="【Vultures - SoD】（#000） 又是一款需要省子彈的一天owo" title="【Vultures - SoD】（#000） 又是一款需要省子彈的一天owo">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=EYW9zAljAYA">
