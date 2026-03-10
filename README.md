@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=lsQ8TugGhDY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lsQ8TugGhDY&title=%E3%80%90%E7%81%BD%E9%9B%A3%E5%85%AC%E9%97%9C%2B%E3%80%91%EF%BC%88%23004%EF%BC%89%E5%B7%A5%E4%BD%9C%E5%9D%8A%E5%87%BA%E4%BE%86%E5%95%A6%EF%BC%81%E4%BE%86%E8%87%AA%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E7%9A%84%E5%9C%B0%E7%8D%84%E5%88%97%E8%BB%8A%E6%8A%B5%E9%81%94%E6%9E%97%E9%96%93%E5%B0%8F%E9%8E%AE%EF%BC%81%E8%87%AA%E5%AE%9A%E7%BE%A9%E5%9C%96%E7%89%87%E6%A8%A1%E5%BC%8F%E6%B7%BB%E5%8A%A0%E5%9C%B0%E7%8D%84%E8%89%B2%E5%BD%A9%EF%BC%81&lang=zh&timestamp=1773133553&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12720">
+    <img src="https://ytcards.demolab.com/?id=lsQ8TugGhDY&title=%E3%80%90%E7%81%BD%E9%9B%A3%E5%85%AC%E9%97%9C%2B%E3%80%91%EF%BC%88%23004%EF%BC%89%E5%B7%A5%E4%BD%9C%E5%9D%8A%E5%87%BA%E4%BE%86%E5%95%A6%EF%BC%81%E4%BE%86%E8%87%AA%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E7%9A%84%E5%9C%B0%E7%8D%84%E5%88%97%E8%BB%8A%E6%8A%B5%E9%81%94%E6%9E%97%E9%96%93%E5%B0%8F%E9%8E%AE%EF%BC%81%E8%87%AA%E5%AE%9A%E7%BE%A9%E5%9C%96%E7%89%87%E6%A8%A1%E5%BC%8F%E6%B7%BB%E5%8A%A0%E5%9C%B0%E7%8D%84%E8%89%B2%E5%BD%A9%EF%BC%81&lang=zh&timestamp=1773133553&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12720" alt="【災難公關+】（#004）工作坊出來啦！來自世界各地的地獄列車抵達林間小鎮！自定義圖片模式添加地獄色彩！" title="【災難公關+】（#004）工作坊出來啦！來自世界各地的地獄列車抵達林間小鎮！自定義圖片模式添加地獄色彩！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=HShvGgcnLeA">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HShvGgcnLeA&title=%E3%80%90Vultures+-+SoD%E3%80%91%EF%BC%88%23000%EF%BC%89+%E5%8F%88%E6%98%AF%E4%B8%80%E6%AC%BE%E9%9C%80%E8%A6%81%E7%9C%81%E5%AD%90%E5%BD%88%E7%9A%84%E4%B8%80%E5%A4%A9owo&lang=zh&timestamp=1771983031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3890">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HN79Aa0eHb8&title=%E3%80%90%E8%BF%99%E6%98%AF%E8%B0%90%E9%9F%B3%E6%A2%97%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%BA%9F%E5%88%B0%E7%AC%91%E7%9A%84%E8%B0%90%E9%9F%B3%E6%A2%97%EF%BC%8C%E4%BD%A0%E4%BC%9A%E5%A4%9A%E5%B0%91%E9%A2%98%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1767595618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8625">
     <img src="https://ytcards.demolab.com/?id=HN79Aa0eHb8&title=%E3%80%90%E8%BF%99%E6%98%AF%E8%B0%90%E9%9F%B3%E6%A2%97%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%BA%9F%E5%88%B0%E7%AC%91%E7%9A%84%E8%B0%90%E9%9F%B3%E6%A2%97%EF%BC%8C%E4%BD%A0%E4%BC%9A%E5%A4%9A%E5%B0%91%E9%A2%98%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1767595618&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8625" alt="【这是谐音梗】（#000）废到笑的谐音梗，你会多少题呢？" title="【这是谐音梗】（#000）废到笑的谐音梗，你会多少题呢？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=6gs1xgZaU2M">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6gs1xgZaU2M&title=%E3%80%90Pummel+Party%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E6%AC%BE%E9%81%A9%E5%90%88%E5%A4%9AP%E7%9A%84%E7%A4%BE%E4%BA%A4%E6%B8%B8%E6%88%B2%EF%BC%8C%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B8%8D%E5%BC%84%E6%AD%BB%E5%B0%8D%E6%96%B9%EF%BC%8C%E5%B0%8D%E6%96%B9%E5%B0%B1%E6%9C%83%E5%BC%84%E6%AD%BB%E4%BD%A0+awa+%7C+ft.+%E5%BE%88%E5%A4%9A%E4%BA%BA&lang=zh&timestamp=1767507975&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13740">
-    <img src="https://ytcards.demolab.com/?id=6gs1xgZaU2M&title=%E3%80%90Pummel+Party%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%80%99%E6%98%AF%E4%B8%80%E6%AC%BE%E9%81%A9%E5%90%88%E5%A4%9AP%E7%9A%84%E7%A4%BE%E4%BA%A4%E6%B8%B8%E6%88%B2%EF%BC%8C%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B8%8D%E5%BC%84%E6%AD%BB%E5%B0%8D%E6%96%B9%EF%BC%8C%E5%B0%8D%E6%96%B9%E5%B0%B1%E6%9C%83%E5%BC%84%E6%AD%BB%E4%BD%A0+awa+%7C+ft.+%E5%BE%88%E5%A4%9A%E4%BA%BA&lang=zh&timestamp=1767507975&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13740" alt="【Pummel Party】（#001）這是一款適合多P的社交游戲，如果你不弄死對方，對方就會弄死你 awa | ft. 很多人" title="【Pummel Party】（#001）這是一款適合多P的社交游戲，如果你不弄死對方，對方就會弄死你 awa | ft. 很多人">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
