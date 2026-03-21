@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=NPAQl10-AA4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NPAQl10-AA4&title=%E3%80%90Framed+Collection+%2F%2F+%E8%87%B4%E5%91%BD%E6%A1%86%E6%9E%B6%E5%90%88%E9%9B%86%E3%80%91%EF%BC%88%23000%EF%BC%89+%E7%A7%BB%E5%8B%95%E6%BC%AB%E7%95%AB%E6%A0%BC%EF%BC%8C%E6%94%B9%E7%B7%A8%E5%8A%87%E6%9C%AC%E7%9A%84%E5%B0%8F%E6%B8%B8%E6%88%B2~&lang=zh&timestamp=1774085760&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8385">
+    <img src="https://ytcards.demolab.com/?id=NPAQl10-AA4&title=%E3%80%90Framed+Collection+%2F%2F+%E8%87%B4%E5%91%BD%E6%A1%86%E6%9E%B6%E5%90%88%E9%9B%86%E3%80%91%EF%BC%88%23000%EF%BC%89+%E7%A7%BB%E5%8B%95%E6%BC%AB%E7%95%AB%E6%A0%BC%EF%BC%8C%E6%94%B9%E7%B7%A8%E5%8A%87%E6%9C%AC%E7%9A%84%E5%B0%8F%E6%B8%B8%E6%88%B2~&lang=zh&timestamp=1774085760&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8385" alt="【Framed Collection // 致命框架合集】（#000） 移動漫畫格，改編劇本的小游戲~" title="【Framed Collection // 致命框架合集】（#000） 移動漫畫格，改編劇本的小游戲~">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=lsQ8TugGhDY">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lsQ8TugGhDY&title=%E3%80%90%E7%81%BD%E9%9B%A3%E5%85%AC%E9%97%9C%2B%E3%80%91%EF%BC%88%23004%EF%BC%89%E5%B7%A5%E4%BD%9C%E5%9D%8A%E5%87%BA%E4%BE%86%E5%95%A6%EF%BC%81%E4%BE%86%E8%87%AA%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E7%9A%84%E5%9C%B0%E7%8D%84%E5%88%97%E8%BB%8A%E6%8A%B5%E9%81%94%E6%9E%97%E9%96%93%E5%B0%8F%E9%8E%AE%EF%BC%81%E8%87%AA%E5%AE%9A%E7%BE%A9%E5%9C%96%E7%89%87%E6%A8%A1%E5%BC%8F%E6%B7%BB%E5%8A%A0%E5%9C%B0%E7%8D%84%E8%89%B2%E5%BD%A9%EF%BC%81&lang=zh&timestamp=1773150357&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12720">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lNEFtfK3uxQ&title=%E3%80%90Pummel+Party%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%85%85%E6%BB%BF%E6%BA%AB%E8%85%A5%EF%BC%8C%E9%97%94%E5%AE%B6%E8%A7%80%E8%B3%9E%E7%9A%84%E7%91%AA%E5%88%A9%E6%AD%90%E8%BF%B7%E4%BD%A0%E6%B8%B8%E6%88%B2+%7C+ft.+%E5%BE%88%E5%A4%9A%E4%BA%BA&lang=zh&timestamp=1767607934&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10823">
     <img src="https://ytcards.demolab.com/?id=lNEFtfK3uxQ&title=%E3%80%90Pummel+Party%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%85%85%E6%BB%BF%E6%BA%AB%E8%85%A5%EF%BC%8C%E9%97%94%E5%AE%B6%E8%A7%80%E8%B3%9E%E7%9A%84%E7%91%AA%E5%88%A9%E6%AD%90%E8%BF%B7%E4%BD%A0%E6%B8%B8%E6%88%B2+%7C+ft.+%E5%BE%88%E5%A4%9A%E4%BA%BA&lang=zh&timestamp=1767607934&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10823" alt="【Pummel Party】（#002）充滿溫腥，闔家觀賞的瑪利歐迷你游戲 | ft. 很多人" title="【Pummel Party】（#002）充滿溫腥，闔家觀賞的瑪利歐迷你游戲 | ft. 很多人">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=HN79Aa0eHb8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HN79Aa0eHb8&title=%E3%80%90%E8%BF%99%E6%98%AF%E8%B0%90%E9%9F%B3%E6%A2%97%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%BA%9F%E5%88%B0%E7%AC%91%E7%9A%84%E8%B0%90%E9%9F%B3%E6%A2%97%EF%BC%8C%E4%BD%A0%E4%BC%9A%E5%A4%9A%E5%B0%91%E9%A2%98%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1767595618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8625">
-    <img src="https://ytcards.demolab.com/?id=HN79Aa0eHb8&title=%E3%80%90%E8%BF%99%E6%98%AF%E8%B0%90%E9%9F%B3%E6%A2%97%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%BA%9F%E5%88%B0%E7%AC%91%E7%9A%84%E8%B0%90%E9%9F%B3%E6%A2%97%EF%BC%8C%E4%BD%A0%E4%BC%9A%E5%A4%9A%E5%B0%91%E9%A2%98%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1767595618&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8625" alt="【这是谐音梗】（#000）废到笑的谐音梗，你会多少题呢？" title="【这是谐音梗】（#000）废到笑的谐音梗，你会多少题呢？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
