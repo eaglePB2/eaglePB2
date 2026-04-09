@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/shorts/srSCWgeGXsA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=srSCWgeGXsA&title=4%E6%98%9F%E5%87%BA%E8%B2%A8%E7%8E%87%E7%9F%AF%E6%AD%A3%E5%9B%9E%E6%AD%B8%EF%BC%81Project+Sekai+4.5+%E5%91%A8%E5%B9%B4+%E5%85%8D%E8%B2%BB70%E6%8A%BD+%E7%B2%BE%E8%8F%AF%E7%AF%87&lang=zh&timestamp=1775709788&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=70">
+    <img src="https://ytcards.demolab.com/?id=srSCWgeGXsA&title=4%E6%98%9F%E5%87%BA%E8%B2%A8%E7%8E%87%E7%9F%AF%E6%AD%A3%E5%9B%9E%E6%AD%B8%EF%BC%81Project+Sekai+4.5+%E5%91%A8%E5%B9%B4+%E5%85%8D%E8%B2%BB70%E6%8A%BD+%E7%B2%BE%E8%8F%AF%E7%AF%87&lang=zh&timestamp=1775709788&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=70" alt="4星出貨率矯正回歸！Project Sekai 4.5 周年 免費70抽 精華篇" title="4星出貨率矯正回歸！Project Sekai 4.5 周年 免費70抽 精華篇">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=NPAQl10-AA4">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NPAQl10-AA4&title=%E3%80%90Framed+Collection+%2F%2F+%E8%87%B4%E5%91%BD%E6%A1%86%E6%9E%B6%E5%90%88%E9%9B%86%E3%80%91%EF%BC%88%23000%EF%BC%89+%E7%A7%BB%E5%8B%95%E6%BC%AB%E7%95%AB%E6%A0%BC%EF%BC%8C%E6%94%B9%E7%B7%A8%E5%8A%87%E6%9C%AC%E7%9A%84%E5%B0%8F%E6%B8%B8%E6%88%B2~&lang=zh&timestamp=1774085760&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8385">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nu6kTqtAD0k&title=%E3%80%90ARC-AGI%E3%80%91%EF%BC%88%23002%EF%BC%89+Public+Training+Set+1+-+Hard+%7C+%E7%A8%8D%E5%BE%AE%E5%88%B7%E4%B8%80%E4%B8%8B%E5%AD%98%E5%9C%A8%E6%84%9F+owob&lang=zh&timestamp=1771348156&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4658">
     <img src="https://ytcards.demolab.com/?id=nu6kTqtAD0k&title=%E3%80%90ARC-AGI%E3%80%91%EF%BC%88%23002%EF%BC%89+Public+Training+Set+1+-+Hard+%7C+%E7%A8%8D%E5%BE%AE%E5%88%B7%E4%B8%80%E4%B8%8B%E5%AD%98%E5%9C%A8%E6%84%9F+owob&lang=zh&timestamp=1771348156&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4658" alt="【ARC-AGI】（#002） Public Training Set 1 - Hard | 稍微刷一下存在感 owob" title="【ARC-AGI】（#002） Public Training Set 1 - Hard | 稍微刷一下存在感 owob">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=lNEFtfK3uxQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lNEFtfK3uxQ&title=%E3%80%90Pummel+Party%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%85%85%E6%BB%BF%E6%BA%AB%E8%85%A5%EF%BC%8C%E9%97%94%E5%AE%B6%E8%A7%80%E8%B3%9E%E7%9A%84%E7%91%AA%E5%88%A9%E6%AD%90%E8%BF%B7%E4%BD%A0%E6%B8%B8%E6%88%B2+%7C+ft.+%E5%BE%88%E5%A4%9A%E4%BA%BA&lang=zh&timestamp=1767607934&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10823">
-    <img src="https://ytcards.demolab.com/?id=lNEFtfK3uxQ&title=%E3%80%90Pummel+Party%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%85%85%E6%BB%BF%E6%BA%AB%E8%85%A5%EF%BC%8C%E9%97%94%E5%AE%B6%E8%A7%80%E8%B3%9E%E7%9A%84%E7%91%AA%E5%88%A9%E6%AD%90%E8%BF%B7%E4%BD%A0%E6%B8%B8%E6%88%B2+%7C+ft.+%E5%BE%88%E5%A4%9A%E4%BA%BA&lang=zh&timestamp=1767607934&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10823" alt="【Pummel Party】（#002）充滿溫腥，闔家觀賞的瑪利歐迷你游戲 | ft. 很多人" title="【Pummel Party】（#002）充滿溫腥，闔家觀賞的瑪利歐迷你游戲 | ft. 很多人">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
