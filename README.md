@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=26rRfEUgCS4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=26rRfEUgCS4&title=%E3%80%90Train+Valley+2%E3%80%91%EF%BC%88%23001%EF%BC%89+%E8%BB%8C%E9%81%93%E9%8B%AA%E8%A8%AD%E7%AE%A1%E7%90%86%E5%99%A8%EF%BC%8C%E8%A6%8F%E5%8A%83%E8%B7%AF%E7%B6%AB%E5%83%8F%E4%BE%9D%E6%89%98%E7%AD%94%E8%BE%AF%E4%B8%80%E6%A8%A3&lang=zh&timestamp=1775789758&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10260">
+    <img src="https://ytcards.demolab.com/?id=26rRfEUgCS4&title=%E3%80%90Train+Valley+2%E3%80%91%EF%BC%88%23001%EF%BC%89+%E8%BB%8C%E9%81%93%E9%8B%AA%E8%A8%AD%E7%AE%A1%E7%90%86%E5%99%A8%EF%BC%8C%E8%A6%8F%E5%8A%83%E8%B7%AF%E7%B6%AB%E5%83%8F%E4%BE%9D%E6%89%98%E7%AD%94%E8%BE%AF%E4%B8%80%E6%A8%A3&lang=zh&timestamp=1775789758&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10260" alt="【Train Valley 2】（#001） 軌道鋪設管理器，規劃路綫像依托答辯一樣" title="【Train Valley 2】（#001） 軌道鋪設管理器，規劃路綫像依托答辯一樣">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/srSCWgeGXsA">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=srSCWgeGXsA&title=4%E6%98%9F%E5%87%BA%E8%B2%A8%E7%8E%87%E7%9F%AF%E6%AD%A3%E5%9B%9E%E6%AD%B8%EF%BC%81Project+Sekai+4.5+%E5%91%A8%E5%B9%B4+%E5%85%8D%E8%B2%BB70%E6%8A%BD+%E7%B2%BE%E8%8F%AF%E7%AF%87&lang=zh&timestamp=1775709788&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=70">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EYW9zAljAYA&title=%E3%80%90%E7%81%BD%E9%9B%A3%E5%85%AC%E9%97%9C%2B%E3%80%91%EF%BC%88%23003%EF%BC%89%E8%87%AA%E8%A8%82%E6%9E%97%E9%96%93%E5%8D%A1%E5%8C%85%E4%BE%86%E8%87%A8%EF%BC%81%E7%81%BD%E9%9B%A3%E7%A8%8B%E5%BA%A6%E6%9B%B4%E8%B2%BC%E8%BF%91%E6%88%90%E9%83%BD%E7%AD%89%E7%B4%9A%EF%BC%8C%E7%A9%B6%E7%AB%9F%E8%AA%B0%E8%83%BD%E5%BF%8D%E5%88%B0%E6%9C%80%E5%BE%8C%EF%BC%9F&lang=zh&timestamp=1771883252&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7108">
     <img src="https://ytcards.demolab.com/?id=EYW9zAljAYA&title=%E3%80%90%E7%81%BD%E9%9B%A3%E5%85%AC%E9%97%9C%2B%E3%80%91%EF%BC%88%23003%EF%BC%89%E8%87%AA%E8%A8%82%E6%9E%97%E9%96%93%E5%8D%A1%E5%8C%85%E4%BE%86%E8%87%A8%EF%BC%81%E7%81%BD%E9%9B%A3%E7%A8%8B%E5%BA%A6%E6%9B%B4%E8%B2%BC%E8%BF%91%E6%88%90%E9%83%BD%E7%AD%89%E7%B4%9A%EF%BC%8C%E7%A9%B6%E7%AB%9F%E8%AA%B0%E8%83%BD%E5%BF%8D%E5%88%B0%E6%9C%80%E5%BE%8C%EF%BC%9F&lang=zh&timestamp=1771883252&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7108" alt="【災難公關+】（#003）自訂林間卡包來臨！災難程度更貼近成都等級，究竟誰能忍到最後？" title="【災難公關+】（#003）自訂林間卡包來臨！災難程度更貼近成都等級，究竟誰能忍到最後？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=nu6kTqtAD0k">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nu6kTqtAD0k&title=%E3%80%90ARC-AGI%E3%80%91%EF%BC%88%23002%EF%BC%89+Public+Training+Set+1+-+Hard+%7C+%E7%A8%8D%E5%BE%AE%E5%88%B7%E4%B8%80%E4%B8%8B%E5%AD%98%E5%9C%A8%E6%84%9F+owob&lang=zh&timestamp=1771348156&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4658">
-    <img src="https://ytcards.demolab.com/?id=nu6kTqtAD0k&title=%E3%80%90ARC-AGI%E3%80%91%EF%BC%88%23002%EF%BC%89+Public+Training+Set+1+-+Hard+%7C+%E7%A8%8D%E5%BE%AE%E5%88%B7%E4%B8%80%E4%B8%8B%E5%AD%98%E5%9C%A8%E6%84%9F+owob&lang=zh&timestamp=1771348156&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4658" alt="【ARC-AGI】（#002） Public Training Set 1 - Hard | 稍微刷一下存在感 owob" title="【ARC-AGI】（#002） Public Training Set 1 - Hard | 稍微刷一下存在感 owob">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
