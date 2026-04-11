@@ -73,16 +73,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ---
 
-## Achivements
-[![](https://github-profile-trophy.vercel.app/?username=eaglepb2&theme=monokai&no-bg=true&&title=Repositories,Issues,Commit,MultiLanguage)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" alt="eaglePB2's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eaglePB2&show_icons=true&hide_border=true&theme=merko" />
-<br>
-<img align="center" alt="eaglePB2's Language Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaglePB2&show_icons=true&hide_border=true&theme=merko&layout=compact&langs_count=8" />
-<br>
-<img align="center" alt="eaglePB2's Viewer Count" src="https://visitcount.itsvg.in/api?id=eaglepb2&label=Profile%20Views&color=3&icon=5&pretty=true" />
-
-<hr>
-
 <!-- RANDOMQUOTE:START -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 <!-- RANDOMQUOTE:END -->
