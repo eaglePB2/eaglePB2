@@ -13,7 +13,7 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ### Discord Server:
 
-[![](https://invidget.switchblade.xyz/qKrub9b?theme=dark&language=ch)](https://discord.gg/qKrub9b)
+[![aha moment!](https://img.shields.io/discord/510192195509157909?logo=discord)](https://discord.gg/qKrub9b)
 
 ---
 
