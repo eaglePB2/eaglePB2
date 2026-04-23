@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/shorts/6rmGM-5fhmQ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6rmGM-5fhmQ&title=%E9%9B%80%E9%AD%82%E9%BA%BB%E5%B0%87+X+SAO+%E8%81%AF%E5%8B%95%E9%96%8B%E6%8A%BD%EF%BC%81+%E7%A9%B6%E7%AB%9F%E6%8A%BD%E5%87%BA%E4%BB%80%E9%BA%BD%E5%A5%BD%E6%9D%B1%E8%A5%BF%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1776928340&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=40">
+    <img src="https://ytcards.demolab.com/?id=6rmGM-5fhmQ&title=%E9%9B%80%E9%AD%82%E9%BA%BB%E5%B0%87+X+SAO+%E8%81%AF%E5%8B%95%E9%96%8B%E6%8A%BD%EF%BC%81+%E7%A9%B6%E7%AB%9F%E6%8A%BD%E5%87%BA%E4%BB%80%E9%BA%BD%E5%A5%BD%E6%9D%B1%E8%A5%BF%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1776928340&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=40" alt="雀魂麻將 X SAO 聯動開抽！ 究竟抽出什麽好東西呢？" title="雀魂麻將 X SAO 聯動開抽！ 究竟抽出什麽好東西呢？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=OUiqdwbeSWY">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OUiqdwbeSWY&title=%E3%80%90Project+Winter%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%8E%BB%E5%B9%B4%E7%9A%84%E5%86%AC%E6%97%A5%E8%A8%88%E5%8A%83%EF%BC%8C%E8%83%8C%E5%8F%9B%E8%80%85%E4%BB%80%E9%BA%BD%E9%83%BD%E4%B8%8D%E5%81%9A%E5%B0%B1%E8%B4%8F%E4%BA%86%EF%BC%9F&lang=zh&timestamp=1776593230&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15168">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=srSCWgeGXsA&title=4%E6%98%9F%E5%87%BA%E8%B2%A8%E7%8E%87%E7%9F%AF%E6%AD%A3%E5%9B%9E%E6%AD%B8%EF%BC%81Project+Sekai+4.5+%E5%91%A8%E5%B9%B4+%E5%85%8D%E8%B2%BB70%E6%8A%BD+%E7%B2%BE%E8%8F%AF%E7%AF%87&lang=zh&timestamp=1775709788&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=70">
     <img src="https://ytcards.demolab.com/?id=srSCWgeGXsA&title=4%E6%98%9F%E5%87%BA%E8%B2%A8%E7%8E%87%E7%9F%AF%E6%AD%A3%E5%9B%9E%E6%AD%B8%EF%BC%81Project+Sekai+4.5+%E5%91%A8%E5%B9%B4+%E5%85%8D%E8%B2%BB70%E6%8A%BD+%E7%B2%BE%E8%8F%AF%E7%AF%87&lang=zh&timestamp=1775709788&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=70" alt="4星出貨率矯正回歸！Project Sekai 4.5 周年 免費70抽 精華篇" title="4星出貨率矯正回歸！Project Sekai 4.5 周年 免費70抽 精華篇">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=NPAQl10-AA4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NPAQl10-AA4&title=%E3%80%90Framed+Collection+%2F%2F+%E8%87%B4%E5%91%BD%E6%A1%86%E6%9E%B6%E5%90%88%E9%9B%86%E3%80%91%EF%BC%88%23000%EF%BC%89+%E7%A7%BB%E5%8B%95%E6%BC%AB%E7%95%AB%E6%A0%BC%EF%BC%8C%E6%94%B9%E7%B7%A8%E5%8A%87%E6%9C%AC%E7%9A%84%E5%B0%8F%E6%B8%B8%E6%88%B2~&lang=zh&timestamp=1774085760&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8385">
-    <img src="https://ytcards.demolab.com/?id=NPAQl10-AA4&title=%E3%80%90Framed+Collection+%2F%2F+%E8%87%B4%E5%91%BD%E6%A1%86%E6%9E%B6%E5%90%88%E9%9B%86%E3%80%91%EF%BC%88%23000%EF%BC%89+%E7%A7%BB%E5%8B%95%E6%BC%AB%E7%95%AB%E6%A0%BC%EF%BC%8C%E6%94%B9%E7%B7%A8%E5%8A%87%E6%9C%AC%E7%9A%84%E5%B0%8F%E6%B8%B8%E6%88%B2~&lang=zh&timestamp=1774085760&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8385" alt="【Framed Collection // 致命框架合集】（#000） 移動漫畫格，改編劇本的小游戲~" title="【Framed Collection // 致命框架合集】（#000） 移動漫畫格，改編劇本的小游戲~">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
