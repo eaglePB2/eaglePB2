@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=56fVvhm3UQc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=56fVvhm3UQc&title=%E3%80%90Suicide+Guy%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%94%B7%E4%BA%BA%E6%A2%A6%E4%B8%AD%E7%9A%8423+%2B+9%E7%A7%8D%E6%AD%BB%E6%B3%95%EF%BC%8C%E6%98%AF%E4%B8%AA%E7%A5%9E%E5%A5%87%E7%9A%84%E6%B8%B8%E6%88%8F&lang=zh&timestamp=1777286412&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=56fVvhm3UQc&title=%E3%80%90Suicide+Guy%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%94%B7%E4%BA%BA%E6%A2%A6%E4%B8%AD%E7%9A%8423+%2B+9%E7%A7%8D%E6%AD%BB%E6%B3%95%EF%BC%8C%E6%98%AF%E4%B8%AA%E7%A5%9E%E5%A5%87%E7%9A%84%E6%B8%B8%E6%88%8F&lang=zh&timestamp=1777286412&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Suicide Guy】（#001）男人梦中的23 + 9种死法，是个神奇的游戏" title="【Suicide Guy】（#001）男人梦中的23 + 9种死法，是个神奇的游戏">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/6rmGM-5fhmQ">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6rmGM-5fhmQ&title=%E9%9B%80%E9%AD%82%E9%BA%BB%E5%B0%87+X+SAO+%E8%81%AF%E5%8B%95%E9%96%8B%E6%8A%BD%EF%BC%81+%E7%A9%B6%E7%AB%9F%E6%8A%BD%E5%87%BA%E4%BB%80%E9%BA%BD%E5%A5%BD%E6%9D%B1%E8%A5%BF%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1776928340&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=40">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=26rRfEUgCS4&title=%E3%80%90Train+Valley+2%E3%80%91%EF%BC%88%23001%EF%BC%89+%E8%BB%8C%E9%81%93%E9%8B%AA%E8%A8%AD%E7%AE%A1%E7%90%86%E5%99%A8%EF%BC%8C%E8%A6%8F%E5%8A%83%E8%B7%AF%E7%B6%AB%E5%83%8F%E4%BE%9D%E6%89%98%E7%AD%94%E8%BE%AF%E4%B8%80%E6%A8%A3&lang=zh&timestamp=1775789758&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10260">
     <img src="https://ytcards.demolab.com/?id=26rRfEUgCS4&title=%E3%80%90Train+Valley+2%E3%80%91%EF%BC%88%23001%EF%BC%89+%E8%BB%8C%E9%81%93%E9%8B%AA%E8%A8%AD%E7%AE%A1%E7%90%86%E5%99%A8%EF%BC%8C%E8%A6%8F%E5%8A%83%E8%B7%AF%E7%B6%AB%E5%83%8F%E4%BE%9D%E6%89%98%E7%AD%94%E8%BE%AF%E4%B8%80%E6%A8%A3&lang=zh&timestamp=1775789758&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10260" alt="【Train Valley 2】（#001） 軌道鋪設管理器，規劃路綫像依托答辯一樣" title="【Train Valley 2】（#001） 軌道鋪設管理器，規劃路綫像依托答辯一樣">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/srSCWgeGXsA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=srSCWgeGXsA&title=4%E6%98%9F%E5%87%BA%E8%B2%A8%E7%8E%87%E7%9F%AF%E6%AD%A3%E5%9B%9E%E6%AD%B8%EF%BC%81Project+Sekai+4.5+%E5%91%A8%E5%B9%B4+%E5%85%8D%E8%B2%BB70%E6%8A%BD+%E7%B2%BE%E8%8F%AF%E7%AF%87&lang=zh&timestamp=1775709788&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=70">
-    <img src="https://ytcards.demolab.com/?id=srSCWgeGXsA&title=4%E6%98%9F%E5%87%BA%E8%B2%A8%E7%8E%87%E7%9F%AF%E6%AD%A3%E5%9B%9E%E6%AD%B8%EF%BC%81Project+Sekai+4.5+%E5%91%A8%E5%B9%B4+%E5%85%8D%E8%B2%BB70%E6%8A%BD+%E7%B2%BE%E8%8F%AF%E7%AF%87&lang=zh&timestamp=1775709788&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=70" alt="4星出貨率矯正回歸！Project Sekai 4.5 周年 免費70抽 精華篇" title="4星出貨率矯正回歸！Project Sekai 4.5 周年 免費70抽 精華篇">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
