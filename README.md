@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/shorts/UhQWHqI72W0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UhQWHqI72W0&title=%E8%80%81%E9%B7%B9%E8%AA%8D%E8%AD%89+%E8%BC%AA%E7%9B%A4%E6%98%AF%E7%9C%9F%E7%9A%84+%E6%B2%92%E5%9C%A8%E9%A8%99+awa&lang=zh&timestamp=1778827219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=69">
+    <img src="https://ytcards.demolab.com/?id=UhQWHqI72W0&title=%E8%80%81%E9%B7%B9%E8%AA%8D%E8%AD%89+%E8%BC%AA%E7%9B%A4%E6%98%AF%E7%9C%9F%E7%9A%84+%E6%B2%92%E5%9C%A8%E9%A8%99+awa&lang=zh&timestamp=1778827219&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=69" alt="老鷹認證 輪盤是真的 沒在騙 awa" title="老鷹認證 輪盤是真的 沒在騙 awa">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=56fVvhm3UQc">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=56fVvhm3UQc&title=%E3%80%90Suicide+Guy%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%94%B7%E4%BA%BA%E6%A2%A6%E4%B8%AD%E7%9A%8423+%2B+9%E7%A7%8D%E6%AD%BB%E6%B3%95%EF%BC%8C%E6%98%AF%E4%B8%AA%E7%A5%9E%E5%A5%87%E7%9A%84%E6%B8%B8%E6%88%8F&lang=zh&timestamp=1777304201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16348">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zSUzraPQZs4&title=%E3%80%90A+Normal+Lost+Phone%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%A4%B1%E8%90%BD%E6%89%8B%E6%A9%9F%E5%A4%A7%E8%A7%A3%E5%AF%86%EF%BC%8C%E7%AA%81%E7%99%BC%E5%BD%A9%E8%99%B9%E5%A4%A7%E7%A7%98%E5%AF%86%EF%BC%9F&lang=zh&timestamp=1776136866&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2124">
     <img src="https://ytcards.demolab.com/?id=zSUzraPQZs4&title=%E3%80%90A+Normal+Lost+Phone%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%A4%B1%E8%90%BD%E6%89%8B%E6%A9%9F%E5%A4%A7%E8%A7%A3%E5%AF%86%EF%BC%8C%E7%AA%81%E7%99%BC%E5%BD%A9%E8%99%B9%E5%A4%A7%E7%A7%98%E5%AF%86%EF%BC%9F&lang=zh&timestamp=1776136866&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2124" alt="【A Normal Lost Phone】（#000）失落手機大解密，突發彩虹大秘密？" title="【A Normal Lost Phone】（#000）失落手機大解密，突發彩虹大秘密？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=26rRfEUgCS4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=26rRfEUgCS4&title=%E3%80%90Train+Valley+2%E3%80%91%EF%BC%88%23001%EF%BC%89+%E8%BB%8C%E9%81%93%E9%8B%AA%E8%A8%AD%E7%AE%A1%E7%90%86%E5%99%A8%EF%BC%8C%E8%A6%8F%E5%8A%83%E8%B7%AF%E7%B6%AB%E5%83%8F%E4%BE%9D%E6%89%98%E7%AD%94%E8%BE%AF%E4%B8%80%E6%A8%A3&lang=zh&timestamp=1775789758&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10260">
-    <img src="https://ytcards.demolab.com/?id=26rRfEUgCS4&title=%E3%80%90Train+Valley+2%E3%80%91%EF%BC%88%23001%EF%BC%89+%E8%BB%8C%E9%81%93%E9%8B%AA%E8%A8%AD%E7%AE%A1%E7%90%86%E5%99%A8%EF%BC%8C%E8%A6%8F%E5%8A%83%E8%B7%AF%E7%B6%AB%E5%83%8F%E4%BE%9D%E6%89%98%E7%AD%94%E8%BE%AF%E4%B8%80%E6%A8%A3&lang=zh&timestamp=1775789758&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10260" alt="【Train Valley 2】（#001） 軌道鋪設管理器，規劃路綫像依托答辯一樣" title="【Train Valley 2】（#001） 軌道鋪設管理器，規劃路綫像依托答辯一樣">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
