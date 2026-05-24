@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 清库计划 ⋆ @eaglepb2 ☽ DEG Speedrun second day](https://www.twitch.tv/videos/2779375535)
+- [☾ 清库计划 ⋆ @eaglepb2 ☽ DEG Speedrun，等等抽奖](https://www.twitch.tv/videos/2778856211)
 - [☾ 清库计划 ⋆ @eaglepb2 ☽ 如果我是大闸蟹 你还爱我吗？](https://www.twitch.tv/videos/2778044621)
 - [精选内容：終焉決鬥（2）](https://www.twitch.tv/videos/2400633957)
 - [精选内容：終焉決鬥（1）](https://www.twitch.tv/videos/2400633622)
-- [精选内容：饥荒 Day 5 #0625](https://www.twitch.tv/videos/1928635454)
-- [精选内容：饥荒 Day 4 #0622](https://www.twitch.tv/videos/1924829900)
 <!-- TWITCH:END -->
 
 
