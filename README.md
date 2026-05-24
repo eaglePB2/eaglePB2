@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=AeXCtWEzUps">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AeXCtWEzUps&title=%E3%80%90DEG%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%B8%8D%E7%94%A8%E6%89%BE%E5%85%B3%E5%8D%A1%E7%9A%84%E8%A7%A3%E8%B0%9C%E5%B2%9B~+%E4%BA%8C%E8%A7%81%E4%B8%AD&lang=zh&timestamp=1779615234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12757">
+    <img src="https://ytcards.demolab.com/?id=AeXCtWEzUps&title=%E3%80%90DEG%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%B8%8D%E7%94%A8%E6%89%BE%E5%85%B3%E5%8D%A1%E7%9A%84%E8%A7%A3%E8%B0%9C%E5%B2%9B~+%E4%BA%8C%E8%A7%81%E4%B8%AD&lang=zh&timestamp=1779615234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12757" alt="【DEG】（#000）不用找关卡的解谜岛~ 二见中" title="【DEG】（#000）不用找关卡的解谜岛~ 二见中">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=vi2_EqUxNeM">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vi2_EqUxNeM&title=%E3%80%90%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E8%9F%B9%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%A6%82%E6%9E%9C%E6%88%91%E5%8F%98%E6%88%90%E5%A4%A7%E9%97%B8%E8%9F%B9%E4%BA%86%EF%BC%8C%E4%BD%A0%E8%BF%98%E7%88%B1%E6%88%91%E4%B9%88+030&lang=zh&timestamp=1779523376&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11685">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OUiqdwbeSWY&title=%E3%80%90Project+Winter%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%8E%BB%E5%B9%B4%E7%9A%84%E5%86%AC%E6%97%A5%E8%A8%88%E5%8A%83%EF%BC%8C%E8%83%8C%E5%8F%9B%E8%80%85%E4%BB%80%E9%BA%BD%E9%83%BD%E4%B8%8D%E5%81%9A%E5%B0%B1%E8%B4%8F%E4%BA%86%EF%BC%9F&lang=zh&timestamp=1776593230&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15168">
     <img src="https://ytcards.demolab.com/?id=OUiqdwbeSWY&title=%E3%80%90Project+Winter%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%8E%BB%E5%B9%B4%E7%9A%84%E5%86%AC%E6%97%A5%E8%A8%88%E5%8A%83%EF%BC%8C%E8%83%8C%E5%8F%9B%E8%80%85%E4%BB%80%E9%BA%BD%E9%83%BD%E4%B8%8D%E5%81%9A%E5%B0%B1%E8%B4%8F%E4%BA%86%EF%BC%9F&lang=zh&timestamp=1776593230&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15168" alt="【Project Winter】（#001）去年的冬日計劃，背叛者什麽都不做就贏了？" title="【Project Winter】（#001）去年的冬日計劃，背叛者什麽都不做就贏了？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=sgzSKQ6h6dw">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sgzSKQ6h6dw&title=%E3%80%90Another+Lost+Phone%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%BB%8A%E7%AB%99%E9%A9%9A%E8%A6%8B%E5%A4%B1%E8%90%BD%E6%A9%9F%EF%BC%8C%E7%AA%81%E7%99%BC%E5%AE%B6%E5%BA%AD%E5%A4%A7%E7%A7%98%E5%AF%86%EF%BC%9F&lang=zh&timestamp=1776195067&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2645">
-    <img src="https://ytcards.demolab.com/?id=sgzSKQ6h6dw&title=%E3%80%90Another+Lost+Phone%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%BB%8A%E7%AB%99%E9%A9%9A%E8%A6%8B%E5%A4%B1%E8%90%BD%E6%A9%9F%EF%BC%8C%E7%AA%81%E7%99%BC%E5%AE%B6%E5%BA%AD%E5%A4%A7%E7%A7%98%E5%AF%86%EF%BC%9F&lang=zh&timestamp=1776195067&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2645" alt="【Another Lost Phone】（#000）車站驚見失落機，突發家庭大秘密？" title="【Another Lost Phone】（#000）車站驚見失落機，突發家庭大秘密？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
