@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=aOG7bYFYML0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aOG7bYFYML0&title=%E3%80%90Suicide+Guy%3A+Sleepin%27+Deeply%E3%80%91%EF%BC%88%23002%EF%BC%89%E9%A3%B2%E9%85%92%E7%94%B7%E4%BA%BA%E7%9A%84%E6%B7%B1%E6%B5%B7%E5%A4%A2%E5%A2%83%E6%84%8F%E8%AD%98%E6%B5%81&lang=zh&timestamp=1779695028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8155">
+    <img src="https://ytcards.demolab.com/?id=aOG7bYFYML0&title=%E3%80%90Suicide+Guy%3A+Sleepin%27+Deeply%E3%80%91%EF%BC%88%23002%EF%BC%89%E9%A3%B2%E9%85%92%E7%94%B7%E4%BA%BA%E7%9A%84%E6%B7%B1%E6%B5%B7%E5%A4%A2%E5%A2%83%E6%84%8F%E8%AD%98%E6%B5%81&lang=zh&timestamp=1779695028&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8155" alt="【Suicide Guy: Sleepin' Deeply】（#002）飲酒男人的深海夢境意識流" title="【Suicide Guy: Sleepin' Deeply】（#002）飲酒男人的深海夢境意識流">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=AeXCtWEzUps">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AeXCtWEzUps&title=%E3%80%90DEG%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%B8%8D%E7%94%A8%E6%89%BE%E5%85%B3%E5%8D%A1%E7%9A%84%E8%A7%A3%E8%B0%9C%E5%B2%9B~+%E4%BA%8C%E8%A7%81%E4%B8%AD&lang=zh&timestamp=1779615234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12757">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6rmGM-5fhmQ&title=%E9%9B%80%E9%AD%82%E9%BA%BB%E5%B0%87+X+SAO+%E8%81%AF%E5%8B%95%E9%96%8B%E6%8A%BD%EF%BC%81+%E7%A9%B6%E7%AB%9F%E6%8A%BD%E5%87%BA%E4%BB%80%E9%BA%BD%E5%A5%BD%E6%9D%B1%E8%A5%BF%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1776928340&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=40">
     <img src="https://ytcards.demolab.com/?id=6rmGM-5fhmQ&title=%E9%9B%80%E9%AD%82%E9%BA%BB%E5%B0%87+X+SAO+%E8%81%AF%E5%8B%95%E9%96%8B%E6%8A%BD%EF%BC%81+%E7%A9%B6%E7%AB%9F%E6%8A%BD%E5%87%BA%E4%BB%80%E9%BA%BD%E5%A5%BD%E6%9D%B1%E8%A5%BF%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1776928340&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=40" alt="雀魂麻將 X SAO 聯動開抽！ 究竟抽出什麽好東西呢？" title="雀魂麻將 X SAO 聯動開抽！ 究竟抽出什麽好東西呢？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=OUiqdwbeSWY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OUiqdwbeSWY&title=%E3%80%90Project+Winter%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%8E%BB%E5%B9%B4%E7%9A%84%E5%86%AC%E6%97%A5%E8%A8%88%E5%8A%83%EF%BC%8C%E8%83%8C%E5%8F%9B%E8%80%85%E4%BB%80%E9%BA%BD%E9%83%BD%E4%B8%8D%E5%81%9A%E5%B0%B1%E8%B4%8F%E4%BA%86%EF%BC%9F&lang=zh&timestamp=1776593230&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15168">
-    <img src="https://ytcards.demolab.com/?id=OUiqdwbeSWY&title=%E3%80%90Project+Winter%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%8E%BB%E5%B9%B4%E7%9A%84%E5%86%AC%E6%97%A5%E8%A8%88%E5%8A%83%EF%BC%8C%E8%83%8C%E5%8F%9B%E8%80%85%E4%BB%80%E9%BA%BD%E9%83%BD%E4%B8%8D%E5%81%9A%E5%B0%B1%E8%B4%8F%E4%BA%86%EF%BC%9F&lang=zh&timestamp=1776593230&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=15168" alt="【Project Winter】（#001）去年的冬日計劃，背叛者什麽都不做就贏了？" title="【Project Winter】（#001）去年的冬日計劃，背叛者什麽都不做就贏了？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
