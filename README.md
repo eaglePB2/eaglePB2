@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=CaNnJzPo7Bc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CaNnJzPo7Bc&title=%E3%80%90%E7%9B%B8%E4%BF%A1%E6%88%91%EF%BC%8C%E5%B7%B2%E7%BB%8F%E6%90%9E%E5%AE%9A%E4%BA%86%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%88%91%E5%85%A8%E9%83%BD%E6%90%9E%E5%AE%9A%E4%BA%86%EF%BC%8C%E6%B2%A1%E9%97%AE%E9%A2%98%E7%9A%84%EF%BC%88%E6%AF%94%E8%B5%9E&lang=zh&timestamp=1779868998&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11530">
+    <img src="https://ytcards.demolab.com/?id=CaNnJzPo7Bc&title=%E3%80%90%E7%9B%B8%E4%BF%A1%E6%88%91%EF%BC%8C%E5%B7%B2%E7%BB%8F%E6%90%9E%E5%AE%9A%E4%BA%86%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%88%91%E5%85%A8%E9%83%BD%E6%90%9E%E5%AE%9A%E4%BA%86%EF%BC%8C%E6%B2%A1%E9%97%AE%E9%A2%98%E7%9A%84%EF%BC%88%E6%AF%94%E8%B5%9E&lang=zh&timestamp=1779868998&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11530" alt="【相信我，已经搞定了】（#000）我全都搞定了，没问题的（比赞" title="【相信我，已经搞定了】（#000）我全都搞定了，没问题的（比赞">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=aOG7bYFYML0">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aOG7bYFYML0&title=%E3%80%90Suicide+Guy%3A+Sleepin%27+Deeply%E3%80%91%EF%BC%88%23002%EF%BC%89%E9%A3%B2%E9%85%92%E7%94%B7%E4%BA%BA%E7%9A%84%E6%B7%B1%E6%B5%B7%E5%A4%A2%E5%A2%83%E6%84%8F%E8%AD%98%E6%B5%81&lang=zh&timestamp=1779695028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8155">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=56fVvhm3UQc&title=%E3%80%90Suicide+Guy%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%94%B7%E4%BA%BA%E6%A2%A6%E4%B8%AD%E7%9A%8423+%2B+9%E7%A7%8D%E6%AD%BB%E6%B3%95%EF%BC%8C%E6%98%AF%E4%B8%AA%E7%A5%9E%E5%A5%87%E7%9A%84%E6%B8%B8%E6%88%8F&lang=zh&timestamp=1777304201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16348">
     <img src="https://ytcards.demolab.com/?id=56fVvhm3UQc&title=%E3%80%90Suicide+Guy%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%94%B7%E4%BA%BA%E6%A2%A6%E4%B8%AD%E7%9A%8423+%2B+9%E7%A7%8D%E6%AD%BB%E6%B3%95%EF%BC%8C%E6%98%AF%E4%B8%AA%E7%A5%9E%E5%A5%87%E7%9A%84%E6%B8%B8%E6%88%8F&lang=zh&timestamp=1777304201&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16348" alt="【Suicide Guy】（#001）男人梦中的23 + 9种死法，是个神奇的游戏" title="【Suicide Guy】（#001）男人梦中的23 + 9种死法，是个神奇的游戏">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/6rmGM-5fhmQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6rmGM-5fhmQ&title=%E9%9B%80%E9%AD%82%E9%BA%BB%E5%B0%87+X+SAO+%E8%81%AF%E5%8B%95%E9%96%8B%E6%8A%BD%EF%BC%81+%E7%A9%B6%E7%AB%9F%E6%8A%BD%E5%87%BA%E4%BB%80%E9%BA%BD%E5%A5%BD%E6%9D%B1%E8%A5%BF%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1776928340&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=40">
-    <img src="https://ytcards.demolab.com/?id=6rmGM-5fhmQ&title=%E9%9B%80%E9%AD%82%E9%BA%BB%E5%B0%87+X+SAO+%E8%81%AF%E5%8B%95%E9%96%8B%E6%8A%BD%EF%BC%81+%E7%A9%B6%E7%AB%9F%E6%8A%BD%E5%87%BA%E4%BB%80%E9%BA%BD%E5%A5%BD%E6%9D%B1%E8%A5%BF%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1776928340&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=40" alt="雀魂麻將 X SAO 聯動開抽！ 究竟抽出什麽好東西呢？" title="雀魂麻將 X SAO 聯動開抽！ 究竟抽出什麽好東西呢？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
