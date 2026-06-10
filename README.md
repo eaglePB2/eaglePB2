@@ -22,8 +22,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
 - [☾ 清库计划 ⋆ @eaglepb2 ☽ Chunithm X BOOKOFF Day 2](https://www.twitch.tv/videos/2786867361)
 - [☾ 清库计划 ⋆ @eaglepb2 ☽ 老鹰の第一次户外游戏直播](https://www.twitch.tv/videos/2785940926)
 - [☾ 清库计划 ⋆ @eaglepb2 ☽ 我全都搞定了，没问题的（比赞](https://www.twitch.tv/videos/2781293135)
-- [精选内容：終焉決鬥（2）](https://www.twitch.tv/videos/2400633957)
-- [精选内容：終焉決鬥（1）](https://www.twitch.tv/videos/2400633622)
 <!-- TWITCH:END -->
 
 
