@@ -30,6 +30,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=HrBDN-SgbcM">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HrBDN-SgbcM&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%95%B0%E8%AD%B0%EF%BC%81%E9%80%99%E6%98%AF%E4%BB%80%E9%BA%BD%E5%A5%87%E6%80%AA%E7%9A%84%E9%96%8B%E5%A7%8B%EF%BC%81&lang=zh&timestamp=1781618397&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=HrBDN-SgbcM&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%95%B0%E8%AD%B0%EF%BC%81%E9%80%99%E6%98%AF%E4%BB%80%E9%BA%BD%E5%A5%87%E6%80%AA%E7%9A%84%E9%96%8B%E5%A7%8B%EF%BC%81&lang=zh&timestamp=1781618397&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【逆轉裁判】（#001）異議！這是什麽奇怪的開始！" title="【逆轉裁判】（#001）異議！這是什麽奇怪的開始！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=CaNnJzPo7Bc">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CaNnJzPo7Bc&title=%E3%80%90%E7%9B%B8%E4%BF%A1%E6%88%91%EF%BC%8C%E5%B7%B2%E7%BB%8F%E6%90%9E%E5%AE%9A%E4%BA%86%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%88%91%E5%85%A8%E9%83%BD%E6%90%9E%E5%AE%9A%E4%BA%86%EF%BC%8C%E6%B2%A1%E9%97%AE%E9%A2%98%E7%9A%84%EF%BC%88%E6%AF%94%E8%B5%9E&lang=zh&timestamp=1779868998&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11530">
@@ -58,12 +64,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UhQWHqI72W0&title=%E8%80%81%E9%B7%B9%E8%AA%8D%E8%AD%89+%E8%BC%AA%E7%9B%A4%E6%98%AF%E7%9C%9F%E7%9A%84+%E6%B2%92%E5%9C%A8%E9%A8%99+awa&lang=zh&timestamp=1778827219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=69">
     <img src="https://ytcards.demolab.com/?id=UhQWHqI72W0&title=%E8%80%81%E9%B7%B9%E8%AA%8D%E8%AD%89+%E8%BC%AA%E7%9B%A4%E6%98%AF%E7%9C%9F%E7%9A%84+%E6%B2%92%E5%9C%A8%E9%A8%99+awa&lang=zh&timestamp=1778827219&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=69" alt="老鷹認證 輪盤是真的 沒在騙 awa" title="老鷹認證 輪盤是真的 沒在騙 awa">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=56fVvhm3UQc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=56fVvhm3UQc&title=%E3%80%90Suicide+Guy%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%94%B7%E4%BA%BA%E6%A2%A6%E4%B8%AD%E7%9A%8423+%2B+9%E7%A7%8D%E6%AD%BB%E6%B3%95%EF%BC%8C%E6%98%AF%E4%B8%AA%E7%A5%9E%E5%A5%87%E7%9A%84%E6%B8%B8%E6%88%8F&lang=zh&timestamp=1777304201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16348">
-    <img src="https://ytcards.demolab.com/?id=56fVvhm3UQc&title=%E3%80%90Suicide+Guy%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%94%B7%E4%BA%BA%E6%A2%A6%E4%B8%AD%E7%9A%8423+%2B+9%E7%A7%8D%E6%AD%BB%E6%B3%95%EF%BC%8C%E6%98%AF%E4%B8%AA%E7%A5%9E%E5%A5%87%E7%9A%84%E6%B8%B8%E6%88%8F&lang=zh&timestamp=1777304201&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16348" alt="【Suicide Guy】（#001）男人梦中的23 + 9种死法，是个神奇的游戏" title="【Suicide Guy】（#001）男人梦中的23 + 9种死法，是个神奇的游戏">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
