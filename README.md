@@ -19,8 +19,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 主軸☽  異議！這是什麽奇怪的開始！](https://www.twitch.tv/videos/2797797056)
 - [☾ 清库计划 ⋆ @eaglepb2 ☽ Chunithm X BOOKOFF Day 2](https://www.twitch.tv/videos/2786867361)
-- [☾ 清库计划 ⋆ @eaglepb2 ☽ 老鹰の第一次户外游戏直播](https://www.twitch.tv/videos/2785940926)
 <!-- TWITCH:END -->
 
 
