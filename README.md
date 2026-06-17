@@ -32,8 +32,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=HrBDN-SgbcM">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HrBDN-SgbcM&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%95%B0%E8%AD%B0%EF%BC%81%E9%80%99%E6%98%AF%E4%BB%80%E9%BA%BD%E5%A5%87%E6%80%AA%E7%9A%84%E9%96%8B%E5%A7%8B%EF%BC%81&lang=zh&timestamp=1781618397&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=HrBDN-SgbcM&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%95%B0%E8%AD%B0%EF%BC%81%E9%80%99%E6%98%AF%E4%BB%80%E9%BA%BD%E5%A5%87%E6%80%AA%E7%9A%84%E9%96%8B%E5%A7%8B%EF%BC%81&lang=zh&timestamp=1781618397&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【逆轉裁判】（#001）異議！這是什麽奇怪的開始！" title="【逆轉裁判】（#001）異議！這是什麽奇怪的開始！">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HrBDN-SgbcM&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%95%B0%E8%AD%B0%EF%BC%81%E9%80%99%E6%98%AF%E4%BB%80%E9%BA%BD%E5%A5%87%E6%80%AA%E7%9A%84%E9%96%8B%E5%A7%8B%EF%BC%81&lang=zh&timestamp=1781654548&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13438">
+    <img src="https://ytcards.demolab.com/?id=HrBDN-SgbcM&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%95%B0%E8%AD%B0%EF%BC%81%E9%80%99%E6%98%AF%E4%BB%80%E9%BA%BD%E5%A5%87%E6%80%AA%E7%9A%84%E9%96%8B%E5%A7%8B%EF%BC%81&lang=zh&timestamp=1781654548&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13438" alt="【逆轉裁判】（#001）異議！這是什麽奇怪的開始！" title="【逆轉裁判】（#001）異議！這是什麽奇怪的開始！">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=CaNnJzPo7Bc">
