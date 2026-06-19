@@ -31,6 +31,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=a-Z4QVj0nmY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=a-Z4QVj0nmY&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%9C%8B%E6%8B%9B%EF%BC%81%E7%84%A1%E9%99%90SL%E5%A4%A7%E6%B3%95%EF%BC%81&lang=zh&timestamp=1781865858&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18481">
+    <img src="https://ytcards.demolab.com/?id=a-Z4QVj0nmY&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%9C%8B%E6%8B%9B%EF%BC%81%E7%84%A1%E9%99%90SL%E5%A4%A7%E6%B3%95%EF%BC%81&lang=zh&timestamp=1781865858&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18481" alt="【逆轉裁判】（#002）看招！無限SL大法！" title="【逆轉裁判】（#002）看招！無限SL大法！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=HrBDN-SgbcM">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HrBDN-SgbcM&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%95%B0%E8%AD%B0%EF%BC%81%E9%80%99%E6%98%AF%E4%BB%80%E9%BA%BD%E5%A5%87%E6%80%AA%E7%9A%84%E9%96%8B%E5%A7%8B%EF%BC%81&lang=zh&timestamp=1781654548&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13438">
@@ -59,12 +65,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vi2_EqUxNeM&title=%E3%80%90%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E8%9F%B9%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%A6%82%E6%9E%9C%E6%88%91%E5%8F%98%E6%88%90%E5%A4%A7%E9%97%B8%E8%9F%B9%E4%BA%86%EF%BC%8C%E4%BD%A0%E8%BF%98%E7%88%B1%E6%88%91%E4%B9%88+030&lang=zh&timestamp=1779523376&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11685">
     <img src="https://ytcards.demolab.com/?id=vi2_EqUxNeM&title=%E3%80%90%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E8%9F%B9%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%A6%82%E6%9E%9C%E6%88%91%E5%8F%98%E6%88%90%E5%A4%A7%E9%97%B8%E8%9F%B9%E4%BA%86%EF%BC%8C%E4%BD%A0%E8%BF%98%E7%88%B1%E6%88%91%E4%B9%88+030&lang=zh&timestamp=1779523376&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11685" alt="【万物皆可蟹】（#001）如果我变成大闸蟹了，你还爱我么 030" title="【万物皆可蟹】（#001）如果我变成大闸蟹了，你还爱我么 030">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/UhQWHqI72W0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UhQWHqI72W0&title=%E8%80%81%E9%B7%B9%E8%AA%8D%E8%AD%89+%E8%BC%AA%E7%9B%A4%E6%98%AF%E7%9C%9F%E7%9A%84+%E6%B2%92%E5%9C%A8%E9%A8%99+awa&lang=zh&timestamp=1778827219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=69">
-    <img src="https://ytcards.demolab.com/?id=UhQWHqI72W0&title=%E8%80%81%E9%B7%B9%E8%AA%8D%E8%AD%89+%E8%BC%AA%E7%9B%A4%E6%98%AF%E7%9C%9F%E7%9A%84+%E6%B2%92%E5%9C%A8%E9%A8%99+awa&lang=zh&timestamp=1778827219&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=69" alt="老鷹認證 輪盤是真的 沒在騙 awa" title="老鷹認證 輪盤是真的 沒在騙 awa">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
