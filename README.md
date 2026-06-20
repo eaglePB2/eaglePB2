@@ -32,6 +32,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=buQxU-M4WIM">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=buQxU-M4WIM&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23003%EF%BC%89%E7%AD%89%E7%AD%89%EF%BC%81%E9%82%8F%E8%BC%AF%E6%9C%89%E7%9F%9B%E7%9B%BE%EF%BC%81&lang=zh&timestamp=1781941164&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=buQxU-M4WIM&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23003%EF%BC%89%E7%AD%89%E7%AD%89%EF%BC%81%E9%82%8F%E8%BC%AF%E6%9C%89%E7%9F%9B%E7%9B%BE%EF%BC%81&lang=zh&timestamp=1781941164&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【逆轉裁判】（#003）等等！邏輯有矛盾！" title="【逆轉裁判】（#003）等等！邏輯有矛盾！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=a-Z4QVj0nmY">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=a-Z4QVj0nmY&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%9C%8B%E6%8B%9B%EF%BC%81%E7%84%A1%E9%99%90SL%E5%A4%A7%E6%B3%95%EF%BC%81&lang=zh&timestamp=1781865858&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18481">
@@ -60,12 +66,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AeXCtWEzUps&title=%E3%80%90DEG%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%B8%8D%E7%94%A8%E6%89%BE%E5%85%B3%E5%8D%A1%E7%9A%84%E8%A7%A3%E8%B0%9C%E5%B2%9B~+%E4%BA%8C%E8%A7%81%E4%B8%AD&lang=zh&timestamp=1779615234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12757">
     <img src="https://ytcards.demolab.com/?id=AeXCtWEzUps&title=%E3%80%90DEG%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%B8%8D%E7%94%A8%E6%89%BE%E5%85%B3%E5%8D%A1%E7%9A%84%E8%A7%A3%E8%B0%9C%E5%B2%9B~+%E4%BA%8C%E8%A7%81%E4%B8%AD&lang=zh&timestamp=1779615234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12757" alt="【DEG】（#000）不用找关卡的解谜岛~ 二见中" title="【DEG】（#000）不用找关卡的解谜岛~ 二见中">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=vi2_EqUxNeM">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vi2_EqUxNeM&title=%E3%80%90%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E8%9F%B9%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%A6%82%E6%9E%9C%E6%88%91%E5%8F%98%E6%88%90%E5%A4%A7%E9%97%B8%E8%9F%B9%E4%BA%86%EF%BC%8C%E4%BD%A0%E8%BF%98%E7%88%B1%E6%88%91%E4%B9%88+030&lang=zh&timestamp=1779523376&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11685">
-    <img src="https://ytcards.demolab.com/?id=vi2_EqUxNeM&title=%E3%80%90%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E8%9F%B9%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%A6%82%E6%9E%9C%E6%88%91%E5%8F%98%E6%88%90%E5%A4%A7%E9%97%B8%E8%9F%B9%E4%BA%86%EF%BC%8C%E4%BD%A0%E8%BF%98%E7%88%B1%E6%88%91%E4%B9%88+030&lang=zh&timestamp=1779523376&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11685" alt="【万物皆可蟹】（#001）如果我变成大闸蟹了，你还爱我么 030" title="【万物皆可蟹】（#001）如果我变成大闸蟹了，你还爱我么 030">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
