@@ -34,8 +34,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=buQxU-M4WIM">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=buQxU-M4WIM&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23003%EF%BC%89%E7%AD%89%E7%AD%89%EF%BC%81%E9%82%8F%E8%BC%AF%E6%9C%89%E7%9F%9B%E7%9B%BE%EF%BC%81&lang=zh&timestamp=1781941164&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=buQxU-M4WIM&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23003%EF%BC%89%E7%AD%89%E7%AD%89%EF%BC%81%E9%82%8F%E8%BC%AF%E6%9C%89%E7%9F%9B%E7%9B%BE%EF%BC%81&lang=zh&timestamp=1781941164&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【逆轉裁判】（#003）等等！邏輯有矛盾！" title="【逆轉裁判】（#003）等等！邏輯有矛盾！">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=buQxU-M4WIM&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23003%EF%BC%89%E7%AD%89%E7%AD%89%EF%BC%81%E9%82%8F%E8%BC%AF%E6%9C%89%E7%9F%9B%E7%9B%BE%EF%BC%81&lang=zh&timestamp=1781966795&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22141">
+    <img src="https://ytcards.demolab.com/?id=buQxU-M4WIM&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23003%EF%BC%89%E7%AD%89%E7%AD%89%EF%BC%81%E9%82%8F%E8%BC%AF%E6%9C%89%E7%9F%9B%E7%9B%BE%EF%BC%81&lang=zh&timestamp=1781966795&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=22141" alt="【逆轉裁判】（#003）等等！邏輯有矛盾！" title="【逆轉裁判】（#003）等等！邏輯有矛盾！">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=a-Z4QVj0nmY">
