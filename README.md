@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=6wVVm7wT3PQ">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6wVVm7wT3PQ&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23004%EF%BC%89%E9%80%9F%E9%80%9F%EF%BC%811-5%E9%A6%AC%E6%8B%89%E6%9D%BE%E9%81%8B%E8%A1%8C%E4%B8%AD%EF%BC%81&lang=zh&timestamp=1782299825&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=41442">
+    <img src="https://ytcards.demolab.com/?id=6wVVm7wT3PQ&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23004%EF%BC%89%E9%80%9F%E9%80%9F%EF%BC%811-5%E9%A6%AC%E6%8B%89%E6%9D%BE%E9%81%8B%E8%A1%8C%E4%B8%AD%EF%BC%81&lang=zh&timestamp=1782299825&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=41442" alt="【逆轉裁判】（#004）速速！1-5馬拉松運行中！" title="【逆轉裁判】（#004）速速！1-5馬拉松運行中！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=buQxU-M4WIM">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=buQxU-M4WIM&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23003%EF%BC%89%E7%AD%89%E7%AD%89%EF%BC%81%E9%82%8F%E8%BC%AF%E6%9C%89%E7%9F%9B%E7%9B%BE%EF%BC%81&lang=zh&timestamp=1781966795&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22141">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aOG7bYFYML0&title=%E3%80%90Suicide+Guy%3A+Sleepin%27+Deeply%E3%80%91%EF%BC%88%23002%EF%BC%89%E9%A3%B2%E9%85%92%E7%94%B7%E4%BA%BA%E7%9A%84%E6%B7%B1%E6%B5%B7%E5%A4%A2%E5%A2%83%E6%84%8F%E8%AD%98%E6%B5%81&lang=zh&timestamp=1779695028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8155">
     <img src="https://ytcards.demolab.com/?id=aOG7bYFYML0&title=%E3%80%90Suicide+Guy%3A+Sleepin%27+Deeply%E3%80%91%EF%BC%88%23002%EF%BC%89%E9%A3%B2%E9%85%92%E7%94%B7%E4%BA%BA%E7%9A%84%E6%B7%B1%E6%B5%B7%E5%A4%A2%E5%A2%83%E6%84%8F%E8%AD%98%E6%B5%81&lang=zh&timestamp=1779695028&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8155" alt="【Suicide Guy: Sleepin' Deeply】（#002）飲酒男人的深海夢境意識流" title="【Suicide Guy: Sleepin' Deeply】（#002）飲酒男人的深海夢境意識流">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=AeXCtWEzUps">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AeXCtWEzUps&title=%E3%80%90DEG%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%B8%8D%E7%94%A8%E6%89%BE%E5%85%B3%E5%8D%A1%E7%9A%84%E8%A7%A3%E8%B0%9C%E5%B2%9B~+%E4%BA%8C%E8%A7%81%E4%B8%AD&lang=zh&timestamp=1779615234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12757">
-    <img src="https://ytcards.demolab.com/?id=AeXCtWEzUps&title=%E3%80%90DEG%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%B8%8D%E7%94%A8%E6%89%BE%E5%85%B3%E5%8D%A1%E7%9A%84%E8%A7%A3%E8%B0%9C%E5%B2%9B~+%E4%BA%8C%E8%A7%81%E4%B8%AD&lang=zh&timestamp=1779615234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12757" alt="【DEG】（#000）不用找关卡的解谜岛~ 二见中" title="【DEG】（#000）不用找关卡的解谜岛~ 二见中">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
