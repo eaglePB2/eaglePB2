@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 主軸☽  這是一隻全部人打到後期，才剛開始的老鷹](https://www.twitch.tv/videos/2804773546)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 主軸☽  送修！聽説第五章要打兩天](https://www.twitch.tv/videos/2803302350)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 主軸☽  小開，第四章打完就下](https://www.twitch.tv/videos/2800365875)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 主軸☽  等等！邏輯有矛盾！](https://www.twitch.tv/videos/2799505795)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 主軸☽  看招！無限SL大法！](https://www.twitch.tv/videos/2798602073)
-- [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 主軸☽  異議！這是什麽奇怪的開始！](https://www.twitch.tv/videos/2797797056)
 <!-- TWITCH:END -->
 
 
