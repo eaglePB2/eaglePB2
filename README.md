@@ -35,8 +35,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=tT2Sl3DE4Zk">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tT2Sl3DE4Zk&title=%E3%80%90Minecraft+Dungeon+S2%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%B5%82%E7%95%8C+%2B+%E9%81%A0%E5%8F%A4%E7%8B%A9%E7%8D%B5+%3AD&lang=zh&timestamp=1782474235&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
-    <img src="https://ytcards.demolab.com/?id=tT2Sl3DE4Zk&title=%E3%80%90Minecraft+Dungeon+S2%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%B5%82%E7%95%8C+%2B+%E9%81%A0%E5%8F%A4%E7%8B%A9%E7%8D%B5+%3AD&lang=zh&timestamp=1782474235&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Minecraft Dungeon S2】（#002）終界 + 遠古狩獵 :D" title="【Minecraft Dungeon S2】（#002）終界 + 遠古狩獵 :D">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tT2Sl3DE4Zk&title=%E3%80%90Minecraft+Dungeon+S2%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%B5%82%E7%95%8C+%2B+%E9%81%A0%E5%8F%A4%E7%8B%A9%E7%8D%B5+%3AD&lang=zh&timestamp=1782533203&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10854">
+    <img src="https://ytcards.demolab.com/?id=tT2Sl3DE4Zk&title=%E3%80%90Minecraft+Dungeon+S2%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%B5%82%E7%95%8C+%2B+%E9%81%A0%E5%8F%A4%E7%8B%A9%E7%8D%B5+%3AD&lang=zh&timestamp=1782533203&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10854" alt="【Minecraft Dungeon S2】（#002）終界 + 遠古狩獵 :D" title="【Minecraft Dungeon S2】（#002）終界 + 遠古狩獵 :D">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=BMjAvHH_ngQ">
