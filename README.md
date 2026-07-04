@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=_mEtsr6MU-Q">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_mEtsr6MU-Q&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A42%E3%80%91%EF%BC%88%23005%EF%BC%89%E7%9C%8B%E6%8B%9B%EF%BC%81%E5%A4%9A%E4%BA%86%E4%BA%BA%E7%89%A9%E8%B3%87%E6%96%99+%2B+%E5%BF%83%E9%9D%88%E6%9E%B7%E9%8E%96%E7%9A%84%E7%95%B0%E8%AD%B0%EF%BC%81&lang=zh&timestamp=1783150591&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23415">
+    <img src="https://ytcards.demolab.com/?id=_mEtsr6MU-Q&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A42%E3%80%91%EF%BC%88%23005%EF%BC%89%E7%9C%8B%E6%8B%9B%EF%BC%81%E5%A4%9A%E4%BA%86%E4%BA%BA%E7%89%A9%E8%B3%87%E6%96%99+%2B+%E5%BF%83%E9%9D%88%E6%9E%B7%E9%8E%96%E7%9A%84%E7%95%B0%E8%AD%B0%EF%BC%81&lang=zh&timestamp=1783150591&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=23415" alt="【逆轉裁判2】（#005）看招！多了人物資料 + 心靈枷鎖的異議！" title="【逆轉裁判2】（#005）看招！多了人物資料 + 心靈枷鎖的異議！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=tT2Sl3DE4Zk">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tT2Sl3DE4Zk&title=%E3%80%90Minecraft+Dungeon+S2%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%B5%82%E7%95%8C+%2B+%E9%81%A0%E5%8F%A4%E7%8B%A9%E7%8D%B5+%3AD&lang=zh&timestamp=1782533203&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10854">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=a-Z4QVj0nmY&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%9C%8B%E6%8B%9B%EF%BC%81%E7%84%A1%E9%99%90SL%E5%A4%A7%E6%B3%95%EF%BC%81&lang=zh&timestamp=1781865858&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18481">
     <img src="https://ytcards.demolab.com/?id=a-Z4QVj0nmY&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%9C%8B%E6%8B%9B%EF%BC%81%E7%84%A1%E9%99%90SL%E5%A4%A7%E6%B3%95%EF%BC%81&lang=zh&timestamp=1781865858&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18481" alt="【逆轉裁判】（#002）看招！無限SL大法！" title="【逆轉裁判】（#002）看招！無限SL大法！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=HrBDN-SgbcM">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HrBDN-SgbcM&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%95%B0%E8%AD%B0%EF%BC%81%E9%80%99%E6%98%AF%E4%BB%80%E9%BA%BD%E5%A5%87%E6%80%AA%E7%9A%84%E9%96%8B%E5%A7%8B%EF%BC%81&lang=zh&timestamp=1781654548&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13438">
-    <img src="https://ytcards.demolab.com/?id=HrBDN-SgbcM&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A4%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%95%B0%E8%AD%B0%EF%BC%81%E9%80%99%E6%98%AF%E4%BB%80%E9%BA%BD%E5%A5%87%E6%80%AA%E7%9A%84%E9%96%8B%E5%A7%8B%EF%BC%81&lang=zh&timestamp=1781654548&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13438" alt="【逆轉裁判】（#001）異議！這是什麽奇怪的開始！" title="【逆轉裁判】（#001）異議！這是什麽奇怪的開始！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
