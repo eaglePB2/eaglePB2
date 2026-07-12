@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 主軸☽  雙混沌模式 終於繼續了嗎 owo](https://www.twitch.tv/videos/2817448744)
+- [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 主軸☽  雙混沌模式 終於繼續了嗎 owo](https://www.twitch.tv/videos/2817383509)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 主軸☽  小开一下游戏，等等要调整笔电环境了](https://www.twitch.tv/videos/2816499200)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 主軸☽  10:01... 我對不起龐大的音游玩家們……](https://www.twitch.tv/videos/2814981386)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 主軸☽  10:01... 我對不起龐大的音游玩家們……](https://www.twitch.tv/videos/2811237896)
-- [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 主軸☽  逆轉裁判2 正式上綫](https://www.twitch.tv/videos/2811113824)
-- [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 主軸☽  9點林間三麻 · 重啓](https://www.twitch.tv/videos/2809599100)
 <!-- TWITCH:END -->
 
 
