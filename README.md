@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=MgXNIq4T-B4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MgXNIq4T-B4&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23003%EF%BC%89Hardmode+%E6%A8%A1%E5%BC%8F%EF%BC%8C%E5%95%93%E5%8B%95%EF%BC%81+%E9%82%84%E6%9C%89%EF%BC%8C%E5%A4%A7%E5%B8%AB%E6%A8%A1%E5%BC%8F%E6%80%8E%E9%BA%BD%E9%83%BD%E5%9C%A8%E5%A0%86%E5%B0%B8%E9%AB%94%E2%80%A6%E2%80%A6&lang=zh&timestamp=1784456137&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23650">
+    <img src="https://ytcards.demolab.com/?id=MgXNIq4T-B4&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23003%EF%BC%89Hardmode+%E6%A8%A1%E5%BC%8F%EF%BC%8C%E5%95%93%E5%8B%95%EF%BC%81+%E9%82%84%E6%9C%89%EF%BC%8C%E5%A4%A7%E5%B8%AB%E6%A8%A1%E5%BC%8F%E6%80%8E%E9%BA%BD%E9%83%BD%E5%9C%A8%E5%A0%86%E5%B0%B8%E9%AB%94%E2%80%A6%E2%80%A6&lang=zh&timestamp=1784456137&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=23650" alt="【Terraria // 泰拉瑞亞 S2】（#003）Hardmode 模式，啓動！ 還有，大師模式怎麽都在堆尸體……" title="【Terraria // 泰拉瑞亞 S2】（#003）Hardmode 模式，啓動！ 還有，大師模式怎麽都在堆尸體……">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=Tt0h0STq1nw">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Tt0h0STq1nw&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A42%E3%80%91%EF%BC%88%23006%EF%BC%89%E7%9C%8B%E6%88%B2%EF%BC%81%E5%82%B3%E7%B5%B1%E9%A6%AC%E6%88%B2%E5%9C%98%E5%92%8C%E7%8F%BE%E4%BB%A3%E8%A1%A8%E6%BC%94%E7%9A%84%E8%A1%9D%E7%AA%81%EF%BC%81&lang=zh&timestamp=1784282008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19834">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=539fU3gQHuw&title=%E3%80%90%E5%AF%86%E7%A0%81%EF%BC%8C%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%89%BE%E5%9B%9B%E4%BD%8D%E6%95%B0%E5%AF%86%E7%A0%81%E5%B0%8F%E6%B8%B8%E6%88%8F%EF%BC%8C%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E5%A0%86%E5%A5%87%E6%80%AA%E7%9A%84%E5%B0%8F%E7%BB%86%E8%8A%82%E5%87%91%E8%B5%B7%E6%9D%A5%E7%9A%84%E7%8E%A9%E6%84%8F&lang=zh&timestamp=1783787963&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1576">
     <img src="https://ytcards.demolab.com/?id=539fU3gQHuw&title=%E3%80%90%E5%AF%86%E7%A0%81%EF%BC%8C%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%89%BE%E5%9B%9B%E4%BD%8D%E6%95%B0%E5%AF%86%E7%A0%81%E5%B0%8F%E6%B8%B8%E6%88%8F%EF%BC%8C%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E5%A0%86%E5%A5%87%E6%80%AA%E7%9A%84%E5%B0%8F%E7%BB%86%E8%8A%82%E5%87%91%E8%B5%B7%E6%9D%A5%E7%9A%84%E7%8E%A9%E6%84%8F&lang=zh&timestamp=1783787963&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1576" alt="【密码，是什么？】（#000）找四位数密码小游戏，其实是一堆奇怪的小细节凑起来的玩意" title="【密码，是什么？】（#000）找四位数密码小游戏，其实是一堆奇怪的小细节凑起来的玩意">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=kl6opSt7yRQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kl6opSt7yRQ&title=%E3%80%90Her+Trees%3A+First+Puzzle%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%BE%88%E5%90%83%E8%85%A6%E9%9B%BB%E6%B3%A2%E7%9A%84%E8%A7%A3%E8%AC%8E%E6%B8%B8%E6%88%B2%EF%BC%8C%E7%9C%8B%E4%B8%8D%E5%88%B0%E4%B8%80%E8%BC%A9%E5%AD%90%E9%83%BD%E8%A7%A3%E4%B8%8D%E5%87%BA%E4%BE%86%E7%9A%84%E9%82%A3%E7%A8%AE&lang=zh&timestamp=1783786426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2345">
-    <img src="https://ytcards.demolab.com/?id=kl6opSt7yRQ&title=%E3%80%90Her+Trees%3A+First+Puzzle%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%BE%88%E5%90%83%E8%85%A6%E9%9B%BB%E6%B3%A2%E7%9A%84%E8%A7%A3%E8%AC%8E%E6%B8%B8%E6%88%B2%EF%BC%8C%E7%9C%8B%E4%B8%8D%E5%88%B0%E4%B8%80%E8%BC%A9%E5%AD%90%E9%83%BD%E8%A7%A3%E4%B8%8D%E5%87%BA%E4%BE%86%E7%9A%84%E9%82%A3%E7%A8%AE&lang=zh&timestamp=1783786426&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2345" alt="【Her Trees: First Puzzle】（#001）很吃腦電波的解謎游戲，看不到一輩子都解不出來的那種" title="【Her Trees: First Puzzle】（#001）很吃腦電波的解謎游戲，看不到一輩子都解不出來的那種">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
