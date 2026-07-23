@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 額外☽ 林間盃 2026/07 第三階段三麻積分賽](https://www.twitch.tv/videos/2826173948)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 副軸☽  今天到底有沒有泰拉瑞亞呢？](https://www.twitch.tv/videos/2822975505)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 主軸☽  御劍 要回來了嗎OAO](https://www.twitch.tv/videos/2822117766)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 主軸☽  各位期待的馬戲團 來了！](https://www.twitch.tv/videos/2821304627)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 主軸☽  各位期待的馬戲團 來了！](https://www.twitch.tv/videos/2820536245)
-- [☾ 早班晚播 ⋆ @eaglepb2 ⋆ 副軸☽  雙混沌模式 終於繼續了嗎 owo](https://www.twitch.tv/videos/2817448744)
 <!-- TWITCH:END -->
 
 
