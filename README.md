@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=XXHgZEVbRgA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XXHgZEVbRgA&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23004%EF%BC%89%E4%B8%89%E7%8E%8B%E6%94%BB%E7%95%A5%EF%BC%81&lang=zh&timestamp=1784980634&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24857">
+    <img src="https://ytcards.demolab.com/?id=XXHgZEVbRgA&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23004%EF%BC%89%E4%B8%89%E7%8E%8B%E6%94%BB%E7%95%A5%EF%BC%81&lang=zh&timestamp=1784980634&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=24857" alt="【Terraria // 泰拉瑞亞 S2】（#004）三王攻略！" title="【Terraria // 泰拉瑞亞 S2】（#004）三王攻略！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=i4n55Wec91s">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=i4n55Wec91s&title=%E3%80%90%E5%9C%B0%E7%8D%84%E5%85%AC%E4%B8%BB%E3%80%91%EF%BC%88%23001%EF%BC%89%E4%BD%86%E4%B8%81%EF%BC%8C%E4%BD%A0%E6%80%8E%E9%BA%BD%E5%8F%88%E5%A4%B1%E6%86%B6%E4%BA%86%E5%91%A2%EF%BC%9F%E7%AD%89%E7%AD%89%EF%BC%8C%E7%88%B2%E4%BB%80%E9%BA%BD%E6%88%91%E6%9C%83%E8%AA%AC%E2%80%9C%E5%8F%88%E2%80%9D%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1784869394&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10700">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tYELPFUoYLM&title=%E3%80%90Her+Trees%3A+Puzzle+Dream%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%9C%80%E5%90%8E%E4%B8%80%E9%83%A8%E6%9B%B2%EF%BC%8C%E7%A9%B6%E7%AB%9F%E8%83%BD%E5%B8%A6%E6%9D%A5%E5%A4%9A%E5%B0%91%E8%84%91%E6%B3%A2%E6%96%99%E7%90%86%E5%91%A2~%EF%BC%9F&lang=zh&timestamp=1783805995&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4109">
     <img src="https://ytcards.demolab.com/?id=tYELPFUoYLM&title=%E3%80%90Her+Trees%3A+Puzzle+Dream%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%9C%80%E5%90%8E%E4%B8%80%E9%83%A8%E6%9B%B2%EF%BC%8C%E7%A9%B6%E7%AB%9F%E8%83%BD%E5%B8%A6%E6%9D%A5%E5%A4%9A%E5%B0%91%E8%84%91%E6%B3%A2%E6%96%99%E7%90%86%E5%91%A2~%EF%BC%9F&lang=zh&timestamp=1783805995&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4109" alt="【Her Trees: Puzzle Dream】（#003）最后一部曲，究竟能带来多少脑波料理呢~？" title="【Her Trees: Puzzle Dream】（#003）最后一部曲，究竟能带来多少脑波料理呢~？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=hpFxUd7v_p4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hpFxUd7v_p4&title=%E3%80%90Her+Trees%3A+The+Puzzle+House%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%BB%A7%E7%BB%AD%E8%84%91%E7%94%B5%E6%B3%A2%E8%A7%A3%E8%B0%9C%EF%BC%8C%E8%BF%99%E6%AC%A1%E8%BD%AE%E5%88%B0%E5%B1%8B%E5%AD%90%E5%86%85%E7%9A%84%E8%B0%9C%E9%A2%98&lang=zh&timestamp=1783791425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2820">
-    <img src="https://ytcards.demolab.com/?id=hpFxUd7v_p4&title=%E3%80%90Her+Trees%3A+The+Puzzle+House%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%BB%A7%E7%BB%AD%E8%84%91%E7%94%B5%E6%B3%A2%E8%A7%A3%E8%B0%9C%EF%BC%8C%E8%BF%99%E6%AC%A1%E8%BD%AE%E5%88%B0%E5%B1%8B%E5%AD%90%E5%86%85%E7%9A%84%E8%B0%9C%E9%A2%98&lang=zh&timestamp=1783791425&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2820" alt="【Her Trees: The Puzzle House】（#002）继续脑电波解谜，这次轮到屋子内的谜题" title="【Her Trees: The Puzzle House】（#002）继续脑电波解谜，这次轮到屋子内的谜题">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
