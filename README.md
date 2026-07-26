@@ -33,6 +33,18 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=JTYyOC5hIf8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JTYyOC5hIf8&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23005%EF%BC%89%E4%B8%96%E7%B4%80%E4%B9%8B%E8%8A%B1+%2B+%E9%9B%95%E5%83%8F%E5%A4%A7%E5%B0%8D%E6%B1%BA%EF%BC%81+%E9%A0%86%E5%B8%B6%E8%A3%9C%E5%87%BA%E6%A7%8D%E6%A2%B0%E6%9C%80%E5%BC%BA%E9%85%8D%E7%BD%AE+awa&lang=zh&timestamp=1785054783&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22381">
+    <img src="https://ytcards.demolab.com/?id=JTYyOC5hIf8&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23005%EF%BC%89%E4%B8%96%E7%B4%80%E4%B9%8B%E8%8A%B1+%2B+%E9%9B%95%E5%83%8F%E5%A4%A7%E5%B0%8D%E6%B1%BA%EF%BC%81+%E9%A0%86%E5%B8%B6%E8%A3%9C%E5%87%BA%E6%A7%8D%E6%A2%B0%E6%9C%80%E5%BC%BA%E9%85%8D%E7%BD%AE+awa&lang=zh&timestamp=1785054783&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=22381" alt="【Terraria // 泰拉瑞亞 S2】（#005）世紀之花 + 雕像大對決！ 順帶補出槍械最强配置 awa" title="【Terraria // 泰拉瑞亞 S2】（#005）世紀之花 + 雕像大對決！ 順帶補出槍械最强配置 awa">
+  </picture>
+</a>
+<a href="https://www.youtube.com/shorts/_u3fRMtz_CY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_u3fRMtz_CY&title=HoloDream+%E9%96%8B%E5%B9%9550%E6%8A%BD%EF%BC%81+%E8%83%BD%E6%8A%BD%E5%87%BA%E5%A4%9A%E5%B0%915%E6%98%9F%E5%A5%BD%E8%A9%95%E8%A7%92%E8%89%B2%EF%BC%9F&lang=zh&timestamp=1785052323&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=99">
+    <img src="https://ytcards.demolab.com/?id=_u3fRMtz_CY&title=HoloDream+%E9%96%8B%E5%B9%9550%E6%8A%BD%EF%BC%81+%E8%83%BD%E6%8A%BD%E5%87%BA%E5%A4%9A%E5%B0%915%E6%98%9F%E5%A5%BD%E8%A9%95%E8%A7%92%E8%89%B2%EF%BC%9F&lang=zh&timestamp=1785052323&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=99" alt="HoloDream 開幕50抽！ 能抽出多少5星好評角色？" title="HoloDream 開幕50抽！ 能抽出多少5星好評角色？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=XXHgZEVbRgA">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XXHgZEVbRgA&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23004%EF%BC%89%E4%B8%89%E7%8E%8B%E6%94%BB%E7%95%A5%EF%BC%81&lang=zh&timestamp=1784980634&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24857">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Tt0h0STq1nw&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A42%E3%80%91%EF%BC%88%23006%EF%BC%89%E7%9C%8B%E6%88%B2%EF%BC%81%E5%82%B3%E7%B5%B1%E9%A6%AC%E6%88%B2%E5%9C%98%E5%92%8C%E7%8F%BE%E4%BB%A3%E8%A1%A8%E6%BC%94%E7%9A%84%E8%A1%9D%E7%AA%81%EF%BC%81&lang=zh&timestamp=1784282008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19834">
     <img src="https://ytcards.demolab.com/?id=Tt0h0STq1nw&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A42%E3%80%91%EF%BC%88%23006%EF%BC%89%E7%9C%8B%E6%88%B2%EF%BC%81%E5%82%B3%E7%B5%B1%E9%A6%AC%E6%88%B2%E5%9C%98%E5%92%8C%E7%8F%BE%E4%BB%A3%E8%A1%A8%E6%BC%94%E7%9A%84%E8%A1%9D%E7%AA%81%EF%BC%81&lang=zh&timestamp=1784282008&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19834" alt="【逆轉裁判2】（#006）看戲！傳統馬戲團和現代表演的衝突！" title="【逆轉裁判2】（#006）看戲！傳統馬戲團和現代表演的衝突！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=JQbelwGZuCI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JQbelwGZuCI&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%90%84%E4%BD%8D%E7%9F%A5%E9%81%93%E9%80%99%E7%B3%BB%E5%88%97%E4%B8%8A%E4%B8%80%E9%9B%86%E6%98%AF%E6%8E%A5%E8%BF%91%E5%85%A9%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BA%8B%E6%83%85%E4%BA%86%E5%97%8E%EF%BC%9F&lang=zh&timestamp=1783855822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21600">
-    <img src="https://ytcards.demolab.com/?id=JQbelwGZuCI&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23002%EF%BC%89%E5%90%84%E4%BD%8D%E7%9F%A5%E9%81%93%E9%80%99%E7%B3%BB%E5%88%97%E4%B8%8A%E4%B8%80%E9%9B%86%E6%98%AF%E6%8E%A5%E8%BF%91%E5%85%A9%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BA%8B%E6%83%85%E4%BA%86%E5%97%8E%EF%BC%9F&lang=zh&timestamp=1783855822&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21600" alt="【Terraria // 泰拉瑞亞 S2】（#002）各位知道這系列上一集是接近兩年前的事情了嗎？" title="【Terraria // 泰拉瑞亞 S2】（#002）各位知道這系列上一集是接近兩年前的事情了嗎？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=tYELPFUoYLM">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tYELPFUoYLM&title=%E3%80%90Her+Trees%3A+Puzzle+Dream%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%9C%80%E5%90%8E%E4%B8%80%E9%83%A8%E6%9B%B2%EF%BC%8C%E7%A9%B6%E7%AB%9F%E8%83%BD%E5%B8%A6%E6%9D%A5%E5%A4%9A%E5%B0%91%E8%84%91%E6%B3%A2%E6%96%99%E7%90%86%E5%91%A2~%EF%BC%9F&lang=zh&timestamp=1783805995&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4109">
-    <img src="https://ytcards.demolab.com/?id=tYELPFUoYLM&title=%E3%80%90Her+Trees%3A+Puzzle+Dream%E3%80%91%EF%BC%88%23003%EF%BC%89%E6%9C%80%E5%90%8E%E4%B8%80%E9%83%A8%E6%9B%B2%EF%BC%8C%E7%A9%B6%E7%AB%9F%E8%83%BD%E5%B8%A6%E6%9D%A5%E5%A4%9A%E5%B0%91%E8%84%91%E6%B3%A2%E6%96%99%E7%90%86%E5%91%A2~%EF%BC%9F&lang=zh&timestamp=1783805995&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4109" alt="【Her Trees: Puzzle Dream】（#003）最后一部曲，究竟能带来多少脑波料理呢~？" title="【Her Trees: Puzzle Dream】（#003）最后一部曲，究竟能带来多少脑波料理呢~？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
