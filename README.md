@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=7ofmHbJD5oI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7ofmHbJD5oI&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A42%E3%80%91%EF%BC%88%23007%EF%BC%89%E5%86%8D%E8%A6%8B%E5%85%A8%E5%A3%98%E6%89%93%EF%BC%81%E5%A6%82%E6%9E%9C%E4%BD%A0%E8%BE%AF%E8%AD%B7%E7%9A%84%E4%BA%BA%E6%98%AF%E6%9C%89%E7%BD%AA%E7%9A%84%EF%BC%8C%E4%BD%A0%E8%A6%81%E6%80%8E%E9%BA%BD%E8%BE%A6%E5%91%A2%E6%88%90%E6%AD%A5%E5%A0%82+awa&lang=zh&timestamp=1785409997&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28923">
+    <img src="https://ytcards.demolab.com/?id=7ofmHbJD5oI&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A42%E3%80%91%EF%BC%88%23007%EF%BC%89%E5%86%8D%E8%A6%8B%E5%85%A8%E5%A3%98%E6%89%93%EF%BC%81%E5%A6%82%E6%9E%9C%E4%BD%A0%E8%BE%AF%E8%AD%B7%E7%9A%84%E4%BA%BA%E6%98%AF%E6%9C%89%E7%BD%AA%E7%9A%84%EF%BC%8C%E4%BD%A0%E8%A6%81%E6%80%8E%E9%BA%BD%E8%BE%A6%E5%91%A2%E6%88%90%E6%AD%A5%E5%A0%82+awa&lang=zh&timestamp=1785409997&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28923" alt="【逆轉裁判2】（#007）再見全壘打！如果你辯護的人是有罪的，你要怎麽辦呢成步堂 awa" title="【逆轉裁判2】（#007）再見全壘打！如果你辯護的人是有罪的，你要怎麽辦呢成步堂 awa">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=JTYyOC5hIf8">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JTYyOC5hIf8&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23005%EF%BC%89%E4%B8%96%E7%B4%80%E4%B9%8B%E8%8A%B1+%2B+%E9%9B%95%E5%83%8F%E5%A4%A7%E5%B0%8D%E6%B1%BA%EF%BC%81+%E9%A0%86%E5%B8%B6%E8%A3%9C%E5%87%BA%E6%A7%8D%E6%A2%B0%E6%9C%80%E5%BC%BA%E9%85%8D%E7%BD%AE+awa&lang=zh&timestamp=1785054783&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22381">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MgXNIq4T-B4&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23003%EF%BC%89Hardmode+%E6%A8%A1%E5%BC%8F%EF%BC%8C%E5%95%93%E5%8B%95%EF%BC%81+%E9%82%84%E6%9C%89%EF%BC%8C%E5%A4%A7%E5%B8%AB%E6%A8%A1%E5%BC%8F%E6%80%8E%E9%BA%BD%E9%83%BD%E5%9C%A8%E5%A0%86%E5%B0%B8%E9%AB%94%E2%80%A6%E2%80%A6&lang=zh&timestamp=1784456137&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23650">
     <img src="https://ytcards.demolab.com/?id=MgXNIq4T-B4&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23003%EF%BC%89Hardmode+%E6%A8%A1%E5%BC%8F%EF%BC%8C%E5%95%93%E5%8B%95%EF%BC%81+%E9%82%84%E6%9C%89%EF%BC%8C%E5%A4%A7%E5%B8%AB%E6%A8%A1%E5%BC%8F%E6%80%8E%E9%BA%BD%E9%83%BD%E5%9C%A8%E5%A0%86%E5%B0%B8%E9%AB%94%E2%80%A6%E2%80%A6&lang=zh&timestamp=1784456137&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=23650" alt="【Terraria // 泰拉瑞亞 S2】（#003）Hardmode 模式，啓動！ 還有，大師模式怎麽都在堆尸體……" title="【Terraria // 泰拉瑞亞 S2】（#003）Hardmode 模式，啓動！ 還有，大師模式怎麽都在堆尸體……">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=Tt0h0STq1nw">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Tt0h0STq1nw&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A42%E3%80%91%EF%BC%88%23006%EF%BC%89%E7%9C%8B%E6%88%B2%EF%BC%81%E5%82%B3%E7%B5%B1%E9%A6%AC%E6%88%B2%E5%9C%98%E5%92%8C%E7%8F%BE%E4%BB%A3%E8%A1%A8%E6%BC%94%E7%9A%84%E8%A1%9D%E7%AA%81%EF%BC%81&lang=zh&timestamp=1784282008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19834">
-    <img src="https://ytcards.demolab.com/?id=Tt0h0STq1nw&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A42%E3%80%91%EF%BC%88%23006%EF%BC%89%E7%9C%8B%E6%88%B2%EF%BC%81%E5%82%B3%E7%B5%B1%E9%A6%AC%E6%88%B2%E5%9C%98%E5%92%8C%E7%8F%BE%E4%BB%A3%E8%A1%A8%E6%BC%94%E7%9A%84%E8%A1%9D%E7%AA%81%EF%BC%81&lang=zh&timestamp=1784282008&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=19834" alt="【逆轉裁判2】（#006）看戲！傳統馬戲團和現代表演的衝突！" title="【逆轉裁判2】（#006）看戲！傳統馬戲團和現代表演的衝突！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
