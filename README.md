@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=CvRQXPLEonA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CvRQXPLEonA&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23007%EF%BC%89%E5%A4%A9%E9%A0%82%E5%8A%8D%E7%8D%B2%E5%BE%97%EF%BC%81%E7%B5%82%E6%96%BC%E6%8A%8A%E5%A4%A7%E5%B8%AB%E6%A8%A1%E5%BC%8F%E5%85%A8%E9%80%9A%E9%97%9C%E4%BA%86%EF%BC%81&lang=zh&timestamp=1785661594&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14160">
+    <img src="https://ytcards.demolab.com/?id=CvRQXPLEonA&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23007%EF%BC%89%E5%A4%A9%E9%A0%82%E5%8A%8D%E7%8D%B2%E5%BE%97%EF%BC%81%E7%B5%82%E6%96%BC%E6%8A%8A%E5%A4%A7%E5%B8%AB%E6%A8%A1%E5%BC%8F%E5%85%A8%E9%80%9A%E9%97%9C%E4%BA%86%EF%BC%81&lang=zh&timestamp=1785661594&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14160" alt="【Terraria // 泰拉瑞亞 S2】（#007）天頂劍獲得！終於把大師模式全通關了！" title="【Terraria // 泰拉瑞亞 S2】（#007）天頂劍獲得！終於把大師模式全通關了！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=8w_qgoFyQE8">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8w_qgoFyQE8&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23006%EF%BC%89%E6%8C%91%E6%88%B0%E6%9C%88%E7%90%83%E9%A0%98%E4%B8%BB%E6%99%82%E5%88%BB%EF%BC%81%E9%A0%86%E4%BE%BF%E9%80%A3%E7%81%AB%E6%98%9F%E4%BA%BA%E4%B9%9F%E4%B8%80%E8%B5%B7%E6%93%8A%E9%A3%9B+awa&lang=zh&timestamp=1785578374&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26571">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XXHgZEVbRgA&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23004%EF%BC%89%E4%B8%89%E7%8E%8B%E6%94%BB%E7%95%A5%EF%BC%81&lang=zh&timestamp=1784980634&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24857">
     <img src="https://ytcards.demolab.com/?id=XXHgZEVbRgA&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23004%EF%BC%89%E4%B8%89%E7%8E%8B%E6%94%BB%E7%95%A5%EF%BC%81&lang=zh&timestamp=1784980634&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=24857" alt="【Terraria // 泰拉瑞亞 S2】（#004）三王攻略！" title="【Terraria // 泰拉瑞亞 S2】（#004）三王攻略！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=i4n55Wec91s">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=i4n55Wec91s&title=%E3%80%90%E5%9C%B0%E7%8D%84%E5%85%AC%E4%B8%BB%E3%80%91%EF%BC%88%23001%EF%BC%89%E4%BD%86%E4%B8%81%EF%BC%8C%E4%BD%A0%E6%80%8E%E9%BA%BD%E5%8F%88%E5%A4%B1%E6%86%B6%E4%BA%86%E5%91%A2%EF%BC%9F%E7%AD%89%E7%AD%89%EF%BC%8C%E7%88%B2%E4%BB%80%E9%BA%BD%E6%88%91%E6%9C%83%E8%AA%AC%E2%80%9C%E5%8F%88%E2%80%9D%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1784869394&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10700">
-    <img src="https://ytcards.demolab.com/?id=i4n55Wec91s&title=%E3%80%90%E5%9C%B0%E7%8D%84%E5%85%AC%E4%B8%BB%E3%80%91%EF%BC%88%23001%EF%BC%89%E4%BD%86%E4%B8%81%EF%BC%8C%E4%BD%A0%E6%80%8E%E9%BA%BD%E5%8F%88%E5%A4%B1%E6%86%B6%E4%BA%86%E5%91%A2%EF%BC%9F%E7%AD%89%E7%AD%89%EF%BC%8C%E7%88%B2%E4%BB%80%E9%BA%BD%E6%88%91%E6%9C%83%E8%AA%AC%E2%80%9C%E5%8F%88%E2%80%9D%E5%91%A2%EF%BC%9F&lang=zh&timestamp=1784869394&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10700" alt="【地獄公主】（#001）但丁，你怎麽又失憶了呢？等等，爲什麽我會説“又”呢？" title="【地獄公主】（#001）但丁，你怎麽又失憶了呢？等等，爲什麽我會説“又”呢？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
