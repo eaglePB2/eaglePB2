@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=exyFdBhoml0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=exyFdBhoml0&title=%E3%80%90Escape+Simulator%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%80%83%E8%84%AB%E6%A8%A1%E6%93%AC%E5%99%A8%EF%BC%8C%E4%B8%89%E5%80%8B%E8%87%AD%E7%9A%AE%E5%8C%A0%EF%BC%8C%E7%B5%95%E5%B0%8D%E5%8F%AF%E4%BB%A5%E5%8B%9D%E9%81%8E%E4%B8%80%E5%80%8B%E8%AB%B8%E8%91%9B%E4%BA%AE%E5%90%A7%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1785747822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16693">
+    <img src="https://ytcards.demolab.com/?id=exyFdBhoml0&title=%E3%80%90Escape+Simulator%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%80%83%E8%84%AB%E6%A8%A1%E6%93%AC%E5%99%A8%EF%BC%8C%E4%B8%89%E5%80%8B%E8%87%AD%E7%9A%AE%E5%8C%A0%EF%BC%8C%E7%B5%95%E5%B0%8D%E5%8F%AF%E4%BB%A5%E5%8B%9D%E9%81%8E%E4%B8%80%E5%80%8B%E8%AB%B8%E8%91%9B%E4%BA%AE%E5%90%A7%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1785747822&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16693" alt="【Escape Simulator】（#001）逃脫模擬器，三個臭皮匠，絕對可以勝過一個諸葛亮吧……？" title="【Escape Simulator】（#001）逃脫模擬器，三個臭皮匠，絕對可以勝過一個諸葛亮吧……？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=CvRQXPLEonA">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CvRQXPLEonA&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23007%EF%BC%89%E5%A4%A9%E9%A0%82%E5%8A%8D%E7%8D%B2%E5%BE%97%EF%BC%81%E7%B5%82%E6%96%BC%E6%8A%8A%E5%A4%A7%E5%B8%AB%E6%A8%A1%E5%BC%8F%E5%85%A8%E9%80%9A%E9%97%9C%E4%BA%86%EF%BC%81&lang=zh&timestamp=1785661594&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14160">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_u3fRMtz_CY&title=HoloDream+%E9%96%8B%E5%B9%9550%E6%8A%BD%EF%BC%81+%E8%83%BD%E6%8A%BD%E5%87%BA%E5%A4%9A%E5%B0%915%E6%98%9F%E5%A5%BD%E8%A9%95%E8%A7%92%E8%89%B2%EF%BC%9F&lang=zh&timestamp=1785052323&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=99">
     <img src="https://ytcards.demolab.com/?id=_u3fRMtz_CY&title=HoloDream+%E9%96%8B%E5%B9%9550%E6%8A%BD%EF%BC%81+%E8%83%BD%E6%8A%BD%E5%87%BA%E5%A4%9A%E5%B0%915%E6%98%9F%E5%A5%BD%E8%A9%95%E8%A7%92%E8%89%B2%EF%BC%9F&lang=zh&timestamp=1785052323&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=99" alt="HoloDream 開幕50抽！ 能抽出多少5星好評角色？" title="HoloDream 開幕50抽！ 能抽出多少5星好評角色？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=XXHgZEVbRgA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XXHgZEVbRgA&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23004%EF%BC%89%E4%B8%89%E7%8E%8B%E6%94%BB%E7%95%A5%EF%BC%81&lang=zh&timestamp=1784980634&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24857">
-    <img src="https://ytcards.demolab.com/?id=XXHgZEVbRgA&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23004%EF%BC%89%E4%B8%89%E7%8E%8B%E6%94%BB%E7%95%A5%EF%BC%81&lang=zh&timestamp=1784980634&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=24857" alt="【Terraria // 泰拉瑞亞 S2】（#004）三王攻略！" title="【Terraria // 泰拉瑞亞 S2】（#004）三王攻略！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
