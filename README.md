@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=lP3zPfodS2M">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lP3zPfodS2M&title=%E3%80%90Suicide+Guy%3A+The+Lost+Dream%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%A3%B2%E9%85%92%E7%94%B7%E4%BA%BA%E7%9A%84%E8%B7%A8%E4%B8%96%E7%95%8C%E5%A4%A2%E5%A2%83%E6%B5%81&lang=zh&timestamp=1785865454&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8298">
+    <img src="https://ytcards.demolab.com/?id=lP3zPfodS2M&title=%E3%80%90Suicide+Guy%3A+The+Lost+Dream%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%A3%B2%E9%85%92%E7%94%B7%E4%BA%BA%E7%9A%84%E8%B7%A8%E4%B8%96%E7%95%8C%E5%A4%A2%E5%A2%83%E6%B5%81&lang=zh&timestamp=1785865454&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8298" alt="【Suicide Guy: The Lost Dream】（#003）飲酒男人的跨世界夢境流" title="【Suicide Guy: The Lost Dream】（#003）飲酒男人的跨世界夢境流">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=exyFdBhoml0">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=exyFdBhoml0&title=%E3%80%90Escape+Simulator%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%80%83%E8%84%AB%E6%A8%A1%E6%93%AC%E5%99%A8%EF%BC%8C%E4%B8%89%E5%80%8B%E8%87%AD%E7%9A%AE%E5%8C%A0%EF%BC%8C%E7%B5%95%E5%B0%8D%E5%8F%AF%E4%BB%A5%E5%8B%9D%E9%81%8E%E4%B8%80%E5%80%8B%E8%AB%B8%E8%91%9B%E4%BA%AE%E5%90%A7%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1785747822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16693">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JTYyOC5hIf8&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23005%EF%BC%89%E4%B8%96%E7%B4%80%E4%B9%8B%E8%8A%B1+%2B+%E9%9B%95%E5%83%8F%E5%A4%A7%E5%B0%8D%E6%B1%BA%EF%BC%81+%E9%A0%86%E5%B8%B6%E8%A3%9C%E5%87%BA%E6%A7%8D%E6%A2%B0%E6%9C%80%E5%BC%BA%E9%85%8D%E7%BD%AE+awa&lang=zh&timestamp=1785054783&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22381">
     <img src="https://ytcards.demolab.com/?id=JTYyOC5hIf8&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23005%EF%BC%89%E4%B8%96%E7%B4%80%E4%B9%8B%E8%8A%B1+%2B+%E9%9B%95%E5%83%8F%E5%A4%A7%E5%B0%8D%E6%B1%BA%EF%BC%81+%E9%A0%86%E5%B8%B6%E8%A3%9C%E5%87%BA%E6%A7%8D%E6%A2%B0%E6%9C%80%E5%BC%BA%E9%85%8D%E7%BD%AE+awa&lang=zh&timestamp=1785054783&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=22381" alt="【Terraria // 泰拉瑞亞 S2】（#005）世紀之花 + 雕像大對決！ 順帶補出槍械最强配置 awa" title="【Terraria // 泰拉瑞亞 S2】（#005）世紀之花 + 雕像大對決！ 順帶補出槍械最强配置 awa">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/_u3fRMtz_CY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_u3fRMtz_CY&title=HoloDream+%E9%96%8B%E5%B9%9550%E6%8A%BD%EF%BC%81+%E8%83%BD%E6%8A%BD%E5%87%BA%E5%A4%9A%E5%B0%915%E6%98%9F%E5%A5%BD%E8%A9%95%E8%A7%92%E8%89%B2%EF%BC%9F&lang=zh&timestamp=1785052323&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=99">
-    <img src="https://ytcards.demolab.com/?id=_u3fRMtz_CY&title=HoloDream+%E9%96%8B%E5%B9%9550%E6%8A%BD%EF%BC%81+%E8%83%BD%E6%8A%BD%E5%87%BA%E5%A4%9A%E5%B0%915%E6%98%9F%E5%A5%BD%E8%A9%95%E8%A7%92%E8%89%B2%EF%BC%9F&lang=zh&timestamp=1785052323&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=99" alt="HoloDream 開幕50抽！ 能抽出多少5星好評角色？" title="HoloDream 開幕50抽！ 能抽出多少5星好評角色？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
