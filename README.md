@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=2eCS3ojWwC4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2eCS3ojWwC4&title=%E3%80%90FAR%3A+Lone+Sails%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%88%B9%E5%B8%86%E5%90%AF%E8%88%AA%EF%BC%81%E5%89%8D%E5%BE%80%E6%9C%AA%E7%9F%A5%E7%9A%84%E8%BF%9C%E9%80%94%EF%BC%81&lang=zh&timestamp=1786243171&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8410">
+    <img src="https://ytcards.demolab.com/?id=2eCS3ojWwC4&title=%E3%80%90FAR%3A+Lone+Sails%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%88%B9%E5%B8%86%E5%90%AF%E8%88%AA%EF%BC%81%E5%89%8D%E5%BE%80%E6%9C%AA%E7%9F%A5%E7%9A%84%E8%BF%9C%E9%80%94%EF%BC%81&lang=zh&timestamp=1786243171&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8410" alt="【FAR: Lone Sails】（#000）船帆启航！前往未知的远途！" title="【FAR: Lone Sails】（#000）船帆启航！前往未知的远途！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=03GT2SfsoOs">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=03GT2SfsoOs&title=%E3%80%90Escape+Simulator%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%88%91%E7%9B%B8%E4%BF%A1%E4%BB%A5%E6%88%91%E5%80%91%E7%9A%84%E8%81%B0%E6%98%8E%E6%89%8D%E6%99%BA%EF%BC%8C%E6%87%89%E8%A9%B2%E5%8F%AF%E4%BB%A5%E9%80%9F%E9%80%9A%E6%89%80%E6%9C%89%E6%88%BF%E9%96%93%E5%90%A7%E2%80%A6%E2%80%A6+%E5%B0%8D%E5%90%A7%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1786128645&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20541">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8w_qgoFyQE8&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23006%EF%BC%89%E6%8C%91%E6%88%B0%E6%9C%88%E7%90%83%E9%A0%98%E4%B8%BB%E6%99%82%E5%88%BB%EF%BC%81%E9%A0%86%E4%BE%BF%E9%80%A3%E7%81%AB%E6%98%9F%E4%BA%BA%E4%B9%9F%E4%B8%80%E8%B5%B7%E6%93%8A%E9%A3%9B+awa&lang=zh&timestamp=1785578374&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26571">
     <img src="https://ytcards.demolab.com/?id=8w_qgoFyQE8&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23006%EF%BC%89%E6%8C%91%E6%88%B0%E6%9C%88%E7%90%83%E9%A0%98%E4%B8%BB%E6%99%82%E5%88%BB%EF%BC%81%E9%A0%86%E4%BE%BF%E9%80%A3%E7%81%AB%E6%98%9F%E4%BA%BA%E4%B9%9F%E4%B8%80%E8%B5%B7%E6%93%8A%E9%A3%9B+awa&lang=zh&timestamp=1785578374&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=26571" alt="【Terraria // 泰拉瑞亞 S2】（#006）挑戰月球領主時刻！順便連火星人也一起擊飛 awa" title="【Terraria // 泰拉瑞亞 S2】（#006）挑戰月球領主時刻！順便連火星人也一起擊飛 awa">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=7ofmHbJD5oI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7ofmHbJD5oI&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A42%E3%80%91%EF%BC%88%23007%EF%BC%89%E5%86%8D%E8%A6%8B%E5%85%A8%E5%A3%98%E6%89%93%EF%BC%81%E5%A6%82%E6%9E%9C%E4%BD%A0%E8%BE%AF%E8%AD%B7%E7%9A%84%E4%BA%BA%E6%98%AF%E6%9C%89%E7%BD%AA%E7%9A%84%EF%BC%8C%E4%BD%A0%E8%A6%81%E6%80%8E%E9%BA%BD%E8%BE%A6%E5%91%A2%E6%88%90%E6%AD%A5%E5%A0%82+awa&lang=zh&timestamp=1785409997&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=28923">
-    <img src="https://ytcards.demolab.com/?id=7ofmHbJD5oI&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A42%E3%80%91%EF%BC%88%23007%EF%BC%89%E5%86%8D%E8%A6%8B%E5%85%A8%E5%A3%98%E6%89%93%EF%BC%81%E5%A6%82%E6%9E%9C%E4%BD%A0%E8%BE%AF%E8%AD%B7%E7%9A%84%E4%BA%BA%E6%98%AF%E6%9C%89%E7%BD%AA%E7%9A%84%EF%BC%8C%E4%BD%A0%E8%A6%81%E6%80%8E%E9%BA%BD%E8%BE%A6%E5%91%A2%E6%88%90%E6%AD%A5%E5%A0%82+awa&lang=zh&timestamp=1785409997&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=28923" alt="【逆轉裁判2】（#007）再見全壘打！如果你辯護的人是有罪的，你要怎麽辦呢成步堂 awa" title="【逆轉裁判2】（#007）再見全壘打！如果你辯護的人是有罪的，你要怎麽辦呢成步堂 awa">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
