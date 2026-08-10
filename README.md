@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=XCpDXrLzUzU">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XCpDXrLzUzU&title=%E3%80%90MECCHA+CHAMELEON%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%9E%97%E9%96%93%E8%AE%8A%E8%89%B2%E9%BE%8D%E6%B8%B8%E6%88%B2%EF%BC%8C%E9%80%99%E7%9C%9F%E7%9A%84%E6%98%AF%E8%BA%B2%E8%B2%93%E8%B2%93%E5%97%8E%EF%BC%9F&lang=zh&timestamp=1786352146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12799">
+    <img src="https://ytcards.demolab.com/?id=XCpDXrLzUzU&title=%E3%80%90MECCHA+CHAMELEON%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%9E%97%E9%96%93%E8%AE%8A%E8%89%B2%E9%BE%8D%E6%B8%B8%E6%88%B2%EF%BC%8C%E9%80%99%E7%9C%9F%E7%9A%84%E6%98%AF%E8%BA%B2%E8%B2%93%E8%B2%93%E5%97%8E%EF%BC%9F&lang=zh&timestamp=1786352146&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12799" alt="【MECCHA CHAMELEON】（#001）林間變色龍游戲，這真的是躲貓貓嗎？" title="【MECCHA CHAMELEON】（#001）林間變色龍游戲，這真的是躲貓貓嗎？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=2eCS3ojWwC4">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2eCS3ojWwC4&title=%E3%80%90FAR%3A+Lone+Sails%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%88%B9%E5%B8%86%E5%90%AF%E8%88%AA%EF%BC%81%E5%89%8D%E5%BE%80%E6%9C%AA%E7%9F%A5%E7%9A%84%E8%BF%9C%E9%80%94%EF%BC%81&lang=zh&timestamp=1786243171&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8410">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CvRQXPLEonA&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23007%EF%BC%89%E5%A4%A9%E9%A0%82%E5%8A%8D%E7%8D%B2%E5%BE%97%EF%BC%81%E7%B5%82%E6%96%BC%E6%8A%8A%E5%A4%A7%E5%B8%AB%E6%A8%A1%E5%BC%8F%E5%85%A8%E9%80%9A%E9%97%9C%E4%BA%86%EF%BC%81&lang=zh&timestamp=1785661594&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14160">
     <img src="https://ytcards.demolab.com/?id=CvRQXPLEonA&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23007%EF%BC%89%E5%A4%A9%E9%A0%82%E5%8A%8D%E7%8D%B2%E5%BE%97%EF%BC%81%E7%B5%82%E6%96%BC%E6%8A%8A%E5%A4%A7%E5%B8%AB%E6%A8%A1%E5%BC%8F%E5%85%A8%E9%80%9A%E9%97%9C%E4%BA%86%EF%BC%81&lang=zh&timestamp=1785661594&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14160" alt="【Terraria // 泰拉瑞亞 S2】（#007）天頂劍獲得！終於把大師模式全通關了！" title="【Terraria // 泰拉瑞亞 S2】（#007）天頂劍獲得！終於把大師模式全通關了！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=8w_qgoFyQE8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8w_qgoFyQE8&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23006%EF%BC%89%E6%8C%91%E6%88%B0%E6%9C%88%E7%90%83%E9%A0%98%E4%B8%BB%E6%99%82%E5%88%BB%EF%BC%81%E9%A0%86%E4%BE%BF%E9%80%A3%E7%81%AB%E6%98%9F%E4%BA%BA%E4%B9%9F%E4%B8%80%E8%B5%B7%E6%93%8A%E9%A3%9B+awa&lang=zh&timestamp=1785578374&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=26571">
-    <img src="https://ytcards.demolab.com/?id=8w_qgoFyQE8&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23006%EF%BC%89%E6%8C%91%E6%88%B0%E6%9C%88%E7%90%83%E9%A0%98%E4%B8%BB%E6%99%82%E5%88%BB%EF%BC%81%E9%A0%86%E4%BE%BF%E9%80%A3%E7%81%AB%E6%98%9F%E4%BA%BA%E4%B9%9F%E4%B8%80%E8%B5%B7%E6%93%8A%E9%A3%9B+awa&lang=zh&timestamp=1785578374&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=26571" alt="【Terraria // 泰拉瑞亞 S2】（#006）挑戰月球領主時刻！順便連火星人也一起擊飛 awa" title="【Terraria // 泰拉瑞亞 S2】（#006）挑戰月球領主時刻！順便連火星人也一起擊飛 awa">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
