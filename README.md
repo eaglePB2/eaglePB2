@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=Ji-FTz4fg0o">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ji-FTz4fg0o&title=%E3%80%90%E5%8F%8C%E5%BD%B1%E5%A5%87%E5%A2%83%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%A5%9E%E7%A7%98%E5%98%89%E5%AE%BE+%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%BC%80%E5%A7%8B%EF%BC%81&lang=zh&timestamp=1786855917&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=Ji-FTz4fg0o&title=%E3%80%90%E5%8F%8C%E5%BD%B1%E5%A5%87%E5%A2%83%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%A5%9E%E7%A7%98%E5%98%89%E5%AE%BE+%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%BC%80%E5%A7%8B%EF%BC%81&lang=zh&timestamp=1786855917&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【双影奇境】（#001）神秘嘉宾 马拉松开始！" title="【双影奇境】（#001）神秘嘉宾 马拉松开始！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=XCpDXrLzUzU">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XCpDXrLzUzU&title=%E3%80%90MECCHA+CHAMELEON%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%9E%97%E9%96%93%E8%AE%8A%E8%89%B2%E9%BE%8D%E6%B8%B8%E6%88%B2%EF%BC%8C%E9%80%99%E7%9C%9F%E7%9A%84%E6%98%AF%E8%BA%B2%E8%B2%93%E8%B2%93%E5%97%8E%EF%BC%9F&lang=zh&timestamp=1786352146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12799">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=exyFdBhoml0&title=%E3%80%90Escape+Simulator%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%80%83%E8%84%AB%E6%A8%A1%E6%93%AC%E5%99%A8%EF%BC%8C%E4%B8%89%E5%80%8B%E8%87%AD%E7%9A%AE%E5%8C%A0%EF%BC%8C%E7%B5%95%E5%B0%8D%E5%8F%AF%E4%BB%A5%E5%8B%9D%E9%81%8E%E4%B8%80%E5%80%8B%E8%AB%B8%E8%91%9B%E4%BA%AE%E5%90%A7%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1785747822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16693">
     <img src="https://ytcards.demolab.com/?id=exyFdBhoml0&title=%E3%80%90Escape+Simulator%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%80%83%E8%84%AB%E6%A8%A1%E6%93%AC%E5%99%A8%EF%BC%8C%E4%B8%89%E5%80%8B%E8%87%AD%E7%9A%AE%E5%8C%A0%EF%BC%8C%E7%B5%95%E5%B0%8D%E5%8F%AF%E4%BB%A5%E5%8B%9D%E9%81%8E%E4%B8%80%E5%80%8B%E8%AB%B8%E8%91%9B%E4%BA%AE%E5%90%A7%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1785747822&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16693" alt="【Escape Simulator】（#001）逃脫模擬器，三個臭皮匠，絕對可以勝過一個諸葛亮吧……？" title="【Escape Simulator】（#001）逃脫模擬器，三個臭皮匠，絕對可以勝過一個諸葛亮吧……？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=CvRQXPLEonA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CvRQXPLEonA&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23007%EF%BC%89%E5%A4%A9%E9%A0%82%E5%8A%8D%E7%8D%B2%E5%BE%97%EF%BC%81%E7%B5%82%E6%96%BC%E6%8A%8A%E5%A4%A7%E5%B8%AB%E6%A8%A1%E5%BC%8F%E5%85%A8%E9%80%9A%E9%97%9C%E4%BA%86%EF%BC%81&lang=zh&timestamp=1785661594&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14160">
-    <img src="https://ytcards.demolab.com/?id=CvRQXPLEonA&title=%E3%80%90Terraria+%2F%2F+%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9E+S2%E3%80%91%EF%BC%88%23007%EF%BC%89%E5%A4%A9%E9%A0%82%E5%8A%8D%E7%8D%B2%E5%BE%97%EF%BC%81%E7%B5%82%E6%96%BC%E6%8A%8A%E5%A4%A7%E5%B8%AB%E6%A8%A1%E5%BC%8F%E5%85%A8%E9%80%9A%E9%97%9C%E4%BA%86%EF%BC%81&lang=zh&timestamp=1785661594&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14160" alt="【Terraria // 泰拉瑞亞 S2】（#007）天頂劍獲得！終於把大師模式全通關了！" title="【Terraria // 泰拉瑞亞 S2】（#007）天頂劍獲得！終於把大師模式全通關了！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
