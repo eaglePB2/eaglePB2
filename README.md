@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=-_eslzns_n0">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-_eslzns_n0&title=%E3%80%90%E5%8F%8C%E5%BD%B1%E5%A5%87%E5%A2%83%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%A5%9E%E7%A7%98%E5%98%89%E5%AE%BE+%E9%A9%AC%E6%8B%89%E6%9D%BE%E7%BB%93%E6%9D%9F%EF%BC%81&lang=zh&timestamp=1787476836&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=-_eslzns_n0&title=%E3%80%90%E5%8F%8C%E5%BD%B1%E5%A5%87%E5%A2%83%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%A5%9E%E7%A7%98%E5%98%89%E5%AE%BE+%E9%A9%AC%E6%8B%89%E6%9D%BE%E7%BB%93%E6%9D%9F%EF%BC%81&lang=zh&timestamp=1787476836&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【双影奇境】（#002）神秘嘉宾 马拉松结束！" title="【双影奇境】（#002）神秘嘉宾 马拉松结束！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=Ji-FTz4fg0o">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ji-FTz4fg0o&title=%E3%80%90%E5%8F%8C%E5%BD%B1%E5%A5%87%E5%A2%83%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%A5%9E%E7%A7%98%E5%98%89%E5%AE%BE+%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%BC%80%E5%A7%8B%EF%BC%81&lang=zh&timestamp=1786898235&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32748">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lP3zPfodS2M&title=%E3%80%90Suicide+Guy%3A+The+Lost+Dream%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%A3%B2%E9%85%92%E7%94%B7%E4%BA%BA%E7%9A%84%E8%B7%A8%E4%B8%96%E7%95%8C%E5%A4%A2%E5%A2%83%E6%B5%81&lang=zh&timestamp=1785865454&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8298">
     <img src="https://ytcards.demolab.com/?id=lP3zPfodS2M&title=%E3%80%90Suicide+Guy%3A+The+Lost+Dream%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%A3%B2%E9%85%92%E7%94%B7%E4%BA%BA%E7%9A%84%E8%B7%A8%E4%B8%96%E7%95%8C%E5%A4%A2%E5%A2%83%E6%B5%81&lang=zh&timestamp=1785865454&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8298" alt="【Suicide Guy: The Lost Dream】（#003）飲酒男人的跨世界夢境流" title="【Suicide Guy: The Lost Dream】（#003）飲酒男人的跨世界夢境流">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=exyFdBhoml0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=exyFdBhoml0&title=%E3%80%90Escape+Simulator%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%80%83%E8%84%AB%E6%A8%A1%E6%93%AC%E5%99%A8%EF%BC%8C%E4%B8%89%E5%80%8B%E8%87%AD%E7%9A%AE%E5%8C%A0%EF%BC%8C%E7%B5%95%E5%B0%8D%E5%8F%AF%E4%BB%A5%E5%8B%9D%E9%81%8E%E4%B8%80%E5%80%8B%E8%AB%B8%E8%91%9B%E4%BA%AE%E5%90%A7%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1785747822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16693">
-    <img src="https://ytcards.demolab.com/?id=exyFdBhoml0&title=%E3%80%90Escape+Simulator%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%80%83%E8%84%AB%E6%A8%A1%E6%93%AC%E5%99%A8%EF%BC%8C%E4%B8%89%E5%80%8B%E8%87%AD%E7%9A%AE%E5%8C%A0%EF%BC%8C%E7%B5%95%E5%B0%8D%E5%8F%AF%E4%BB%A5%E5%8B%9D%E9%81%8E%E4%B8%80%E5%80%8B%E8%AB%B8%E8%91%9B%E4%BA%AE%E5%90%A7%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1785747822&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16693" alt="【Escape Simulator】（#001）逃脫模擬器，三個臭皮匠，絕對可以勝過一個諸葛亮吧……？" title="【Escape Simulator】（#001）逃脫模擬器，三個臭皮匠，絕對可以勝過一個諸葛亮吧……？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
