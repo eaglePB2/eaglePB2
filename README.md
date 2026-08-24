@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 双影奇境完整版会在Youtube哦~](https://www.twitch.tv/videos/2854095761)
+- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ test](https://www.twitch.tv/videos/2854070582)
+- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 今天可以打完吗？](https://www.twitch.tv/videos/2853927762)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 双影奇境 马拉松 一口气打完这系列！](https://www.twitch.tv/videos/2846813088)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 双影奇境 马拉松 一口气打完这系列！](https://www.twitch.tv/videos/2846543466)
-- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 8月 第二周 三人日麻积分赛](https://www.twitch.tv/videos/2844144358)
-- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 林間變色龍游戲，這真的是躲貓貓嗎？](https://www.twitch.tv/videos/2841435589)
-- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 遥远的船帆啊~ 继续前行的决堤~](https://www.twitch.tv/videos/2840526788)
 <!-- TWITCH:END -->
 
 
