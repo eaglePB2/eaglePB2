@@ -19,9 +19,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 日麻！](https://www.twitch.tv/videos/2856899729)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 双影奇境完整版会在Youtube哦~](https://www.twitch.tv/videos/2854095761)
-- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ test](https://www.twitch.tv/videos/2854070582)
-- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 今天可以打完吗？](https://www.twitch.tv/videos/2853927762)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 双影奇境 马拉松 一口气打完这系列！](https://www.twitch.tv/videos/2846813088)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 双影奇境 马拉松 一口气打完这系列！](https://www.twitch.tv/videos/2846543466)
 <!-- TWITCH:END -->
