@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=0eC4plVtifA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0eC4plVtifA&title=%E3%80%90Escape+Simulator+2%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%87%8D%E5%9B%9E%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%AB%EF%BC%81%E9%80%99%E6%AC%A1%E7%9A%84%E9%9B%A3%E5%BA%A6%E6%80%8E%E9%BA%BD%E7%9B%B4%E6%8E%A5%E9%A3%86%E5%8D%87%E4%BA%86%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1787990013&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18231">
+    <img src="https://ytcards.demolab.com/?id=0eC4plVtifA&title=%E3%80%90Escape+Simulator+2%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%87%8D%E5%9B%9E%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%AB%EF%BC%81%E9%80%99%E6%AC%A1%E7%9A%84%E9%9B%A3%E5%BA%A6%E6%80%8E%E9%BA%BD%E7%9B%B4%E6%8E%A5%E9%A3%86%E5%8D%87%E4%BA%86%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1787990013&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18231" alt="【Escape Simulator 2】（#001）重回密室逃脫！這次的難度怎麽直接飆升了……？" title="【Escape Simulator 2】（#001）重回密室逃脫！這次的難度怎麽直接飆升了……？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=-_eslzns_n0">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-_eslzns_n0&title=%E3%80%90%E5%8F%8C%E5%BD%B1%E5%A5%87%E5%A2%83%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%A5%9E%E7%A7%98%E5%98%89%E5%AE%BE+%E9%A9%AC%E6%8B%89%E6%9D%BE%E7%BB%93%E6%9D%9F%EF%BC%81&lang=zh&timestamp=1787500477&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22464">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=03GT2SfsoOs&title=%E3%80%90Escape+Simulator%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%88%91%E7%9B%B8%E4%BF%A1%E4%BB%A5%E6%88%91%E5%80%91%E7%9A%84%E8%81%B0%E6%98%8E%E6%89%8D%E6%99%BA%EF%BC%8C%E6%87%89%E8%A9%B2%E5%8F%AF%E4%BB%A5%E9%80%9F%E9%80%9A%E6%89%80%E6%9C%89%E6%88%BF%E9%96%93%E5%90%A7%E2%80%A6%E2%80%A6+%E5%B0%8D%E5%90%A7%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1786128645&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20541">
     <img src="https://ytcards.demolab.com/?id=03GT2SfsoOs&title=%E3%80%90Escape+Simulator%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%88%91%E7%9B%B8%E4%BF%A1%E4%BB%A5%E6%88%91%E5%80%91%E7%9A%84%E8%81%B0%E6%98%8E%E6%89%8D%E6%99%BA%EF%BC%8C%E6%87%89%E8%A9%B2%E5%8F%AF%E4%BB%A5%E9%80%9F%E9%80%9A%E6%89%80%E6%9C%89%E6%88%BF%E9%96%93%E5%90%A7%E2%80%A6%E2%80%A6+%E5%B0%8D%E5%90%A7%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1786128645&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20541" alt="【Escape Simulator】（#002）我相信以我們的聰明才智，應該可以速通所有房間吧…… 對吧……？" title="【Escape Simulator】（#002）我相信以我們的聰明才智，應該可以速通所有房間吧…… 對吧……？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=lP3zPfodS2M">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lP3zPfodS2M&title=%E3%80%90Suicide+Guy%3A+The+Lost+Dream%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%A3%B2%E9%85%92%E7%94%B7%E4%BA%BA%E7%9A%84%E8%B7%A8%E4%B8%96%E7%95%8C%E5%A4%A2%E5%A2%83%E6%B5%81&lang=zh&timestamp=1785865454&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8298">
-    <img src="https://ytcards.demolab.com/?id=lP3zPfodS2M&title=%E3%80%90Suicide+Guy%3A+The+Lost+Dream%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%A3%B2%E9%85%92%E7%94%B7%E4%BA%BA%E7%9A%84%E8%B7%A8%E4%B8%96%E7%95%8C%E5%A4%A2%E5%A2%83%E6%B5%81&lang=zh&timestamp=1785865454&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8298" alt="【Suicide Guy: The Lost Dream】（#003）飲酒男人的跨世界夢境流" title="【Suicide Guy: The Lost Dream】（#003）飲酒男人的跨世界夢境流">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
