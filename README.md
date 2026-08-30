@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=lsy46dNop9E">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lsy46dNop9E&title=%E3%80%90Escape+Simulator+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%9C%80%E9%BB%91%E6%9A%97%E6%88%BF%E9%96%93+%E6%94%BB%E7%95%A5%E4%B8%AD&lang=zh&timestamp=1788080931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18230">
+    <img src="https://ytcards.demolab.com/?id=lsy46dNop9E&title=%E3%80%90Escape+Simulator+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%9C%80%E9%BB%91%E6%9A%97%E6%88%BF%E9%96%93+%E6%94%BB%E7%95%A5%E4%B8%AD&lang=zh&timestamp=1788080931&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18230" alt="【Escape Simulator 2】（#002）最黑暗房間 攻略中" title="【Escape Simulator 2】（#002）最黑暗房間 攻略中">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=0eC4plVtifA">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0eC4plVtifA&title=%E3%80%90Escape+Simulator+2%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%87%8D%E5%9B%9E%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%AB%EF%BC%81%E9%80%99%E6%AC%A1%E7%9A%84%E9%9B%A3%E5%BA%A6%E6%80%8E%E9%BA%BD%E7%9B%B4%E6%8E%A5%E9%A3%86%E5%8D%87%E4%BA%86%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1787990013&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18231">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2eCS3ojWwC4&title=%E3%80%90FAR%3A+Lone+Sails%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%88%B9%E5%B8%86%E5%90%AF%E8%88%AA%EF%BC%81%E5%89%8D%E5%BE%80%E6%9C%AA%E7%9F%A5%E7%9A%84%E8%BF%9C%E9%80%94%EF%BC%81&lang=zh&timestamp=1786243171&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8410">
     <img src="https://ytcards.demolab.com/?id=2eCS3ojWwC4&title=%E3%80%90FAR%3A+Lone+Sails%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%88%B9%E5%B8%86%E5%90%AF%E8%88%AA%EF%BC%81%E5%89%8D%E5%BE%80%E6%9C%AA%E7%9F%A5%E7%9A%84%E8%BF%9C%E9%80%94%EF%BC%81&lang=zh&timestamp=1786243171&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8410" alt="【FAR: Lone Sails】（#000）船帆启航！前往未知的远途！" title="【FAR: Lone Sails】（#000）船帆启航！前往未知的远途！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=03GT2SfsoOs">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=03GT2SfsoOs&title=%E3%80%90Escape+Simulator%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%88%91%E7%9B%B8%E4%BF%A1%E4%BB%A5%E6%88%91%E5%80%91%E7%9A%84%E8%81%B0%E6%98%8E%E6%89%8D%E6%99%BA%EF%BC%8C%E6%87%89%E8%A9%B2%E5%8F%AF%E4%BB%A5%E9%80%9F%E9%80%9A%E6%89%80%E6%9C%89%E6%88%BF%E9%96%93%E5%90%A7%E2%80%A6%E2%80%A6+%E5%B0%8D%E5%90%A7%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1786128645&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20541">
-    <img src="https://ytcards.demolab.com/?id=03GT2SfsoOs&title=%E3%80%90Escape+Simulator%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%88%91%E7%9B%B8%E4%BF%A1%E4%BB%A5%E6%88%91%E5%80%91%E7%9A%84%E8%81%B0%E6%98%8E%E6%89%8D%E6%99%BA%EF%BC%8C%E6%87%89%E8%A9%B2%E5%8F%AF%E4%BB%A5%E9%80%9F%E9%80%9A%E6%89%80%E6%9C%89%E6%88%BF%E9%96%93%E5%90%A7%E2%80%A6%E2%80%A6+%E5%B0%8D%E5%90%A7%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1786128645&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20541" alt="【Escape Simulator】（#002）我相信以我們的聰明才智，應該可以速通所有房間吧…… 對吧……？" title="【Escape Simulator】（#002）我相信以我們的聰明才智，應該可以速通所有房間吧…… 對吧……？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
