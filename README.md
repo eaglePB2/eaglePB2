@@ -33,6 +33,18 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=hZZP5fcPCKY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hZZP5fcPCKY&title=%E3%80%90Mandagon%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%88%8A%E5%9C%B0%E9%87%8D%E6%B8%B8%EF%BC%8C%E4%BA%8C%E5%91%A8%E7%9B%AE%E5%8F%AA%E6%98%AF%E7%88%B2%E4%BA%86%E6%8A%8A%E6%9C%80%E5%BE%8C%E6%B2%92%E6%8B%BF%E5%88%B0%E7%9A%84%E6%88%90%E5%B0%B1%E6%8B%BF%E4%B8%8B%E8%80%8C%E5%B7%B2+awa&lang=zh&timestamp=1788159222&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1834">
+    <img src="https://ytcards.demolab.com/?id=hZZP5fcPCKY&title=%E3%80%90Mandagon%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%88%8A%E5%9C%B0%E9%87%8D%E6%B8%B8%EF%BC%8C%E4%BA%8C%E5%91%A8%E7%9B%AE%E5%8F%AA%E6%98%AF%E7%88%B2%E4%BA%86%E6%8A%8A%E6%9C%80%E5%BE%8C%E6%B2%92%E6%8B%BF%E5%88%B0%E7%9A%84%E6%88%90%E5%B0%B1%E6%8B%BF%E4%B8%8B%E8%80%8C%E5%B7%B2+awa&lang=zh&timestamp=1788159222&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1834" alt="【Mandagon】（#000）舊地重游，二周目只是爲了把最後沒拿到的成就拿下而已 awa" title="【Mandagon】（#000）舊地重游，二周目只是爲了把最後沒拿到的成就拿下而已 awa">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=wlr51jtM83k">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wlr51jtM83k&title=%E3%80%90Escape+Simulator+2%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%80%99%E5%80%8B%E7%9B%B4%E6%92%AD%EF%BC%8C%E5%B0%B1%E5%8F%AA%E6%98%AF%E7%88%B2%E4%BA%86%E8%A7%A3%E9%96%8B%E4%B8%80%E5%80%8B%E8%AC%8E%E9%A1%8C%E2%80%A6%E2%80%A6+%E6%9C%80%E9%9B%A3%E7%9A%84%E9%82%A3%E5%80%8B%E8%AC%8E%E9%A1%8C%E2%80%A6%E2%80%A6&lang=zh&timestamp=1788156426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10589">
+    <img src="https://ytcards.demolab.com/?id=wlr51jtM83k&title=%E3%80%90Escape+Simulator+2%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%80%99%E5%80%8B%E7%9B%B4%E6%92%AD%EF%BC%8C%E5%B0%B1%E5%8F%AA%E6%98%AF%E7%88%B2%E4%BA%86%E8%A7%A3%E9%96%8B%E4%B8%80%E5%80%8B%E8%AC%8E%E9%A1%8C%E2%80%A6%E2%80%A6+%E6%9C%80%E9%9B%A3%E7%9A%84%E9%82%A3%E5%80%8B%E8%AC%8E%E9%A1%8C%E2%80%A6%E2%80%A6&lang=zh&timestamp=1788156426&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10589" alt="【Escape Simulator 2】（#003）這個直播，就只是爲了解開一個謎題…… 最難的那個謎題……" title="【Escape Simulator 2】（#003）這個直播，就只是爲了解開一個謎題…… 最難的那個謎題……">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=lsy46dNop9E">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lsy46dNop9E&title=%E3%80%90Escape+Simulator+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%9C%80%E9%BB%91%E6%9A%97%E6%88%BF%E9%96%93+%E6%94%BB%E7%95%A5%E4%B8%AD&lang=zh&timestamp=1788080931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18230">
@@ -55,18 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ji-FTz4fg0o&title=%E3%80%90%E5%8F%8C%E5%BD%B1%E5%A5%87%E5%A2%83%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%A5%9E%E7%A7%98%E5%98%89%E5%AE%BE+%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%BC%80%E5%A7%8B%EF%BC%81&lang=zh&timestamp=1786898235&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32748">
     <img src="https://ytcards.demolab.com/?id=Ji-FTz4fg0o&title=%E3%80%90%E5%8F%8C%E5%BD%B1%E5%A5%87%E5%A2%83%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%A5%9E%E7%A7%98%E5%98%89%E5%AE%BE+%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%BC%80%E5%A7%8B%EF%BC%81&lang=zh&timestamp=1786898235&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=32748" alt="【双影奇境】（#001）神秘嘉宾 马拉松开始！" title="【双影奇境】（#001）神秘嘉宾 马拉松开始！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=XCpDXrLzUzU">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XCpDXrLzUzU&title=%E3%80%90MECCHA+CHAMELEON%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%9E%97%E9%96%93%E8%AE%8A%E8%89%B2%E9%BE%8D%E6%B8%B8%E6%88%B2%EF%BC%8C%E9%80%99%E7%9C%9F%E7%9A%84%E6%98%AF%E8%BA%B2%E8%B2%93%E8%B2%93%E5%97%8E%EF%BC%9F&lang=zh&timestamp=1786352146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12799">
-    <img src="https://ytcards.demolab.com/?id=XCpDXrLzUzU&title=%E3%80%90MECCHA+CHAMELEON%E3%80%91%EF%BC%88%23001%EF%BC%89%E6%9E%97%E9%96%93%E8%AE%8A%E8%89%B2%E9%BE%8D%E6%B8%B8%E6%88%B2%EF%BC%8C%E9%80%99%E7%9C%9F%E7%9A%84%E6%98%AF%E8%BA%B2%E8%B2%93%E8%B2%93%E5%97%8E%EF%BC%9F&lang=zh&timestamp=1786352146&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=12799" alt="【MECCHA CHAMELEON】（#001）林間變色龍游戲，這真的是躲貓貓嗎？" title="【MECCHA CHAMELEON】（#001）林間變色龍游戲，這真的是躲貓貓嗎？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=2eCS3ojWwC4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2eCS3ojWwC4&title=%E3%80%90FAR%3A+Lone+Sails%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%88%B9%E5%B8%86%E5%90%AF%E8%88%AA%EF%BC%81%E5%89%8D%E5%BE%80%E6%9C%AA%E7%9F%A5%E7%9A%84%E8%BF%9C%E9%80%94%EF%BC%81&lang=zh&timestamp=1786243171&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8410">
-    <img src="https://ytcards.demolab.com/?id=2eCS3ojWwC4&title=%E3%80%90FAR%3A+Lone+Sails%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%88%B9%E5%B8%86%E5%90%AF%E8%88%AA%EF%BC%81%E5%89%8D%E5%BE%80%E6%9C%AA%E7%9F%A5%E7%9A%84%E8%BF%9C%E9%80%94%EF%BC%81&lang=zh&timestamp=1786243171&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8410" alt="【FAR: Lone Sails】（#000）船帆启航！前往未知的远途！" title="【FAR: Lone Sails】（#000）船帆启航！前往未知的远途！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
