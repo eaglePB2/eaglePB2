@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 這是啥舊地重游時間嗎](https://www.twitch.tv/videos/2861366730)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 收集硬幣環節！](https://www.twitch.tv/videos/2860602699)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 黑暗謎題 ARG環節？](https://www.twitch.tv/videos/2859628496)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 多一个密室逃脱游戏](https://www.twitch.tv/videos/2858732176)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 日麻！](https://www.twitch.tv/videos/2856899729)
-- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 双影奇境完整版会在Youtube哦~](https://www.twitch.tv/videos/2854095761)
 <!-- TWITCH:END -->
 
 
