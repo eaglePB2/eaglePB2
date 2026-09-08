@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=tuAPDaH_WLw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tuAPDaH_WLw&title=%E3%80%90The+Henry+Stickmin+Collection%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B0%8F%E5%B0%8F%E7%81%AB%E6%9F%B4%E4%BA%BA+%E6%95%85%E5%9C%B0%E9%87%8D%E6%B8%B8%EF%BC%81&lang=zh&timestamp=1788856396&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16100">
+    <img src="https://ytcards.demolab.com/?id=tuAPDaH_WLw&title=%E3%80%90The+Henry+Stickmin+Collection%E3%80%91%EF%BC%88%23000%EF%BC%89%E5%B0%8F%E5%B0%8F%E7%81%AB%E6%9F%B4%E4%BA%BA+%E6%95%85%E5%9C%B0%E9%87%8D%E6%B8%B8%EF%BC%81&lang=zh&timestamp=1788856396&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16100" alt="【The Henry Stickmin Collection】（#000）小小火柴人 故地重游！" title="【The Henry Stickmin Collection】（#000）小小火柴人 故地重游！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=hZZP5fcPCKY">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hZZP5fcPCKY&title=%E8%88%8A%E5%9C%B0%E9%87%8D%E6%B8%B8%EF%BC%8C%E4%BA%8C%E5%91%A8%E7%9B%AE%E5%8F%AA%E6%98%AF%E7%88%B2%E4%BA%86%E6%8A%8A%E6%9C%80%E5%BE%8C%E6%B2%92%E6%8B%BF%E5%88%B0%E7%9A%84%E6%88%90%E5%B0%B1%E6%8B%BF%E4%B8%8B%E8%80%8C%E5%B7%B2+%7C+MANDAGON+%23000&lang=zh&timestamp=1788204775&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1841">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-_eslzns_n0&title=%E3%80%90%E5%8F%8C%E5%BD%B1%E5%A5%87%E5%A2%83%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%A5%9E%E7%A7%98%E5%98%89%E5%AE%BE+%E9%A9%AC%E6%8B%89%E6%9D%BE%E7%BB%93%E6%9D%9F%EF%BC%81&lang=zh&timestamp=1787500477&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22464">
     <img src="https://ytcards.demolab.com/?id=-_eslzns_n0&title=%E3%80%90%E5%8F%8C%E5%BD%B1%E5%A5%87%E5%A2%83%E3%80%91%EF%BC%88%23002%EF%BC%89%E7%A5%9E%E7%A7%98%E5%98%89%E5%AE%BE+%E9%A9%AC%E6%8B%89%E6%9D%BE%E7%BB%93%E6%9D%9F%EF%BC%81&lang=zh&timestamp=1787500477&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=22464" alt="【双影奇境】（#002）神秘嘉宾 马拉松结束！" title="【双影奇境】（#002）神秘嘉宾 马拉松结束！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=Ji-FTz4fg0o">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ji-FTz4fg0o&title=%E3%80%90%E5%8F%8C%E5%BD%B1%E5%A5%87%E5%A2%83%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%A5%9E%E7%A7%98%E5%98%89%E5%AE%BE+%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%BC%80%E5%A7%8B%EF%BC%81&lang=zh&timestamp=1786898235&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32748">
-    <img src="https://ytcards.demolab.com/?id=Ji-FTz4fg0o&title=%E3%80%90%E5%8F%8C%E5%BD%B1%E5%A5%87%E5%A2%83%E3%80%91%EF%BC%88%23001%EF%BC%89%E7%A5%9E%E7%A7%98%E5%98%89%E5%AE%BE+%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%BC%80%E5%A7%8B%EF%BC%81&lang=zh&timestamp=1786898235&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=32748" alt="【双影奇境】（#001）神秘嘉宾 马拉松开始！" title="【双影奇境】（#001）神秘嘉宾 马拉松开始！">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
