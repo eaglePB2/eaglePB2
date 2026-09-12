@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=copYzUn4THE">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=copYzUn4THE&title=%E3%80%90Tobla%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%9F%E9%80%9A%E4%B8%80%E4%B8%8B&lang=zh&timestamp=1789190021&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7024">
+    <img src="https://ytcards.demolab.com/?id=copYzUn4THE&title=%E3%80%90Tobla%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%9F%E9%80%9A%E4%B8%80%E4%B8%8B&lang=zh&timestamp=1789190021&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7024" alt="【Tobla】（#000）速通一下" title="【Tobla】（#000）速通一下">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=EZkP1tuGGqc">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EZkP1tuGGqc&title=%E3%80%90Viewfinder%E3%80%91%EF%BC%88%23000%EF%BC%89%E4%B8%80%E6%97%A5%E4%B8%80%E7%9B%B8%E6%A9%9F%E7%9A%84%E4%B8%96%E7%95%8C+%3A3&lang=zh&timestamp=1788934432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11888">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lsy46dNop9E&title=%E3%80%90Escape+Simulator+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%9C%80%E9%BB%91%E6%9A%97%E6%88%BF%E9%96%93+%E6%94%BB%E7%95%A5%E4%B8%AD&lang=zh&timestamp=1788080931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18230">
     <img src="https://ytcards.demolab.com/?id=lsy46dNop9E&title=%E3%80%90Escape+Simulator+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%9C%80%E9%BB%91%E6%9A%97%E6%88%BF%E9%96%93+%E6%94%BB%E7%95%A5%E4%B8%AD&lang=zh&timestamp=1788080931&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18230" alt="【Escape Simulator 2】（#002）最黑暗房間 攻略中" title="【Escape Simulator 2】（#002）最黑暗房間 攻略中">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=0eC4plVtifA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0eC4plVtifA&title=%E3%80%90Escape+Simulator+2%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%87%8D%E5%9B%9E%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%AB%EF%BC%81%E9%80%99%E6%AC%A1%E7%9A%84%E9%9B%A3%E5%BA%A6%E6%80%8E%E9%BA%BD%E7%9B%B4%E6%8E%A5%E9%A3%86%E5%8D%87%E4%BA%86%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1787990013&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18231">
-    <img src="https://ytcards.demolab.com/?id=0eC4plVtifA&title=%E3%80%90Escape+Simulator+2%E3%80%91%EF%BC%88%23001%EF%BC%89%E9%87%8D%E5%9B%9E%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%AB%EF%BC%81%E9%80%99%E6%AC%A1%E7%9A%84%E9%9B%A3%E5%BA%A6%E6%80%8E%E9%BA%BD%E7%9B%B4%E6%8E%A5%E9%A3%86%E5%8D%87%E4%BA%86%E2%80%A6%E2%80%A6%EF%BC%9F&lang=zh&timestamp=1787990013&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18231" alt="【Escape Simulator 2】（#001）重回密室逃脫！這次的難度怎麽直接飆升了……？" title="【Escape Simulator 2】（#001）重回密室逃脫！這次的難度怎麽直接飆升了……？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
