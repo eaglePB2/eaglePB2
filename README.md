@@ -33,10 +33,16 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=Zx5vc_ivFug">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Zx5vc_ivFug&title=%E3%80%90%E6%BC%81%E5%8A%9B%E5%85%A8%E9%96%8B%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%B7%9F%E7%8E%84%E4%B8%BB%E5%B8%AD%E7%94%A8%E5%B1%85%E5%90%88%E6%B3%95%E4%BE%86%E6%8D%95%E9%AD%9A%EF%BC%9F%E5%95%8A%EF%BC%9F&lang=zh&timestamp=1789301117&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=Zx5vc_ivFug&title=%E3%80%90%E6%BC%81%E5%8A%9B%E5%85%A8%E9%96%8B%E3%80%91%EF%BC%88%23000%EF%BC%89%E8%B7%9F%E7%8E%84%E4%B8%BB%E5%B8%AD%E7%94%A8%E5%B1%85%E5%90%88%E6%B3%95%E4%BE%86%E6%8D%95%E9%AD%9A%EF%BC%9F%E5%95%8A%EF%BC%9F&lang=zh&timestamp=1789301117&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【漁力全開】（#000）跟玄主席用居合法來捕魚？啊？" title="【漁力全開】（#000）跟玄主席用居合法來捕魚？啊？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=copYzUn4THE">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=copYzUn4THE&title=%E3%80%90Tobla%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%9F%E9%80%9A%E4%B8%80%E4%B8%8B&lang=zh&timestamp=1789190021&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7024">
-    <img src="https://ytcards.demolab.com/?id=copYzUn4THE&title=%E3%80%90Tobla%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%9F%E9%80%9A%E4%B8%80%E4%B8%8B&lang=zh&timestamp=1789190021&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7024" alt="【Tobla】（#000）速通一下" title="【Tobla】（#000）速通一下">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=copYzUn4THE&title=%E3%80%90Tobla%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%9F%E9%80%9A%E4%B8%80%E4%B8%8B&lang=zh&timestamp=1789241407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7029">
+    <img src="https://ytcards.demolab.com/?id=copYzUn4THE&title=%E3%80%90Tobla%E3%80%91%EF%BC%88%23000%EF%BC%89%E9%80%9F%E9%80%9A%E4%B8%80%E4%B8%8B&lang=zh&timestamp=1789241407&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7029" alt="【Tobla】（#000）速通一下" title="【Tobla】（#000）速通一下">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=EZkP1tuGGqc">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wlr51jtM83k&title=%E3%80%90Escape+Simulator+2%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%80%99%E5%80%8B%E7%9B%B4%E6%92%AD%EF%BC%8C%E5%B0%B1%E5%8F%AA%E6%98%AF%E7%88%B2%E4%BA%86%E8%A7%A3%E9%96%8B%E4%B8%80%E5%80%8B%E8%AC%8E%E9%A1%8C%E2%80%A6%E2%80%A6+%E6%9C%80%E9%9B%A3%E7%9A%84%E9%82%A3%E5%80%8B%E8%AC%8E%E9%A1%8C%E2%80%A6%E2%80%A6&lang=zh&timestamp=1788156426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10589">
     <img src="https://ytcards.demolab.com/?id=wlr51jtM83k&title=%E3%80%90Escape+Simulator+2%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%80%99%E5%80%8B%E7%9B%B4%E6%92%AD%EF%BC%8C%E5%B0%B1%E5%8F%AA%E6%98%AF%E7%88%B2%E4%BA%86%E8%A7%A3%E9%96%8B%E4%B8%80%E5%80%8B%E8%AC%8E%E9%A1%8C%E2%80%A6%E2%80%A6+%E6%9C%80%E9%9B%A3%E7%9A%84%E9%82%A3%E5%80%8B%E8%AC%8E%E9%A1%8C%E2%80%A6%E2%80%A6&lang=zh&timestamp=1788156426&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10589" alt="【Escape Simulator 2】（#003）這個直播，就只是爲了解開一個謎題…… 最難的那個謎題……" title="【Escape Simulator 2】（#003）這個直播，就只是爲了解開一個謎題…… 最難的那個謎題……">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=lsy46dNop9E">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lsy46dNop9E&title=%E3%80%90Escape+Simulator+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%9C%80%E9%BB%91%E6%9A%97%E6%88%BF%E9%96%93+%E6%94%BB%E7%95%A5%E4%B8%AD&lang=zh&timestamp=1788080931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18230">
-    <img src="https://ytcards.demolab.com/?id=lsy46dNop9E&title=%E3%80%90Escape+Simulator+2%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%9C%80%E9%BB%91%E6%9A%97%E6%88%BF%E9%96%93+%E6%94%BB%E7%95%A5%E4%B8%AD&lang=zh&timestamp=1788080931&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18230" alt="【Escape Simulator 2】（#002）最黑暗房間 攻略中" title="【Escape Simulator 2】（#002）最黑暗房間 攻略中">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
