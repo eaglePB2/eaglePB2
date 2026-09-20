@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=mJ7iAhbWZm4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mJ7iAhbWZm4&title=%E3%80%90%E9%9C%81%E6%9C%88%E5%8D%83%E7%A7%8B%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%85%AB%E6%96%B9%E6%97%85%E4%BA%BA%E7%89%88%E7%9A%84%E5%9C%8B%E9%A2%A8%E5%A4%A7%E5%86%92%E9%9A%AA%EF%BC%81&lang=zh&timestamp=1789897035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18464">
+    <img src="https://ytcards.demolab.com/?id=mJ7iAhbWZm4&title=%E3%80%90%E9%9C%81%E6%9C%88%E5%8D%83%E7%A7%8B%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%85%AB%E6%96%B9%E6%97%85%E4%BA%BA%E7%89%88%E7%9A%84%E5%9C%8B%E9%A2%A8%E5%A4%A7%E5%86%92%E9%9A%AA%EF%BC%81&lang=zh&timestamp=1789897035&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18464" alt="【霁月千秋】（#001）八方旅人版的國風大冒險！" title="【霁月千秋】（#001）八方旅人版的國風大冒險！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=Zx5vc_ivFug">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Zx5vc_ivFug&title=%E7%94%A8%E9%9C%B0%E5%BD%88%E6%A7%8D%E5%92%8C%E7%82%B8%E8%97%A5%E9%87%A3%E9%AD%9A%E5%A4%AA%E6%B7%B7%E4%BA%82%E4%BA%86%EF%BC%81+%7C+%E6%BC%81%E5%8A%9B%E5%85%A8%E9%96%8B&lang=zh&timestamp=1789319658&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17602">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hZZP5fcPCKY&title=%E9%87%8D%E6%BA%AB%E9%9D%9C%E5%BF%83%E7%A6%AA%E6%84%8F%E4%B9%8B%E6%97%85%EF%BC%9A%E9%97%9C%E6%96%BC%E7%8A%A7%E7%89%B2%E8%88%87%E6%94%BE%E4%B8%8B%E7%9A%84%E6%95%91%E8%B4%96+%7C+MANDAGON&lang=zh&timestamp=1788204775&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1841">
     <img src="https://ytcards.demolab.com/?id=hZZP5fcPCKY&title=%E9%87%8D%E6%BA%AB%E9%9D%9C%E5%BF%83%E7%A6%AA%E6%84%8F%E4%B9%8B%E6%97%85%EF%BC%9A%E9%97%9C%E6%96%BC%E7%8A%A7%E7%89%B2%E8%88%87%E6%94%BE%E4%B8%8B%E7%9A%84%E6%95%91%E8%B4%96+%7C+MANDAGON&lang=zh&timestamp=1788204775&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1841" alt="重溫靜心禪意之旅：關於犧牲與放下的救贖 | MANDAGON" title="重溫靜心禪意之旅：關於犧牲與放下的救贖 | MANDAGON">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=wlr51jtM83k">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wlr51jtM83k&title=%E3%80%90Escape+Simulator+2%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%80%99%E5%80%8B%E7%9B%B4%E6%92%AD%EF%BC%8C%E5%B0%B1%E5%8F%AA%E6%98%AF%E7%88%B2%E4%BA%86%E8%A7%A3%E9%96%8B%E4%B8%80%E5%80%8B%E8%AC%8E%E9%A1%8C%E2%80%A6%E2%80%A6+%E6%9C%80%E9%9B%A3%E7%9A%84%E9%82%A3%E5%80%8B%E8%AC%8E%E9%A1%8C%E2%80%A6%E2%80%A6&lang=zh&timestamp=1788156426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=10589">
-    <img src="https://ytcards.demolab.com/?id=wlr51jtM83k&title=%E3%80%90Escape+Simulator+2%E3%80%91%EF%BC%88%23003%EF%BC%89%E9%80%99%E5%80%8B%E7%9B%B4%E6%92%AD%EF%BC%8C%E5%B0%B1%E5%8F%AA%E6%98%AF%E7%88%B2%E4%BA%86%E8%A7%A3%E9%96%8B%E4%B8%80%E5%80%8B%E8%AC%8E%E9%A1%8C%E2%80%A6%E2%80%A6+%E6%9C%80%E9%9B%A3%E7%9A%84%E9%82%A3%E5%80%8B%E8%AC%8E%E9%A1%8C%E2%80%A6%E2%80%A6&lang=zh&timestamp=1788156426&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=10589" alt="【Escape Simulator 2】（#003）這個直播，就只是爲了解開一個謎題…… 最難的那個謎題……" title="【Escape Simulator 2】（#003）這個直播，就只是爲了解開一個謎題…… 最難的那個謎題……">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
