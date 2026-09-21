@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 什麽？我們還有更小的20道迷宮要解？](https://www.twitch.tv/videos/2879173368)
+- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 霁月千秋 第三章 start](https://www.twitch.tv/videos/2879031098)
+- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 霁月千秋 第三章 start](https://www.twitch.tv/videos/2879015663)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 霁月千秋 八方種族的冒險 開始！](https://www.twitch.tv/videos/2878235101)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 霁月千秋 八方種族的冒險 開始！](https://www.twitch.tv/videos/2878142521)
-- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 9月份 林間活動周 2v2 赤羽之戰](https://www.twitch.tv/videos/2875658778)
-- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 什么？你跟我说这里的鱼要用枪来击杀？](https://www.twitch.tv/videos/2872103646)
-- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 先玩點小游戲，等等看要工商啥](https://www.twitch.tv/videos/2871771835)
 <!-- TWITCH:END -->
 
 
