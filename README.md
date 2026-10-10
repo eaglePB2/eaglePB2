@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 卡了怕 全劇情 一口氣通關](https://www.twitch.tv/videos/2896003131)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 10月份三人日麻積分賽](https://www.twitch.tv/videos/2894245509)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 繼續逆轉，之後抽獎！](https://www.twitch.tv/videos/2892498366)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 不留檔直播，因爲他是音游 —— Kalpa PC 劇情版](https://www.twitch.tv/videos/2891668518)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 好了 第三章開始](https://www.twitch.tv/videos/2889711809)
-- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 9月份 林間日麻比賽](https://www.twitch.tv/videos/2888021707)
 <!-- TWITCH:END -->
 
 
