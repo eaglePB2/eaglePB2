@@ -23,7 +23,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 霁月千秋 二周目 別問我爲什麽這地圖要二周目](https://www.twitch.tv/videos/2903010406)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 卡了怕 全劇情 一口氣通關](https://www.twitch.tv/videos/2896003131)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 10月份三人日麻積分賽](https://www.twitch.tv/videos/2894245509)
-- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 繼續逆轉，之後抽獎！](https://www.twitch.tv/videos/2892498366)
 <!-- TWITCH:END -->
 
 
