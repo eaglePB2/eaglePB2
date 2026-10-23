@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/shorts/cSjnTzuHLIs">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cSjnTzuHLIs&title=%E6%AF%8F%E6%97%A5%E7%99%BC%E7%98%8B%EF%BC%881%2F1%EF%BC%89&lang=zh&timestamp=1792718097&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
+    <img src="https://ytcards.demolab.com/?id=cSjnTzuHLIs&title=%E6%AF%8F%E6%97%A5%E7%99%BC%E7%98%8B%EF%BC%881%2F1%EF%BC%89&lang=zh&timestamp=1792718097&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20" alt="每日發瘋（1/1）" title="每日發瘋（1/1）">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=LSa3JxormKA">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LSa3JxormKA&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A43%E3%80%91%EF%BC%88%23008%EF%BC%89%E5%9B%9E%E6%86%B6%E9%80%86%E8%BD%89%EF%BC%81%E9%82%84%E6%9C%89%E4%BD%A0%E6%80%8E%E9%BA%BD%E9%80%99%E9%BA%BD%E5%96%9C%E6%AD%A1%E5%96%9D%E5%92%96%E5%95%A1%E5%95%8A%E6%AD%8C%E5%BE%B7%EF%BC%9F&lang=zh&timestamp=1791310997&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23606">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Zx5vc_ivFug&title=%E7%94%A8%E9%9C%B0%E5%BD%88%E6%A7%8D%E5%92%8C%E7%82%B8%E8%97%A5%E9%87%A3%E9%AD%9A%E5%A4%AA%E6%B7%B7%E4%BA%82%E4%BA%86%EF%BC%81+%7C+%E6%BC%81%E5%8A%9B%E5%85%A8%E9%96%8B&lang=zh&timestamp=1789319658&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17602">
     <img src="https://ytcards.demolab.com/?id=Zx5vc_ivFug&title=%E7%94%A8%E9%9C%B0%E5%BD%88%E6%A7%8D%E5%92%8C%E7%82%B8%E8%97%A5%E9%87%A3%E9%AD%9A%E5%A4%AA%E6%B7%B7%E4%BA%82%E4%BA%86%EF%BC%81+%7C+%E6%BC%81%E5%8A%9B%E5%85%A8%E9%96%8B&lang=zh&timestamp=1789319658&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17602" alt="用霰彈槍和炸藥釣魚太混亂了！ | 漁力全開" title="用霰彈槍和炸藥釣魚太混亂了！ | 漁力全開">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=copYzUn4THE">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=copYzUn4THE&title=%E6%99%BA%E7%A0%B4%E7%A5%9E%E4%B9%8B%E8%A9%A6%E7%85%89%EF%BC%81%E7%B5%82%E6%A5%B5%E7%87%92%E8%85%A6%E7%A9%BA%E9%96%93%E8%A7%A3%E8%AC%8E%E6%8C%91%E6%88%B0+%7C+%E6%89%98%E5%B8%83%E6%8B%89+-+%E7%A5%9E%E8%81%96%E4%B9%8B%E8%B7%AF&lang=zh&timestamp=1789241407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7029">
-    <img src="https://ytcards.demolab.com/?id=copYzUn4THE&title=%E6%99%BA%E7%A0%B4%E7%A5%9E%E4%B9%8B%E8%A9%A6%E7%85%89%EF%BC%81%E7%B5%82%E6%A5%B5%E7%87%92%E8%85%A6%E7%A9%BA%E9%96%93%E8%A7%A3%E8%AC%8E%E6%8C%91%E6%88%B0+%7C+%E6%89%98%E5%B8%83%E6%8B%89+-+%E7%A5%9E%E8%81%96%E4%B9%8B%E8%B7%AF&lang=zh&timestamp=1789241407&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7029" alt="智破神之試煉！終極燒腦空間解謎挑戰 | 托布拉 - 神聖之路" title="智破神之試煉！終極燒腦空間解謎挑戰 | 托布拉 - 神聖之路">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
