@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=z6Nos-__qkw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z6Nos-__qkw&title=%E3%80%90Gamble+with+your+friends%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%9E%97%E9%96%93%E7%AC%AC%E4%B8%80%E5%B1%8A%E6%AD%90%E6%B4%B2%E6%9D%AF%E7%AB%B6%E8%B3%BD+%E9%96%8B%E8%B7%91%EF%BC%81&lang=zh&timestamp=1792846037&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0">
+    <img src="https://ytcards.demolab.com/?id=z6Nos-__qkw&title=%E3%80%90Gamble+with+your+friends%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%9E%97%E9%96%93%E7%AC%AC%E4%B8%80%E5%B1%8A%E6%AD%90%E6%B4%B2%E6%9D%AF%E7%AB%B6%E8%B3%BD+%E9%96%8B%E8%B7%91%EF%BC%81&lang=zh&timestamp=1792846037&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=0" alt="【Gamble with your friends】（#000）林間第一届歐洲杯競賽 開跑！" title="【Gamble with your friends】（#000）林間第一届歐洲杯競賽 開跑！">
+  </picture>
+</a>
 <a href="https://www.youtube.com/shorts/cSjnTzuHLIs">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cSjnTzuHLIs&title=%E6%AF%8F%E6%97%A5%E7%99%BC%E7%98%8B%EF%BC%881%2F1%EF%BC%89&lang=zh&timestamp=1792718097&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mJ7iAhbWZm4&title=%E3%80%90%E9%9C%81%E6%9C%88%E5%8D%83%E7%A7%8B%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%85%AB%E6%96%B9%E6%97%85%E4%BA%BA%E7%89%88%E7%9A%84%E5%9C%8B%E9%A2%A8%E5%A4%A7%E5%86%92%E9%9A%AA%EF%BC%81&lang=zh&timestamp=1789897035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18464">
     <img src="https://ytcards.demolab.com/?id=mJ7iAhbWZm4&title=%E3%80%90%E9%9C%81%E6%9C%88%E5%8D%83%E7%A7%8B%E3%80%91%EF%BC%88%23001%EF%BC%89%E5%85%AB%E6%96%B9%E6%97%85%E4%BA%BA%E7%89%88%E7%9A%84%E5%9C%8B%E9%A2%A8%E5%A4%A7%E5%86%92%E9%9A%AA%EF%BC%81&lang=zh&timestamp=1789897035&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18464" alt="【霁月千秋】（#001）八方旅人版的國風大冒險！" title="【霁月千秋】（#001）八方旅人版的國風大冒險！">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=Zx5vc_ivFug">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Zx5vc_ivFug&title=%E7%94%A8%E9%9C%B0%E5%BD%88%E6%A7%8D%E5%92%8C%E7%82%B8%E8%97%A5%E9%87%A3%E9%AD%9A%E5%A4%AA%E6%B7%B7%E4%BA%82%E4%BA%86%EF%BC%81+%7C+%E6%BC%81%E5%8A%9B%E5%85%A8%E9%96%8B&lang=zh&timestamp=1789319658&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17602">
-    <img src="https://ytcards.demolab.com/?id=Zx5vc_ivFug&title=%E7%94%A8%E9%9C%B0%E5%BD%88%E6%A7%8D%E5%92%8C%E7%82%B8%E8%97%A5%E9%87%A3%E9%AD%9A%E5%A4%AA%E6%B7%B7%E4%BA%82%E4%BA%86%EF%BC%81+%7C+%E6%BC%81%E5%8A%9B%E5%85%A8%E9%96%8B&lang=zh&timestamp=1789319658&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17602" alt="用霰彈槍和炸藥釣魚太混亂了！ | 漁力全開" title="用霰彈槍和炸藥釣魚太混亂了！ | 漁力全開">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
