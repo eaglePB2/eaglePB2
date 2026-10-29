@@ -19,11 +19,11 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 日麻 不想標題](https://www.twitch.tv/videos/2913018651)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 滴答滴答 久违了 双人大冒险](https://www.twitch.tv/videos/2909410789)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 第一届 林間歐洲杯大賽 即將開始](https://www.twitch.tv/videos/2908425154)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 逆轉裁判 3-3 啓動！](https://www.twitch.tv/videos/2907633494)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 10月份 第三階段 三人日麻積分賽](https://www.twitch.tv/videos/2906736134)
-- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 霁月千秋 二周目 從這裏開始，就是失速列車的時段……](https://www.twitch.tv/videos/2903976064)
 <!-- TWITCH:END -->
 
 
