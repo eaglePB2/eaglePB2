@@ -41,8 +41,8 @@ You may come back later, as you wish if this readme.md is updated.   -->
 </a>
 <a href="https://www.youtube.com/watch?v=z6Nos-__qkw">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z6Nos-__qkw&title=%E7%AC%AC%E4%B8%80%E5%B1%86%E6%AD%90%E6%B4%B2%E6%9D%AF%E7%AB%B6%E8%B3%BD%EF%BC%8C%E9%96%8B%E8%B7%91%EF%BC%81+%7C+Gamble+with+your+friends+E01&lang=zh&timestamp=1792867427&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14705">
-    <img src="https://ytcards.demolab.com/?id=z6Nos-__qkw&title=%E7%AC%AC%E4%B8%80%E5%B1%86%E6%AD%90%E6%B4%B2%E6%9D%AF%E7%AB%B6%E8%B3%BD%EF%BC%8C%E9%96%8B%E8%B7%91%EF%BC%81+%7C+Gamble+with+your+friends+E01&lang=zh&timestamp=1792867427&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14705" alt="第一屆歐洲杯競賽，開跑！ | Gamble with your friends E01" title="第一屆歐洲杯競賽，開跑！ | Gamble with your friends E01">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z6Nos-__qkw&title=%E7%AC%AC%E4%B8%80%E5%B1%86%E6%AD%90%E6%B4%B2%E6%9D%AF%E7%AB%B6%E8%B3%BD%EF%BC%8C%E9%96%8B%E8%B7%91%EF%BC%81+%7C+%E3%80%90Gamble+with+your+friends%E3%80%91&lang=zh&timestamp=1792867427&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14705">
+    <img src="https://ytcards.demolab.com/?id=z6Nos-__qkw&title=%E7%AC%AC%E4%B8%80%E5%B1%86%E6%AD%90%E6%B4%B2%E6%9D%AF%E7%AB%B6%E8%B3%BD%EF%BC%8C%E9%96%8B%E8%B7%91%EF%BC%81+%7C+%E3%80%90Gamble+with+your+friends%E3%80%91&lang=zh&timestamp=1792867427&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14705" alt="第一屆歐洲杯競賽，開跑！ | 【Gamble with your friends】" title="第一屆歐洲杯競賽，開跑！ | 【Gamble with your friends】">
   </picture>
 </a>
 <a href="https://www.youtube.com/shorts/cSjnTzuHLIs">
