@@ -33,6 +33,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=v_XPH1fHQCg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v_XPH1fHQCg&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A43%E3%80%91%EF%BC%88%23009%EF%BC%89%E8%A9%B1%E8%AA%AC%E6%88%90%E6%AD%A5%E5%A0%82%E6%80%8E%E9%BA%BD%E6%9C%89%E5%86%92%E7%89%8C%E8%B2%A8%E4%BE%86%E8%91%97%EF%BC%9F%E9%80%99%E7%AB%A0%E4%BC%BC%E4%B9%8E%E5%A5%BD%E5%83%8F%E5%BE%88%E7%B0%A1%E5%96%AE%E4%BE%86%E8%91%97%EF%BC%9F&lang=zh&timestamp=1793949204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17298">
+    <img src="https://ytcards.demolab.com/?id=v_XPH1fHQCg&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A43%E3%80%91%EF%BC%88%23009%EF%BC%89%E8%A9%B1%E8%AA%AC%E6%88%90%E6%AD%A5%E5%A0%82%E6%80%8E%E9%BA%BD%E6%9C%89%E5%86%92%E7%89%8C%E8%B2%A8%E4%BE%86%E8%91%97%EF%BC%9F%E9%80%99%E7%AB%A0%E4%BC%BC%E4%B9%8E%E5%A5%BD%E5%83%8F%E5%BE%88%E7%B0%A1%E5%96%AE%E4%BE%86%E8%91%97%EF%BC%9F&lang=zh&timestamp=1793949204&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=17298" alt="【逆轉裁判3】（#009）話説成步堂怎麽有冒牌貨來著？這章似乎好像很簡單來著？" title="【逆轉裁判3】（#009）話説成步堂怎麽有冒牌貨來著？這章似乎好像很簡單來著？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=AyS_X6axIrE">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AyS_X6axIrE&title=%E3%80%90%E6%BB%B4%E7%AD%94%EF%BC%9A%E5%8F%8C%E4%BA%BA%E5%86%92%E9%99%A9%E3%80%91%EF%BC%88%23000%EF%BC%89%E6%99%82%E9%96%93%E5%B7%AE%E4%B8%8D%E5%A4%9A%E5%92%AF+%EF%BC%88%E7%87%A6%E7%AC%91&lang=zh&timestamp=1792949435&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4346">
@@ -61,12 +67,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mPGt69ldmzQ&title=%E3%80%90%E9%9C%81%E6%9C%88%E5%8D%83%E7%A7%8B%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%80%8E%E9%BA%BD%E7%9B%B4%E6%8E%A5%E5%BF%AB%E8%BD%89%E5%88%B0%E5%A4%A7%E7%B5%90%E5%B1%80%E4%BA%86%EF%BC%9F%E8%9B%A4%EF%BC%9F&lang=zh&timestamp=1790237795&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13939">
     <img src="https://ytcards.demolab.com/?id=mPGt69ldmzQ&title=%E3%80%90%E9%9C%81%E6%9C%88%E5%8D%83%E7%A7%8B%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%80%8E%E9%BA%BD%E7%9B%B4%E6%8E%A5%E5%BF%AB%E8%BD%89%E5%88%B0%E5%A4%A7%E7%B5%90%E5%B1%80%E4%BA%86%EF%BC%9F%E8%9B%A4%EF%BC%9F&lang=zh&timestamp=1790237795&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13939" alt="【霁月千秋】（#002）怎麽直接快轉到大結局了？蛤？" title="【霁月千秋】（#002）怎麽直接快轉到大結局了？蛤？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=IhcfzmwjZoI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IhcfzmwjZoI&title=%E6%8C%91%E6%88%B0%E9%80%A3%E7%92%B020%E5%80%8B%E6%9B%B4%E5%B0%8F%E7%9A%84%E7%87%92%E8%85%A6%E8%BF%B7%E5%AE%AE%EF%BC%81%E6%88%91%E7%9A%84%E5%A4%A7%E8%85%A6%E5%BF%AB%E8%A6%81%E8%A2%AB%E6%A6%A8%E4%B9%BE%E4%BA%86%EF%BC%81+%7C+%E3%80%9020+More%2C+Somehow+Even+Smaller%2C+Mazes.%E3%80%91&lang=zh&timestamp=1790024618&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1541">
-    <img src="https://ytcards.demolab.com/?id=IhcfzmwjZoI&title=%E6%8C%91%E6%88%B0%E9%80%A3%E7%92%B020%E5%80%8B%E6%9B%B4%E5%B0%8F%E7%9A%84%E7%87%92%E8%85%A6%E8%BF%B7%E5%AE%AE%EF%BC%81%E6%88%91%E7%9A%84%E5%A4%A7%E8%85%A6%E5%BF%AB%E8%A6%81%E8%A2%AB%E6%A6%A8%E4%B9%BE%E4%BA%86%EF%BC%81+%7C+%E3%80%9020+More%2C+Somehow+Even+Smaller%2C+Mazes.%E3%80%91&lang=zh&timestamp=1790024618&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1541" alt="挑戰連環20個更小的燒腦迷宮！我的大腦快要被榨乾了！ | 【20 More, Somehow Even Smaller, Mazes.】" title="挑戰連環20個更小的燒腦迷宮！我的大腦快要被榨乾了！ | 【20 More, Somehow Even Smaller, Mazes.】">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
