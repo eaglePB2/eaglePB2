@@ -32,6 +32,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=rBH4r7FImmI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rBH4r7FImmI&title=%E3%80%90We+were+here+too%E3%80%91%EF%BC%88%23000%EF%BC%89We+were+here+%E7%B3%BB%E5%88%97%E7%AC%AC%E4%BA%8C%E4%BD%9C%EF%BC%8C%E8%80%81%E9%B7%B9%E8%88%87%E5%B8%83%E4%B8%81%E8%83%BD%E5%90%A6%E6%8A%97%E4%BD%8F%E6%99%82%E9%96%93%E5%A3%93%E5%8A%9B%E5%90%83%E6%BB%BF%E7%9A%84%E9%97%9C%E5%8D%A1%EF%BC%9F&lang=zh&timestamp=1794240622&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8017">
+    <img src="https://ytcards.demolab.com/?id=rBH4r7FImmI&title=%E3%80%90We+were+here+too%E3%80%91%EF%BC%88%23000%EF%BC%89We+were+here+%E7%B3%BB%E5%88%97%E7%AC%AC%E4%BA%8C%E4%BD%9C%EF%BC%8C%E8%80%81%E9%B7%B9%E8%88%87%E5%B8%83%E4%B8%81%E8%83%BD%E5%90%A6%E6%8A%97%E4%BD%8F%E6%99%82%E9%96%93%E5%A3%93%E5%8A%9B%E5%90%83%E6%BB%BF%E7%9A%84%E9%97%9C%E5%8D%A1%EF%BC%9F&lang=zh&timestamp=1794240622&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8017" alt="【We were here too】（#000）We were here 系列第二作，老鷹與布丁能否抗住時間壓力吃滿的關卡？" title="【We were here too】（#000）We were here 系列第二作，老鷹與布丁能否抗住時間壓力吃滿的關卡？">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=v_XPH1fHQCg">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v_XPH1fHQCg&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A43%E3%80%91%EF%BC%88%23009%EF%BC%89%E8%A9%B1%E8%AA%AC%E6%88%90%E6%AD%A5%E5%A0%82%E6%80%8E%E9%BA%BD%E6%9C%89%E5%86%92%E7%89%8C%E8%B2%A8%E4%BE%86%E8%91%97%EF%BC%9F%E9%80%99%E7%AB%A0%E4%BC%BC%E4%B9%8E%E5%A5%BD%E5%83%8F%E5%BE%88%E7%B0%A1%E5%96%AE%E4%BE%86%E8%91%97%EF%BC%9F&lang=zh&timestamp=1793949204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17298">
@@ -60,12 +66,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LSa3JxormKA&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A43%E3%80%91%EF%BC%88%23008%EF%BC%89%E5%9B%9E%E6%86%B6%E9%80%86%E8%BD%89%EF%BC%81%E9%82%84%E6%9C%89%E4%BD%A0%E6%80%8E%E9%BA%BD%E9%80%99%E9%BA%BD%E5%96%9C%E6%AD%A1%E5%96%9D%E5%92%96%E5%95%A1%E5%95%8A%E6%AD%8C%E5%BE%B7%EF%BC%9F&lang=zh&timestamp=1791310997&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23606">
     <img src="https://ytcards.demolab.com/?id=LSa3JxormKA&title=%E3%80%90%E9%80%86%E8%BD%89%E8%A3%81%E5%88%A43%E3%80%91%EF%BC%88%23008%EF%BC%89%E5%9B%9E%E6%86%B6%E9%80%86%E8%BD%89%EF%BC%81%E9%82%84%E6%9C%89%E4%BD%A0%E6%80%8E%E9%BA%BD%E9%80%99%E9%BA%BD%E5%96%9C%E6%AD%A1%E5%96%9D%E5%92%96%E5%95%A1%E5%95%8A%E6%AD%8C%E5%BE%B7%EF%BC%9F&lang=zh&timestamp=1791310997&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=23606" alt="【逆轉裁判3】（#008）回憶逆轉！還有你怎麽這麽喜歡喝咖啡啊歌德？" title="【逆轉裁判3】（#008）回憶逆轉！還有你怎麽這麽喜歡喝咖啡啊歌德？">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=mPGt69ldmzQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mPGt69ldmzQ&title=%E3%80%90%E9%9C%81%E6%9C%88%E5%8D%83%E7%A7%8B%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%80%8E%E9%BA%BD%E7%9B%B4%E6%8E%A5%E5%BF%AB%E8%BD%89%E5%88%B0%E5%A4%A7%E7%B5%90%E5%B1%80%E4%BA%86%EF%BC%9F%E8%9B%A4%EF%BC%9F&lang=zh&timestamp=1790237795&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13939">
-    <img src="https://ytcards.demolab.com/?id=mPGt69ldmzQ&title=%E3%80%90%E9%9C%81%E6%9C%88%E5%8D%83%E7%A7%8B%E3%80%91%EF%BC%88%23002%EF%BC%89%E6%80%8E%E9%BA%BD%E7%9B%B4%E6%8E%A5%E5%BF%AB%E8%BD%89%E5%88%B0%E5%A4%A7%E7%B5%90%E5%B1%80%E4%BA%86%EF%BC%9F%E8%9B%A4%EF%BC%9F&lang=zh&timestamp=1790237795&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13939" alt="【霁月千秋】（#002）怎麽直接快轉到大結局了？蛤？" title="【霁月千秋】（#002）怎麽直接快轉到大結局了？蛤？">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
