@@ -19,6 +19,7 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ We were Here 系列 第二彈 —— ft. @030pudding](https://www.twitch.tv/videos/2923846509)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 霁月千秋，我们回来了！](https://www.twitch.tv/videos/2921882078)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 今天打的完…… 3-3嗎？](https://www.twitch.tv/videos/2920150739)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 日麻 不想標題](https://www.twitch.tv/videos/2919283628)
