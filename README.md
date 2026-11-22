@@ -31,6 +31,12 @@ You may come back later, as you wish if this readme.md is updated.   -->
 <!-- YOUTUBE:END -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/shorts/u5lMc2n462g">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u5lMc2n462g&title=%E2%80%9D%E9%9D%A0%EF%BC%8C%E6%88%91%E8%AF%B4%E7%9A%84%E6%98%AF%E7%8E%B0%E5%AE%9E%E9%87%8C%E7%9A%84%E9%97%A8%EF%BC%81%E2%80%9C&lang=zh&timestamp=1795357107&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=62">
+    <img src="https://ytcards.demolab.com/?id=u5lMc2n462g&title=%E2%80%9D%E9%9D%A0%EF%BC%8C%E6%88%91%E8%AF%B4%E7%9A%84%E6%98%AF%E7%8E%B0%E5%AE%9E%E9%87%8C%E7%9A%84%E9%97%A8%EF%BC%81%E2%80%9C&lang=zh&timestamp=1795357107&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=62" alt="”靠，我说的是现实里的门！“" title="”靠，我说的是现实里的门！“">
+  </picture>
+</a>
 <a href="https://www.youtube.com/watch?v=dAYEY5W17kc">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dAYEY5W17kc&title=%E3%80%90Two+%26+Two%3A+Agents%E3%80%91%EF%BC%88%23000%EF%BC%89Demo%E7%89%88%E7%9A%84%E9%9B%99%E4%BA%BA%E9%97%9C%E5%8D%A1%EF%BC%8C%E5%8F%88%E6%98%AF%E8%B7%9F%E8%80%81%E6%90%AD%E6%AA%94%E7%9A%84%E5%90%88%E4%BD%9C%E7%92%B0%E7%AF%80+awa&lang=zh&timestamp=1795283273&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2279">
@@ -59,12 +65,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z6Nos-__qkw&title=%E7%AC%AC%E4%B8%80%E5%B1%86%E6%AD%90%E6%B4%B2%E6%9D%AF%E7%AB%B6%E8%B3%BD%EF%BC%8C%E9%96%8B%E8%B7%91%EF%BC%81+%7C+%E3%80%90Gamble+with+your+friends%E3%80%91&lang=zh&timestamp=1792867427&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=14705">
     <img src="https://ytcards.demolab.com/?id=z6Nos-__qkw&title=%E7%AC%AC%E4%B8%80%E5%B1%86%E6%AD%90%E6%B4%B2%E6%9D%AF%E7%AB%B6%E8%B3%BD%EF%BC%8C%E9%96%8B%E8%B7%91%EF%BC%81+%7C+%E3%80%90Gamble+with+your+friends%E3%80%91&lang=zh&timestamp=1792867427&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=14705" alt="第一屆歐洲杯競賽，開跑！ | 【Gamble with your friends】" title="第一屆歐洲杯競賽，開跑！ | 【Gamble with your friends】">
-  </picture>
-</a>
-<a href="https://www.youtube.com/shorts/cSjnTzuHLIs">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cSjnTzuHLIs&title=%E6%AF%8F%E6%97%A5%E7%99%BC%E7%98%8B%EF%BC%881%2F1%EF%BC%89&lang=zh&timestamp=1792718097&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=20">
-    <img src="https://ytcards.demolab.com/?id=cSjnTzuHLIs&title=%E6%AF%8F%E6%97%A5%E7%99%BC%E7%98%8B%EF%BC%881%2F1%EF%BC%89&lang=zh&timestamp=1792718097&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=20" alt="每日發瘋（1/1）" title="每日發瘋（1/1）">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
