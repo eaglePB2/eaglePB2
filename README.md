@@ -22,7 +22,6 @@ You may come back later, as you wish if this readme.md is updated.   -->
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ Demo 特工上綫中 ft. @mingixu_yuki](https://www.twitch.tv/videos/2934877112)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 葬送的一姬 · 林間11月份三人麻將 —— 第三周](https://www.twitch.tv/videos/2932308419)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ We were Here 系列 第二彈 —— ft. @030pudding](https://www.twitch.tv/videos/2923846509)
-- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 霁月千秋，我们回来了！](https://www.twitch.tv/videos/2921882078)
 <!-- TWITCH:END -->
 
 
