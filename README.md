@@ -19,6 +19,7 @@ You may come back later, as you wish if this readme.md is updated.   -->
 
 ## 👾 Latest Twitch Stream Archives
 <!-- TWITCH:START -->
+- [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 最後一次的…… 積分賽](https://www.twitch.tv/videos/2940303661)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ Demo 特工上綫中 ft. @mingixu_yuki](https://www.twitch.tv/videos/2934877112)
 - [☾ 早班晚播 ⋆ @eaglepb2 ⋆☽ 葬送的一姬 · 林間11月份三人麻將 —— 第三周](https://www.twitch.tv/videos/2932308419)
 <!-- TWITCH:END -->
